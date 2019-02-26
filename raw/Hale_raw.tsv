@@ -1,0 +1,1799 @@
+ID	GLOSS	SRCID
+Hale-1973-1	I	1.001
+Hale-1973-2	thou	1.002
+Hale-1973-3	we (incl)	1.003
+Hale-1973-4	this	1.004
+Hale-1973-5	that	1.005
+Hale-1973-6	who	1.006
+Hale-1973-7	what	1.007
+Hale-1973-8	not	1.008
+Hale-1973-9	all	1.009
+Hale-1973-10	many	1.01
+Hale-1973-11	one	1.011
+Hale-1973-12	two	1.012
+Hale-1973-13	big	1.013
+Hale-1973-14	long	1.014
+Hale-1973-15	small	1.015
+Hale-1973-16	woman	1.016
+Hale-1973-17	man	1.017
+Hale-1973-18	person	1.018
+Hale-1973-19	fish	1.019
+Hale-1973-20	bird	1.02
+Hale-1973-21	dog	1.021
+Hale-1973-22	louse	1.022
+Hale-1973-23	tree	1.023
+Hale-1973-24	seed	1.024
+Hale-1973-25	leaf	1.025
+Hale-1973-26	root	1.026
+Hale-1973-27	bark (of tree)	1.027
+Hale-1973-28	skin	1.028
+Hale-1973-29	flesh	1.029
+Hale-1973-30	bone	1.03
+Hale-1973-31	grease	1.032
+Hale-1973-32	egg	1.033
+Hale-1973-33	horn	1.034
+Hale-1973-34	tail	1.035
+Hale-1973-35	feather	1.036
+Hale-1973-36	hair	1.037
+Hale-1973-37	head	1.038
+Hale-1973-38	ear	1.039
+Hale-1973-39	eye	1.04
+Hale-1973-40	nose	1.041
+Hale-1973-41	mouth	1.042
+Hale-1973-42	tooth	1.043
+Hale-1973-43	tongue	1.044
+Hale-1973-44	fingernail	1.045
+Hale-1973-45	foot	1.046
+Hale-1973-46	knee	1.047
+Hale-1973-47	hand	1.048
+Hale-1973-48	belly	1.049
+Hale-1973-49	neck	1.05
+Hale-1973-50	breasts	1.051
+Hale-1973-51	heart	1.052
+Hale-1973-52	liver	1.053
+Hale-1973-53	drink	1.054
+Hale-1973-54	eat	1.055
+Hale-1973-55	bite	1.056
+Hale-1973-56	see	1.057
+Hale-1973-57	hear	1.058
+Hale-1973-58	know	1.059
+Hale-1973-59	sleep	1.06
+Hale-1973-60	die	1.061
+Hale-1973-61	kill	1.062
+Hale-1973-62	swim	1.063
+Hale-1973-63	fly	1.064
+Hale-1973-64	walk	1.065
+Hale-1973-65	come	1.066
+Hale-1973-66	lie	1.067
+Hale-1973-67	sit	1.068
+Hale-1973-68	stand	1.069
+Hale-1973-69	give	1.07
+Hale-1973-70	say	1.071
+Hale-1973-71	sun	1.072
+Hale-1973-72	moon	1.073
+Hale-1973-73	star	1.074
+Hale-1973-74	water	1.075
+Hale-1973-75	rain	1.076
+Hale-1973-76	stone	1.077
+Hale-1973-77	sand	1.078
+Hale-1973-78	earth	1.079
+Hale-1973-79	cloud	1.08
+Hale-1973-80	smoke	1.081
+Hale-1973-81	fire	1.082
+Hale-1973-82	ash	1.083
+Hale-1973-83	burn	1.084
+Hale-1973-84	path	1.085
+Hale-1973-85	mountain	1.086
+Hale-1973-86	red	1.087
+Hale-1973-87	green	1.088
+Hale-1973-88	yellow	1.089
+Hale-1973-89	white	1.09
+Hale-1973-90	black	1.091
+Hale-1973-91	night	1.092
+Hale-1973-92	hot	1.093
+Hale-1973-93	cold	1.094
+Hale-1973-94	full	1.095
+Hale-1973-95	new	1.096
+Hale-1973-96	good	1.097
+Hale-1973-97	round	1.098
+Hale-1973-98	dry	1.099
+Hale-1973-99	name	1.1
+Hale-1973-100	body	02a.01
+Hale-1973-101	skeleton	02a.02
+Hale-1973-102	marrow	02a.03
+Hale-1973-103	joint	02a.04
+Hale-1973-104	nerve	02a.05
+Hale-1973-105	blood vessel	02a.06
+Hale-1973-106	ligament	02a.07
+Hale-1973-107	wrinkle	02a.08
+Hale-1973-108	body hair	02a.09
+Hale-1973-109	pubic hair	02a.10
+Hale-1973-110	eyebrow	02a.11
+Hale-1973-111	eyelash	02a.12
+Hale-1973-112	beard	02a.13
+Hale-1973-113	mustache	02a.14
+Hale-1973-114	skull	02a.15
+Hale-1973-115	brain	02a.16
+Hale-1973-116	temple	02a.17
+Hale-1973-117	forehead	02a.18
+Hale-1973-118	cheek	02a.19
+Hale-1973-119	jaw	02a.20
+Hale-1973-120	face	02a.21
+Hale-1973-121	chin	02a.22
+Hale-1973-122	eyeball	02a.23
+Hale-1973-123	nostril	02a.24
+Hale-1973-124	lip	02a.25
+Hale-1973-125	molar	02a.26
+Hale-1973-126	throat	02a.27
+Hale-1973-127	neck	02a.28
+Hale-1973-128	shoulder	02a.29
+Hale-1973-129	upper back	02a.30
+Hale-1973-130	lower back	02a.31
+Hale-1973-131	spine	02a.32
+Hale-1973-132	chest	02a.33
+Hale-1973-133	rib	02a.34
+Hale-1973-134	nipple	02a.35
+Hale-1973-135	lung	02a.36
+Hale-1973-136	waist	02a.37
+Hale-1973-137	navel	02a.38
+Hale-1973-138	umbilical cord	02a.39
+Hale-1973-139	child	02a.40
+Hale-1973-140	kidney	02a.41
+Hale-1973-141	spleen	02a.42
+Hale-1973-142	intestines	02a.43
+Hale-1973-143	hip	02a.44
+Hale-1973-144	buttock	02a.45
+Hale-1973-145	rectum	02a.46
+Hale-1973-146	arm	02a.47
+Hale-1973-147	shoulder blade	02a.48
+Hale-1973-148	right arm	02a.49
+Hale-1973-149	left arm	02a.50
+Hale-1973-150	armpit	02a.51
+Hale-1973-151	elbow	02a.52
+Hale-1973-152	palm of hand	02a.53
+Hale-1973-153	finger	02a.54
+Hale-1973-154	thumb	02a.55
+Hale-1973-155	leg	02a.56
+Hale-1973-156	thigh	02a.57
+Hale-1973-157	shin	02a.58
+Hale-1973-158	calf	02a.59
+Hale-1973-159	heel	02a.60
+Hale-1973-160	sole	02a.61
+Hale-1973-161	toe	02a.62
+Hale-1973-162	pus	02a.63
+Hale-1973-163	earwax	02a.64
+Hale-1973-164	tears	02a.65
+Hale-1973-165	nasal mucus	02a.66
+Hale-1973-166	saliva	02a.67
+Hale-1973-167	sputum	02a.68
+Hale-1973-168	breath	02a.69
+Hale-1973-169	vomit	02a.70
+Hale-1973-170	bile	02a.71
+Hale-1973-171	feces	02a.72
+Hale-1973-172	urine	02a.73
+Hale-1973-173	sweat	02a.74
+Hale-1973-174	bring	02b1.01
+Hale-1973-175	come	02b1.02
+Hale-1973-176	approach	02b1.03
+Hale-1973-177	pull	02b1.04
+Hale-1973-178	go	02b1.05
+Hale-1973-179	enter	02b1.06
+Hale-1973-180	go out	02b1.07
+Hale-1973-181	cause to go out	02b1.07a
+Hale-1973-182	go around	02b1.08
+Hale-1973-183	cause to go around	02b1.08a
+Hale-1973-184	run away	02b1.09
+Hale-1973-185	take	02b1.10
+Hale-1973-186	push	02b1.11
+Hale-1973-187	send	02b1.12
+Hale-1973-188	ascend	02b1.13
+Hale-1973-189	descend	02b1.14
+Hale-1973-190	accompany	02b1.15
+Hale-1973-191	escort	02b1.16
+Hale-1973-192	follow	02b1.17
+Hale-1973-193	chase	02b1.18
+Hale-1973-194	catch	02b1.19
+Hale-1973-195	hold	02b1.20
+Hale-1973-196	draw back	02b1.21
+Hale-1973-197	cause to draw back	02b1.21a
+Hale-1973-198	reach for	02b1.22
+Hale-1973-199	hold out	02b1.23
+Hale-1973-200	draw back	02b1.24
+Hale-1973-201	limp	02b1.25
+Hale-1973-202	jump up	02b1.26
+Hale-1973-203	jump over	02b1.27
+Hale-1973-204	jump down	02b1.28
+Hale-1973-205	jump across	02b1.29
+Hale-1973-206	crawl	02b1.30
+Hale-1973-207	roll over	02b1.31
+Hale-1973-208	run	02b1.32
+Hale-1973-209	stoop (bend down)	02b1.33
+Hale-1973-210	stamp	02b1.34
+Hale-1973-211	step on	02b1.35
+Hale-1973-212	press down	02b1.36
+Hale-1973-213	strike	02b1.37
+Hale-1973-214	throw away	02b1.38
+Hale-1973-215	stretch (itr)	02b1.39
+Hale-1973-216	tremble	02b1.40
+Hale-1973-217	jerk (because of fright)	02b1.41
+Hale-1973-218	swing	02b1.42
+Hale-1973-219	turn over	02b1.43
+Hale-1973-220	turn back	02b1.44
+Hale-1973-221	climb	02b1.45
+Hale-1973-222	collide	02b1.46
+Hale-1973-223	cross (river)	02b1.47
+Hale-1973-224	swim	02b1.48
+Hale-1973-225	wait	02b1.49
+Hale-1973-226	stop	02b1.50
+Hale-1973-227	feel (by touch)	02b1.51
+Hale-1973-228	touch	02b1.52
+Hale-1973-229	move, stir (itr)	02b1.53
+Hale-1973-230	move to other place	02b1.54
+Hale-1973-231	shift s.th.	02b1.54a
+Hale-1973-232	slip	02b1.55
+Hale-1973-233	fall over	02b1.56
+Hale-1973-234	stumble	02b1.57
+Hale-1973-235	fall down	02b1.58
+Hale-1973-236	get up (itr)	02b1.59
+Hale-1973-237	pick up	02b1.59a
+Hale-1973-238	hurry	02b1.60
+Hale-1973-239	kick	02b1.61
+Hale-1973-240	shake	02b1.62
+Hale-1973-241	shiver	02b1.63
+Hale-1973-242	nod (with head)	02b1.64
+Hale-1973-243	belch	02b2.01
+Hale-1973-244	blink	02b2.02
+Hale-1973-245	blow (with mouth)	02b2.03
+Hale-1973-246	blow nose	02b2.04
+Hale-1973-247	clear throat	02b2.05
+Hale-1973-248	spit	02b2.06
+Hale-1973-249	defecate	02b2.07
+Hale-1973-250	urinate	02b2.08
+Hale-1973-251	yawn	02b2.09
+Hale-1973-252	smell (sense odor)	02b2.10
+Hale-1973-253	be born	02b2.11
+Hale-1973-254	give birth	02b2.11a
+Hale-1973-255	conceive (become pregnant)	02b2.12
+Hale-1973-256	have sexual intercourse	02b2.13
+Hale-1973-257	die	02b2.14
+Hale-1973-258	kill	02b2.14a
+Hale-1973-259	tire	02b2.15
+Hale-1973-260	sleep	02b2.16
+Hale-1973-261	lie down	02b2.17
+Hale-1973-262	snore	02b2.18
+Hale-1973-263	wake up (itr)	02b2.19
+Hale-1973-264	breathe	02b2.20
+Hale-1973-265	pant	02b2.21
+Hale-1973-266	hiccup	02b2.22
+Hale-1973-267	beat (heart)	02b2.23
+Hale-1973-268	bleed	02b2.24
+Hale-1973-269	faint	02b2.25
+Hale-1973-270	cough	02b2.26
+Hale-1973-271	sneeze	02b2.27
+Hale-1973-272	itch	02b2.28
+Hale-1973-273	vomit	02b2.29
+Hale-1973-274	be numb	02b2.30
+Hale-1973-275	prickle	02b2.31
+Hale-1973-276	live	02b2.32
+Hale-1973-277	bathe	02b2.33
+Hale-1973-278	shave	02b2.34
+Hale-1973-279	massage	02b2.35
+Hale-1973-280	rub in (oil)	02b2.36
+Hale-1973-281	comb hair	02b2.37
+Hale-1973-282	cut hair	02b2.38
+Hale-1973-283	make up	02b2.39
+Hale-1973-284	scratch	02b2.40
+Hale-1973-285	gargle	02b2.41
+Hale-1973-286	warm (o.s. by fire)	02b2.42
+Hale-1973-287	get wounded	02b2.43
+Hale-1973-288	wound s.b.	02b2.43a
+Hale-1973-289	hurt	02b2.44
+Hale-1973-290	swell	02b2.45
+Hale-1973-291	endure	02b2.46
+Hale-1973-292	heal (wound)	02b2.47
+Hale-1973-293	get well (recover)	02b2.48
+Hale-1973-294	treat	02b2.49
+Hale-1973-295	twist (a limb)	02b2.50
+Hale-1973-296	sprain (a limb)	02b2.51
+Hale-1973-297	groan	02b2.52
+Hale-1973-298	animal	03a.001
+Hale-1973-299	rooster	03a.002
+Hale-1973-300	hen	03a.003
+Hale-1973-301	chick	03a.004
+Hale-1973-302	comb	03a.005
+Hale-1973-303	duck	03a.006
+Hale-1973-304	pigeon	03a.007
+Hale-1973-305	pheasant	03a.008
+Hale-1973-306	peacock	03a.009
+Hale-1973-307	sparrow	03a.010
+Hale-1973-308	swallow	03a.011
+Hale-1973-309	bill	03a.012
+Hale-1973-310	nest	03a.013
+Hale-1973-311	wing	03a.014
+Hale-1973-312	parrot	03a.015
+Hale-1973-313	crow	03a.016
+Hale-1973-314	blackbird	03a.017
+Hale-1973-315	woodpecker	03a.018
+Hale-1973-316	crane	03a.019
+Hale-1973-317	owl	03a.020
+Hale-1973-318	hawk	03a.021
+Hale-1973-319	eagle	03a.022
+Hale-1973-320	vulture	03a.023
+Hale-1973-321	large bat	03a.024
+Hale-1973-322	small bat	03a.025
+Hale-1973-323	fur	03a.026
+Hale-1973-324	buffalo	03a.027
+Hale-1973-325	buff. bull	03a.028
+Hale-1973-326	buff. cow	03a.029
+Hale-1973-327	buff. calf	03a.030
+Hale-1973-328	cattle	03a.031
+Hale-1973-329	hoof	03a.032
+Hale-1973-330	bull	03a.033
+Hale-1973-331	cow	03a.034
+Hale-1973-332	calf	03a.035
+Hale-1973-333	goat	03a.036
+Hale-1973-334	billy	03a.037
+Hale-1973-335	nanny	03a.038
+Hale-1973-336	kid	03a.039
+Hale-1973-337	sheep	03a.040
+Hale-1973-338	hog	03a.041
+Hale-1973-339	boar	03a.042
+Hale-1973-340	snout	03a.043
+Hale-1973-341	horse	03a.044
+Hale-1973-342	donkey	03a.045
+Hale-1973-343	yak	03a.046
+Hale-1973-344	rhinoceros	03a.047
+Hale-1973-345	cat	03a.048
+Hale-1973-346	whiskers	03a.049
+Hale-1973-347	rat	03a.050
+Hale-1973-348	shrew	03a.051
+Hale-1973-349	squirrel	03a.052
+Hale-1973-350	monkey	03a.053
+Hale-1973-351	elephant	03a.054
+Hale-1973-352	trunk	03a.055
+Hale-1973-353	tusks	03a.056
+Hale-1973-354	deer	03a.057
+Hale-1973-355	antelope	03a.058
+Hale-1973-356	fox	03a.059
+Hale-1973-357	jackal	03a.060
+Hale-1973-358	mongoose	03a.061
+Hale-1973-359	bear	03a.062
+Hale-1973-360	tiger	03a.063
+Hale-1973-361	leopard	03a.064
+Hale-1973-362	lizard	03a.065
+Hale-1973-363	frog	03a.066
+Hale-1973-364	toad	03a.067
+Hale-1973-365	turtle	03a.068
+Hale-1973-366	big snake	03a.069
+Hale-1973-367	small snake	03a.070
+Hale-1973-368	snail	03a.071
+Hale-1973-369	shell	03a.072
+Hale-1973-370	scorpion	03a.073
+Hale-1973-371	sting	03a.074
+Hale-1973-372	centipede	03a.075
+Hale-1973-373	land leech	03a.076
+Hale-1973-374	water leech	03a.077
+Hale-1973-375	grub	03a.078
+Hale-1973-376	caterpillar	03a.079
+Hale-1973-377	earthworm	03a.080
+Hale-1973-378	spider	03a.081
+Hale-1973-379	web	03a.082
+Hale-1973-380	fly	03a.083
+Hale-1973-381	mosquito	03a.084
+Hale-1973-382	ant	03a.085
+Hale-1973-383	flying ant	03a.086
+Hale-1973-384	body louse	03a.087
+Hale-1973-385	louse egg	03a.088
+Hale-1973-386	flea	03a.089
+Hale-1973-387	bed bug	03a.090
+Hale-1973-388	dragonfly	03a.091
+Hale-1973-389	moth	03a.092
+Hale-1973-390	butterfly	03a.093
+Hale-1973-391	firefly	03a.094
+Hale-1973-392	cockroach	03a.095
+Hale-1973-393	grasshopper	03a.096
+Hale-1973-394	wasp	03a.097
+Hale-1973-395	bee	03a.098
+Hale-1973-396	hive	03a.099
+Hale-1973-397	honey	03a.100
+Hale-1973-398	bark	03b.01
+Hale-1973-399	growl	03b.02
+Hale-1973-400	howl	03b.03
+Hale-1973-401	bite	03b.04
+Hale-1973-402	sniff	03b.05
+Hale-1973-403	gnaw	03b.06
+Hale-1973-404	lick	03b.07
+Hale-1973-405	grit (teeth)	03b.08
+Hale-1973-406	fly	03b.09
+Hale-1973-407	alight	03b.10
+Hale-1973-408	perch	03b.11
+Hale-1973-409	peck	03b.12
+Hale-1973-410	chirp	03b.13
+Hale-1973-411	lay egg	03b.14
+Hale-1973-412	cackle	03b.15
+Hale-1973-413	brood	03b.16
+Hale-1973-414	hatch	03b.17
+Hale-1973-415	bite (snake)	03b.18
+Hale-1973-416	hiss	03b.19
+Hale-1973-417	sting (insects)	03b.20
+Hale-1973-418	crow (cock)	03b.21
+Hale-1973-419	hum (insects)	03b.22
+Hale-1973-420	drive away	03b.23
+Hale-1973-421	run after	03b.24
+Hale-1973-422	snatch away	03b.25
+Hale-1973-423	hunt	03b.26
+Hale-1973-424	aim at	03b.27
+Hale-1973-425	shoot	03b.28
+Hale-1973-426	miss	03b.29
+Hale-1973-427	catch (trap)	03b.30
+Hale-1973-428	skin	03b.31
+Hale-1973-429	singe	03b.32
+Hale-1973-430	graze	03b.33
+Hale-1973-431	drive	03b.34
+Hale-1973-432	lead	03b.35
+Hale-1973-433	tether	03b.36
+Hale-1973-434	get loose	03b.37
+Hale-1973-435	go astray	03b.38
+Hale-1973-436	wallow	03b.39
+Hale-1973-437	ruminate	03b.40
+Hale-1973-438	milk a cow	03b.41
+Hale-1973-439	fight (animals)	03b.42
+Hale-1973-440	bellow (bull)	03b.43
+Hale-1973-441	ride	03b.44
+Hale-1973-442	neigh	03b.45
+Hale-1973-443	give birth	03b.46
+Hale-1973-444	castrate goats	03b.47
+Hale-1973-445	castrate bulls	03b.48
+Hale-1973-446	shear sheep	03b.49
+Hale-1973-447	pen up	03b.50
+Hale-1973-448	plant	04a.01
+Hale-1973-449	stalk	04a.02
+Hale-1973-450	shrub	04a.03
+Hale-1973-451	vine	04a.04
+Hale-1973-452	cactus	04a.05
+Hale-1973-453	thorn	04a.06
+Hale-1973-454	wood	04a.07
+Hale-1973-455	sap	04a.08
+Hale-1973-456	branch	04a.09
+Hale-1973-457	twig	04a.10
+Hale-1973-458	stump	04a.11
+Hale-1973-459	sapling	04a.12
+Hale-1973-460	flower	04a.13
+Hale-1973-461	pollen	04a.14
+Hale-1973-462	perfume	04a.15
+Hale-1973-463	fruit	04a.16
+Hale-1973-464	guava	04a.17
+Hale-1973-465	banana	04a.18
+Hale-1973-466	tomato	04a.19
+Hale-1973-467	reed	04a.20
+Hale-1973-468	weed	04a.21
+Hale-1973-469	hay	04a.22
+Hale-1973-470	rice straw	04a.23
+Hale-1973-471	wheat straw	04a.24
+Hale-1973-472	fine chaff	04a.25
+Hale-1973-473	corn	04a.26
+Hale-1973-474	corn ear	04a.27
+Hale-1973-475	corn husk	04a.28
+Hale-1973-476	unhusked rice	04a.29
+Hale-1973-477	paddy ear	04a.30
+Hale-1973-478	coarse chaff	04a.31
+Hale-1973-479	paddy plant	04a.32
+Hale-1973-480	millet	04a.33
+Hale-1973-481	barley	04a.34
+Hale-1973-482	wheat	04a.35
+Hale-1973-483	nettle	04a.36
+Hale-1973-484	vegetable	04a.37
+Hale-1973-485	onion	04a.38
+Hale-1973-486	garlic	04a.39
+Hale-1973-487	ginger	04a.40
+Hale-1973-488	sweet potato	04a.41
+Hale-1973-489	potato	04a.42
+Hale-1973-490	raddish	04a.43
+Hale-1973-491	pumpkin	04a.44
+Hale-1973-492	gourd	04a.45
+Hale-1973-493	mustard	04a.46
+Hale-1973-494	okra	04a.47
+Hale-1973-495	white bean	04a.48
+Hale-1973-496	soya bean	04a.49
+Hale-1973-497	string bean	04a.50
+Hale-1973-498	pea	04a.51
+Hale-1973-499	chilli	04a.52
+Hale-1973-500	cucumber	04a.53
+Hale-1973-501	mushroom	04a.54
+Hale-1973-502	tobacco	04a.55
+Hale-1973-503	betel	04a.56
+Hale-1973-504	moss	04a.57
+Hale-1973-505	grass	04a.58
+Hale-1973-506	bamboo	04a.59
+Hale-1973-507	bamboo shoots	04a.60
+Hale-1973-508	bamboo joint	04a.61
+Hale-1973-509	seed bed	04a.62
+Hale-1973-510	wet field	04a.63
+Hale-1973-511	dry field	04a.64
+Hale-1973-512	bear fruit	04b.01
+Hale-1973-513	bloom	04b.02
+Hale-1973-514	small (flower)	04b.03
+Hale-1973-515	ripen	04b.04
+Hale-1973-516	fall off	04b.05
+Hale-1973-517	spoil	04b.06
+Hale-1973-518	stink	04b.07
+Hale-1973-519	sprout	04b.08
+Hale-1973-520	germinate	04b.09
+Hale-1973-521	prick (thorn)	04b.10
+Hale-1973-522	scratch (thorn)	04b.11
+Hale-1973-523	wither	04b.12
+Hale-1973-524	fall	04b.13
+Hale-1973-525	fell	04b.13a
+Hale-1973-526	prune	04b.14
+Hale-1973-527	plant	04b.15
+Hale-1973-528	uproot	04b.16
+Hale-1973-529	cut bark off	04b.17
+Hale-1973-530	pick	04b.18
+Hale-1973-531	sow	04b.19
+Hale-1973-532	plow	04b.20
+Hale-1973-533	dig	04b.21
+Hale-1973-534	clear field (for first cultivation)	04b.22
+Hale-1973-535	cultivate	04b.23
+Hale-1973-536	irrigate	04b.24
+Hale-1973-537	plough wet field	04b.25
+Hale-1973-538	break clods	04b.26
+Hale-1973-539	weed	04b.27
+Hale-1973-540	break wet clods	04b.28
+Hale-1973-541	hire (farm laborer)	04b.29
+Hale-1973-542	harvest	04b.30
+Hale-1973-543	stack up	04b.31
+Hale-1973-544	ripen (artificially in hot bed)	04b.32
+Hale-1973-545	thresh (rice and wheat)	04b.33
+Hale-1973-546	thresh (millet, etc.)	04b.34
+Hale-1973-547	winnow	04b.35
+Hale-1973-548	sort (separate kinds)	04b.36
+Hale-1973-549	spread	04b.37
+Hale-1973-550	plow (after putting manure)	04b.38
+Hale-1973-551	clean field	04b.39
+Hale-1973-552	thin out	04b.40
+Hale-1973-553	become fruitless	04b.41
+Hale-1973-554	shoot up	04b.42
+Hale-1973-555	world	05a.01
+Hale-1973-556	sky	05a.02
+Hale-1973-557	east	05a.03
+Hale-1973-558	west	05a.04
+Hale-1973-559	north	05a.05
+Hale-1973-560	south	05a.06
+Hale-1973-561	day	05a.07
+Hale-1973-562	dawn	05a.08
+Hale-1973-563	morning	05a.09
+Hale-1973-564	afternoon	05a.10
+Hale-1973-565	twilight	05a.11
+Hale-1973-566	evening	05a.12
+Hale-1973-567	week	05a.13
+Hale-1973-568	month	05a.14
+Hale-1973-569	full moon	05a.15
+Hale-1973-570	half moon	05a.16
+Hale-1973-571	new moon	05a.17
+Hale-1973-572	waning moon	05a.18
+Hale-1973-573	waxing moon	05a.19
+Hale-1973-574	year	05a.20
+Hale-1973-575	dry season	05a.21
+Hale-1973-576	wet season	05a.22
+Hale-1973-577	today	05a.23
+Hale-1973-578	last night	05a.24
+Hale-1973-579	yesterday	05a.25
+Hale-1973-580	day before (yesterday)	05a.26
+Hale-1973-581	tonight	05a.27
+Hale-1973-582	tomorrow	05a.28
+Hale-1973-583	day after (tomorrow)	05a.29
+Hale-1973-584	two days after (tomorrow)	05a.30
+Hale-1973-585	this year	05a.31
+Hale-1973-586	last year	05a.32
+Hale-1973-587	year before last	05a.33
+Hale-1973-588	next year	05a.34
+Hale-1973-589	year after next	05a.35
+Hale-1973-590	dew	05a.36
+Hale-1973-591	storm	05a.37
+Hale-1973-592	hail	05a.38
+Hale-1973-593	frost	05a.39
+Hale-1973-594	fog	05a.40
+Hale-1973-595	haze	05a.41
+Hale-1973-596	ice	05a.42
+Hale-1973-597	snow	05a.43
+Hale-1973-598	thunder	05a.44
+Hale-1973-599	lightning	05a.45
+Hale-1973-600	breeze	05a.46
+Hale-1973-601	wind	05a.47
+Hale-1973-602	whirlwind	05a.48
+Hale-1973-603	earthquake	05a.49
+Hale-1973-604	peak	05a.50
+Hale-1973-605	range	05a.51
+Hale-1973-606	cave	05a.52
+Hale-1973-607	slope	05a.53
+Hale-1973-608	cliff	05a.54
+Hale-1973-609	rock	05a.55
+Hale-1973-610	hill	05a.56
+Hale-1973-611	echo	05a.57
+Hale-1973-612	level ground	05a.58
+Hale-1973-613	valley	05a.59
+Hale-1973-614	saddle	05a.60
+Hale-1973-615	gulley	05a.61
+Hale-1973-616	hole	05a.62
+Hale-1973-617	spring	05a.63
+Hale-1973-618	well	05a.64
+Hale-1973-619	pool	05a.65
+Hale-1973-620	waterfall	05a.66
+Hale-1973-621	lake	05a.67
+Hale-1973-622	pond	05a.68
+Hale-1973-623	stream	05a.69
+Hale-1973-624	river	05a.70
+Hale-1973-625	bank	05a.71
+Hale-1973-626	ford	05a.72
+Hale-1973-627	bridge	05a.73
+Hale-1973-628	whirlpool	05a.74
+Hale-1973-629	rainbow	05a.75
+Hale-1973-630	be late	05b.01
+Hale-1973-631	potter about	05b.02
+Hale-1973-632	delay	05b.03
+Hale-1973-633	be early	05b.04
+Hale-1973-634	last (duration)	05b.05
+Hale-1973-635	pass (time)	05b.06
+Hale-1973-636	rise (sun)	05b.07
+Hale-1973-637	shine (sun)	05b.08
+Hale-1973-638	twinkle (stars)	05b.09
+Hale-1973-639	set (sun)	05b.10
+Hale-1973-640	appear	05b.11
+Hale-1973-641	rain	05b.12
+Hale-1973-642	snow	05b.13
+Hale-1973-643	hail	05b.14
+Hale-1973-644	blow	05b.15
+Hale-1973-645	thunder	05b.16
+Hale-1973-646	flash (lightning)	05b.17
+Hale-1973-647	strike	05b.18
+Hale-1973-648	flow	05b.19
+Hale-1973-649	drip	05b.20
+Hale-1973-650	splash	05b.21
+Hale-1973-651	freeze	05b.22
+Hale-1973-652	flood (big damage)	05b.23
+Hale-1973-653	flood (small damage)	05b.24
+Hale-1973-654	float	05b.25
+Hale-1973-655	sink	05b.26
+Hale-1973-656	drown	05b.27
+Hale-1973-657	slide (earth slide)	05b.28
+Hale-1973-658	echo	05b.29
+Hale-1973-659	road	06a.01
+Hale-1973-660	village	06a.02
+Hale-1973-661	town	06a.03
+Hale-1973-662	place	06a.04
+Hale-1973-663	corner	06a.05
+Hale-1973-664	house	06a.06
+Hale-1973-665	granary	06a.07
+Hale-1973-666	vegetable patch	06a.08
+Hale-1973-667	cow shed	06a.09
+Hale-1973-668	hog house	06a.10
+Hale-1973-669	chicken house	06a.11
+Hale-1973-670	cage	06a.12
+Hale-1973-671	wall	06a.13
+Hale-1973-672	mud	06a.14
+Hale-1973-673	lime	06a.15
+Hale-1973-674	roof	06a.16
+Hale-1973-675	thatch	06a.17
+Hale-1973-676	beam	06a.18
+Hale-1973-677	rafter	06a.19
+Hale-1973-678	cane, rattan	06a.20
+Hale-1973-679	post	06a.21
+Hale-1973-680	bamboo ties (strips for buildi	06a.22
+Hale-1973-681	scaffold	06a.23
+Hale-1973-682	ladder	06a.24
+Hale-1973-683	veranda	06a.25
+Hale-1973-684	doorway	06a.26
+Hale-1973-685	door	06a.27
+Hale-1973-686	lock	06a.28
+Hale-1973-687	window	06a.29
+Hale-1973-688	window shutter	06a.30
+Hale-1973-689	floor	06a.31
+Hale-1973-690	fence	06a.32
+Hale-1973-691	bedstead	06a.33
+Hale-1973-692	sleeping mat	06a.34
+Hale-1973-693	covering	06a.35
+Hale-1973-694	pillow	06a.36
+Hale-1973-695	mat	06a.37
+Hale-1973-696	cradle	06a.38
+Hale-1973-697	bench	06a.39
+Hale-1973-698	loft	06a.40
+Hale-1973-699	cooking place	06a.41
+Hale-1973-700	charcoal	06a.42
+Hale-1973-701	soot	06a.43
+Hale-1973-702	grinder	06a.44
+Hale-1973-703	griddle	06a.45
+Hale-1973-704	mortar	06a.46
+Hale-1973-705	pestle	06a.47
+Hale-1973-706	flame	06a.48
+Hale-1973-707	sparks	06a.49
+Hale-1973-708	steam	06a.50
+Hale-1973-709	broom	06a.51
+Hale-1973-710	sweepings	06a.52
+Hale-1973-711	bellows	06a.53
+Hale-1973-712	fire tongs	06a.54
+Hale-1973-713	kindling	06a.55
+Hale-1973-714	frying pan	06a.56
+Hale-1973-715	pot	06a.57
+Hale-1973-716	cover, lid	06a.58
+Hale-1973-717	ladle	06a.59
+Hale-1973-718	box	06a.60
+Hale-1973-719	can	06a.61
+Hale-1973-720	cup	06a.62
+Hale-1973-721	brass waterjar	06a.63
+Hale-1973-722	clay waterjar	06a.64
+Hale-1973-723	small water jar	06a.65
+Hale-1973-724	bottle	06a.66
+Hale-1973-725	soap	06a.67
+Hale-1973-726	plan	06b1.01
+Hale-1973-727	begin	06b1.02
+Hale-1973-728	be finished	06b1.03
+Hale-1973-729	be made	06b1.04
+Hale-1973-730	erect	06b1.05
+Hale-1973-731	stick	06b1.06
+Hale-1973-732	plaster (mud)	06b1.07
+Hale-1973-733	mud (wash floors and walls with a watery mixture of cowdung and water)	06b1.08
+Hale-1973-734	build roof	06b1.09
+Hale-1973-735	put in	06b1.10
+Hale-1973-736	sweep	06b1.11
+Hale-1973-737	squeak (as a hinge)	06b1.12
+Hale-1973-738	search for	06b1.13
+Hale-1973-739	find	06b1.14
+Hale-1973-740	hide	06b1.15
+Hale-1973-741	drop	06b1.16
+Hale-1973-742	scatter	06b1.17
+Hale-1973-743	gather up	06b1.18
+Hale-1973-744	pile up (heap)	06b1.19
+Hale-1973-745	pile (layers)	06b1.20
+Hale-1973-746	store	06b1.21
+Hale-1973-747	decorate	06b1.22
+Hale-1973-748	work	06b1.23
+Hale-1973-749	rest	06b1.24
+Hale-1973-750	collapse	06b1.25
+Hale-1973-751	pierce	06b1.26
+Hale-1973-752	wear out (of matter)	06b1.27
+Hale-1973-753	decay	06b1.28
+Hale-1973-754	nurse	06b2.01
+Hale-1973-755	suck	06b2.02
+Hale-1973-756	wean	06b2.03
+Hale-1973-757	take care	06b2.04
+Hale-1973-758	grow up	06b2.05
+Hale-1973-759	raise	06b2.06
+Hale-1973-760	change (alter)	06b2.07
+Hale-1973-761	neglect	06b2.08
+Hale-1973-762	abandon	06b2.09
+Hale-1973-763	mimic	06b2.10
+Hale-1973-764	cover	06b2.11
+Hale-1973-765	wrap	06b2.12
+Hale-1973-766	wrap things	06b2.13
+Hale-1973-767	cling to	06b2.14
+Hale-1973-768	scold	06b2.15
+Hale-1973-769	praise	06b2.16
+Hale-1973-770	discipline	06b2.17
+Hale-1973-771	punish	06b2.18
+Hale-1973-772	respect	06b2.19
+Hale-1973-773	encourage	06b2.20
+Hale-1973-774	allow	06b2.21
+Hale-1973-775	crawl	06b2.22
+Hale-1973-776	wrestle	06b2.23
+Hale-1973-777	pinch	06b2.24
+Hale-1973-778	tickle	06b2.25
+Hale-1973-779	slander s.o.	06b2.26
+Hale-1973-780	light (itr)	06b3.01
+Hale-1973-781	burn (itr)	06b3.02
+Hale-1973-782	light (tr)	06b3.03
+Hale-1973-783	flicker (fire)	06b3.04
+Hale-1973-784	go out (fire)	06b3.05
+Hale-1973-785	split (wood)	06b3.06
+Hale-1973-786	flare up	06b3.07
+Hale-1973-787	sit (stay)	06b3.08
+Hale-1973-788	sit cross-legged	06b3.09
+Hale-1973-789	stand	06b3.10
+Hale-1973-790	lie down (turn over)	06b3.11
+Hale-1973-791	lean	06b3.12
+Hale-1973-792	spread out	06b3.13
+Hale-1973-793	get stuck	06b3.14
+Hale-1973-794	wipe off	06b3.15
+Hale-1973-795	look	06b3.16
+Hale-1973-796	open	06b3.17
+Hale-1973-797	shut	06b3.18
+Hale-1973-798	shut in	06b3.19
+Hale-1973-799	shut out	06b3.20
+Hale-1973-800	knock (on door)	06b3.21
+Hale-1973-801	be restless	06b3.22
+Hale-1973-802	bungle (spoil by hurrying)	06b3.23
+Hale-1973-803	chatter, babble	06b3.24
+Hale-1973-804	food	07a.01
+Hale-1973-805	cooked rice	07a.02
+Hale-1973-806	uncooked rice	07a.03
+Hale-1973-807	rice broth	07a.04
+Hale-1973-808	spices	07a.05
+Hale-1973-809	dal, pulse	07a.06
+Hale-1973-810	soup, broth	07a.07
+Hale-1973-811	salt	07a.08
+Hale-1973-812	oil	07a.09
+Hale-1973-813	egg	07a.10
+Hale-1973-814	yolk	07a.11
+Hale-1973-815	white	07a.12
+Hale-1973-816	shell	07a.13
+Hale-1973-817	ghee	07a.14
+Hale-1973-818	meat	07a.15
+Hale-1973-819	milk	07a.16
+Hale-1973-820	tea	07a.17
+Hale-1973-821	beer	07a.18
+Hale-1973-822	liquor	07a.19
+Hale-1973-823	flour	07a.20
+Hale-1973-824	cloth	07a.21
+Hale-1973-825	fiber	07a.22
+Hale-1973-826	cotton	07a.23
+Hale-1973-827	thread	07a.24
+Hale-1973-828	needle	07a.25
+Hale-1973-829	spindle	07a.26
+Hale-1973-830	loom	07a.27
+Hale-1973-831	design	07a.28
+Hale-1973-832	embroidery	07a.29
+Hale-1973-833	shirt	07a.30
+Hale-1973-834	men's lower garment	07a.31
+Hale-1973-835	cumberbund	07a.32
+Hale-1973-836	turban	07a.33
+Hale-1973-837	wrap	07a.34
+Hale-1973-838	blouse	07a.35
+Hale-1973-839	women's lower garment	07a.36
+Hale-1973-840	women's carry all back-cloth	07a.37
+Hale-1973-841	shoes	07a.38
+Hale-1973-842	comb	07a.39
+Hale-1973-843	mirror	07a.40
+Hale-1973-844	ornament	07a.41
+Hale-1973-845	bracelet	07a.42
+Hale-1973-846	anklet	07a.43
+Hale-1973-847	necklace	07a.44
+Hale-1973-848	bead	07a.45
+Hale-1973-849	ring	07a.46
+Hale-1973-850	earring in love	07a.47
+Hale-1973-851	earring in upper ear	07a.48
+Hale-1973-852	nosering in septum	07a.49
+Hale-1973-853	rainshield	07a.50
+Hale-1973-854	clean (grain and vegetables)	07b1.01
+Hale-1973-855	winnow (small quantities)	07b1.02
+Hale-1973-856	grind	07b1.03
+Hale-1973-857	grate	07b1.04
+Hale-1973-858	sift	07b1.05
+Hale-1973-859	become wet	07b1.06
+Hale-1973-860	be mixed	07b1.07
+Hale-1973-861	knead	07b1.08
+Hale-1973-862	flatten dough (with roll)	07b1.09
+Hale-1973-863	flatten dough (with hands)	07b1.10
+Hale-1973-864	grind (press through)	07b1.11
+Hale-1973-865	pound grain	07b1.12
+Hale-1973-866	peel	07b1.13
+Hale-1973-867	peel (strip skin by hand)	07b1.14
+Hale-1973-868	peel (out of shells)	07b1.15
+Hale-1973-869	cut	07b1.16
+Hale-1973-870	cut up in pieces	07b1.17
+Hale-1973-871	skim (take off cream)	07b1.18
+Hale-1973-872	squeeze (juice)	07b1.19
+Hale-1973-873	strain	07b1.20
+Hale-1973-874	brew	07b1.21
+Hale-1973-875	ferment (itr)	07b1.22
+Hale-1973-876	taste (eat sample)	07b1.23
+Hale-1973-877	leak	07b1.24
+Hale-1973-878	get filled	07b1.25
+Hale-1973-879	overflow	07b1.26
+Hale-1973-880	spill	07b1.27
+Hale-1973-881	become empty	07b1.28
+Hale-1973-882	pour	07b1.29
+Hale-1973-883	bubble	07b1.30
+Hale-1973-884	dip into	07b1.31
+Hale-1973-885	dilute	07b1.32
+Hale-1973-886	be dissolved	07b1.33
+Hale-1973-887	cover	07b1.34
+Hale-1973-888	measure	07b1.35
+Hale-1973-889	measure (grains)	07b1.36
+Hale-1973-890	plug a leak	07b1.37
+Hale-1973-891	waste	07b1.38
+Hale-1973-892	economize	07b1.39
+Hale-1973-893	save (keep unused)	07b1.40
+Hale-1973-894	beat foods	07b1.41
+Hale-1973-895	boil (water)	07b2.01
+Hale-1973-896	boil (food)	07b2.02
+Hale-1973-897	cook (tr)	07b2.03
+Hale-1973-898	steam	07b2.04
+Hale-1973-899	fry (most often dry-fry)	07b2.05
+Hale-1973-900	become hot (of oil)	07b2.06
+Hale-1973-901	fry, deep-fry	07b2.07
+Hale-1973-902	burn, scorch	07b2.08
+Hale-1973-903	roast	07b2.09
+Hale-1973-904	heat up roti	07b2.10
+Hale-1973-905	heat	07b2.11
+Hale-1973-906	cool	07b2.12
+Hale-1973-907	become soft (ripe)	07b2.13
+Hale-1973-908	season	07b2.14
+Hale-1973-909	put on (the stove)	07b2.15
+Hale-1973-910	take off (the stove)	07b2.16
+Hale-1973-911	become sour	07b2.17
+Hale-1973-912	season (with spices fried in butter)	07b2.18
+Hale-1973-913	burst, explode	07b2.19
+Hale-1973-914	scrub pots	07b2.20
+Hale-1973-915	rinse	07b2.21
+Hale-1973-916	get away (turn away)	07b2.22
+Hale-1973-917	put away	07b2.23
+Hale-1973-918	arrange	07b2.24
+Hale-1973-919	disarrange	07b2.25
+Hale-1973-920	discard (tr)	07b2.26
+Hale-1973-921	eat	07b2.27
+Hale-1973-922	drink	07b2.28
+Hale-1973-923	serve, offer	07b2.29
+Hale-1973-924	distribute	07b2.30
+Hale-1973-925	serve out rice	07b2.31
+Hale-1973-926	scoop out	07b2.32
+Hale-1973-927	urge	07b2.33
+Hale-1973-928	accept	07b2.34
+Hale-1973-929	refuse	07b2.35
+Hale-1973-930	abstain	07b2.36
+Hale-1973-931	chew	07b2.37
+Hale-1973-932	swallow	07b2.38
+Hale-1973-933	choke	07b2.39
+Hale-1973-934	scrape	07b2.40
+Hale-1973-935	had enough	07b2.41
+Hale-1973-936	wash	07b2.42
+Hale-1973-937	choke with liquids	07b2.43
+Hale-1973-938	comb wool	07b3.01
+Hale-1973-939	spin thread	07b3.02
+Hale-1973-940	twist	07b3.03
+Hale-1973-941	wind up	07b3.04
+Hale-1973-942	weave, knit	07b3.05
+Hale-1973-943	dye	07b3.06
+Hale-1973-944	print	07b3.07
+Hale-1973-945	sew	07b3.08
+Hale-1973-946	thread a needle	07b3.09
+Hale-1973-947	chose	07b3.10
+Hale-1973-948	match (itr)	07b3.11
+Hale-1973-949	string beads	07b3.12
+Hale-1973-950	measure cloth	07b3.13
+Hale-1973-951	wash	07b3.14
+Hale-1973-952	soak	07b3.15
+Hale-1973-953	wring	07b3.16
+Hale-1973-954	bleach	07b3.17
+Hale-1973-955	shrink (itr)	07b3.18
+Hale-1973-956	fade	07b3.19
+Hale-1973-957	dry (itr)	07b3.20
+Hale-1973-958	hang on hook	07b3.21
+Hale-1973-959	take down	07b3.22
+Hale-1973-960	fold	07b3.23
+Hale-1973-961	fold over	07b3.24
+Hale-1973-962	keep	07b3.25
+Hale-1973-963	put away	07b3.26
+Hale-1973-964	take out	07b3.27
+Hale-1973-965	become torn	07b3.28
+Hale-1973-966	mend	07b3.29
+Hale-1973-967	patch	07b3.30
+Hale-1973-968	become worn out	07b3.31
+Hale-1973-969	last (stay in good condition)	07b3.32
+Hale-1973-970	dress	07b3.33
+Hale-1973-971	undress	07b3.34
+Hale-1973-972	change clothes	07b3.35
+Hale-1973-973	dress up	07b3.36
+Hale-1973-974	wrap around head	07b3.37
+Hale-1973-975	tighten	07b3.38
+Hale-1973-976	loose	07b3.39
+Hale-1973-977	tie up laces	07b3.40
+Hale-1973-978	untie	07b3.41
+Hale-1973-979	tool	08a.01
+Hale-1973-980	stick	08a.02
+Hale-1973-981	sling	08a.03
+Hale-1973-982	carrying pole	08a.04
+Hale-1973-983	set of baskets	08a.05
+Hale-1973-984	set of sacks	08a.06
+Hale-1973-985	carrying nets	08a.07
+Hale-1973-986	back-basket	08a.08
+Hale-1973-987	tumpline	08a.09
+Hale-1973-988	porter	08a.10
+Hale-1973-989	a load	08a.11
+Hale-1973-990	shoulder bag	08a.12
+Hale-1973-991	bag	08a.13
+Hale-1973-992	whip	08a.14
+Hale-1973-993	bow	08a.15
+Hale-1973-994	arrow	08a.16
+Hale-1973-995	arrow point	08a.17
+Hale-1973-996	spear	08a.18
+Hale-1973-997	axe	08a.19
+Hale-1973-998	knife (pocket)	08a.20
+Hale-1973-999	knife	08a.21
+Hale-1973-1000	kodali (common digging tool in Nepal, hand-plough)	08a.22
+Hale-1973-1001	sheath	08a.23
+Hale-1973-1002	sword	08a.24
+Hale-1973-1003	fish hook	08a.25
+Hale-1973-1004	fish poison	08a.26
+Hale-1973-1005	net	08a.27
+Hale-1973-1006	boat	08a.28
+Hale-1973-1007	animal trap	08a.29
+Hale-1973-1008	bird trap	08a.30
+Hale-1973-1009	fish trap	08a.31
+Hale-1973-1010	rope	08a.32
+Hale-1973-1011	knot	08a.33
+Hale-1973-1012	string	08a.34
+Hale-1973-1013	chain	08a.35
+Hale-1973-1014	ball	08a.36
+Hale-1973-1015	toy	08a.37
+Hale-1973-1016	bell	08a.38
+Hale-1973-1017	cymbal	08a.39
+Hale-1973-1018	gong	08a.40
+Hale-1973-1019	drum, lama's	08a.41
+Hale-1973-1020	drum, long	08a.42
+Hale-1973-1021	drum, round	08a.43
+Hale-1973-1022	flute, short	08a.44
+Hale-1973-1023	flute, long	08a.45
+Hale-1973-1024	bowed instrument	08a.46
+Hale-1973-1025	plough	08a.47
+Hale-1973-1026	yoke	08a.48
+Hale-1973-1027	sickle	08a.49
+Hale-1973-1028	winnowing tray	08a.50
+Hale-1973-1029	gold	08a.51
+Hale-1973-1030	silver	08a.52
+Hale-1973-1031	copper	08a.53
+Hale-1973-1032	iron	08a.54
+Hale-1973-1033	brass	08a.55
+Hale-1973-1034	use	08b.01
+Hale-1973-1035	pull out (a knife from its sheath)	08b.02
+Hale-1973-1036	thrust	08b.03
+Hale-1973-1037	whet (by hand with a whet stone)	08b.04
+Hale-1973-1038	sharpen a point	08b.05
+Hale-1973-1039	carve figure	08b.06
+Hale-1973-1040	bore a hole	08b.07
+Hale-1973-1041	hammer	08b.08
+Hale-1973-1042	saw	08b.09
+Hale-1973-1043	plane	08b.10
+Hale-1973-1044	break rope (itr)	08b.11
+Hale-1973-1045	break (tr)	08b.11a
+Hale-1973-1046	become tangled	08b.12
+Hale-1973-1047	hang rope	08b.13
+Hale-1973-1048	twist, braid	08b.14
+Hale-1973-1049	be bent	08b.15
+Hale-1973-1050	melt	08b.16
+Hale-1973-1051	melt (tr)	08b.16a
+Hale-1973-1052	shine	08b.17
+Hale-1973-1053	polish	08b.17a
+Hale-1973-1054	rub	08b.18
+Hale-1973-1055	join	08b.19
+Hale-1973-1056	break (pots)	08b.20
+Hale-1973-1057	break (tr)	08b.20a
+Hale-1973-1058	break (as sticks, itr)	08b.21
+Hale-1973-1059	three	9.01
+Hale-1973-1060	four	9.02
+Hale-1973-1061	five	9.03
+Hale-1973-1062	six	9.04
+Hale-1973-1063	seven	9.05
+Hale-1973-1064	eight	9.06
+Hale-1973-1065	nine	9.07
+Hale-1973-1066	ten	9.08
+Hale-1973-1067	thirteen	9.09
+Hale-1973-1068	nineteen	9.1
+Hale-1973-1069	twenty	9.11
+Hale-1973-1070	twenty-two	9.12
+Hale-1973-1071	twenty-nine	9.13
+Hale-1973-1072	thirty-one	9.14
+Hale-1973-1073	thirty-nine	9.15
+Hale-1973-1074	forty	9.16
+Hale-1973-1075	fifty	9.17
+Hale-1973-1076	sixty	9.18
+Hale-1973-1077	seventy	9.19
+Hale-1973-1078	eighty	9.2
+Hale-1973-1079	ninety	9.21
+Hale-1973-1080	ninety-eight	9.22
+Hale-1973-1081	ninety-nine	9.23
+Hale-1973-1082	hundred	9.24
+Hale-1973-1083	hundred and two	9.25
+Hale-1973-1084	hundred and thirty	9.26
+Hale-1973-1085	hundred and ninety	9.27
+Hale-1973-1086	two hundred	9.28
+Hale-1973-1087	one thousand	9.29
+Hale-1973-1088	first	9.3
+Hale-1973-1089	second	9.31
+Hale-1973-1090	third	9.32
+Hale-1973-1091	eighth	9.33
+Hale-1973-1092	last	9.34
+Hale-1973-1093	half	9.35
+Hale-1973-1094	half way	9.36
+Hale-1973-1095	one-third	9.37
+Hale-1973-1096	one quarter	9.38
+Hale-1973-1097	two thirds	9.39
+Hale-1973-1098	three quarters	9.4
+Hale-1973-1099	a pair	9.41
+Hale-1973-1100	none	9.42
+Hale-1973-1101	neither	9.43
+Hale-1973-1102	both	9.44
+Hale-1973-1103	every	9.45
+Hale-1973-1104	total	9.46
+Hale-1973-1105	together	9.47
+Hale-1973-1106	something	9.48
+Hale-1973-1107	nothing	9.49
+Hale-1973-1108	someone	9.5
+Hale-1973-1109	no one	9.51
+Hale-1973-1110	another	9.52
+Hale-1973-1111	some	9.54
+Hale-1973-1112	too much	9.55
+Hale-1973-1113	love	10a.01
+Hale-1973-1114	hate	10a.02
+Hale-1973-1115	envy	10a.03
+Hale-1973-1116	pride	10a.04
+Hale-1973-1117	generosity	10a.05
+Hale-1973-1118	selfishness	10a.06
+Hale-1973-1119	greed	10a.07
+Hale-1973-1120	kindness	10a.08
+Hale-1973-1121	cruelty	10a.09
+Hale-1973-1122	happiness	10a.10
+Hale-1973-1123	sorrow	10a.11
+Hale-1973-1124	life	10a.12
+Hale-1973-1125	long life	10a.13
+Hale-1973-1126	dwarf	10a.14
+Hale-1973-1127	left-handed person	10a.15
+Hale-1973-1128	stammerer	10a.16
+Hale-1973-1129	cripple	10a.17
+Hale-1973-1130	health	10a.18
+Hale-1973-1131	injury	10a.19
+Hale-1973-1132	wound	10a.20
+Hale-1973-1133	infection	10a.21
+Hale-1973-1134	pain	10a.22
+Hale-1973-1135	weeping	10a.23
+Hale-1973-1136	weakness	10a.24
+Hale-1973-1137	fever	10a.25
+Hale-1973-1138	cough	10a.26
+Hale-1973-1139	sneeze	10a.27
+Hale-1973-1140	hiccup	10a.28
+Hale-1973-1141	disease	10a.29
+Hale-1973-1142	leprosy	10a.30
+Hale-1973-1143	tuberculosis	10a.31
+Hale-1973-1144	malaria	10a.32
+Hale-1973-1145	cholera	10a.33
+Hale-1973-1146	typhoid	10a.34
+Hale-1973-1147	smallpox	10a.35
+Hale-1973-1148	measles	10a.36
+Hale-1973-1149	cold	10a.37
+Hale-1973-1150	eye disease	10a.38
+Hale-1973-1151	dysentery	10a.39
+Hale-1973-1152	worms	10a.40
+Hale-1973-1153	poison	10a.41
+Hale-1973-1154	medicine	10a.42
+Hale-1973-1155	cure	10a.43
+Hale-1973-1156	doctor	10a.44
+Hale-1973-1157	death	10a.45
+Hale-1973-1158	corpse	10a.46
+Hale-1973-1159	burial	10a.47
+Hale-1973-1160	cemetery	10a.48
+Hale-1973-1161	cremation	10a.49
+Hale-1973-1162	burning place	10a.50
+Hale-1973-1163	mourning	10a.51
+Hale-1973-1164	other worlds	10a.52
+Hale-1973-1165	ghost	10a.53
+Hale-1973-1166	spirit	10a.54
+Hale-1973-1167	god	10a.55
+Hale-1973-1168	witch	10a.56
+Hale-1973-1169	shaman	10a.57
+Hale-1973-1170	mask	10a.58
+Hale-1973-1171	incense	10a.59
+Hale-1973-1172	temple	10a.60
+Hale-1973-1173	idol	10a.61
+Hale-1973-1174	faith	10a.62
+Hale-1973-1175	miracle	10a.63
+Hale-1973-1176	prayer	10a.64
+Hale-1973-1177	prayer flag	10a.65
+Hale-1973-1178	oath	10a.66
+Hale-1973-1179	worship	10a.67
+Hale-1973-1180	sacrifice	10a.68
+Hale-1973-1181	offering	10a.69
+Hale-1973-1182	ceremony	10a.70
+Hale-1973-1183	festival	10a.71
+Hale-1973-1184	sin	10a.72
+Hale-1973-1185	guilt	10a.73
+Hale-1973-1186	tell	10b1.01
+Hale-1973-1187	talk	10b1.02
+Hale-1973-1188	speak (a language)	10b1.03
+Hale-1973-1189	mutter	10b1.04
+Hale-1973-1190	stutter	10b1.05
+Hale-1973-1191	whisper	10b1.06
+Hale-1973-1192	murmur	10b1.07
+Hale-1973-1193	chatter	10b1.08
+Hale-1973-1194	scream	10b1.09
+Hale-1973-1195	shout	10b1.10
+Hale-1973-1196	exaggerate	10b1.11
+Hale-1973-1197	boast	10b1.12
+Hale-1973-1198	agree	10b1.13
+Hale-1973-1199	advice	10b1.14
+Hale-1973-1200	ask	10b1.15
+Hale-1973-1201	answer	10b1.16
+Hale-1973-1202	listen	10b1.17
+Hale-1973-1203	approve, confirm	10b1.18
+Hale-1973-1204	obey	10b1.19
+Hale-1973-1205	request	10b1.20
+Hale-1973-1206	beg	10b1.21
+Hale-1973-1207	persist	10b1.22
+Hale-1973-1208	persuade	10b1.23
+Hale-1973-1209	force	10b1.24
+Hale-1973-1210	threaten	10b1.25
+Hale-1973-1211	tempt	10b1.26
+Hale-1973-1212	seduce	10b1.27
+Hale-1973-1213	stagger	10b1.28
+Hale-1973-1214	discuss	10b1.29
+Hale-1973-1215	understand	10b1.30
+Hale-1973-1216	promise	10b1.31
+Hale-1973-1217	omit, err	10b1.32
+Hale-1973-1218	admit	10b1.33
+Hale-1973-1219	regret	10b1.34
+Hale-1973-1220	repent	10b1.35
+Hale-1973-1221	become warned	10b1.36
+Hale-1973-1222	protect	10b1.37
+Hale-1973-1223	be spared	10b1.38
+Hale-1973-1224	trust	10b1.39
+Hale-1973-1225	forgive	10b1.40
+Hale-1973-1226	give	10b1.41
+Hale-1973-1227	give back	10b1.42
+Hale-1973-1228	give in	10b1.43
+Hale-1973-1229	give up	10b1.44
+Hale-1973-1230	greet	10b1.45
+Hale-1973-1231	guard	10b1.46
+Hale-1973-1232	help	10b1.47
+Hale-1973-1233	meet	10b1.48
+Hale-1973-1234	invite	10b1.49
+Hale-1973-1235	embrace	10b1.50
+Hale-1973-1236	kiss	10b1.51
+Hale-1973-1237	love	10b1.52
+Hale-1973-1238	mourn	10b1.53
+Hale-1973-1239	pity (s.o.)	10b1.54
+Hale-1973-1240	know (s.o.)	10b1.55
+Hale-1973-1241	order to come	10b1.56
+Hale-1973-1242	beg	10b1.57
+Hale-1973-1243	betray	10b1.58
+Hale-1973-1244	cheat	10b1.59
+Hale-1973-1245	command	10b1.60
+Hale-1973-1246	spread news (itr)	10b1.61
+Hale-1973-1247	complain	10b1.62
+Hale-1973-1248	annoy	10b1.63
+Hale-1973-1249	tease	10b1.64
+Hale-1973-1250	ridicule	10b1.65
+Hale-1973-1251	nag, criticize	10b1.66
+Hale-1973-1252	despise	10b1.67
+Hale-1973-1253	hate	10b1.68
+Hale-1973-1254	disgrace	10b1.69
+Hale-1973-1255	ignore	10b1.70
+Hale-1973-1256	get stuck	10b1.71
+Hale-1973-1257	forbid	10b1.72
+Hale-1973-1258	avoid s.b.	10b1.73
+Hale-1973-1259	hurt (not physically)	10b1.74
+Hale-1973-1260	lie	10b1.75
+Hale-1973-1261	pretend	10b1.76
+Hale-1973-1262	flatter	10b1.77
+Hale-1973-1263	flirt	10b1.78
+Hale-1973-1264	feel at ease	10b1.79
+Hale-1973-1265	quarrel with words	10b1.80
+Hale-1973-1266	quarrel	10b1.81
+Hale-1973-1267	separate	10b1.82
+Hale-1973-1268	fail (in an attempt)	10b1.83
+Hale-1973-1269	succeed	10b1.84
+Hale-1973-1270	lose (be defeated)	10b1.85
+Hale-1973-1271	win	10b1.86
+Hale-1973-1272	stop, hold up	10b1.87
+Hale-1973-1273	read	10b2.01
+Hale-1973-1274	write	10b2.02
+Hale-1973-1275	learn	10b2.03
+Hale-1973-1276	study	10b2.04
+Hale-1973-1277	practice	10b2.05
+Hale-1973-1278	review	10b2.06
+Hale-1973-1279	repeat	10b2.07
+Hale-1973-1280	recite	10b2.08
+Hale-1973-1281	learn by heart	10b2.09
+Hale-1973-1282	remember	10b2.10
+Hale-1973-1283	forget	10b2.11
+Hale-1973-1284	think	10b2.12
+Hale-1973-1285	doubt	10b2.13
+Hale-1973-1286	see	10b2.14
+Hale-1973-1287	look at	10b2.15
+Hale-1973-1288	compare	10b2.16
+Hale-1973-1289	resemble	10b2.17
+Hale-1973-1290	describe	10b2.18
+Hale-1973-1291	know	10b2.19
+Hale-1973-1292	imagine	10b2.20
+Hale-1973-1293	examine	10b2.21
+Hale-1973-1294	count	10b2.22
+Hale-1973-1295	multiply	10b2.23
+Hale-1973-1296	divide	10b2.24
+Hale-1973-1297	compose	10b2.25
+Hale-1973-1298	draw	10b2.26
+Hale-1973-1299	erase	10b2.27
+Hale-1973-1300	translate	10b2.28
+Hale-1973-1301	interpret	10b2.29
+Hale-1973-1302	understand	10b2.30
+Hale-1973-1303	fear	10b3.01
+Hale-1973-1304	worry	10b3.02
+Hale-1973-1305	be frightened	10b3.03
+Hale-1973-1306	cry, weep	10b3.04
+Hale-1973-1307	despair	10b3.05
+Hale-1973-1308	sigh	10b3.06
+Hale-1973-1309	be silent	10b3.07
+Hale-1973-1310	want	10b3.08
+Hale-1973-1311	long for	10b3.09
+Hale-1973-1312	like	10b3.10
+Hale-1973-1313	hope	10b3.11
+Hale-1973-1314	laugh	10b3.12
+Hale-1973-1315	smile	10b3.13
+Hale-1973-1316	enjoy	10b3.14
+Hale-1973-1317	rejoice	10b3.15
+Hale-1973-1318	be pleased, happy	10b3.16
+Hale-1973-1319	be sad	10b3.17
+Hale-1973-1320	get angry	10b3.18
+Hale-1973-1321	be perplexed	10b3.19
+Hale-1973-1322	please s.o.	10b3.20
+Hale-1973-1323	worship	10b3.21
+Hale-1973-1324	worship idols	10b3.22
+Hale-1973-1325	pray	10b3.23
+Hale-1973-1326	believe	10b3.24
+Hale-1973-1327	offer to gods	10b3.25
+Hale-1973-1328	sacrifice	10b3.26
+Hale-1973-1329	kill sacrificial animal	10b3.27
+Hale-1973-1330	bless	10b3.28
+Hale-1973-1331	sin	10b3.29
+Hale-1973-1332	merit	10b3.30
+Hale-1973-1333	fast	10b3.31
+Hale-1973-1334	chant	10b3.32
+Hale-1973-1335	donate	10b3.33
+Hale-1973-1336	go on pilgrimage	10b3.34
+Hale-1973-1337	meditate	10b3.35
+Hale-1973-1338	stay without sleep	10b3.36
+Hale-1973-1339	dream	10b3.37
+Hale-1973-1340	have a vision	10b3.38
+Hale-1973-1341	appear	10b3.39
+Hale-1973-1342	disappear	10b3.40
+Hale-1973-1343	predict, foretell	10b3.41
+Hale-1973-1344	curse	10b3.42
+Hale-1973-1345	bewitch, cast spell	10b3.43
+Hale-1973-1346	be possessed	10b3.44
+Hale-1973-1347	dance	11a.01
+Hale-1973-1348	dancer	11a.02
+Hale-1973-1349	sign	11a.03
+Hale-1973-1350	song	11a.04
+Hale-1973-1351	singer	11a.05
+Hale-1973-1352	music	11a.06
+Hale-1973-1353	musician	11a.07
+Hale-1973-1354	paint	11a.08
+Hale-1973-1355	painting	11a.09
+Hale-1973-1356	painter	11a.10
+Hale-1973-1357	game	11a.11
+Hale-1973-1358	player	11a.12
+Hale-1973-1359	story	11a.13
+Hale-1973-1360	murder	11a.14
+Hale-1973-1361	lie	11a.15
+Hale-1973-1362	liar	11a.16
+Hale-1973-1363	theft	11a.17
+Hale-1973-1364	thief	11a.18
+Hale-1973-1365	people	11a.19
+Hale-1973-1366	language	11a.20
+Hale-1973-1367	word	11a.21
+Hale-1973-1368	foreigner, non-speaker	11a.22
+Hale-1973-1369	caste	11a.23
+Hale-1973-1370	brahman	11a.24
+Hale-1973-1371	rich man	11a.25
+Hale-1973-1372	poor man	11a.26
+Hale-1973-1373	slave	11a.27
+Hale-1973-1374	villager	11a.28
+Hale-1973-1375	neighbor	11a.29
+Hale-1973-1376	chief	11a.30
+Hale-1973-1377	elder	11a.31
+Hale-1973-1378	judge	11a.32
+Hale-1973-1379	policeman	11a.33
+Hale-1973-1380	jail	11a.34
+Hale-1973-1381	school	11a.35
+Hale-1973-1382	teacher	11a.36
+Hale-1973-1383	assembly	11a.37
+Hale-1973-1384	speech	11a.38
+Hale-1973-1385	vote	11a.39
+Hale-1973-1386	message	11a.40
+Hale-1973-1387	advice	11a.41
+Hale-1973-1388	agreement	11a.42
+Hale-1973-1389	disagreement	11a.43
+Hale-1973-1390	argument	11a.44
+Hale-1973-1391	fight	11a.45
+Hale-1973-1392	soldier	11a.46
+Hale-1973-1393	war	11a.47
+Hale-1973-1394	property	11a.48
+Hale-1973-1395	owner	11a.49
+Hale-1973-1396	buyer	11a.50
+Hale-1973-1397	seller	11a.51
+Hale-1973-1398	beggar	11a.52
+Hale-1973-1399	market	11a.53
+Hale-1973-1400	shop	11a.54
+Hale-1973-1401	merchant	11a.55
+Hale-1973-1402	cook	11a.56
+Hale-1973-1403	master	11a.57
+Hale-1973-1404	servant	11a.58
+Hale-1973-1405	child's nurse	11a.59
+Hale-1973-1406	blacksmith	11a.60
+Hale-1973-1407	weaver	11a.61
+Hale-1973-1408	fisherman	11a.62
+Hale-1973-1409	hunter	11a.63
+Hale-1973-1410	farmer	11a.64
+Hale-1973-1411	herdsman	11a.65
+Hale-1973-1412	friend	11a.66
+Hale-1973-1413	bond friend	11a.67
+Hale-1973-1414	enemy	11a.68
+Hale-1973-1415	children (general term)	11a.69
+Hale-1973-1416	children (sons and daughters)	11a.70
+Hale-1973-1417	father	11a.71
+Hale-1973-1418	mother	11a.72
+Hale-1973-1419	elder brother	11a.73
+Hale-1973-1420	younger brother	11a.74
+Hale-1973-1421	elder sister	11a.75
+Hale-1973-1422	younger sister	11a.76
+Hale-1973-1423	husband	11a.77
+Hale-1973-1424	wife	11a.78
+Hale-1973-1425	grandfather (paternal)	11a.79
+Hale-1973-1426	grandmother (paternal)	11a.80
+Hale-1973-1427	bride	11a.81
+Hale-1973-1428	bridegroom	11a.82
+Hale-1973-1429	marriage	11a.83
+Hale-1973-1430	dance	11b1.01
+Hale-1973-1431	play	11b1.02
+Hale-1973-1432	sing	11b1.03
+Hale-1973-1433	whistle	11b1.04
+Hale-1973-1434	hum (a tune)	11b1.05
+Hale-1973-1435	beat drum	11b1.06
+Hale-1973-1436	play instr.	11b1.07
+Hale-1973-1437	sound	11b1.08
+Hale-1973-1438	rattle	11b1.09
+Hale-1973-1439	clap hands	11b1.10
+Hale-1973-1440	snap with fingers	11b1.11
+Hale-1973-1441	visit	11b1.12
+Hale-1973-1442	welcome	11b1.13
+Hale-1973-1443	gossip	11b1.14
+Hale-1973-1444	joke	11b1.15
+Hale-1973-1445	amuse	11b1.16
+Hale-1973-1446	smoke	11b1.17
+Hale-1973-1447	gamble	11b1.18
+Hale-1973-1448	get drunk	11b1.19
+Hale-1973-1449	travel	11b1.20
+Hale-1973-1450	prepare	11b1.21
+Hale-1973-1451	decide	11b1.22
+Hale-1973-1452	walk	11b1.23
+Hale-1973-1453	wander	11b1.24
+Hale-1973-1454	over take	11b1.25
+Hale-1973-1455	pass by	11b1.26
+Hale-1973-1456	point	11b1.27
+Hale-1973-1457	load	11b1.28
+Hale-1973-1458	cram into	11b1.29
+Hale-1973-1459	carry	11b1.30
+Hale-1973-1460	leave, start out	11b1.31
+Hale-1973-1461	leave behind	11b1.32
+Hale-1973-1462	rest	11b1.33
+Hale-1973-1463	reach there	11b1.34
+Hale-1973-1464	arrive here	11b1.35
+Hale-1973-1465	return	11b1.36
+Hale-1973-1466	paddle	11b1.37
+Hale-1973-1467	buy	11b2.01
+Hale-1973-1468	sell	11b2.02
+Hale-1973-1469	pay	11b2.03
+Hale-1973-1470	repay loan	11b2.04
+Hale-1973-1471	lend money	11b2.05
+Hale-1973-1472	borrow money	11b2.06
+Hale-1973-1473	lend things	11b2.07
+Hale-1973-1474	borrow things	11b2.08
+Hale-1973-1475	exchange money	11b2.09
+Hale-1973-1476	barter	11b2.10
+Hale-1973-1477	trade	11b2.11
+Hale-1973-1478	earn	11b2.12
+Hale-1973-1479	weigh	11b2.13
+Hale-1973-1480	increase	11b2.14
+Hale-1973-1481	decrease	11b2.15
+Hale-1973-1482	bargain	11b2.16
+Hale-1973-1483	marry	11b2.17
+Hale-1973-1484	give in marriage	11b2.18
+Hale-1973-1485	settle (marriage)	11b2.19
+Hale-1973-1486	divorce	11b2.20
+Hale-1973-1487	desert	11b2.21
+Hale-1973-1488	be defiled	11b2.22
+Hale-1973-1489	fulfill works of purification	11b2.23
+Hale-1973-1490	sprinkle water of purification	11b2.24
+Hale-1973-1491	become purified	11b2.25
+Hale-1973-1492	become unclean	11b2.26
+Hale-1973-1493	bury	11b2.27
+Hale-1973-1494	inherit	11b2.28
+Hale-1973-1495	divide	11b2.29
+Hale-1973-1496	share	11b2.30
+Hale-1973-1497	own	11b2.31
+Hale-1973-1498	serve a master	11b2.32
+Hale-1973-1499	swear oath	11b2.33
+Hale-1973-1500	assemble	11b2.34
+Hale-1973-1501	elect	11b2.35
+Hale-1973-1502	vote	11b2.36
+Hale-1973-1503	collect taxes	11b2.37
+Hale-1973-1504	rob	11b3.01
+Hale-1973-1505	steal	11b3.02
+Hale-1973-1506	plunder	11b3.03
+Hale-1973-1507	attack	11b3.04
+Hale-1973-1508	insult	11b3.05
+Hale-1973-1509	conspire	11b3.06
+Hale-1973-1510	transgress	11b3.07
+Hale-1973-1511	suspect s.o.	11b3.08
+Hale-1973-1512	accuse	11b3.09
+Hale-1973-1513	interrogate	11b3.10
+Hale-1973-1514	deny	11b3.11
+Hale-1973-1515	judge	11b3.12
+Hale-1973-1516	condemn	11b3.13
+Hale-1973-1517	fine s.o.	11b3.14
+Hale-1973-1518	persecute	11b3.15
+Hale-1973-1519	torture	11b3.16
+Hale-1973-1520	release	11b3.17
+Hale-1973-1521	flee	11b3.18
+Hale-1973-1522	escape	11b3.19
+Hale-1973-1523	avenge	11b3.20
+Hale-1973-1524	file a case	11b3.21
+Hale-1973-1525	give final judgement	11b3.22
+Hale-1973-1526	young	12a.01
+Hale-1973-1527	aged	12a.02
+Hale-1973-1528	experienced	12a.03
+Hale-1973-1529	strong	12a.04
+Hale-1973-1530	weak	12a.05
+Hale-1973-1531	violent	12a.06
+Hale-1973-1532	gentle	12a.07
+Hale-1973-1533	alive	12a.08
+Hale-1973-1534	dead	12a.09
+Hale-1973-1535	numb	12a.10
+Hale-1973-1536	blind	12a.11
+Hale-1973-1537	deaf	12a.12
+Hale-1973-1538	curious	12a.13
+Hale-1973-1539	attentive	12a.14
+Hale-1973-1540	careful	12a.15
+Hale-1973-1541	careless	12a.16
+Hale-1973-1542	intelligent	12a.17
+Hale-1973-1543	ignorant	12a.18
+Hale-1973-1544	clever (hands)	12a.19
+Hale-1973-1545	clever (head)	12a.20
+Hale-1973-1546	foolish	12a.21
+Hale-1973-1547	insane	12a.22
+Hale-1973-1548	good	12a.23
+Hale-1973-1549	evil	12a.24
+Hale-1973-1550	healthy	12a.25
+Hale-1973-1551	sick	12a.26
+Hale-1973-1552	busy	12a.27
+Hale-1973-1553	lazy	12a.28
+Hale-1973-1554	tired	12a.29
+Hale-1973-1555	skillful	12a.30
+Hale-1973-1556	clumsy	12a.31
+Hale-1973-1557	rich	12a.32
+Hale-1973-1558	poor	12a.33
+Hale-1973-1559	fat	12a.34
+Hale-1973-1560	stout	12a.35
+Hale-1973-1561	slender	12a.36
+Hale-1973-1562	severe	12a.37
+Hale-1973-1563	lenient	12a.38
+Hale-1973-1564	obedient	12a.39
+Hale-1973-1565	generous	12a.40
+Hale-1973-1566	stingy	12a.41
+Hale-1973-1567	content	12a.42
+Hale-1973-1568	discontent	12a.43
+Hale-1973-1569	happy	12a.44
+Hale-1973-1570	sad	12a.45
+Hale-1973-1571	funny	12a.46
+Hale-1973-1572	boring	12a.47
+Hale-1973-1573	pretty	12a.48
+Hale-1973-1574	ugly	12a.49
+Hale-1973-1575	brave	12a.50
+Hale-1973-1576	fearful	12a.51
+Hale-1973-1577	cowardly	12a.52
+Hale-1973-1578	cautious	12a.53
+Hale-1973-1579	proud	12a.54
+Hale-1973-1580	humble	12a.55
+Hale-1973-1581	modest	12a.56
+Hale-1973-1582	insulent	12a.57
+Hale-1973-1583	friendly	12a.58
+Hale-1973-1584	unfriendly	12a.59
+Hale-1973-1585	polite	12a.60
+Hale-1973-1586	rude	12a.61
+Hale-1973-1587	kind	12a.62
+Hale-1973-1588	cruel	12a.63
+Hale-1973-1589	jealous	12a.64
+Hale-1973-1590	envious	12a.65
+Hale-1973-1591	drunk	12a.66
+Hale-1973-1592	guilty	12a.67
+Hale-1973-1593	sacred	12a.68
+Hale-1973-1594	attractive	12a.69
+Hale-1973-1595	repulsive	12a.70
+Hale-1973-1596	tight	12b.01
+Hale-1973-1597	loose	12b.02
+Hale-1973-1598	heavy	12b.03
+Hale-1973-1599	light	12b.04
+Hale-1973-1600	thick (density)	12b.05
+Hale-1973-1601	thin (density)	12b.06
+Hale-1973-1602	hard	12b.07
+Hale-1973-1603	soft	12b.08
+Hale-1973-1604	elastic	12b.09
+Hale-1973-1605	inelastic	12b.10
+Hale-1973-1606	flexible	12b.11
+Hale-1973-1607	brittle	12b.12
+Hale-1973-1608	slick	12b.13
+Hale-1973-1609	sticky	12b.14
+Hale-1973-1610	greasy	12b.15
+Hale-1973-1611	damp	12b.16
+Hale-1973-1612	wet	12b.17
+Hale-1973-1613	pleasant	12b.18
+Hale-1973-1614	painful	12b.19
+Hale-1973-1615	savory	12b.20
+Hale-1973-1616	unsavory	12b.21
+Hale-1973-1617	sweet	12b.22
+Hale-1973-1618	hot, spicy	12b.23
+Hale-1973-1619	sour	12b.24
+Hale-1973-1620	bitter	12b.25
+Hale-1973-1621	salty	12b.26
+Hale-1973-1622	fragrant	12b.27
+Hale-1973-1623	fetid	12b.28
+Hale-1973-1624	loud	12b.29
+Hale-1973-1625	soft	12b.30
+Hale-1973-1626	high pitch	12b.31
+Hale-1973-1627	low pitch	12b.32
+Hale-1973-1628	bright	12b.33
+Hale-1973-1629	dark	12b.34
+Hale-1973-1630	blue	12b.35
+Hale-1973-1631	brown	12b.36
+Hale-1973-1632	variegated	12b.37
+Hale-1973-1633	faded	12b.38
+Hale-1973-1634	spotted	12b.39
+Hale-1973-1635	striped	12b.40
+Hale-1973-1636	right	12b.41
+Hale-1973-1637	wrong	12b.42
+Hale-1973-1638	true	12b.43
+Hale-1973-1639	false	12b.44
+Hale-1973-1640	sufficient	12b.45
+Hale-1973-1641	insufficient	12b.46
+Hale-1973-1642	bad	12b.47
+Hale-1973-1643	clean	12b.48
+Hale-1973-1644	dirty	12b.49
+Hale-1973-1645	expensive	12b.50
+Hale-1973-1646	cheap	12b.51
+Hale-1973-1647	terrible	12b.52
+Hale-1973-1648	desirable	12b.53
+Hale-1973-1649	far	12c.01
+Hale-1973-1650	near	12c.02
+Hale-1973-1651	broad	12c.03
+Hale-1973-1652	narrow	12c.04
+Hale-1973-1653	short	12c.05
+Hale-1973-1654	thick	12c.06
+Hale-1973-1655	thin	12c.07
+Hale-1973-1656	high	12c.08
+Hale-1973-1657	low	12c.09
+Hale-1973-1658	deep	12c.10
+Hale-1973-1659	shallow	12c.11
+Hale-1973-1660	vertical	12c.12
+Hale-1973-1661	horizontal	12c.13
+Hale-1973-1662	covered	12c.14
+Hale-1973-1663	bare	12c.15
+Hale-1973-1664	front	12c.16
+Hale-1973-1665	back	12c.17
+Hale-1973-1666	right	12c.18
+Hale-1973-1667	left	12c.19
+Hale-1973-1668	curved	12c.20
+Hale-1973-1669	crooked	12c.21
+Hale-1973-1670	straight	12c.22
+Hale-1973-1671	twisted	12c.23
+Hale-1973-1672	flat	12c.24
+Hale-1973-1673	sharp edged	12c.25
+Hale-1973-1674	sharp, pointed	12c.26
+Hale-1973-1675	blunt	12c.27
+Hale-1973-1676	smooth	12c.28
+Hale-1973-1677	rough	12c.29
+Hale-1973-1678	solid	12c.30
+Hale-1973-1679	hollow	12c.31
+Hale-1973-1680	empty	12c.32
+Hale-1973-1681	open	12c.33
+Hale-1973-1682	shut	12c.34
+Hale-1973-1683	perforated	12c.35
+Hale-1973-1684	plugged	12c.36
+Hale-1973-1685	moving	12c.37
+Hale-1973-1686	stationary	12c.38
+Hale-1973-1687	fast	12c.39
+Hale-1973-1688	slow	12c.40
+Hale-1973-1689	slowly	12c.41
+Hale-1973-1690	cubit (elbow to fingertip)	12c.42
+Hale-1973-1691	span of hand	12c.43
+Hale-1973-1692	from	12c.44
+Hale-1973-1693	into	12c.45
+Hale-1973-1694	out of	12c.46
+Hale-1973-1695	in, inside of	12c.47
+Hale-1973-1696	up	12c.48
+Hale-1973-1697	down	12c.49
+Hale-1973-1698	over	12c.50
+Hale-1973-1699	under	12c.51
+Hale-1973-1700	through	12c.52
+Hale-1973-1701	toward	12c.53
+Hale-1973-1702	away from	12c.54
+Hale-1973-1703	behind	12c.55
+Hale-1973-1704	in front of	12c.56
+Hale-1973-1705	beside	12c.57
+Hale-1973-1706	between	12c.58
+Hale-1973-1707	above	12c.59
+Hale-1973-1708	beneath	12c.60
+Hale-1973-1709	around	12c.61
+Hale-1973-1710	beyond	12c.62
+Hale-1973-1711	across	12c.63
+Hale-1973-1712	where	12c.64
+Hale-1973-1713	alike	12d.01
+Hale-1973-1714	different	12d.02
+Hale-1973-1715	identical	12d.03
+Hale-1973-1716	opposite	12d.04
+Hale-1973-1717	various	12d.05
+Hale-1973-1718	equal	12d.06
+Hale-1973-1719	more	12d.07
+Hale-1973-1720	less	12d.08
+Hale-1973-1721	most	12d.09
+Hale-1973-1722	least	12d.10
+Hale-1973-1723	mixed	12d.11
+Hale-1973-1724	unmixed	12d.12
+Hale-1973-1725	real	12d.13
+Hale-1973-1726	false	12d.14
+Hale-1973-1727	whole	12d.15
+Hale-1973-1728	all	12d.16
+Hale-1973-1729	partial	12d.17
+Hale-1973-1730	early	12d.18
+Hale-1973-1731	late	12d.19
+Hale-1973-1732	frequent	12d.20
+Hale-1973-1733	infrequent	12d.21
+Hale-1973-1734	old	12d.22
+Hale-1973-1735	new	12d.23
+Hale-1973-1736	frequently	12d.24
+Hale-1973-1737	never	12d.25
+Hale-1973-1738	daily	12d.26
+Hale-1973-1739	when	12d.27
+Hale-1973-1740	before	12d.28
+Hale-1973-1741	after	12d.29
+Hale-1973-1742	during	12d.30
+Hale-1973-1743	until	12d.31
+Hale-1973-1744	can (be able to do something)	13a.01
+Hale-1973-1745	know (something)	13a.02
+Hale-1973-1746	benefactive	13a.03
+Hale-1973-1747	let (s.o. do s.th.)	13a.04
+Hale-1973-1748	cause (s.o. to do s.th.)	13a.05
+Hale-1973-1749	be all right, acceptable	13a.06
+Hale-1973-1750	must	13a.07
+Hale-1973-1751	be allowed to	13a.08
+Hale-1973-1752	need to	13a.09
+Hale-1973-1753	want to	13a.10
+Hale-1973-1754	start	13a.11
+Hale-1973-1755	be about	13a.12
+Hale-1973-1756	finish (work)	13a.13
+Hale-1973-1757	do	13a.14
+Hale-1973-1758	become, be made	13a.15
+Hale-1973-1759	prepare (not material things)	13a.16
+Hale-1973-1760	prepare, make	13a.17
+Hale-1973-1761	feel	13a.18
+Hale-1973-1762	remain	13a.19
+Hale-1973-1763	be	13a.20
+Hale-1973-1764	and	13b.01
+Hale-1973-1765	also	13b.02
+Hale-1973-1766	very	13b.03
+Hale-1973-1767	perhaps	13b.04
+Hale-1973-1768	what	13b.05
+Hale-1973-1769	who	13b.06
+Hale-1973-1770	how, in what way	13b.07
+Hale-1973-1771	how much	13b.08
+Hale-1973-1772	why, for what reason	13b.09
+Hale-1973-1773	I	13b.10
+Hale-1973-1774	you	13b.11
+Hale-1973-1775	he	13b.12
+Hale-1973-1776	it	13b.13
+Hale-1973-1777	we (two)	13b.14
+Hale-1973-1778	you (two)	13b.15
+Hale-1973-1779	that (two)	13b.16
+Hale-1973-1780	we (exclusive)	13b.17
+Hale-1973-1781	we (inclusive)	13b.18
+Hale-1973-1782	you (exclusive)	13b.19
+Hale-1973-1783	you (inclusive)	13b.20
+Hale-1973-1784	they	13b.21
+Hale-1973-1785	this	13b.22
+Hale-1973-1786	that	13b.23
+Hale-1973-1787	yonder	13b.24
+Hale-1973-1788	these	13b.25
+Hale-1973-1789	those	13b.26
+Hale-1973-1790	which	13b.27
+Hale-1973-1791	self	13b.28
+Hale-1973-1792	to	13b.29
+Hale-1973-1793	by	13b.30
+Hale-1973-1794	with	13b.31
+Hale-1973-1795	without	13b.32
+Hale-1973-1796	of	13b.33
+Hale-1973-1797	except	13b.34
+Hale-1973-1798	like	13b.35
