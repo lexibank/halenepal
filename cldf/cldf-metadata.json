@@ -4,6 +4,7 @@
     "dc:conformsTo": "http://cldf.clld.org/v1.0/terms.rdf#Wordlist",
     "dc:identifier": "",
     "dc:title": "haleneapal",
+    "dcat:accessURL": "https://github.com/lexibank/halenepal",
     "rdf:ID": "haleneapal",
     "rdf:type": "http://www.w3.org/ns/dcat#Distribution",
     "dialect": {
@@ -13,15 +14,15 @@
         {
             "dc:title": "environment",
             "properties": {
-                "glottolog_version": "pyglottolog-1.2.1-151-gb337e6fb6a",
-                "concepticon_version": "pyconcepticon-1.4.0-91-gfbc073f"
+                "glottolog_version": "pyglottolog-1.2.1-77-g24ddcfb",
+                "concepticon_version": "pyconcepticon-1.4.0-81-g0e705c2"
             }
         }
     ],
     "tables": [
         {
             "dc:conformsTo": "http://cldf.clld.org/v1.0/terms.rdf#FormTable",
-            "dc:extent": 6745,
+            "dc:extent": 8331,
             "tableSchema": {
                 "columns": [
                     {
@@ -48,7 +49,7 @@
                     },
                     {
                         "datatype": "string",
-                        "propertyUrl": "http://linguistics-ontology.org/gold/2010/FormUnit",
+                        "propertyUrl": "http://cldf.clld.org/v1.0/terms.rdf#value",
                         "required": true,
                         "name": "Value"
                     },
@@ -162,7 +163,7 @@
         },
         {
             "dc:conformsTo": "http://cldf.clld.org/v1.0/terms.rdf#ParameterTable",
-            "dc:extent": 694,
+            "dc:extent": 808,
             "tableSchema": {
                 "columns": [
                     {
