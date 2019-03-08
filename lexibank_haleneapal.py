@@ -16,8 +16,7 @@ class Dataset(BaseDataset):
         pass
 
     def cmd_install(self, **kw):
-        hale = []
-        stedt = []
+        hale, stedt = [], []
         languages, concepts = {}, {}
 
         for element in self.raw.read_tsv(self.raw / "Hale_raw.tsv"):
@@ -46,19 +45,15 @@ class Dataset(BaseDataset):
                 )
                 languages[language["LANGUAGE"]] = slug(language["GLOTTOLOG"])
 
-            print(languages)
-
             for h in hale:
                 search = list(filter(lambda x: x.srcid == h.srcid, stedt))
 
                 if search:
                     for result in search:
-                        try:
+                        if result.gloss in concepts:
                             ds.add_lexemes(
                                 Language_ID=languages[result.language],
-                                Parameter_ID=concepts[slug(result.gloss)],
+                                Parameter_ID=concepts[result.gloss],
                                 Value=result.reflex,
                                 Form=result.reflex,
                             )
-                        except (KeyError, ValueError):
-                            pass

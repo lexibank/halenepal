@@ -9,13 +9,13 @@ Cite the source dataset as
 
 
 ![Glottolog: 100%](https://img.shields.io/badge/Glottolog-100%25-brightgreen.svg "Glottolog: 100%")
-![Concepticon: 71%](https://img.shields.io/badge/Concepticon-71%25-yellow.svg "Concepticon: 71%")
+![Concepticon: 69%](https://img.shields.io/badge/Concepticon-69%25-orange.svg "Concepticon: 69%")
 ![Source: 0%](https://img.shields.io/badge/Source-0%25-red.svg "Source: 0%")
 
-- **Varieties:** 12
-- **Concepts:** 589
-- **Lexemes:** 5,438
-- **Synonymy:** 1.07
+- **Varieties:** 13
+- **Concepts:** 694
+- **Lexemes:** 6,745
+- **Synonymy:** 1.08
 - **Cognacy:** 0 cognates in 0 cognate sets
 - **Invalid lexemes:** 0
 - **Tokens:** 0
@@ -26,4 +26,4 @@ Cite the source dataset as
 
 
 
-- Entries missing sources: 5438/5438 (100.00%)
+- Entries missing sources: 6745/6745 (100.00%)
