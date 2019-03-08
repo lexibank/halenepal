@@ -1,8 +1,11 @@
 # coding=utf-8
 from __future__ import unicode_literals, print_function
 
+from clldutils.misc import slug
 from clldutils.path import Path
 from pylexibank.dataset import Dataset as BaseDataset
+
+from datatuples import Hale, STEDT
 
 
 class Dataset(BaseDataset):
@@ -10,24 +13,52 @@ class Dataset(BaseDataset):
     id = "haleneapal"
 
     def cmd_download(self, **kw):
-        """
-        Download files to the raw/ directory. You can use helpers methods of `self.raw`, e.g.
-
-        >>> self.raw.download(url, fname)
-        """
         pass
 
     def cmd_install(self, **kw):
-        """
-        Convert the raw data to a CLDF dataset.
+        hale = []
+        stedt = []
+        languages, concepts = {}, {}
 
-        Use the methods of `pylexibank.cldf.Dataset` after instantiating one as context:
+        for element in self.raw.read_tsv(self.raw / "Hale_raw.tsv"):
+            if element:
+                hale.append(Hale(*element))
 
-        >>> with self.cldf as ds:
-        ...     ds.add_sources(...)
-        ...     ds.add_language(...)
-        ...     ds.add_concept(...)
-        ...     ds.add_lexemes(...)
-        """
+        for element in self.raw.read_tsv(self.raw / "AH-CSDPN.tsv"):
+            if element:
+                stedt.append(STEDT(*element))
+
         with self.cldf as ds:
-            pass
+            for concept in self.concepts:
+                ds.add_concept(
+                    ID=concept["ID"],
+                    Name=concept["GLOSS"],
+                    Concepticon_ID=concept["CONCEPTICON_ID"],
+                    Concepticon_Gloss=concept["CONCEPTICON_GLOSS"],
+                )
+                concepts[concept["GLOSS"]] = concept["ID"]
+
+            for language in self.languages:
+                ds.add_language(
+                    ID=slug(language["GLOTTOLOG"]),
+                    Glottocode=language["GLOTTOCODE"],
+                    Name=language["LANGUAGE"],
+                )
+                languages[language["LANGUAGE"]] = slug(language["GLOTTOLOG"])
+
+            print(languages)
+
+            for h in hale:
+                search = list(filter(lambda x: x.srcid == h.srcid, stedt))
+
+                if search:
+                    for result in search:
+                        try:
+                            ds.add_lexemes(
+                                Language_ID=languages[result.language],
+                                Parameter_ID=concepts[slug(result.gloss)],
+                                Value=result.reflex,
+                                Form=result.reflex,
+                            )
+                        except (KeyError, ValueError):
+                            pass
