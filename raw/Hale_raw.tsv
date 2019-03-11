@@ -1,103 +1,103 @@
 ID	GLOSS	SRCID
-Hale-1973-1	I	1.001
-Hale-1973-2	thou	1.002
-Hale-1973-3	we (incl)	1.003
-Hale-1973-4	this	1.004
-Hale-1973-5	that	1.005
-Hale-1973-6	who	1.006
-Hale-1973-7	what	1.007
-Hale-1973-8	not	1.008
-Hale-1973-9	all	1.009
-Hale-1973-10	many	1.01
-Hale-1973-11	one	1.011
-Hale-1973-12	two	1.012
-Hale-1973-13	big	1.013
-Hale-1973-14	long	1.014
-Hale-1973-15	small	1.015
-Hale-1973-16	woman	1.016
-Hale-1973-17	man	1.017
-Hale-1973-18	person	1.018
-Hale-1973-19	fish	1.019
-Hale-1973-20	bird	1.02
-Hale-1973-21	dog	1.021
-Hale-1973-22	louse	1.022
-Hale-1973-23	tree	1.023
-Hale-1973-24	seed	1.024
-Hale-1973-25	leaf	1.025
-Hale-1973-26	root	1.026
-Hale-1973-27	bark (of tree)	1.027
-Hale-1973-28	skin	1.028
-Hale-1973-29	flesh	1.029
-Hale-1973-30	bone	1.03
-Hale-1973-31	grease	1.032
-Hale-1973-32	egg	1.033
-Hale-1973-33	horn	1.034
-Hale-1973-34	tail	1.035
-Hale-1973-35	feather	1.036
-Hale-1973-36	hair	1.037
-Hale-1973-37	head	1.038
-Hale-1973-38	ear	1.039
-Hale-1973-39	eye	1.04
-Hale-1973-40	nose	1.041
-Hale-1973-41	mouth	1.042
-Hale-1973-42	tooth	1.043
-Hale-1973-43	tongue	1.044
-Hale-1973-44	fingernail	1.045
-Hale-1973-45	foot	1.046
-Hale-1973-46	knee	1.047
-Hale-1973-47	hand	1.048
-Hale-1973-48	belly	1.049
-Hale-1973-49	neck	1.05
-Hale-1973-50	breasts	1.051
-Hale-1973-51	heart	1.052
-Hale-1973-52	liver	1.053
-Hale-1973-53	drink	1.054
-Hale-1973-54	eat	1.055
-Hale-1973-55	bite	1.056
-Hale-1973-56	see	1.057
-Hale-1973-57	hear	1.058
-Hale-1973-58	know	1.059
-Hale-1973-59	sleep	1.06
-Hale-1973-60	die	1.061
-Hale-1973-61	kill	1.062
-Hale-1973-62	swim	1.063
-Hale-1973-63	fly	1.064
-Hale-1973-64	walk	1.065
-Hale-1973-65	come	1.066
-Hale-1973-66	lie	1.067
-Hale-1973-67	sit	1.068
-Hale-1973-68	stand	1.069
-Hale-1973-69	give	1.07
-Hale-1973-70	say	1.071
-Hale-1973-71	sun	1.072
-Hale-1973-72	moon	1.073
-Hale-1973-73	star	1.074
-Hale-1973-74	water	1.075
-Hale-1973-75	rain	1.076
-Hale-1973-76	stone	1.077
-Hale-1973-77	sand	1.078
-Hale-1973-78	earth	1.079
-Hale-1973-79	cloud	1.08
-Hale-1973-80	smoke	1.081
-Hale-1973-81	fire	1.082
-Hale-1973-82	ash	1.083
-Hale-1973-83	burn	1.084
-Hale-1973-84	path	1.085
-Hale-1973-85	mountain	1.086
-Hale-1973-86	red	1.087
-Hale-1973-87	green	1.088
-Hale-1973-88	yellow	1.089
-Hale-1973-89	white	1.09
-Hale-1973-90	black	1.091
-Hale-1973-91	night	1.092
-Hale-1973-92	hot	1.093
-Hale-1973-93	cold	1.094
-Hale-1973-94	full	1.095
-Hale-1973-95	new	1.096
-Hale-1973-96	good	1.097
-Hale-1973-97	round	1.098
-Hale-1973-98	dry	1.099
-Hale-1973-99	name	1.1
+Hale-1973-1	I	01.001
+Hale-1973-2	thou	01.002
+Hale-1973-3	we (incl)	01.003
+Hale-1973-4	this	01.004
+Hale-1973-5	that	01.005
+Hale-1973-6	who	01.006
+Hale-1973-7	what	01.007
+Hale-1973-8	not	01.008
+Hale-1973-9	all	01.009
+Hale-1973-10	many	01.010
+Hale-1973-11	one	01.011
+Hale-1973-12	two	01.012
+Hale-1973-13	big	01.013
+Hale-1973-14	long	01.014
+Hale-1973-15	small	01.015
+Hale-1973-16	woman	01.016
+Hale-1973-17	man	01.017
+Hale-1973-18	person	01.018
+Hale-1973-19	fish	01.019
+Hale-1973-20	bird	01.020
+Hale-1973-21	dog	01.021
+Hale-1973-22	louse	01.022
+Hale-1973-23	tree	01.023
+Hale-1973-24	seed	01.024
+Hale-1973-25	leaf	01.025
+Hale-1973-26	root	01.026
+Hale-1973-27	bark (of tree)	01.027
+Hale-1973-28	skin	01.028
+Hale-1973-29	flesh	01.029
+Hale-1973-30	bone	01.030
+Hale-1973-31	grease	01.032
+Hale-1973-32	egg	01.033
+Hale-1973-33	horn	01.034
+Hale-1973-34	tail	01.035
+Hale-1973-35	feather	01.036
+Hale-1973-36	hair	01.037
+Hale-1973-37	head	01.038
+Hale-1973-38	ear	01.039
+Hale-1973-39	eye	01.040
+Hale-1973-40	nose	01.041
+Hale-1973-41	mouth	01.042
+Hale-1973-42	tooth	01.043
+Hale-1973-43	tongue	01.044
+Hale-1973-44	fingernail	01.045
+Hale-1973-45	foot	01.046
+Hale-1973-46	knee	01.047
+Hale-1973-47	hand	01.048
+Hale-1973-48	belly	01.049
+Hale-1973-49	neck	01.050
+Hale-1973-50	breasts	01.051
+Hale-1973-51	heart	01.052
+Hale-1973-52	liver	01.053
+Hale-1973-53	drink	01.054
+Hale-1973-54	eat	01.055
+Hale-1973-55	bite	01.056
+Hale-1973-56	see	01.057
+Hale-1973-57	hear	01.058
+Hale-1973-58	know	01.059
+Hale-1973-59	sleep	01.060
+Hale-1973-60	die	01.061
+Hale-1973-61	kill	01.062
+Hale-1973-62	swim	01.063
+Hale-1973-63	fly	01.064
+Hale-1973-64	walk	01.065
+Hale-1973-65	come	01.066
+Hale-1973-66	lie	01.067
+Hale-1973-67	sit	01.068
+Hale-1973-68	stand	01.069
+Hale-1973-69	give	01.070
+Hale-1973-70	say	01.071
+Hale-1973-71	sun	01.072
+Hale-1973-72	moon	01.073
+Hale-1973-73	star	01.074
+Hale-1973-74	water	01.075
+Hale-1973-75	rain	01.076
+Hale-1973-76	stone	01.077
+Hale-1973-77	sand	01.078
+Hale-1973-78	earth	01.079
+Hale-1973-79	cloud	01.080
+Hale-1973-80	smoke	01.081
+Hale-1973-81	fire	01.082
+Hale-1973-82	ash	01.083
+Hale-1973-83	burn	01.084
+Hale-1973-84	path	01.085
+Hale-1973-85	mountain	01.086
+Hale-1973-86	red	01.087
+Hale-1973-87	green	01.088
+Hale-1973-88	yellow	01.089
+Hale-1973-89	white	01.090
+Hale-1973-90	black	01.091
+Hale-1973-91	night	01.092
+Hale-1973-92	hot	01.093
+Hale-1973-93	cold	01.094
+Hale-1973-94	full	01.095
+Hale-1973-95	new	01.096
+Hale-1973-96	good	01.097
+Hale-1973-97	round	01.098
+Hale-1973-98	dry	01.099
+Hale-1973-99	name	01.100
 Hale-1973-100	body	02a.01
 Hale-1973-101	skeleton	02a.02
 Hale-1973-102	marrow	02a.03
@@ -1057,60 +1057,60 @@ Hale-1973-1055	join	08b.19
 Hale-1973-1056	break (pots)	08b.20
 Hale-1973-1057	break (tr)	08b.20a
 Hale-1973-1058	break (as sticks, itr)	08b.21
-Hale-1973-1059	three	9.01
-Hale-1973-1060	four	9.02
-Hale-1973-1061	five	9.03
-Hale-1973-1062	six	9.04
-Hale-1973-1063	seven	9.05
-Hale-1973-1064	eight	9.06
-Hale-1973-1065	nine	9.07
-Hale-1973-1066	ten	9.08
-Hale-1973-1067	thirteen	9.09
-Hale-1973-1068	nineteen	9.1
-Hale-1973-1069	twenty	9.11
-Hale-1973-1070	twenty-two	9.12
-Hale-1973-1071	twenty-nine	9.13
-Hale-1973-1072	thirty-one	9.14
-Hale-1973-1073	thirty-nine	9.15
-Hale-1973-1074	forty	9.16
-Hale-1973-1075	fifty	9.17
-Hale-1973-1076	sixty	9.18
-Hale-1973-1077	seventy	9.19
-Hale-1973-1078	eighty	9.2
-Hale-1973-1079	ninety	9.21
-Hale-1973-1080	ninety-eight	9.22
-Hale-1973-1081	ninety-nine	9.23
-Hale-1973-1082	hundred	9.24
-Hale-1973-1083	hundred and two	9.25
-Hale-1973-1084	hundred and thirty	9.26
-Hale-1973-1085	hundred and ninety	9.27
-Hale-1973-1086	two hundred	9.28
-Hale-1973-1087	one thousand	9.29
-Hale-1973-1088	first	9.3
-Hale-1973-1089	second	9.31
-Hale-1973-1090	third	9.32
-Hale-1973-1091	eighth	9.33
-Hale-1973-1092	last	9.34
-Hale-1973-1093	half	9.35
-Hale-1973-1094	half way	9.36
-Hale-1973-1095	one-third	9.37
-Hale-1973-1096	one quarter	9.38
-Hale-1973-1097	two thirds	9.39
-Hale-1973-1098	three quarters	9.4
-Hale-1973-1099	a pair	9.41
-Hale-1973-1100	none	9.42
-Hale-1973-1101	neither	9.43
-Hale-1973-1102	both	9.44
-Hale-1973-1103	every	9.45
-Hale-1973-1104	total	9.46
-Hale-1973-1105	together	9.47
-Hale-1973-1106	something	9.48
-Hale-1973-1107	nothing	9.49
-Hale-1973-1108	someone	9.5
-Hale-1973-1109	no one	9.51
-Hale-1973-1110	another	9.52
-Hale-1973-1111	some	9.54
-Hale-1973-1112	too much	9.55
+Hale-1973-1059	three	09.01
+Hale-1973-1060	four	09.02
+Hale-1973-1061	five	09.03
+Hale-1973-1062	six	09.04
+Hale-1973-1063	seven	09.05
+Hale-1973-1064	eight	09.06
+Hale-1973-1065	nine	09.07
+Hale-1973-1066	ten	09.08
+Hale-1973-1067	thirteen	09.09
+Hale-1973-1068	nineteen	09.10
+Hale-1973-1069	twenty	09.11
+Hale-1973-1070	twenty-two	09.12
+Hale-1973-1071	twenty-nine	09.13
+Hale-1973-1072	thirty-one	09.14
+Hale-1973-1073	thirty-nine	09.15
+Hale-1973-1074	forty	09.16
+Hale-1973-1075	fifty	09.17
+Hale-1973-1076	sixty	09.18
+Hale-1973-1077	seventy	09.19
+Hale-1973-1078	eighty	09.20
+Hale-1973-1079	ninety	09.21
+Hale-1973-1080	ninety-eight	09.22
+Hale-1973-1081	ninety-nine	09.23
+Hale-1973-1082	hundred	09.24
+Hale-1973-1083	hundred and two	09.25
+Hale-1973-1084	hundred and thirty	09.26
+Hale-1973-1085	hundred and ninety	09.27
+Hale-1973-1086	two hundred	09.28
+Hale-1973-1087	one thousand	09.29
+Hale-1973-1088	first	09.30
+Hale-1973-1089	second	09.31
+Hale-1973-1090	third	09.32
+Hale-1973-1091	eighth	09.33
+Hale-1973-1092	last	09.34
+Hale-1973-1093	half	09.35
+Hale-1973-1094	half way	09.36
+Hale-1973-1095	one-third	09.37
+Hale-1973-1096	one quarter	09.38
+Hale-1973-1097	two thirds	09.39
+Hale-1973-1098	three quarters	09.40
+Hale-1973-1099	a pair	09.41
+Hale-1973-1100	none	09.42
+Hale-1973-1101	neither	09.43
+Hale-1973-1102	both	09.44
+Hale-1973-1103	every	09.45
+Hale-1973-1104	total	09.46
+Hale-1973-1105	together	09.47
+Hale-1973-1106	something	09.48
+Hale-1973-1107	nothing	09.49
+Hale-1973-1108	someone	09.50
+Hale-1973-1109	no one	09.51
+Hale-1973-1110	another	09.52
+Hale-1973-1111	some	09.54
+Hale-1973-1112	too much	09.55
 Hale-1973-1113	love	10a.01
 Hale-1973-1114	hate	10a.02
 Hale-1973-1115	envy	10a.03

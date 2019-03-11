@@ -1,0 +1,464 @@
+$	NULL
+&#124;	NULL
+&#124;m	NULL
+'	NULL
+'$	NULL
+'T	ˈ/ʈ
+'Th	ʈʰ
+'b	b
+'c	ˈ/tʃ
+'ch	tʃʰ
+'d	d
+'e	e
+'e:	ˈ/eː
+'g	ˈ/g
+'h	h
+'j	ˈ/dʒ
+'k	ˈ/k
+'kh	kʰ
+'khw	'/kʰ w
+'l	ˈ/l
+'m	m
+'n	n
+'nyop-pā(t)	ˈ/n j o p + p aː t
+'p	ˈ/p
+'ph	ˈ/pʰ
+'r	r
+'rh	'/r̥
+'s	s
+'t	t
+'th	tʰ
+'u	u
+'u:	uː
+'w	ˈ/w
+'wep-pā(t)	ˈ/w e p + p aː
+'y	y
+'ā	aː
+'č	'/tʃ
+'čh	'tʃʰ
+'š	'/ʃ
+'◦	+
++	+
++$	+
+-	+
+0	+
+:	NULL
+=	+
+?	ʔ
+?$	ʔ
+??	ʔ + ʔ
+Ch	tʃʰ
+D	ɖ
+D$	ɖ
+DD	ɖː
+Dh	ɖʱ
+Dw	ɖ w
+E$	e
+Grapheme	IPA
+T	ʈ
+T$	ʈ
+TT	ʈː
+Th	ʈʰ
+Th$	ʈʰ
+^	NULL
+^'D	ˈ/ɖ
+^'T	ˈ/ʈ
+^'Th	ˈ/ʈʰ
+^'a	a
+^'b	ˈ/b
+^'bh	ˈ/bʱ
+^'bhw	'/bʱ w
+^'bw	'/b w
+^'b̄	'/b
+^'c	ˈ/tʃ
+^'ch	ˈ/tʃʰ
+^'cw	'/tʃ w
+^'d	ˈ/d
+^'dh	ˈ/dʱ
+^'dw	'/d w
+^'e	ˈ/e
+^'g	ˈ/g
+^'gh	gʱ
+^'ghw	'/gʰ w
+^'gw	'/g w
+^'h	ˈ/h
+^'hw	'ẘ
+^'i	i
+^'j	ˈ/dʒ
+^'jh	'/dʒʱ
+^'k	ˈ/k
+^'kh	kʰ
+^'khw	'/kʰ w
+^'kw	k w
+^'l	ˈ/l
+^'lh	'l̊
+^'lw	'/l w
+^'m	ˈ/m
+^'mw	'/m w
+^'n	ˈ/n
+^'o	ˈ/o
+^'o̩	'/õ
+^'p	p
+^'ph	ˈ/pʰ
+^'pw	'/p w
+^'p̄	'/p
+^'r	r
+^'rh	'/r̊
+^'s	s
+^'sw	'/s w
+^'t	ˈ/t
+^'th	tʰ
+^'tw	'/t w
+^'u	ˈ/u
+^'u:	uː
+^'u:$	uː
+^'w	w
+^'y	ˈ/j
+^'z	z
+^'ā	ˈ/aː
+^'ās	'/aː s
+^'č	'/tʃ
+^'čh	'/tʃʰ
+^'š	'/ʃ
+^'ʔ	ʔ
+^'̌	NULL
+^?	ʔ
+^D	ɖ
+^Dh	ɖʱ
+^Dhw	ɖʱ w
+^Dw	ɖ w
+^L	ɭ
+^R	ɽ
+^T	T/ʈ
+^Th	ʈʰ
+^a	a
+^a̩	ã
+^b	b
+^bh	bʱ
+^bhw	bʱ w
+^bw	b w
+^c	tʃ
+^ch	tʃʰ
+^chh	tʃʰ
+^chhw	tʃʰ w
+^chw	tʃʰ w
+^cw	tʃ w
+^d	d
+^dh	dʱ
+^dhs	dʱ s
+^dhw	dʱ w
+^dw	d w
+^e	e
+^g	g
+^gh	gʱ
+^ghw	gʱ w
+^gw	g w
+^h	h
+^hw	ẘ
+^i	i
+^j	dʒ
+^jh	dʒʱ
+^jhw	dʒʱ w
+^jw	dʒ w
+^k	k
+^kh	kʰ
+^khw	kʰ w
+^ksh	k sʰ
+^kw	kʷ
+^l	l
+^lh	l̥
+^lw	l w
+^m	m
+^mh	m̊
+^mw	m w
+^n	n
+^nh	n̊
+^nw	n w
+^o	o
+^o:	oː
+^o̩	õ
+^p	p
+^ph	pʰ
+^phw	pʰ w
+^pw	p w
+^q$	q
+^r	r
+^rh	r̊
+^rw	r w
+^s	s
+^sh	sʰ
+^sw	s w
+^t	t
+^th	tʰ
+^thw	tʰ w
+^ts	ts
+^tw	t w
+^u	u
+^w	w
+^y	j
+^z	z
+^ā	aː
+^ā:	aː
+^ā:s	aː s
+^āh	a̤ː
+^ās	aː s
+^ā̩	ãː
+^ā̩:	ãː
+^č	tʃ
+^čh	tʃʰ
+^ō:	oː
+^š	ʃ
+^ǰ	dʒ
+^ʔ	ʔ
+_	+
+a	a
+a$	a
+a:	aː
+a:$	aː
+ah	a̤
+ahs	a̤ s
+ahs$	a̤ s
+ahsw	a̤ s w
+a̩	ã
+a̩$	ã
+a̩:	ãː
+a̩:$	ãː
+a̱	a
+a̱$	a̠/a
+b	b
+b$	b
+bb	bː
+bh	bʱ
+bh$	bʱ
+bhama(l)	bʰ a m a
+bw	b w
+bāg(l)	b aː g
+c	c
+c$	tʃ
+cc	tʃː
+cch$	tʃːʰ
+ch	tʃʰ
+chh	tʃːʰ
+chw	tʃʰ w
+cw	tʃ w
+d	d
+dd	dː
+dh	dʱ
+dh$	dʱ
+dhw	dʰ w
+dw	d w
+e	e
+e$	e
+e:	eː
+e:$	eː
+ee	e + e
+e̩	ẽ
+e̩$	ẽ
+e̩:	ẽː
+e̩:$	ẽː
+g	g
+g$	g
+gg	gː
+gh	gʱ
+gh$	gʱ
+ghā(l)	gʰaː
+gs	g s
+gw	g w
+h	h
+h$	h
+hw	ẘ
+hw$	w̥
+hā̩:sā:q	h ã: s aː q
+i	i
+i$	i
+i:	iː
+i:$	iː
+ii	iː
+i̩	ĩ
+i̩$	ĩ
+i̩:	ĩː
+i̩:$	ĩː
+j	dʒ
+j$	dʒ
+jh	dʒʱ
+jj	dʒː
+jw	dʒ w
+k	k
+k$	k
+kh	kʰ
+kh$	kʰ
+khkh	kʰː
+khs	kʰ s
+khw	kʰ w
+kk	k + k
+krep-pā(t)	k r e p + p aː
+ks	k s
+kw	k w
+l	l
+l$	l
+lh	l̊
+ll	lː
+ls	l s
+lw	l w
+m	m
+m$	m
+me(s)	m e
+mh	m̊
+mh$	m̥
+mm	mː
+ms	m s
+mw	m w
+n	n
+n$	n
+nehp-pā(t)	n e̤ p + p aː
+ng	ŋ
+ngg	ŋ g
+ngs$	ŋ s
+nh	n̊
+nn	n + n
+nnn	nː + n
+ns	n s
+nw	n w
+o	o
+o$	o
+o:	oː
+o:$	oː
+o̩	õ
+o̩$	õ
+o̩:	õː
+p	p
+p$	p
+ph	pʰ
+ph$	pʰ
+phs	pʰ s
+phw	pʰ w
+phyā:h puhp-pā(t)	pʰ j a̤ː + p ṳ p + p aː
+phāp-pā(p)	pʰ a p + p a ː
+pp	pː
+ps	p s
+pw	p w
+q	q
+q$	q
+qs	q s
+qw	q w
+r	r
+r$	r
+rh	r̊
+rr	rː
+rs	r s
+rsh	r sʰ
+rw	r w
+r̩	r̩
+s	s
+s$	s
+sh	sʰ
+sikār (N) kyāng-la	s i k a r + k j a ŋ + l a
+ss	s + s
+sw	s w
+sāl (S)	s aː l
+t	t
+t$	t
+th	tʰ
+thw	tʰ w
+ts	t s
+tt	tː
+tām	t aː m
+tāwˉ	t aː w
+u	u
+u$	u
+u:	uː
+u:$	uː
+u̩	ũ
+u̩$	ũ
+u̩:	ũː
+u̩:$	ũː
+u̩i̩r	ũ ĩ r
+v	v
+w	w
+w$	w
+wh	ẘ
+wā(l)	w aː
+wāsa(l)	w aː s a
+x	x
+y	y
+y$	j
+y:	yː
+yˉ$	y
+z	z
+|	NULL
+|m	m
+|ʔ	ʔ
+ã	ã
+ì	ì/i
+ù	ù/u
+Āh	a̤ː
+ā	aː
+ā$	aː
+ā:	aː
+ā:$	aː
+ā:h	a̤ː
+ā:h$	a̤ː
+ā:hs	a̤ː s
+ā:s	aː s
+ā:s$	aː s
+ā:w	aː w
+āh	a̤ː
+āh$	a̤ː
+āhs	a̤ː s
+ās	aː s
+ās$	aː s
+āss	aː sː
+āsās	aː s aː s
+āw	aː w
+āw$	aː w
+āwh	a̤ː w
+āws	aː w s
+āwˉ	aː w
+āwˉ$	aː w
+ā̩	ãː
+ā̩$	ãː
+ā̩:	ãː
+ā̩:$	ãː
+ā̩:h	ã̤ː
+ā̩:s	ā̩ː s
+ā̩:s$	ãː s
+ā̩h	ã̤ː
+ā̩h$	ã̤ː
+ā̩hs	ã̤ s
+ā̩s	ãː s
+ā̩s$	ãː s
+ā̩ː	ãː
+ą	ã
+ąs	ã s
+ąs$	ã s
+ą̄	ãː
+č	tʃ
+čh	tʃʰ
+ē	eː
+ē̩	ẽː
+ē̩$	ẽː
+ę	ẽ
+ę$	ẽ
+ęh	ẽ̤
+ī:	iː
+ō	oː
+ō$	oː
+ōh	o̤ː
+ōs$	oː s
+š	ʃ
+ũ	ũ
+ū	uː
+ū$	uː
+ų	ũ
+ų$	ũ
+ǫ	õ
+ǫh	ã̤
+ǰ	tʃ
+ȳ	yː
+ʔ	ʔ
+ʔ$	ʔ
+ʔs	ʔ s
+ʔʔ	ʔ + ʔ
+ˉ	NULL
+̩	NULL
+◦	+
