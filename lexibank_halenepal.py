@@ -5,6 +5,7 @@ from clldutils.misc import slug
 from clldutils.path import Path
 from pylexibank.dataset import Dataset as NonSplittingDataset
 from clldutils.text import strip_brackets, split_text
+from csvw import Datatype
 
 from tqdm import tqdm
 import re
@@ -21,7 +22,7 @@ Hale = namedtuple("Hale", ["id", "gloss", "srcid"])
 
 class Dataset(NonSplittingDataset):
     dir = Path(__file__).parent
-    id = "haleneapal"
+    id = "halenepal"
 
     def cmd_download(self, **kw):
         pass
@@ -85,7 +86,17 @@ class Dataset(NonSplittingDataset):
 
         with self.cldf as ds:
             self.cldf.tokenize = lambda x, y: self.tokenizer(x, '^'+y+'$',
-                    column='IPA')
+                    column='IPA').split(' + ')
+            
+            # add data to cldf
+            ds['FormTable', 'Segments'].separator = ' + '
+            ds['FormTable', 'Segments'].datatype = Datatype.fromvalue({
+                "base": "string",
+                "format": "([\\S]+)( [\\S]+)*"
+            })
+
+            ds.add_sources(*self.raw.read_bib())
+            
             for concept in self.concepts:
                 ds.add_concept(
                     ID=concept["ID"],
@@ -112,5 +123,6 @@ class Dataset(NonSplittingDataset):
                             ds.add_lexemes(
                                 Language_ID=languages[result.language],
                                 Parameter_ID=concepts[result.gloss],
-                                Value=result.reflex
+                                Value=result.reflex,
+                                Source=['Hale1973'] 
                             )
