@@ -5,36 +5,36 @@ $	NULL
 '	NULL
 '$	NULL
 'T	ˈ/ʈ
-'Th	ʈʰ
-'b	b
+'Th	ˈ/ʈʰ
+'b	ˈ/b
 'c	ˈ/tʃ
-'ch	tʃʰ
-'d	d
-'e	e
+'ch	ˈ/tʃʰ
+'d	ˈ/d
+'e	ˈ/e
 'e:	ˈ/eː
 'g	ˈ/g
-'h	h
+'h	ˈ/h
 'j	ˈ/dʒ
 'k	ˈ/k
-'kh	kʰ
+'kh	ˈ/kʰ
 'khw	'/kʰ w
 'l	ˈ/l
-'m	m
-'n	n
+'m	ˈ/m
+'n	ˈ/n
 'nyop-pā(t)	ˈ/n j o p + p aː t
 'p	ˈ/p
 'ph	ˈ/pʰ
-'r	r
+'r	ˈ/r
 'rh	'/r̥
-'s	s
-'t	t
-'th	tʰ
-'u	u
-'u:	uː
+'s	ˈ/s
+'t	ˈ/t
+'th	ˈ/tʰ
+'u	ˈ/u
+'u:	ˈ/uː
 'w	ˈ/w
 'wep-pā(t)	ˈ/w e p + p aː
-'y	y
-'ā	aː
+'y	ˈ/j
+'ā	ˈ/aː
 'č	'/tʃ
 'čh	'tʃʰ
 'š	'/ʃ
@@ -42,7 +42,7 @@ $	NULL
 +	+
 +$	+
 -	+
-.	NULL
+.	+
 0	+
 :	NULL
 =	+
@@ -56,7 +56,6 @@ DD	ɖː
 Dh	ɖʱ
 Dw	ɖ w
 E$	e
-Grapheme	IPA
 T	ʈ
 T$	ʈ
 TT	ʈː
@@ -66,8 +65,7 @@ Th$	ʈʰ
 ^'D	ˈ/ɖ
 ^'T	ˈ/ʈ
 ^'Th	ˈ/ʈʰ
-^'a	a
-^'b	b
+^'a	'/a
 ^'b	ˈ/b
 ^'bh	ˈ/bʱ
 ^'bhw	'/bʱ w
@@ -76,65 +74,54 @@ Th$	ʈʰ
 ^'c	ˈ/tʃ
 ^'ch	ˈ/tʃʰ
 ^'cw	'/tʃ w
-^'d	d
 ^'d	ˈ/d
 ^'dh	ˈ/dʱ
 ^'dw	'/d w
-^'e	e
 ^'e	ˈ/e
 ^'g	ˈ/g
-^'gh	gʱ
+^'gh	'/gʱ
 ^'ghw	'/gʰ w
 ^'gw	'/g w
-^'h	h
 ^'h	ˈ/h
-^'hw	'ẘ
-^'i	i
+^'hw	'/ẘ
+^'i	'/i
 ^'j	ˈ/dʒ
 ^'jh	'/dʒʱ
 ^'k	ˈ/k
-^'kh	kʰ
+^'kh	'/kʰ
 ^'khw	'/kʰ w
-^'kw	k w
+^'kw	'/k w
 ^'l	ˈ/l
-^'lh	'l̊
+^'lh	'/l̥
 ^'lw	'/l w
-^'m	m
 ^'m	ˈ/m
 ^'mw	'/m w
-^'n	n
 ^'n	ˈ/n
 ^'o	ˈ/o
 ^'o̩	'/õ
-^'p	p
 ^'p	ˈ/p
 ^'ph	ˈ/pʰ
 ^'pw	'/p w
 ^'p̄	'/p
-^'r	r
+^'r	ˈ/r
 ^'rh	'/r̊
-^'s	s
+^'s	ˈ/s
 ^'sw	'/s w
-^'t	t
 ^'t	ˈ/t
-^'th	tʰ
+^'th	ˈ/tʰ
 ^'tw	'/t w
-^'u	u
 ^'u	ˈ/u
-^'u:	uː
-^'u:$	uː
-^'w	w
+^'u:	ˈ/uː
+^'u:$	ˈ/uː
 ^'w	ˈ/w
-^'y	y
 ^'y	ˈ/j
-^'z	z
-^'ā	aː
+^'z	ˈ/z
 ^'ā	ˈ/aː
 ^'ās	'/aː s
 ^'č	'/tʃ
 ^'čh	'/tʃʰ
 ^'š	'/ʃ
-^'ʔ	ʔ
+^'ʔ	ˈ/ʔ
 ^'̌	NULL
 ^'◦	+
 ^?	ʔ
@@ -163,8 +150,8 @@ Th$	ʈʰ
 ^c	tʃ
 ^cc	tʃː
 ^ch	tʃʰ
-^chh	tʃʰ
-^chhw	tʃʰ w
+^chh	chh/tʃʰ
+^chhw	chh/tʃʰ w
 ^chw	tʃʰ w
 ^cw	tʃ w
 ^d	d
@@ -204,7 +191,6 @@ Th$	ʈʰ
 ^kw	k w
 ^kw	kʷ
 ^l	l
-^lh	l̊
 ^lh	l̥
 ^ll	lː
 ^ls	l s
@@ -246,7 +232,6 @@ Th$	ʈʰ
 ^th	tʰ
 ^thw	tʰ w
 ^ts	t s
-^ts	ts
 ^tt	tː
 ^tw	t w
 ^u	u

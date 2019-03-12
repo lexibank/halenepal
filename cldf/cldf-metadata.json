@@ -18,12 +18,19 @@
                 "glottolog_version": "pyglottolog-1.2.1-77-g24ddcfb94b",
                 "concepticon_version": "pyconcepticon-1.4.0-81-g0e705c2"
             }
+        },
+        {
+            "dc:title": "environment",
+            "properties": {
+                "glottolog_version": "pyglottolog-1.2.1-77-g24ddcfb94b",
+                "concepticon_version": "pyconcepticon-1.4.0-81-g0e705c2"
+            }
         }
     ],
     "tables": [
         {
             "dc:conformsTo": "http://cldf.clld.org/v1.0/terms.rdf#FormTable",
-            "dc:extent": 8844,
+            "dc:extent": 17716,
             "tableSchema": {
                 "columns": [
                     {
@@ -167,7 +174,7 @@
         },
         {
             "dc:conformsTo": "http://cldf.clld.org/v1.0/terms.rdf#ParameterTable",
-            "dc:extent": 844,
+            "dc:extent": 846,
             "tableSchema": {
                 "columns": [
                     {

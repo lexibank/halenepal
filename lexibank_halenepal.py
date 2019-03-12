@@ -69,7 +69,7 @@ class Dataset(NonSplittingDataset):
                 hsrcids.add(element[-1])
 
         missing = set()
-        for element in self.raw.read_tsv(self.raw / "AH-CSDPN.tsv"):
+        for element in self.raw.read_tsv(self.raw / "AH-CSDPN.tsv")[1:]:
             if element:
                 srcid = fromconcepts.get(element[2], element[-1])
                 element[-1] = srcid

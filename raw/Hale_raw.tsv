@@ -8,6 +8,7 @@ Hale-1973-6	who	01.006
 Hale-1973-7	what	01.007
 Hale-1973-8	not	01.008
 Hale-1973-9	all	01.009
+Hale-1973-9	all	1009
 Hale-1973-10	many	01.010
 Hale-1973-11	one	01.011
 Hale-1973-12	two	01.012
@@ -46,6 +47,7 @@ Hale-1973-44	fingernail	01.045
 Hale-1973-45	foot	01.046
 Hale-1973-46	knee	01.047
 Hale-1973-47	hand	01.048
+Hale-1973-47	hand	1048
 Hale-1973-48	belly	01.049
 Hale-1973-49	neck	01.050
 Hale-1973-50	breasts	01.051
@@ -697,6 +699,7 @@ Hale-1973-695	mat	06a.37
 Hale-1973-696	cradle	06a.38
 Hale-1973-697	bench	06a.39
 Hale-1973-698	loft	06a.40
+Hale-1973-698	loft	06a.040
 Hale-1973-699	cooking place	06a.41
 Hale-1973-700	charcoal	06a.42
 Hale-1973-701	soot	06a.43
@@ -1743,6 +1746,7 @@ Hale-1973-1741	after	12d.29
 Hale-1973-1742	during	12d.30
 Hale-1973-1743	until	12d.31
 Hale-1973-1744	can (be able to do something)	13a.01
+Hale-1973-1744	can (be able to do something)	13a.1
 Hale-1973-1745	know (something)	13a.02
 Hale-1973-1746	benefactive	13a.03
 Hale-1973-1747	let (s.o. do s.th.)	13a.04
