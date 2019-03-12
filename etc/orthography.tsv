@@ -1,3 +1,4 @@
+Grapheme	IPA
 $	NULL
 &#124;	NULL
 &#124;m	NULL
@@ -41,6 +42,7 @@ $	NULL
 +	+
 +$	+
 -	+
+.	NULL
 0	+
 :	NULL
 =	+
@@ -65,6 +67,7 @@ Th$	ʈʰ
 ^'T	ˈ/ʈ
 ^'Th	ˈ/ʈʰ
 ^'a	a
+^'b	b
 ^'b	ˈ/b
 ^'bh	ˈ/bʱ
 ^'bhw	'/bʱ w
@@ -73,14 +76,17 @@ Th$	ʈʰ
 ^'c	ˈ/tʃ
 ^'ch	ˈ/tʃʰ
 ^'cw	'/tʃ w
+^'d	d
 ^'d	ˈ/d
 ^'dh	ˈ/dʱ
 ^'dw	'/d w
+^'e	e
 ^'e	ˈ/e
 ^'g	ˈ/g
 ^'gh	gʱ
 ^'ghw	'/gʰ w
 ^'gw	'/g w
+^'h	h
 ^'h	ˈ/h
 ^'hw	'ẘ
 ^'i	i
@@ -93,12 +99,15 @@ Th$	ʈʰ
 ^'l	ˈ/l
 ^'lh	'l̊
 ^'lw	'/l w
+^'m	m
 ^'m	ˈ/m
 ^'mw	'/m w
+^'n	n
 ^'n	ˈ/n
 ^'o	ˈ/o
 ^'o̩	'/õ
 ^'p	p
+^'p	ˈ/p
 ^'ph	ˈ/pʰ
 ^'pw	'/p w
 ^'p̄	'/p
@@ -106,15 +115,20 @@ Th$	ʈʰ
 ^'rh	'/r̊
 ^'s	s
 ^'sw	'/s w
+^'t	t
 ^'t	ˈ/t
 ^'th	tʰ
 ^'tw	'/t w
+^'u	u
 ^'u	ˈ/u
 ^'u:	uː
 ^'u:$	uː
 ^'w	w
+^'w	ˈ/w
+^'y	y
 ^'y	ˈ/j
 ^'z	z
+^'ā	aː
 ^'ā	ˈ/aː
 ^'ās	'/aː s
 ^'č	'/tʃ
@@ -122,57 +136,89 @@ Th$	ʈʰ
 ^'š	'/ʃ
 ^'ʔ	ʔ
 ^'̌	NULL
+^'◦	+
 ^?	ʔ
+^??	ʔ + ʔ
+^Ch	tʃʰ
 ^D	ɖ
+^DD	ɖː
 ^Dh	ɖʱ
 ^Dhw	ɖʱ w
 ^Dw	ɖ w
 ^L	ɭ
 ^R	ɽ
 ^T	T/ʈ
+^TT	ʈː
 ^Th	ʈʰ
 ^a	a
+^a:	aː
+^ah	a̤
 ^a̩	ã
+^a̱	a
 ^b	b
+^bb	bː
 ^bh	bʱ
 ^bhw	bʱ w
 ^bw	b w
 ^c	tʃ
+^cc	tʃː
 ^ch	tʃʰ
 ^chh	tʃʰ
 ^chhw	tʃʰ w
 ^chw	tʃʰ w
 ^cw	tʃ w
 ^d	d
+^dd	dː
 ^dh	dʱ
 ^dhs	dʱ s
 ^dhw	dʱ w
 ^dw	d w
 ^e	e
+^e:	eː
+^ee	e + e
+^e̩	ẽ
 ^g	g
+^gg	gː
 ^gh	gʱ
 ^ghw	gʱ w
+^gs	g s
 ^gw	g w
 ^h	h
 ^hw	ẘ
+^hw	ẘ
 ^i	i
+^i:	iː
+^ii	iː
+^i̩	ĩ
 ^j	dʒ
 ^jh	dʒʱ
 ^jhw	dʒʱ w
+^jj	dʒː
 ^jw	dʒ w
 ^k	k
 ^kh	kʰ
 ^khw	kʰ w
+^kk	k + k
+^ks	k s
 ^ksh	k sʰ
+^kw	k w
 ^kw	kʷ
 ^l	l
+^lh	l̊
 ^lh	l̥
+^ll	lː
+^ls	l s
 ^lw	l w
 ^m	m
 ^mh	m̊
+^mm	mː
+^ms	m s
 ^mw	m w
 ^n	n
+^ng	ŋ
 ^nh	n̊
+^nn	n + n
+^ns	n s
 ^nw	n w
 ^o	o
 ^o:	oː
@@ -180,36 +226,63 @@ Th$	ʈʰ
 ^p	p
 ^ph	pʰ
 ^phw	pʰ w
+^pp	pː
+^ps	p s
 ^pw	p w
 ^q$	q
+^qs	q s
+^qw	q w
 ^r	r
 ^rh	r̊
+^rr	rː
+^rs	r s
 ^rw	r w
+^r̩	r̩
 ^s	s
 ^sh	sʰ
+^ss	s + s
 ^sw	s w
 ^t	t
 ^th	tʰ
 ^thw	tʰ w
+^ts	t s
 ^ts	ts
+^tt	tː
 ^tw	t w
 ^u	u
+^u:	uː
+^u̩	ũ
 ^w	w
+^wh	ẘ
 ^y	j
+^y:	yː
 ^z	z
+^|m	m
+^|ʔ	ʔ
+^Āh	a̤ː
 ^ā	aː
 ^ā:	aː
 ^ā:s	aː s
 ^āh	a̤ː
 ^ās	aː s
+^āw	aː w
 ^ā̩	ãː
 ^ā̩:	ãː
+^ąs	ã s
+^ą̄	ãː
 ^č	tʃ
 ^čh	tʃʰ
+^ē̩	ẽː
+^ęh	ẽ̤
+^ī:	iː
 ^ō:	oː
+^ōh	o̤ː
 ^š	ʃ
+^ǫh	ã̤
 ^ǰ	dʒ
 ^ʔ	ʔ
+^ʔs	ʔ s
+^ʔʔ	ʔ + ʔ
 _	+
 a	a
 a$	a
@@ -380,7 +453,7 @@ wh	ẘ
 wā(l)	w aː
 wāsa(l)	w aː s a
 x	x
-y	y
+y	j
 y$	j
 y:	yː
 yˉ$	y

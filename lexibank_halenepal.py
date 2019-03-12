@@ -55,6 +55,13 @@ class Dataset(NonSplittingDataset):
             '01.009': '01.009',
             }
 
+        # corrected srcids
+        fromconcepts = {}
+        for element in self.raw.read_tsv(self.raw / "srcids.tsv"):
+            if element:
+                fromconcepts[element[-1]] = element[-2]
+
+
         hsrcids = set()
         for element in self.raw.read_tsv(self.raw / "Hale_raw.tsv"):
             if element:
@@ -64,8 +71,11 @@ class Dataset(NonSplittingDataset):
         missing = set()
         for element in self.raw.read_tsv(self.raw / "AH-CSDPN.tsv"):
             if element:
-                if element[-1] in hsrcids:
+                srcid = fromconcepts.get(element[2], element[-1])
+                element[-1] = srcid
+                if srcid in hsrcids:
                     stedt.append(STEDT(*element))
+                
                 else:
                     for elm in re.split('[,;]', element[-1]): #.split(';'):
                         for s, t in reps:
@@ -85,8 +95,8 @@ class Dataset(NonSplittingDataset):
 
 
         with self.cldf as ds:
-            self.cldf.tokenize = lambda x, y: self.tokenizer(x, '^'+y+'$',
-                    column='IPA').split(' + ')
+            self.cldf.tokenize = lambda x, y: ' '.join(self.tokenizer(x, '^'+y+'$',
+                    column='IPA')).split(' + ')
             
             # add data to cldf
             ds['FormTable', 'Segments'].separator = ' + '

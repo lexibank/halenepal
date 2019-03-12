@@ -3,9 +3,10 @@
     "dc:bibliographicCitation": "",
     "dc:conformsTo": "http://cldf.clld.org/v1.0/terms.rdf#Wordlist",
     "dc:identifier": "",
+    "dc:source": "sources.bib",
     "dc:title": "haleneapal",
     "dcat:accessURL": "https://github.com/lexibank/halenepal",
-    "rdf:ID": "haleneapal",
+    "rdf:ID": "halenepal",
     "rdf:type": "http://www.w3.org/ns/dcat#Distribution",
     "dialect": {
         "commentPrefix": null
@@ -14,7 +15,7 @@
         {
             "dc:title": "environment",
             "properties": {
-                "glottolog_version": "pyglottolog-1.2.1-77-g24ddcfb",
+                "glottolog_version": "pyglottolog-1.2.1-77-g24ddcfb94b",
                 "concepticon_version": "pyconcepticon-1.4.0-81-g0e705c2"
             }
         }
@@ -22,7 +23,7 @@
     "tables": [
         {
             "dc:conformsTo": "http://cldf.clld.org/v1.0/terms.rdf#FormTable",
-            "dc:extent": 8331,
+            "dc:extent": 8844,
             "tableSchema": {
                 "columns": [
                     {
@@ -60,9 +61,12 @@
                         "name": "Form"
                     },
                     {
-                        "datatype": "string",
+                        "datatype": {
+                            "base": "string",
+                            "format": "([\\S]+)( [\\S]+)*"
+                        },
                         "propertyUrl": "http://cldf.clld.org/v1.0/terms.rdf#segments",
-                        "separator": " ",
+                        "separator": " + ",
                         "name": "Segments"
                     },
                     {
@@ -163,7 +167,7 @@
         },
         {
             "dc:conformsTo": "http://cldf.clld.org/v1.0/terms.rdf#ParameterTable",
-            "dc:extent": 808,
+            "dc:extent": 844,
             "tableSchema": {
                 "columns": [
                     {
