@@ -88,7 +88,6 @@ class Dataset(NonSplittingDataset):
                                 mapper[element[-1]] = elm
                                 stedt.append(STEDT(*[x for x in
                                     element[:-1]]+[elm]))
-
         for i, y in enumerate(missing):
             print('{0:5} | {1:10} | {2:10} | {3}'.format(
                 i+1, y[0],y[1], y[2]))
@@ -123,16 +122,14 @@ class Dataset(NonSplittingDataset):
                     Name=language["LANGUAGE"],
                 )
                 languages[language["LANGUAGE"]] = slug(language["GLOTTOLOG"])
-
-            for h in tqdm(hale, desc='cldfify'):
-                search = list(filter(lambda x: x.srcid == h.srcid, stedt))
-
-                if search:
-                    for result in search:
-                        if result.gloss in concepts:
-                            ds.add_lexemes(
-                                Language_ID=languages[result.language],
-                                Parameter_ID=concepts[result.gloss],
-                                Value=result.reflex,
-                                Source=['Hale1973'] 
-                            )
+            
+            for h in hale:
+                concepts[h.srcid] = h.id
+            for entry in tqdm(stedt):
+                ds.add_lexemes(
+                        Local_ID=entry.rn,
+                        Language_ID=languages[entry.language],
+                        Parameter_ID=concepts[entry.srcid],
+                        Value=entry.reflex,
+                        Source=['Hale1973']
+                        )
