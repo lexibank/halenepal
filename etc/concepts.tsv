@@ -272,7 +272,7 @@ Hale-1973-1798-270	Human_Body-171	cough	v	02b2.26	879	COUGH
 Hale-1973-1798-271	Human_Body-172	sneeze	v	02b2.27	1621	SNEEZE
 Hale-1973-1798-272	Human_Body-173	itch	v	02b2.28	148	ITCH
 Hale-1973-1798-273	Human_Body-174	vomit	v	02b2.29	1278	VOMIT
-Hale-1973-1798-274	Human_Body-175	be numb	v	02b2.30	2216	BECOME NUMB		
+Hale-1973-1798-274	Human_Body-175	be numb	v	02b2.30		
 Hale-1973-1798-275	Human_Body-176	prickle	v	02b2.31		
 Hale-1973-1798-276	Human_Body-177	live	v	02b2.32	2309	LIVE
 Hale-1973-1798-277	Human_Body-178	bathe	v	02b2.33	138	BATHE
@@ -437,11 +437,11 @@ Hale-1973-1798-435	Animals-138	go astray	v	03b.38
 Hale-1973-1798-436	Animals-139	wallow	v	03b.39		
 Hale-1973-1798-437	Animals-140	ruminate	v	03b.40		
 Hale-1973-1798-438	Animals-141	milk a cow	v	03b.41	93	DRAW MILK
-Hale-1973-1798-439	Animals-142	fight (animals)	v	03b.42	
+Hale-1973-1798-439	Animals-142	fight (animals)	v	03b.42	1423	FIGHT
 Hale-1973-1798-440	Animals-143	bellow (bull)	v	03b.43		
 Hale-1973-1798-441	Animals-144	ride	v	03b.44	367	RIDE
 Hale-1973-1798-442	Animals-145	neigh	v	03b.45		
-Hale-1973-1798-443	Animals-146	give birth	v	03b.46	
+Hale-1973-1798-443	Animals-146	give birth	v	03b.46	1195	GIVE BIRTH
 Hale-1973-1798-444	Animals-147	castrate goats	v	03b.47		
 Hale-1973-1798-445	Animals-148	castrate bulls	v	03b.48		
 Hale-1973-1798-446	Animals-149	shear sheep	v	03b.49	1532	SHEAR
@@ -515,7 +515,7 @@ Hale-1973-1798-513	Plants-66	bloom	v	04b.02	2076	SPROUT (VERB)
 Hale-1973-1798-514	Plants-67	small (flower)	v	04b.03		
 Hale-1973-1798-515	Plants-68	ripen	v	04b.04	179	RIPEN
 Hale-1973-1798-516	Plants-69	fall off	v	04b.05		
-Hale-1973-1798-517	Plants-70	spoil	v	04b.06	569	BECOME SPOILED		
+Hale-1973-1798-517	Plants-70	spoil	v	04b.06		
 Hale-1973-1798-518	Plants-71	stink	v	04b.07	1587	SMELL (STINK)
 Hale-1973-1798-519	Plants-72	sprout	v	04b.08	2076	SPROUT (VERB)
 Hale-1973-1798-520	Plants-73	germinate	v	04b.09		
@@ -543,7 +543,7 @@ Hale-1973-1798-541	Plants-94	hire (farm laborer)	v	04b.29	856	HIRE
 Hale-1973-1798-542	Plants-95	harvest	v	04b.30	1827	HARVEST CROPS
 Hale-1973-1798-543	Plants-96	stack up	v	04b.31		
 Hale-1973-1798-544	Plants-97	ripen (artificially in hot bed)	v	04b.32		
-Hale-1973-1798-545	Plants-98	thresh (rice and wheat)	v	04b.33	
+Hale-1973-1798-545	Plants-98	thresh (rice and wheat)	v	04b.33	285	THRESH
 Hale-1973-1798-546	Plants-99	thresh (millet, etc.)	v	04b.34	285	THRESH
 Hale-1973-1798-547	Plants-100	winnow	v	04b.35	2462	WINNOWING
 Hale-1973-1798-548	Plants-101	sort (separate kinds)	v	04b.36		
@@ -623,7 +623,7 @@ Hale-1973-1798-621	Time_Weather_Geography-67	lake	n	05a.67	624	LAKE
 Hale-1973-1798-622	Time_Weather_Geography-68	pond	n	05a.68	2035	POND
 Hale-1973-1798-623	Time_Weather_Geography-69	stream	n	05a.69	947	STREAM
 Hale-1973-1798-624	Time_Weather_Geography-70	river	n	05a.70	666	RIVER
-Hale-1973-1798-625	Time_Weather_Geography-71	bank	n	05a.71	113	SHORE		
+Hale-1973-1798-625	Time_Weather_Geography-71	bank	n	05a.71		
 Hale-1973-1798-626	Time_Weather_Geography-72	ford	n	05a.72	2818	FORD (CROSSING)
 Hale-1973-1798-627	Time_Weather_Geography-73	bridge	n	05a.73	1011	BRIDGE
 Hale-1973-1798-628	Time_Weather_Geography-74	whirlpool	n	05a.74	1982	WHIRLPOOL
@@ -782,7 +782,7 @@ Hale-1973-1798-780	House_and_Home-122	light (itr)	v	06b3.01
 Hale-1973-1798-781	House_and_Home-123	burn (itr)	v	06b3.02	1428	BURNING
 Hale-1973-1798-782	House_and_Home-124	light (tr)	v	06b3.03	737	LIGHT (IGNITE)
 Hale-1973-1798-783	House_and_Home-125	flicker (fire)	v	06b3.04		
-Hale-1973-1798-784	House_and_Home-126	go out (fire)	v	06b3.05	2209	BECOME EXTINGUISHED		
+Hale-1973-1798-784	House_and_Home-126	go out (fire)	v	06b3.05		
 Hale-1973-1798-785	House_and_Home-127	split (wood)	v	06b3.06	1437	SPLIT
 Hale-1973-1798-786	House_and_Home-128	flare up	v	06b3.07		
 Hale-1973-1798-787	House_and_Home-129	sit (stay)	v	06b3.08	1416	SIT
@@ -902,7 +902,7 @@ Hale-1973-1798-900	Food_and_Clothing-97	become hot (of oil)	v	07b2.06
 Hale-1973-1798-901	Food_and_Clothing-98	fry, deep-fry	v	07b2.07	991	FRY
 Hale-1973-1798-902	Food_and_Clothing-99	burn, scorch	v	07b2.08	2102	BURN
 Hale-1973-1798-903	Food_and_Clothing-100	roast	v	07b2.09	1962	ROAST (SOMETHING)
-Hale-1973-1798-904	Food_and_Clothing-101	heat up roti	v	07b2.10	
+Hale-1973-1798-904	Food_and_Clothing-101	heat up roti	v	07b2.10	1341	HEAT UP
 Hale-1973-1798-905	Food_and_Clothing-102	heat	v	07b2.11	1341	HEAT UP
 Hale-1973-1798-906	Food_and_Clothing-103	cool	v	07b2.12	3068	COOL DOWN
 Hale-1973-1798-907	Food_and_Clothing-104	become soft (ripe)	v	07b2.13	178	RIPE
@@ -948,7 +948,7 @@ Hale-1973-1798-946	Food_and_Clothing-143	thread a needle	v	07b3.09
 Hale-1973-1798-947	Food_and_Clothing-144	chose	v	07b3.10	1750	CHOOSE
 Hale-1973-1798-948	Food_and_Clothing-145	match (itr)	v	07b3.11		
 Hale-1973-1798-949	Food_and_Clothing-146	string beads	v	07b3.12		
-Hale-1973-1798-950	Food_and_Clothing-147	measure cloth	v	07b3.13	
+Hale-1973-1798-950	Food_and_Clothing-147	measure cloth	v	07b3.13	1506	MEASURE
 Hale-1973-1798-951	Food_and_Clothing-148	wash	v	07b3.14	1453	WASH
 Hale-1973-1798-952	Food_and_Clothing-149	soak	v	07b3.15		
 Hale-1973-1798-953	Food_and_Clothing-150	wring	v	07b3.16	1414	SQUEEZE
@@ -1263,8 +1263,8 @@ Hale-1973-1798-1261	Human_Mind_and_Conditions-149	pretend	v	10b1.76
 Hale-1973-1798-1262	Human_Mind_and_Conditions-150	flatter	v	10b1.77	2709	FLATTER
 Hale-1973-1798-1263	Human_Mind_and_Conditions-151	flirt	v	10b1.78	494	FLIRT
 Hale-1973-1798-1264	Human_Mind_and_Conditions-152	feel at ease	v	10b1.79		
-Hale-1973-1798-1265	Human_Mind_and_Conditions-153	quarrel with words	v	10b1.80	
-Hale-1973-1798-1266	Human_Mind_and_Conditions-154	quarrel	v	10b1.81	
+Hale-1973-1798-1265	Human_Mind_and_Conditions-153	quarrel with words	v	10b1.80	1848	QUARREL
+Hale-1973-1798-1266	Human_Mind_and_Conditions-154	quarrel	v	10b1.81	1848	QUARREL
 Hale-1973-1798-1267	Human_Mind_and_Conditions-155	separate	v	10b1.82	1359	SEPARATE
 Hale-1973-1798-1268	Human_Mind_and_Conditions-156	fail (in an attempt)	v	10b1.83		
 Hale-1973-1798-1269	Human_Mind_and_Conditions-157	succeed	v	10b1.84	1112	SUCCEED
@@ -1316,8 +1316,8 @@ Hale-1973-1798-1314	Human_Mind_and_Conditions-202	laugh	v	10b3.12	1355	LAUGH
 Hale-1973-1798-1315	Human_Mind_and_Conditions-203	smile	v	10b3.13	1451	SMILE
 Hale-1973-1798-1316	Human_Mind_and_Conditions-204	enjoy	v	10b3.14		
 Hale-1973-1798-1317	Human_Mind_and_Conditions-205	rejoice	v	10b3.15	2192	REJOICE
-Hale-1973-1798-1318	Human_Mind_and_Conditions-206	be pleased, happy	v	10b3.16	
-Hale-1973-1798-1319	Human_Mind_and_Conditions-207	be sad	v	10b3.17	
+Hale-1973-1798-1318	Human_Mind_and_Conditions-206	be pleased, happy	v	10b3.16	1495	HAPPY
+Hale-1973-1798-1319	Human_Mind_and_Conditions-207	be sad	v	10b3.17	699	SAD
 Hale-1973-1798-1320	Human_Mind_and_Conditions-208	get angry	v	10b3.18	2215	BECOME ANGRY
 Hale-1973-1798-1321	Human_Mind_and_Conditions-209	be perplexed	v	10b3.19		
 Hale-1973-1798-1322	Human_Mind_and_Conditions-210	please s.o.	v	10b3.20	1271	DELIGHT
