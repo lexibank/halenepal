@@ -18,7 +18,7 @@ setup(
     zip_safe=False,
     entry_points={
         'lexibank.dataset': [
-            'haleneapal=lexibank_halenepal:Dataset',
+            'halenepal=lexibank_halenepal:Dataset',
         ]
     },
     install_requires=[

@@ -4,7 +4,7 @@
     "dc:conformsTo": "http://cldf.clld.org/v1.0/terms.rdf#Wordlist",
     "dc:identifier": "",
     "dc:source": "sources.bib",
-    "dc:title": "haleneapal",
+    "dc:title": "halenepal",
     "rdf:ID": "halenepal",
     "rdf:type": "http://www.w3.org/ns/dcat#Distribution",
     "dialect": {
