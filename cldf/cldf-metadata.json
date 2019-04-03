@@ -5,7 +5,6 @@
     "dc:identifier": "",
     "dc:source": "sources.bib",
     "dc:title": "haleneapal",
-    "dcat:accessURL": "https://github.com/lexibank/halenepal",
     "rdf:ID": "halenepal",
     "rdf:type": "http://www.w3.org/ns/dcat#Distribution",
     "dialect": {
@@ -15,8 +14,8 @@
         {
             "dc:title": "environment",
             "properties": {
-                "glottolog_version": "pyglottolog-1.2.1-77-g24ddcfb94b",
-                "concepticon_version": "pyconcepticon-1.4.0-81-g0e705c2"
+                "glottolog_version": "pyglottolog-1.2.1-151-gb337e6fb6a",
+                "concepticon_version": "pyconcepticon-1.4.0-124-g6212100"
             }
         }
     ],

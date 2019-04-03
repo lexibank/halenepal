@@ -246,7 +246,7 @@ Hale-1973-1798-270,cough,879,COUGH
 Hale-1973-1798-271,sneeze,1621,SNEEZE
 Hale-1973-1798-272,itch,148,ITCH
 Hale-1973-1798-273,vomit,1278,VOMIT
-Hale-1973-1798-274,be numb,,
+Hale-1973-1798-274,be numb,2216,BECOME NUMB
 Hale-1973-1798-275,prickle,,
 Hale-1973-1798-276,live,2309,LIVE
 Hale-1973-1798-277,bathe,138,BATHE
@@ -411,7 +411,7 @@ Hale-1973-1798-435,go astray,,
 Hale-1973-1798-436,wallow,,
 Hale-1973-1798-437,ruminate,,
 Hale-1973-1798-438,milk a cow,93,DRAW MILK
-Hale-1973-1798-439,fight (animals),1423,FIGHT
+Hale-1973-1798-439,fight (animals),,
 Hale-1973-1798-440,bellow (bull),,
 Hale-1973-1798-441,ride,367,RIDE
 Hale-1973-1798-442,neigh,,
@@ -682,7 +682,7 @@ Hale-1973-1798-1261,pretend,,
 Hale-1973-1798-1262,flatter,2709,FLATTER
 Hale-1973-1798-1263,flirt,494,FLIRT
 Hale-1973-1798-1264,feel at ease,,
-Hale-1973-1798-1265,quarrel with words,1848,QUARREL
+Hale-1973-1798-1265,quarrel with words,,
 Hale-1973-1798-1266,quarrel,1848,QUARREL
 Hale-1973-1798-1267,separate,1359,SEPARATE
 Hale-1973-1798-1268,fail (in an attempt),,
