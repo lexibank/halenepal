@@ -105,15 +105,17 @@ class Dataset(NonSplittingDataset):
             })
 
             ds.add_sources(*self.raw.read_bib())
-            
-            for concept in self.concepts:
-                ds.add_concept(
-                    ID=concept["ID"],
-                    Name=concept["GLOSS"],
-                    Concepticon_ID=concept["CONCEPTICON_ID"],
-                    Concepticon_Gloss=concept["CONCEPTICON_GLOSS"],
-                )
-                concepts[concept["GLOSS"]] = concept["ID"]
+            ds.add_concepts(id_factory=lambda c: c.id)
+            #for concept in self.concepts:
+            #    ds.add_concept(
+            #        ID=concept["ID"],
+            #        Name=concept["GLOSS"],
+            #        Concepticon_ID=concept["CONCEPTICON_ID"],
+            #        Concepticon_Gloss=concept["CONCEPTICON_GLOSS"],
+            #    )
+            concepts = {concept.english: concept.id for concept in
+                    self.conceptlist.concepts.values()}
+            #    concepts[concept["GLOSS"]] = concept["ID"]
 
             for language in self.languages:
                 ds.add_language(

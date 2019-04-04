@@ -4,6 +4,9 @@ Cite the source dataset as
 
 > 
 
+Conceptlists in Concepticon:
+- [Hale-1973-1798](http://concepticon.clld.org/contributions/Hale-1973-1798)
+
 ## Statistics
 
 
