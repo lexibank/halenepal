@@ -2,15 +2,14 @@
 
 Cite the source dataset as
 
-> 
+>
 
 Conceptlists in Concepticon:
 - [Hale-1973-1798](http://concepticon.clld.org/contributions/Hale-1973-1798)
 
 ## Statistics
 
-
-
+[![Build Status](https://travis-ci.org/lexibank/halenepal.svg?branch=master)](https://travis-ci.org/lexibank/halenepal)
 ![Glottolog: 100%](https://img.shields.io/badge/Glottolog-100%25-brightgreen.svg "Glottolog: 100%")
 ![Concepticon: 69%](https://img.shields.io/badge/Concepticon-69%25-orange.svg "Concepticon: 69%")
 ![Source: 100%](https://img.shields.io/badge/Source-100%25-brightgreen.svg "Source: 100%")
