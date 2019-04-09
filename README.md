@@ -2,7 +2,7 @@
 
 Cite the source dataset as
 
->
+> Hale, Austin. 1973. Clause, sentence, and discourse patterns in selected languages of Nepal IV: word lists. SIL and Tribhuvan University Press
 
 Conceptlists in Concepticon:
 - [Hale-1973-1798](http://concepticon.clld.org/contributions/Hale-1973-1798)
@@ -20,8 +20,8 @@ Conceptlists in Concepticon:
 - **Concepts:** 1,032
 - **Lexemes:** 11,041
 - **Synonymy:** 1.09
-- **Cognacy:** 0 cognates in 0 cognate sets
 - **Invalid lexemes:** 0
 - **Tokens:** 69,365
 - **Segments:** 158 (0 BIPA errors, 0 CTLS sound class errors, 158 CLTS modified)
 - **Inventory size (avg):** 69.31
+
