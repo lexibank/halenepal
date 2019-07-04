@@ -1,11 +1,16 @@
 {
     "@context": "http://www.w3.org/ns/csvw",
+    "aboutUrl": null,
     "dc:bibliographicCitation": "Hale, Austin. 1973. Clause, sentence, and discourse patterns in selected languages of Nepal IV: word lists. SIL and Tribhuvan University Press",
     "dc:conformsTo": "http://cldf.clld.org/v1.0/terms.rdf#Wordlist",
+    "dc:description": null,
     "dc:format": [
         "http://concepticon.clld.org/contributions/Hale-1973-1798"
     ],
     "dc:identifier": "",
+    "dc:isVersionOf": null,
+    "dc:license": null,
+    "dc:related": null,
     "dc:source": "sources.bib",
     "dc:title": "halenepal",
     "rdf:ID": "halenepal",
@@ -17,7 +22,7 @@
         {
             "dc:title": "environment",
             "properties": {
-                "glottolog_version": "v3.4",
+                "glottolog_version": "v4.0",
                 "concepticon_version": "v2.0"
             }
         }
