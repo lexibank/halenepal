@@ -1,18 +1,18 @@
 {
     "@context": "http://www.w3.org/ns/csvw",
     "aboutUrl": null,
-    "dc:bibliographicCitation": "",
+    "dc:bibliographicCitation": "Hale, Austin (1973): Clause, sentences, and discourse patterns in selected languages of Nepal. Kathmandu: Institute of Nepal and Asiatic Studies.",
     "dc:conformsTo": "http://cldf.clld.org/v1.0/terms.rdf#Wordlist",
     "dc:description": null,
     "dc:format": [
         "http://concepticon.clld.org/contributions/Hale-1973-1798"
     ],
-    "dc:identifier": "",
+    "dc:identifier": "https://stedt.berkeley.edu/~stedt-cgi/rootcanal.pl/source/AH-CSDPN",
     "dc:isVersionOf": null,
     "dc:license": null,
     "dc:related": null,
     "dc:source": "sources.bib",
-    "dc:title": "halenepal",
+    "dc:title": "Wordlists in Selected Languages of Nepal",
     "dcat:accessURL": "https://github.com/lexibank/halenepal",
     "rdf:ID": "halenepal",
     "rdf:type": "http://www.w3.org/ns/dcat#Distribution",
@@ -23,8 +23,8 @@
         {
             "dc:title": "environment",
             "properties": {
-                "glottolog_version": "v3.4-1-g07a9b54",
-                "concepticon_version": "pyconcepticon-1.4.0-207-gdf49abe"
+                "glottolog_version": "v4.0-12-ge90a2e37f4",
+                "concepticon_version": "v2.0-30-gcea4c63"
             }
         }
     ],
