@@ -71,6 +71,7 @@ class Dataset(NonSplittingDataset):
                             else:
                                 mapper[element[-1]] = elm
                                 stedt.append(STEDT(*[x for x in element[:-1]] + [elm]))
+
         for i, y in enumerate(missing):
             print("{0:5} | {1:10} | {2:10} | {3}".format(i + 1, y[0], y[1], y[2]))
 
@@ -87,12 +88,12 @@ class Dataset(NonSplittingDataset):
 
             ds.add_sources(*self.raw.read_bib())
 
-            for concept in self.concepts:
+            for concept in self.conceptlist.concepts.values():
                 ds.add_concept(
-                    ID=concept["ID"],
-                    Name=concept["ENGLISH"],
-                    Concepticon_ID=concept["CONCEPTICON_ID"],
-                    Concepticon_Gloss=concept["CONCEPTICON_GLOSS"],
+                    ID=concept.id,
+                    Name=concept.english,
+                    Concepticon_ID=concept.concepticon_id,
+                    Concepticon_Gloss=concept.concepticon_gloss,
                 )
 
             concepts = {

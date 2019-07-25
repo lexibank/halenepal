@@ -13,7 +13,6 @@
     "dc:related": null,
     "dc:source": "sources.bib",
     "dc:title": "Wordlists in Selected Languages of Nepal",
-    "dcat:accessURL": "https://github.com/lexibank/halenepal",
     "rdf:ID": "halenepal",
     "rdf:type": "http://www.w3.org/ns/dcat#Distribution",
     "dialect": {
@@ -23,8 +22,8 @@
         {
             "dc:title": "environment",
             "properties": {
-                "glottolog_version": "v4.0-12-ge90a2e37f4",
-                "concepticon_version": "v2.0-30-gcea4c63"
+                "glottolog_version": "v4.0",
+                "concepticon_version": "v2.1.0"
             }
         }
     ],
