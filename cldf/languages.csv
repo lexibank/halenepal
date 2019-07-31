@@ -1,14 +1,14 @@
-ID,Name,Glottocode,Glottolog_Name,ISO639P3code,Macroarea,Latitude,Longitude,Family
-nepali,Nepali,nepa1254,,,,,,
-gurung,Gurung,guru1261,,,,,,
-westerntamang,Tamang (Sahu),west2415,,,,,,
-thakali,Thakali,thak1245,,,,,,
-magar,Magar,maga1261,,,,,,
-parbatekham,Kham,parb1234,,,,,,
-kaike,Kaike,kaik1246,,,,,,
-jirel,Tibetan (Jirel),jire1238,,,,,,
-solukhumbusherpa,Tibetan (Sherpa),sher1255,,,,,,
-sunwar,Sunwar,sunw1242,,,,,,
-khaling,Khaling,khal1275,,,,,,
-kathmanduvalleynewari,Newar,newa1246,,,,,,
-chepang,Chepang,chep1245,,,,,,
+ID,Name,Glottocode,Glottolog_Name,ISO639P3code,Macroarea,Latitude,Longitude,Family,ChineseName,Population,SubGroup
+Nepali,Nepali,nepa1254,,,,,,Indo-European,,,IndoAryan
+Gurung,Gurung,guru1261,,,,,,Sino-Tibetan,,,Tamangic
+SahuTamang,Tamang (Sahu),west2415,,,,,,Sino-Tibetan,,,Tamangic
+Thakali,Thakali,thak1245,,,,,,Sino-Tibetan,,,Tamangic
+Magar,Magar,maga1261,,,,,,Sino-Tibetan,,,Magar
+Kham,Kham,parb1234,,,,,,Sino-Tibetan,,,Kham
+Kaike,Kaike,kaik1246,,,,,,Sino-Tibetan,,,Kaike
+JirelTibetan,Tibetan (Jirel),jire1238,,,,,,Sino-Tibetan,,,Tibetan
+SherpaTibetan,Tibetan (Sherpa),sher1255,,,,,,Sino-Tibetan,,,Tibetan
+Sunwar,Sunwar,sunw1242,,,,,,Sino-Tibetan,,,Kiranti
+Khaling,Khaling,khal1275,,,,,,Sino-Tibetan,,,Kiranti
+Newar,Newar,newa1246,,,,,,Sino-Tibetan,,,Newaric
+Chepang,Chepang,chep1245,,,,,,Sino-Tibetan,,,Chepang

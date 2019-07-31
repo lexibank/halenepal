@@ -6,17 +6,28 @@ from clldutils.path import Path
 from clldutils.text import strip_brackets, split_text
 from csvw import Datatype
 from pylexibank.dataset import Dataset as NonSplittingDataset
+from pylexibank.dataset import Language
 from tqdm import tqdm
+import attr
 
 STEDT = namedtuple(
     "STEDT", ["rn", "reflex", "gloss", "gfn", "srcabbr", "lgid", "language", "srcid"]
 )
 Hale = namedtuple("Hale", ["id", "gloss", "srcid"])
 
+@attr.s
+class HLanguage(Language):
+    ChineseName = attr.ib(default=None)
+    Population = attr.ib(default=None)
+    Latitude = attr.ib(default=None)
+    Longitude = attr.ib(default=None)
+    SubGroup = attr.ib(default=None)
+
 
 class Dataset(NonSplittingDataset):
     dir = Path(__file__).parent
     id = "halenepal"
+    language_class = HLanguage
 
     def cmd_download(self, **kw):
         pass
@@ -102,11 +113,13 @@ class Dataset(NonSplittingDataset):
 
             for language in self.languages:
                 ds.add_language(
-                    ID=slug(language["GLOTTOLOG"]),
-                    Glottocode=language["GLOTTOCODE"],
-                    Name=language["LANGUAGE"],
+                    ID=language["ID"],
+                    Glottocode=language["Glottocode"],
+                    Name=language["Name"],
+                    SubGroup=language['SubGroup'],
+                    Family=language['Family']
                 )
-                languages[language["LANGUAGE"]] = slug(language["GLOTTOLOG"])
+                languages[language["Name"]] = language["ID"]
 
             for h in hale:
                 concepts[h.srcid] = h.id
