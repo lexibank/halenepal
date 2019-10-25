@@ -3,35 +3,60 @@
     "aboutUrl": null,
     "dc:bibliographicCitation": "Hale, Austin (1973): Clause, sentences, and discourse patterns in selected languages of Nepal. Kathmandu: Institute of Nepal and Asiatic Studies.",
     "dc:conformsTo": "http://cldf.clld.org/v1.0/terms.rdf#Wordlist",
-    "dc:description": null,
     "dc:format": [
         "http://concepticon.clld.org/contributions/Hale-1973-1798"
     ],
     "dc:identifier": "https://stedt.berkeley.edu/~stedt-cgi/rootcanal.pl/source/AH-CSDPN",
     "dc:isVersionOf": null,
-    "dc:license": null,
     "dc:related": null,
     "dc:source": "sources.bib",
     "dc:title": "Wordlists in Selected Languages of Nepal",
     "dcat:accessURL": "https://github.com/lexibank/halenepal",
+    "prov:wasDerivedFrom": [
+        {
+            "rdf:type": "prov:Entity",
+            "dc:title": "Repository",
+            "rdf:about": "https://github.com/lexibank/halenepal",
+            "dc:created": "v1.0.1-6-gd865b85"
+        },
+        {
+            "rdf:type": "prov:Entity",
+            "dc:title": "CLTS",
+            "rdf:about": "https://github.com/cldf-clts/clts",
+            "dc:created": "v1.4"
+        },
+        {
+            "rdf:type": "prov:Entity",
+            "dc:title": "Concepticon",
+            "rdf:about": "https://github.com/concepticon/concepticon-data/",
+            "dc:created": "v2.1.0-109-g408e9f8"
+        },
+        {
+            "rdf:type": "prov:Entity",
+            "dc:title": "Glottolog",
+            "rdf:about": "https://github.com/lingulist/glottolog-data",
+            "dc:created": "v4.0"
+        }
+    ],
+    "prov:wasGeneratedBy": [
+        {
+            "dc:title": "python",
+            "dc:description": "3.5.2"
+        },
+        {
+            "dc:title": "python-packages",
+            "dc:relation": "requirements.txt"
+        }
+    ],
     "rdf:ID": "halenepal",
     "rdf:type": "http://www.w3.org/ns/dcat#Distribution",
     "dialect": {
         "commentPrefix": null
     },
-    "notes": [
-        {
-            "dc:title": "environment",
-            "properties": {
-                "glottolog_version": "v4.0-12-ge90a2e37f4",
-                "concepticon_version": "v2.1.0-6-ga171367"
-            }
-        }
-    ],
     "tables": [
         {
             "dc:conformsTo": "http://cldf.clld.org/v1.0/terms.rdf#FormTable",
-            "dc:extent": 11041,
+            "dc:extent": 11030,
             "tableSchema": {
                 "columns": [
                     {
@@ -197,6 +222,14 @@
                     {
                         "datatype": "string",
                         "name": "SubGroup"
+                    },
+                    {
+                        "datatype": "string",
+                        "name": "Number"
+                    },
+                    {
+                        "datatype": "string",
+                        "name": "Glottolog_name"
                     }
                 ],
                 "primaryKey": [
@@ -207,7 +240,7 @@
         },
         {
             "dc:conformsTo": "http://cldf.clld.org/v1.0/terms.rdf#ParameterTable",
-            "dc:extent": 1032,
+            "dc:extent": 1031,
             "tableSchema": {
                 "columns": [
                     {

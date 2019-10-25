@@ -1,14 +1,14 @@
-ID,Name,Glottocode,Glottolog_Name,ISO639P3code,Macroarea,Latitude,Longitude,Family,ChineseName,Population,SubGroup
-Nepali,Nepali,nepa1254,,,,,,Indo-European,,,IndoAryan
-Gurung,Gurung,guru1261,,,,,,Sino-Tibetan,,,Tamangic
-SahuTamang,Tamang (Sahu),west2415,,,,,,Sino-Tibetan,,,Tamangic
-Thakali,Thakali,thak1245,,,,,,Sino-Tibetan,,,Tamangic
-Magar,Magar,maga1261,,,,,,Sino-Tibetan,,,Magar
-Kham,Kham,parb1234,,,,,,Sino-Tibetan,,,Kham
-Kaike,Kaike,kaik1246,,,,,,Sino-Tibetan,,,Kaike
-JirelTibetan,Tibetan (Jirel),jire1238,,,,,,Sino-Tibetan,,,Tibetan
-SherpaTibetan,Tibetan (Sherpa),sher1255,,,,,,Sino-Tibetan,,,Tibetan
-Sunwar,Sunwar,sunw1242,,,,,,Sino-Tibetan,,,Kiranti
-Khaling,Khaling,khal1275,,,,,,Sino-Tibetan,,,Kiranti
-Newar,Newar,newa1246,,,,,,Sino-Tibetan,,,Newaric
-Chepang,Chepang,chep1245,,,,,,Sino-Tibetan,,,Chepang
+ID,Name,Glottocode,Glottolog_Name,ISO639P3code,Macroarea,Latitude,Longitude,Family,ChineseName,Population,SubGroup,Number,Glottolog_name
+Nepali,Nepali,nepa1254,Nepali,,,,,Indo-European,,,Indo-Aryan,1,
+Gurung,Gurung,guru1261,Gurung,,,,,Sino-Tibetan,,,Tamangic,2,
+SahuTamang,Tamang (Sahu),west2415,Western Tamang,,,,,Sino-Tibetan,,,Tamangic,3,
+Thakali,Thakali,thak1245,Thakali,,,,,Sino-Tibetan,,,Tamangic,4,
+Magar,Magar,maga1261,Magar,,,,,Sino-Tibetan,,,Magar,5,
+Kham,Kham,parb1234,Parbate Kham,,,,,Sino-Tibetan,,,Kham,6,
+Kaike,Kaike,kaik1246,Kaike,,,,,Sino-Tibetan,,,Kaike,7,
+JirelTibetan,Tibetan (Jirel),jire1238,Jirel,,,,,Sino-Tibetan,,,Tibetan,8,
+SherpaTibetan,Tibetan (Sherpa),sher1255,Solu-Khumbu Sherpa,,,,,Sino-Tibetan,,,Tibetan,9,
+Sunwar,Sunwar,sunw1242,Sunwar,,,,,Sino-Tibetan,,,Kiranti,10,
+Khaling,Khaling,khal1275,Khaling,,,,,Sino-Tibetan,,,Kiranti,11,
+Newar,Newar,newa1246,Kathmandu Valley Newari,,,,,Sino-Tibetan,,,Newaric,12,
+Chepang,Chepang,chep1245,Chepang,,,,,Sino-Tibetan,,,Chepang,13,

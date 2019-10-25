@@ -1,13 +1,19 @@
 import re
 from collections import namedtuple
 
-from clldutils.misc import slug
-from clldutils.path import Path
-from clldutils.text import strip_brackets, split_text
+import pylexibank
+
+from pathlib import Path
 from csvw import Datatype
+
 from pylexibank.dataset import Dataset as NonSplittingDataset
-from pylexibank.dataset import Language
-from tqdm import tqdm
+from pylexibank import Language
+from pylexibank.util import pb
+from pylexibank import FormSpec
+
+from clldutils.misc import slug
+
+
 import attr
 
 STEDT = namedtuple(
@@ -22,27 +28,25 @@ class HLanguage(Language):
     Latitude = attr.ib(default=None)
     Longitude = attr.ib(default=None)
     SubGroup = attr.ib(default=None)
+    Number = attr.ib(default=None)
+    Glottolog_name = attr.ib(default=None)
 
 
 class Dataset(NonSplittingDataset):
     dir = Path(__file__).parent
     id = "halenepal"
     language_class = HLanguage
+    form_spec = pylexibank.FormSpec(
+        brackets={"(": ")"},
+        separators=";/,",
+        missing_data=('?', '-', '*', '---'),
+        strip_inside_brackets=True
+    )
 
-    def cmd_download(self, **kw):
-        pass
-
-    def clean_form(self, item, form):
-        if form not in ["*", "---", "-"]:
-            form = strip_brackets(split_text(form, separators=";,/")[0])
-            return form
-
-    def cmd_install(self, **kw):
+    def cmd_makecldf(self, args):
         hale, stedt = [], []
-        languages, concepts = {}, {}
-
         reps = [("XIII", "13"), ("XII", "12"), ("A", "a."), ("B", "b."), ("C", "c."), ("D", "d.")]
-
+        # correct individual errors
         mapper = {
             "01.009": "01.009",
             "XIIC56": "12c.56",
@@ -51,20 +55,20 @@ class Dataset(NonSplittingDataset):
             "XIID14": "12d.14",
         }
 
-        # corrected srcids
+        # correct srcids
         fromconcepts = {}
-        for element in self.raw.read_tsv(self.raw / "srcids.tsv"):
+        for element in self.raw_dir.read_csv("srcids.tsv", delimiter="\t"):
             if element:
                 fromconcepts[element[-1]] = element[-2]
 
         hsrcids = set()
-        for element in self.raw.read_tsv(self.raw / "Hale_raw.tsv"):
+        for element in self.raw_dir.read_csv("Hale_raw.tsv", delimiter="\t"):
             if element:
                 hale.append(Hale(*element))
                 hsrcids.add(element[-1])
 
         missing = set()
-        for element in self.raw.read_tsv(self.raw / "AH-CSDPN.tsv")[1:]:
+        for element in self.raw_dir.read_csv("AH-CSDPN.tsv", delimiter="\t")[1:]:
             if element:
                 srcid = fromconcepts.get(element[2], element[-1])
                 element[-1] = srcid
@@ -86,49 +90,35 @@ class Dataset(NonSplittingDataset):
         for i, y in enumerate(missing):
             print("{0:5} | {1:10} | {2:10} | {3}".format(i + 1, y[0], y[1], y[2]))
 
-        with self.cldf as ds:
-            self.cldf.tokenize = lambda x, z: " ".join(
-                self.tokenizer(x, "^" + z + "$", column="IPA")
-            ).split(" + ")
+        args.writer.tokenize = lambda x, z: " ".join(
+            self.tokenizer(x, "^" + z + "$", column="IPA")
+        ).split(" + ")
 
-            # add data to cldf
-            ds["FormTable", "Segments"].separator = " + "
-            ds["FormTable", "Segments"].datatype = Datatype.fromvalue(
-                {"base": "string", "format": "([\\S]+)( [\\S]+)*"}
-            )
+        # add data to cldf
+        args.writer["FormTable", "Segments"].separator = " + "
+        args.writer["FormTable", "Segments"].datatype = Datatype.fromvalue(
+            {"base": "string", "format": "([\\S]+)( [\\S]+)*"}
+        )
 
-            ds.add_sources(*self.raw.read_bib())
+        args.writer.add_sources()
 
-            for concept in self.conceptlist.concepts.values():
-                ds.add_concept(
-                    ID=concept.id,
-                    Name=concept.english,
-                    Concepticon_ID=concept.concepticon_id,
-                    Concepticon_Gloss=concept.concepticon_gloss,
+        concept_check = args.writer.add_concepts(
+                id_factory=lambda x: x.id.split('-')[-1]+'_'+slug(x.english),
                 )
+        language_lookup = args.writer.add_languages(
+                lookup_factory='Name')
 
-            concepts = {
-                concept.english: concept.id for concept in self.conceptlist.concepts.values()
-            }
+        concept_lookup = {}
+        for h in hale:
+            concept_lookup[h.srcid] = h.id.split('-')[-1]+'_'+slug(h.gloss)
 
-            for language in self.languages:
-                ds.add_language(
-                    ID=language["ID"],
-                    Glottocode=language["Glottocode"],
-                    Name=language["Name"],
-                    SubGroup=language['SubGroup'],
-                    Family=language['Family']
-                )
-                languages[language["Name"]] = language["ID"]
-
-            for h in hale:
-                concepts[h.srcid] = h.id
-
-            for entry in tqdm(stedt):
-                ds.add_lexemes(
+        for entry in pb(stedt):
+            if concept_lookup[entry.srcid] in concept_check:
+                args.writer.add_forms_from_value(
                     Local_ID=entry.rn,
-                    Language_ID=languages[entry.language],
-                    Parameter_ID=concepts[entry.srcid],
+                    Language_ID=language_lookup[entry.language],
+                    Parameter_ID=concept_lookup[entry.srcid],
                     Value=entry.reflex,
                     Source=["Hale1973"],
                 )
+
