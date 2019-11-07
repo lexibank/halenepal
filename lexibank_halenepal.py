@@ -22,20 +22,17 @@ STEDT = namedtuple(
 Hale = namedtuple("Hale", ["id", "gloss", "srcid"])
 
 @attr.s
-class HLanguage(Language):
+class CustomLanguage(Language):
     ChineseName = attr.ib(default=None)
     Population = attr.ib(default=None)
-    Latitude = attr.ib(default=None)
-    Longitude = attr.ib(default=None)
     SubGroup = attr.ib(default=None)
     Number = attr.ib(default=None)
-    Glottolog_name = attr.ib(default=None)
 
 
 class Dataset(NonSplittingDataset):
     dir = Path(__file__).parent
     id = "halenepal"
-    language_class = HLanguage
+    language_class = CustomLanguage
     form_spec = pylexibank.FormSpec(
         brackets={"(": ")"},
         separators=";/,",
