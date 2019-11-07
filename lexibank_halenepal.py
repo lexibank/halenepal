@@ -1,25 +1,20 @@
 import re
 from collections import namedtuple
-
-import pylexibank
-
 from pathlib import Path
-from csvw import Datatype
-
-from pylexibank.dataset import Dataset as NonSplittingDataset
-from pylexibank import Language
-from pylexibank.util import pb
-from pylexibank import FormSpec
-
-from clldutils.misc import slug
-
 
 import attr
+import pylexibank
+from clldutils.misc import slug
+from csvw import Datatype
+from pylexibank import Language
+from pylexibank.dataset import Dataset as NonSplittingDataset
+from pylexibank.util import progressbar
 
 STEDT = namedtuple(
     "STEDT", ["rn", "reflex", "gloss", "gfn", "srcabbr", "lgid", "language", "srcid"]
 )
 Hale = namedtuple("Hale", ["id", "gloss", "srcid"])
+
 
 @attr.s
 class CustomLanguage(Language):
@@ -36,8 +31,8 @@ class Dataset(NonSplittingDataset):
     form_spec = pylexibank.FormSpec(
         brackets={"(": ")"},
         separators=";/,",
-        missing_data=('?', '-', '*', '---'),
-        strip_inside_brackets=True
+        missing_data=("?", "-", "*", "---"),
+        strip_inside_brackets=True,
     )
 
     def cmd_makecldf(self, args):
@@ -100,16 +95,15 @@ class Dataset(NonSplittingDataset):
         args.writer.add_sources()
 
         concept_check = args.writer.add_concepts(
-                id_factory=lambda x: x.id.split('-')[-1]+'_'+slug(x.english),
-                )
-        language_lookup = args.writer.add_languages(
-                lookup_factory='Name')
+            id_factory=lambda x: x.id.split("-")[-1] + "_" + slug(x.english)
+        )
+        language_lookup = args.writer.add_languages(lookup_factory="Name")
 
         concept_lookup = {}
         for h in hale:
-            concept_lookup[h.srcid] = h.id.split('-')[-1]+'_'+slug(h.gloss)
+            concept_lookup[h.srcid] = h.id.split("-")[-1] + "_" + slug(h.gloss)
 
-        for entry in pb(stedt):
+        for entry in progressbar(stedt):
             if concept_lookup[entry.srcid] in concept_check:
                 args.writer.add_forms_from_value(
                     Local_ID=entry.rn,
@@ -118,4 +112,3 @@ class Dataset(NonSplittingDataset):
                     Value=entry.reflex,
                     Source=["Hale1973"],
                 )
-
