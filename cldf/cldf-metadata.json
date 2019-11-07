@@ -11,13 +11,13 @@
     "dc:related": null,
     "dc:source": "sources.bib",
     "dc:title": "Wordlists in Selected Languages of Nepal",
-    "dcat:accessURL": "git@github.com:lexibank/halenepal",
+    "dcat:accessURL": "https://github.com/lexibank/halenepal",
     "prov:wasDerivedFrom": [
         {
             "rdf:type": "prov:Entity",
             "dc:title": "Repository",
-            "rdf:about": "git@github.com:lexibank/halenepal",
-            "dc:created": "v1.0.1-9-g0d36247"
+            "rdf:about": "https://github.com/lexibank/halenepal",
+            "dc:created": "v1.0.1-11-g1ceff42"
         },
         {
             "rdf:type": "prov:Entity",
