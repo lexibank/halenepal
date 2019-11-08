@@ -1,8 +1,8 @@
-NUMBER	ID-IN-STEDT	CORRECTED	CONCEPT-IN-STEDT
-1	01.009,12.	1009	all
-2	I.9	1009	all
-3	01.009,12d	1009	all (for things)
-4		1048	hand
+NUMBER	IDINSTEDT	CORRECTED	CONCEPTINSTEDT
+1	01.009,12.	1.009	all
+2	I.9	1.009	all
+3	01.009,12d	1.009	all (for things)
+4		1.048	hand
 5	66	02a.47	armpit
 6	66	02a.51	arm
 7	66	02a.53	palm of hand
@@ -86,3 +86,147 @@ NUMBER	ID-IN-STEDT	CORRECTED	CONCEPT-IN-STEDT
 85	XIIIA4	13a.04	let (smn do sthg) / permit
 86	XIIIA4	13a.04	let (smn do sthg)
 87	XIIIA5	13a.05	cause (smn to do sthg)
+0	09.01	9.01	three
+1	09.02	9.02	four
+2	09.03	9.03	five
+3	09.04	9.04	six
+4	09.05	9.05	seven
+5	09.06	9.06	eight
+6	09.07	9.07	nine
+7	09.08	9.08	ten
+8	09.09	9.09	thirteen
+9	09.10	9.10	nineteen
+10	09.11	9.11	twenty
+11	09.12	9.12	twenty-two
+12	09.13	9.13	twenty-nine
+13	09.14	9.14	thirty-one
+14	09.15	9.15	thirty-nine
+15	09.16	9.16	forty
+16	09.17	9.17	fifty
+17	09.18	9.18	sixty
+18	09.30	9.30	first
+19	09.34	9.34	last
+20	09.35	9.35	half
+21	09.36	9.36	half way
+22	09.41	9.41	pair
+23	09.45	9.45	every
+24	09.48	9.48	something
+25	09.49	9.49	nothing
+26	09.50	9.50	someone
+27	09.51	9.51	no one
+28	09.52	9.52	another
+29	09.54	9.54	some
+30	09.55	9.55	too much
+31	XIIC64	12c.64	where
+32	XIID31	12d.31	until
+33	01.001	1.001	I
+34	01.002	1.002	thou
+35	01.003	1.003	we (du)
+36	01.004	1.004	this
+37	01.005	1.005	that
+38	01.006	1.006	who
+39	01.007	1.007	what
+40	01.008	1.008	not
+41	01.009	1.009	all
+42	01.010	1.010	many
+43	01.011	1.011	one
+44	01.012	1.012	two
+45	01.013	1.013	big
+46	01.014	1.014	long
+47	01.015	1.015	small
+48	01.016	1.016	woman
+49	01.017	1.017	man
+50	01.018	1.018	person
+51	01.019	1.019	fish
+52	01.020	1.020	bird
+53	01.021	1.021	dog
+54	01.022	1.022	louse
+55	01.023	1.023	tree
+56	01.024	1.024	seed
+57	01.025	1.025	leaf
+58	01.026	1.026	root
+59	01.027	1.027	bark (of tree)
+60	01.054	1.054	drink
+61	01.055	1.055	eat
+62	01.057	1.057	see
+63	01.058	1.058	hear
+64	01.059	1.059	know
+65	01.060	1.060	sleep
+66	01.061	1.061	die
+67	01.062	1.062	kill
+68	01.063	1.063	swim
+69	01.067	1.067	lie
+70	01.068	1.068	sit
+71	01.069	1.069	stand
+72	01.071	1.071	say
+73	01.072	1.072	sun
+74	01.073	1.073	moon
+75	01.074	1.074	star
+76	01.075	1.075	water
+77	01.076	1.076	rain
+78	01.077	1.077	stone
+79	01.079	1.079	earth
+80	01.080	1.080	cloud
+81	01.081	1.081	smoke
+82	01.082	1.082	fire
+83	01.083	1.083	ash
+84	01.084	1.084	burn
+85	01.085	1.085	path
+86	01.086	1.086	mountain
+87	01.087	1.087	red
+88	01.088	1.088	green
+89	01.089	1.089	yellow
+90	01.090	1.090	white
+91	01.091	1.091	black
+92	01.092	1.092	night
+93	01.093	1.093	hot
+94	01.094	1.094	cold
+95	01.095	1.095	full
+96	01.097	1.097	good
+97	01.098	1.098	round
+98	01.099	1.099	dry
+99	01.100	1.100	name
+100	09.19	9.19	seventy
+101	09.20	9.20	eighty
+102	09.21	9.21	ninety
+103	09.22	9.22	ninety-eight
+104	09.23	9.23	ninety-nine
+105	09.24	9.24	hundred
+106	09.25	9.25	hundred and two
+107	09.26	9.26	hundred and thirty
+108	09.27	9.27	hundred and ninety
+109	09.28	9.28	hundred, two
+110	09.29	9.29	thousand, one
+111	09.31	9.31	second
+112	09.32	9.32	third
+113	09.33	9.33	eighth
+114	09.37	9.37	third, one-
+115	09.38	9.38	quarter, one-
+116	09.39	9.39	thirds, two-
+117	09.40	9.40	quarters, three-
+118	09.42	9.42	none
+119	09.43	9.43	neither
+120	09.44	9.44	both
+121	09.46	9.46	total
+122	09.47	9.47	together
+123	01.056	1.056	bite
+124	01.064	1.064	fly
+125	01.065	1.065	walk
+126	01.066	1.066	come
+127	01.070	1.070	give
+128	01.078	1.078	sand
+129	01.009,12.	1.009	all
+130	01.096	1.096	new
+131	06a.0406a.	06a.04	place
+132	I.9	1.009	all
+133	01.009;12d	1.009	all (for things)
+1	09.10	9.1	nineteen
+2	09.30	9.3	first
+3	09.50	9.5	someone
+4	01.009	1.009	all
+5	09.20	9.2	eighty
+6	09.40	9.4	quarters, three-
+7	01.009,12.	1.009	all
+8	I.9	1.009	all
+9	01.009,12d	1.009	all
+10	01.009;12d	1.009	all
