@@ -54,6 +54,7 @@ class Dataset(NonSplittingDataset):
             concept_lookup[concept.number] = idx
             for id_in_source in converter[concept.number]:
                 concept_lookup[id_in_source] = idx
+
         language_lookup = args.writer.add_languages(lookup_factory="Name")
         args.writer.add_sources()
 

@@ -32,7 +32,7 @@ ID,Name,Concepticon_ID,Concepticon_Gloss,Number
 55_bite,bite,1403,BITE,1.056
 56_see,see,1409,SEE,1.057
 57_hear,hear,1408,HEAR,1.058
-58_know,know,1410,KNOW (SOMETHING),1.059
+58_know,know,3626,KNOW,1.059
 59_sleep,sleep,1585,SLEEP,1.060
 60_die,die,1494,DIE,1.061
 61_kill,kill,1417,KILL,1.062
@@ -104,7 +104,7 @@ ID,Name,Concepticon_ID,Concepticon_Gloss,Number
 127_neck,neck,1333,NECK,02a.28
 128_shoulder,shoulder,1482,SHOULDER,02a.29
 129_upperback,upper back,445,UPPER BACK,02a.30
-130_lowerback,lower back,,,02a.31
+130_lowerback,lower back,3613,LOWER BACK,02a.31
 131_spine,spine,805,SPINE,02a.32
 132_chest,chest,1592,CHEST,02a.33
 133_rib,rib,801,RIB,02a.34
@@ -184,11 +184,11 @@ ID,Name,Concepticon_ID,Concepticon_Gloss,Number
 207_rollover,roll over,,,02b1.31
 208_run,run,1519,RUN,02b1.32
 209_stoopbenddown,stoop (bend down),2761,BEND (ONESELF),02b1.33
-210_stamp,stamp,,,02b1.34
+210_stamp,stamp,3618,STAMP,02b1.34
 211_stepon,step on,575,TREAD,02b1.35
 212_pressdown,press down,1913,PRESS,02b1.36
 213_strike,strike,353,STRIKE,02b1.37
-214_throwaway,throw away,,,02b1.38
+214_throwaway,throw away,3696,THROW AWAY,02b1.38
 215_stretchitr,stretch (itr),214,STRETCH,02b1.39
 216_tremble,tremble,52,SHIVER,02b1.40
 217_jerkbecauseoffright,jerk (because of fright),,,02b1.41
@@ -203,12 +203,12 @@ ID,Name,Concepticon_ID,Concepticon_Gloss,Number
 226_stop,stop,2880,HALT (STOP),02b1.50
 227_feelbytouch,feel (by touch),2559,FEEL (TACTUALLY),02b1.51
 228_touch,touch,1892,TOUCH,02b1.52
-229_movestiritr,"move, stir (itr)",2874,MOVE (ONESELF),02b1.53
-230_movetootherplace,move to other place,765,MOVE,02b1.54
-231_shiftsth,shift s.th.,,,02b1.54a
+229_movestiritr,"move, stir (itr)",,,02b1.53
+230_movetootherplace,move to other place,2874,MOVE (ONESELF),02b1.54
+231_shiftsth,shift s.th.,765,MOVE,02b1.54a
 232_slip,slip,1324,SLIP,02b1.55
 233_fallover,fall over,2894,TUMBLE (FALL DOWN),02b1.56
-234_stumble,stumble,,,02b1.57
+234_stumble,stumble,3617,STUMBLE,02b1.57
 235_falldown,fall down,1280,FALL,02b1.58
 236_getupitr,get up (itr),,,02b1.59
 237_pickup,pick up,371,PICK UP,02b1.59a
@@ -238,11 +238,11 @@ ID,Name,Concepticon_ID,Concepticon_Gloss,Number
 262_snore,snore,1983,SNORE,02b2.18
 263_wakeupitr,wake up (itr),1602,WAKE UP,02b2.19
 264_breathe,breathe,1407,BREATHE,02b2.20
-265_pant,pant,,,02b2.21
+265_pant,pant,3614,PANT,02b2.21
 266_hiccup,hiccup,162,HICCOUGH,02b2.22
-267_beatheart,beat (heart),1665,BEAT,02b2.23
-268_bleed,bleed,,,02b2.24
-269_faint,faint,,,02b2.25
+267_beatheart,beat (heart),,,02b2.23
+268_bleed,bleed,3615,BLEED,02b2.24
+269_faint,faint,3616,FAINT (PASS OUT),02b2.25
 270_cough,cough,879,COUGH,02b2.26
 271_sneeze,sneeze,1621,SNEEZE,02b2.27
 272_itch,itch,148,ITCH,02b2.28
@@ -312,7 +312,7 @@ ID,Name,Concepticon_ID,Concepticon_Gloss,Number
 336_kid,kid,1972,KID,03a.039
 337_sheep,sheep,1331,SHEEP,03a.040
 338_hog,hog,1337,PIG,03a.041
-339_boar,boar,1348,BOAR,03a.042
+339_boar,boar,1348,BOAR (MALE PIG),03a.042
 340_snout,snout,2200,SNOUT,03a.043
 341_horse,horse,615,HORSE,03a.044
 342_donkey,donkey,1862,DONKEY,03a.045
@@ -321,17 +321,17 @@ ID,Name,Concepticon_ID,Concepticon_Gloss,Number
 345_cat,cat,1208,CAT,03a.048
 346_whiskers,whiskers,,,03a.049
 347_rat,rat,1490,RAT,03a.050
-348_shrew,shrew,,,03a.051
+348_shrew,shrew,3676,SHREW,03a.051
 349_squirrel,squirrel,1628,SQUIRREL,03a.052
 350_monkey,monkey,1350,MONKEY,03a.053
 351_elephant,elephant,1290,ELEPHANT,03a.054
-352_trunk,trunk,,,03a.055
+352_trunk,trunk,3678,ELEPHANT TRUNK,03a.055
 353_tusks,tusks,2495,ELEPHANT TUSK,03a.056
 354_deer,deer,1936,DEER,03a.057
-355_antelope,antelope,,,03a.058
+355_antelope,antelope,3674,ANTELOPE,03a.058
 356_fox,fox,1312,FOX,03a.059
-357_jackal,jackal,,,03a.060
-358_mongoose,mongoose,,,03a.061
+357_jackal,jackal,3313,JACKAL,03a.060
+358_mongoose,mongoose,3677,MONGOOSE,03a.061
 359_bear,bear,1820,BEAR,03a.062
 360_tiger,tiger,846,TIGER,03a.063
 361_leopard,leopard,1139,LEOPARD,03a.064
@@ -372,7 +372,7 @@ ID,Name,Concepticon_ID,Concepticon_Gloss,Number
 396_hive,hive,88,BEEHIVE,03a.099
 397_honey,honey,942,HONEY,03a.100
 398_bark,bark,1206,BARKING,03b.01
-399_growl,growl,,,03b.02
+399_growl,growl,3679,GROWL,03b.02
 400_howl,howl,526,HOWL,03b.03
 401_bite,bite,1403,BITE,03b.04
 402_sniff,sniff,375,SNIFF,03b.05
@@ -381,15 +381,15 @@ ID,Name,Concepticon_ID,Concepticon_Gloss,Number
 405_gritteeth,grit (teeth),,,03b.08
 406_fly,fly,1441,FLY (MOVE THROUGH AIR),03b.09
 407_alight,alight,,,03b.10
-408_perch,perch,,,03b.11
-409_peck,peck,,,03b.12
+408_perch,perch,3682,PERCH (OF BIRD),03b.11
+409_peck,peck,3684,PECK,03b.12
 410_chirp,chirp,,,03b.13
 411_layegg,lay egg,2464,LAY EGGS,03b.14
-412_cackle,cackle,,,03b.15
+412_cackle,cackle,3683,CACKLE,03b.15
 413_brood,brood,2075,BROOD (VERB),03b.16
 414_hatch,hatch,3116,HATCH (OUT),03b.17
 415_bitesnake,bite (snake),1403,BITE,03b.18
-416_hiss,hiss,,,03b.19
+416_hiss,hiss,3685,HISS,03b.19
 417_stinginsects,sting (insects),571,STING,03b.20
 418_crowcock,crow (cock),2074,CROW (VERB),03b.21
 419_huminsects,hum (insects),,,03b.22
@@ -402,7 +402,7 @@ ID,Name,Concepticon_ID,Concepticon_Gloss,Number
 426_miss,miss,161,MISS (A TARGET),03b.29
 427_catchtrap,catch (trap),1170,TRAP (CATCH),03b.30
 428_skin,skin,291,PULL OFF (SKIN),03b.31
-429_singe,singe,,,03b.32
+429_singe,singe,3698,SINGE,03b.32
 430_graze,graze,3058,GRAZE,03b.33
 431_drive,drive,2868,DRIVE (CATTLE),03b.34
 432_lead,lead,43,LEAD (GUIDE),03b.35
@@ -410,7 +410,7 @@ ID,Name,Concepticon_ID,Concepticon_Gloss,Number
 434_getloose,get loose,2506,LOOSE,03b.37
 435_goastray,go astray,,,03b.38
 436_wallow,wallow,,,03b.39
-437_ruminate,ruminate,,,03b.40
+437_ruminate,ruminate,3680,RUMINATE,03b.40
 438_milkacow,milk a cow,93,DRAW MILK,03b.41
 439_fightanimals,fight (animals),1423,FIGHT,03b.42
 440_bellowbull,bellow (bull),,,03b.43
@@ -427,9 +427,9 @@ ID,Name,Concepticon_ID,Concepticon_Gloss,Number
 662_place,place,723,PLACE (POSITION),06a.04
 663_corner,corner,192,CORNER,06a.05
 664_house,house,1252,HOUSE,06a.06
-665_granary,granary,,,06a.07
+665_granary,granary,3657,GRANARY,06a.07
 666_vegetablepatch,vegetable patch,,,06a.08
-667_cowshed,cow shed,3025,BARN OR SHED,06a.09
+667_cowshed,cow shed,851,STABLE,06a.09
 668_hoghouse,hog house,,,06a.10
 669_chickenhouse,chicken house,,,06a.11
 670_cage,cage,,,06a.12
@@ -466,18 +466,18 @@ ID,Name,Concepticon_ID,Concepticon_Gloss,Number
 701_soot,soot,830,SOOT,06a.43
 702_grinder,grinder,,,06a.44
 703_griddle,griddle,,,06a.45
-704_mortar,mortar,224,MORTAR CRUSHER,06a.46
+704_mortar,mortar,224,MORTAR,06a.46
 705_pestle,pestle,225,PESTLE,06a.47
 706_flame,flame,889,FLAME,06a.48
 707_sparks,sparks,518,SPARK,06a.49
 708_steam,steam,1193,STEAM,06a.50
 709_broom,broom,245,BROOM,06a.51
 710_sweepings,sweepings,,,06a.52
-711_bellows,bellows,,,06a.53
+711_bellows,bellows,3658,BELLOWS,06a.53
 712_firetongs,fire tongs,272,TONGS,06a.54
 713_kindling,kindling,,,06a.55
 714_fryingpan,frying pan,31,PAN,06a.56
-778_tickle,tickle,,,06b2.25
+778_tickle,tickle,3647,TICKLE (SOMEBODY),06b2.25
 1059_three,three,492,THREE,9.01
 1060_four,four,1500,FOUR,9.02
 1061_five,five,493,FIVE,9.03
@@ -533,7 +533,7 @@ ID,Name,Concepticon_ID,Concepticon_Gloss,Number
 1111_some,some,1241,SOME,9.54
 1112_toomuch,too much,,,9.55
 1113_love,love,,,10a.01
-1114_hate,hate,,,10a.02
+1114_hate,hate,3749,HATE (LOATHING),10a.02
 1115_envy,envy,40,ENVY,10a.03
 1116_pride,pride,,,10a.04
 1117_generosity,generosity,,,10a.05
@@ -548,7 +548,7 @@ ID,Name,Concepticon_ID,Concepticon_Gloss,Number
 1126_dwarf,dwarf,,,10a.14
 1127_lefthandedperson,left-handed person,2825,LEFT HANDED,10a.15
 1128_stammerer,stammerer,,,10a.16
-1129_cripple,cripple,,,10a.17
+1129_cripple,cripple,3621,DISABLED PERSON,10a.17
 1130_health,health,1364,HEALTHY,10a.18
 1131_injury,injury,2947,DAMAGE (INJURY),10a.19
 1132_wound,wound,1109,WOUND,10a.20
@@ -561,7 +561,7 @@ ID,Name,Concepticon_ID,Concepticon_Gloss,Number
 1139_sneeze,sneeze,,,10a.27
 1140_hiccup,hiccup,,,10a.28
 1141_disease,disease,1986,DISEASE,10a.29
-1142_leprosy,leprosy,,,10a.30
+1142_leprosy,leprosy,3624,LEPROSY,10a.30
 1143_tuberculosis,tuberculosis,,,10a.31
 1144_malaria,malaria,3059,MALARIA,10a.32
 1145_cholera,cholera,,,10a.33
@@ -582,7 +582,7 @@ ID,Name,Concepticon_ID,Concepticon_Gloss,Number
 1160_cemetery,cemetery,,,10a.48
 1161_cremation,cremation,,,10a.49
 1162_burningplace,burning place,,,10a.50
-1163_mourning,mourning,,,10a.51
+1163_mourning,mourning,3673,MOURNING,10a.51
 1164_otherworlds,other worlds,,,10a.52
 1165_ghost,ghost,1175,GHOST,10a.53
 1166_spirit,spirit,53,SPIRIT,10a.54
@@ -617,7 +617,7 @@ ID,Name,Concepticon_ID,Concepticon_Gloss,Number
 1195_shout,shout,715,SHOUT,10b1.10
 1196_exaggerate,exaggerate,,,10b1.11
 1197_boast,boast,101,BOAST,10b1.12
-1198_agree,agree,,,10b1.13
+1198_agree,agree,3643,AGREE,10b1.13
 1199_advice,advice,,,10b1.14
 1200_ask,ask,1309,ASK (INQUIRE),10b1.15
 1201_answer,answer,1275,ANSWER,10b1.16
@@ -627,7 +627,7 @@ ID,Name,Concepticon_ID,Concepticon_Gloss,Number
 1205_request,request,1828,ASK (REQUEST),10b1.20
 1206_beg,beg,3534,BEG,10b1.21
 1207_persist,persist,,,10b1.22
-1208_persuade,persuade,,,10b1.23
+1208_persuade,persuade,3645,PERSUADE,10b1.23
 1209_force,force,,,10b1.24
 1210_threaten,threaten,1192,THREATEN,10b1.25
 1211_tempt,tempt,,,10b1.26
@@ -666,7 +666,7 @@ ID,Name,Concepticon_ID,Concepticon_Gloss,Number
 1244_cheat,cheat,3230,DECEIVE,10b1.59
 1245_command,command,1998,COMMAND,10b1.60
 1246_spreadnewsitr,spread news (itr),,,10b1.61
-1247_complain,complain,,,10b1.62
+1247_complain,complain,3642,COMPLAIN,10b1.62
 1248_annoy,annoy,2892,MAKE ANGRY (ANNOY),10b1.63
 1249_tease,tease,,,10b1.64
 1250_ridicule,ridicule,,,10b1.65
@@ -677,10 +677,10 @@ ID,Name,Concepticon_ID,Concepticon_Gloss,Number
 1255_ignore,ignore,41,IGNORE,10b1.70
 1256_getstuck,get stuck,,,10b1.71
 1257_forbid,forbid,83,FORBID,10b1.72
-1258_avoidsb,avoid s.b.,,,10b1.73
+1258_avoidsb,avoid s.b.,3639,AVOID,10b1.73
 1259_hurtnotphysically,hurt (not physically),2411,HURT (SOMEBODY),10b1.74
 1260_lie,lie,601,LIE (MISLEAD),10b1.75
-1261_pretend,pretend,,,10b1.76
+1261_pretend,pretend,3631,PRETEND,10b1.76
 1262_flatter,flatter,2709,FLATTER,10b1.77
 1263_flirt,flirt,494,FLIRT,10b1.78
 1264_feelatease,feel at ease,,,10b1.79
@@ -707,10 +707,10 @@ ID,Name,Concepticon_ID,Concepticon_Gloss,Number
 1285_doubt,doubt,3536,DOUBT (SOMETHING),10b2.13
 1286_see,see,1409,SEE,10b2.14
 1287_lookat,look at,1819,LOOK,10b2.15
-1288_compare,compare,,,10b2.16
+1288_compare,compare,3429,COMPARE,10b2.16
 1289_resemble,resemble,1777,RESEMBLE,10b2.17
 1290_describe,describe,,,10b2.18
-1291_know,know,1410,KNOW (SOMETHING),10b2.19
+1291_know,know,3626,KNOW,10b2.19
 1292_imagine,imagine,,,10b2.20
 1293_examine,examine,,,10b2.21
 1294_count,count,1420,COUNT,10b2.22
@@ -726,8 +726,8 @@ ID,Name,Concepticon_ID,Concepticon_Gloss,Number
 1431_play,play,1413,PLAY,11b1.02
 1432_sing,sing,1261,SING,11b1.03
 1433_whistle,whistle,1025,WHISTLE,11b1.04
-1434_humatune,hum (a tune),,,11b1.05
-1435_beatdrum,beat drum,1665,BEAT,11b1.06
+1434_humatune,hum (a tune),3671,HUM,11b1.05
+1435_beatdrum,beat drum,,,11b1.06
 1436_playinstr,play instr.,3124,PLAY (INSTRUMENT),11b1.07
 1437_sound,sound,2879,SOUND (OF INSTRUMENT OR VOICE),11b1.08
 1438_rattle,rattle,,,11b1.09
@@ -735,21 +735,21 @@ ID,Name,Concepticon_ID,Concepticon_Gloss,Number
 1440_snapwithfingers,snap with fingers,,,11b1.11
 1441_visit,visit,1377,VISIT,11b1.12
 1442_welcome,welcome,,,11b1.13
-1443_gossip,gossip,,,11b1.14
+1443_gossip,gossip,3640,GOSSIP,11b1.14
 1444_joke,joke,2760,MAKE A JOKE,11b1.15
 1445_amuse,amuse,,,11b1.16
 1446_smoke,smoke,1689,SMOKE (INHALE),11b1.17
 1447_gamble,gamble,,,11b1.18
 1448_getdrunk,get drunk,1463,DRUNK,11b1.19
-1449_travel,travel,,,11b1.20
+1449_travel,travel,3665,TRAVEL,11b1.20
 1450_prepare,prepare,2909,PREPARE,11b1.21
 1451_decide,decide,685,DECIDE,11b1.22
 1452_walk,walk,1443,WALK,11b1.23
-1453_wander,wander,,,11b1.24
+1453_wander,wander,3666,WANDER,11b1.24
 1454_overtake,over take,,,11b1.25
 1455_passby,pass by,558,PASS BY,11b1.26
 1456_point,point,2669,POINT (WITH FINGER),11b1.27
-1457_load,load,,,11b1.28
+1457_load,load,3669,LOAD (SOMETHING),11b1.28
 1458_craminto,cram into,,,11b1.29
 1459_carry,carry,700,CARRY,11b1.30
 1460_leavestartout,"leave, start out",1752,LEAVE,11b1.31
@@ -758,7 +758,7 @@ ID,Name,Concepticon_ID,Concepticon_Gloss,Number
 1463_reachthere,reach there,1387,ARRIVE,11b1.34
 1464_arrivehere,arrive here,1387,ARRIVE,11b1.35
 1465_return,return,581,COME BACK,11b1.36
-1466_paddle,paddle,,,11b1.37
+1466_paddle,paddle,3668,PADDLE (MOVEMENT),11b1.37
 1467_buy,buy,1869,BUY,11b2.01
 1468_sell,sell,1571,SELL,11b2.02
 1469_pay,pay,718,PAY,11b2.03
@@ -778,7 +778,7 @@ ID,Name,Concepticon_ID,Concepticon_Gloss,Number
 1483_marry,marry,203,MARRY,11b2.17
 1484_giveinmarriage,give in marriage,,,11b2.18
 1485_settlemarriage,settle (marriage),,,11b2.19
-1486_divorce,divorce,,,11b2.20
+1486_divorce,divorce,3672,DIVORCE (SEPARATE),11b2.20
 1487_desert,desert,,,11b2.21
 1488_bedefiled,be defiled,,,11b2.22
 1489_fulfillworksofpurification,fulfill works of purification,,,11b2.23
@@ -786,11 +786,11 @@ ID,Name,Concepticon_ID,Concepticon_Gloss,Number
 1491_becomepurified,become purified,,,11b2.25
 1492_becomeunclean,become unclean,,,11b2.26
 1493_bury,bury,1719,BURY,11b2.27
-1494_inherit,inherit,,,11b2.28
+1494_inherit,inherit,3664,INHERIT,11b2.28
 1495_divide,divide,1119,DIVIDE,11b2.29
 1496_share,share,884,SHARE,11b2.30
 1497_own,own,684,OWN,11b2.31
-1498_serveamaster,serve a master,,,11b2.32
+1498_serveamaster,serve a master,3648,SERVE (SOMEONE),11b2.32
 1499_swearoath,swear oath,1939,SWEAR,11b2.33
 1500_assemble,assemble,,,11b2.34
 1501_elect,elect,,,11b2.35
@@ -798,9 +798,9 @@ ID,Name,Concepticon_ID,Concepticon_Gloss,Number
 1503_collecttaxes,collect taxes,,,11b2.37
 1504_rob,rob,2073,ROB (VERB),11b3.01
 1505_steal,steal,713,STEAL,11b3.02
-1506_plunder,plunder,,,11b3.03
+1506_plunder,plunder,3670,PLUNDER,11b3.03
 1507_attack,attack,,,11b3.04
-1508_insult,insult,557,OFFEND,11b3.05
+1508_insult,insult,3204,INSULT,11b3.05
 1509_conspire,conspire,,,11b3.06
 1510_transgress,transgress,,,11b3.07
 1511_suspectso,suspect s.o.,1841,SUSPECT,11b3.08
@@ -830,7 +830,7 @@ ID,Name,Concepticon_ID,Concepticon_Gloss,Number
 1535_numb,numb,,,12a.10
 1536_blind,blind,1653,BLIND,12a.11
 1537_deaf,deaf,996,DEAF,12a.12
-1538_curious,curious,,,12a.13
+1538_curious,curious,3633,CURIOUS,12a.13
 1539_attentive,attentive,1908,ATTENTIVE,12a.14
 1540_careful,careful,2758,CAREFUL,12a.15
 1541_careless,careless,,,12a.16
@@ -857,7 +857,7 @@ ID,Name,Concepticon_ID,Concepticon_Gloss,Number
 1562_severe,severe,419,SEVERE,12a.37
 1563_lenient,lenient,,,12a.38
 1564_obedient,obedient,,,12a.39
-1565_generous,generous,,,12a.40
+1565_generous,generous,3632,GENEROUS,12a.40
 1566_stingy,stingy,1774,STINGY,12a.41
 1567_content,content,,,12a.42
 1568_discontent,discontent,,,12a.43
@@ -901,7 +901,7 @@ ID,Name,Concepticon_ID,Concepticon_Gloss,Number
 1606_flexible,flexible,1691,FLEXIBLE,12b.11
 1607_brittle,brittle,,,12b.12
 1608_slick,slick,,,12b.13
-1609_sticky,sticky,,,12b.14
+1609_sticky,sticky,3703,STICKY,12b.14
 1610_greasy,greasy,955,GREASY,12b.15
 1611_damp,damp,2998,DAMP,12b.16
 1612_wet,wet,1726,WET,12b.17
@@ -970,7 +970,7 @@ ID,Name,Concepticon_ID,Concepticon_Gloss,Number
 1676_smooth,smooth,1234,SMOOTH,12c.28
 1677_rough,rough,1923,ROUGH,12c.29
 1678_solid,solid,3003,SOLID,12c.30
-1679_hollow,hollow,,,12c.31
+1679_hollow,hollow,3701,HOLLOW,12c.31
 1680_empty,empty,1624,EMPTY,12c.32
 1681_open,open,,,12c.33
 1682_shut,shut,,,12c.34
@@ -992,7 +992,7 @@ ID,Name,Concepticon_ID,Concepticon_Gloss,Number
 1726_false,false,3069,FALSE,12d.14
 1743_until,until,2753,UNTIL,12d.31
 1744_canbeabletodosomething,can (be able to do something),972,BE ABLE,13a.01
-1745_knowsomething,know (something),2238,KNOW OR BE ABLE,13a.02
+1745_knowsomething,know (something),1410,KNOW (SOMETHING),13a.02
 1746_benefactive,benefactive,,,13a.03
 1747_letsodosth,let (s.o. do s.th.),1003,PERMIT,13a.04
 1748_causesotodosth,cause (s.o. to do s.th.),2896,CAUSE TO (LET),13a.05

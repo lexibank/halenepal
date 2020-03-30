@@ -14,7 +14,7 @@ Conceptlists in Concepticon:
 
 [![Build Status](https://travis-ci.org/lexibank/halenepal.svg?branch=master)](https://travis-ci.org/lexibank/halenepal)
 ![Glottolog: 100%](https://img.shields.io/badge/Glottolog-100%25-brightgreen.svg "Glottolog: 100%")
-![Concepticon: 71%](https://img.shields.io/badge/Concepticon-71%25-yellow.svg "Concepticon: 71%")
+![Concepticon: 76%](https://img.shields.io/badge/Concepticon-76%25-yellow.svg "Concepticon: 76%")
 ![Source: 100%](https://img.shields.io/badge/Source-100%25-brightgreen.svg "Source: 100%")
 ![BIPA: 100%](https://img.shields.io/badge/BIPA-100%25-brightgreen.svg "BIPA: 100%")
 ![CLTS SoundClass: 100%](https://img.shields.io/badge/CLTS%20SoundClass-100%25-brightgreen.svg "CLTS SoundClass: 100%")
@@ -28,3 +28,14 @@ Conceptlists in Concepticon:
 - **Tokens:** 69,365
 - **Segments:** 158 (0 BIPA errors, 0 CTLS sound class errors, 158 CLTS modified)
 - **Inventory size (avg):** 69.31
+
+# Contributors
+
+Name               | GitHub user | Role
+---                | ---         | ---
+Christoph Rzymski  | @chrzyki    | maintainer
+Johann-Mattis List | @LinguList  | maintainer
+Natalia Morozowa   |             | concept mapping
+STEDT 	           |  https://stedt.berkeley.edu/           | digitization
+
+
