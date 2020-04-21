@@ -1,8 +1,8 @@
 # Contributors
 
-Name               | GitHub user | Role
----                | ---         | ---
-Christoph Rzymski  | @chrzyki    | maintainer
-Johann-Mattis List | @LinguList  | maintainer
-Natalia Morozowa   |             | concept mapping
-STEDT 	           |  https://stedt.berkeley.edu/           | digitization
+Name               | GitHub user | Description | Role
+---                | ---         | --- | ---
+Christoph Rzymski  | @chrzyki    | maintainer | Author
+Johann-Mattis List | @LinguList  | maintainer | Author
+Natalia Morozowa   |             | concept mapping | Contributor
+STEDT 	           |  https://stedt.berkeley.edu/           | digitization | Editor
