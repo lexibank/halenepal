@@ -17,24 +17,24 @@
             "rdf:type": "prov:Entity",
             "dc:title": "Repository",
             "rdf:about": "https://github.com/lexibank/halenepal",
-            "dc:created": "v2.0-7-g6d42341"
+            "dc:created": "v2.0-8-g56bcb3d"
         },
         {
             "rdf:type": "prov:Entity",
             "dc:title": "Glottolog",
-            "rdf:about": "https://github.com/lingulist/glottolog-data",
-            "dc:created": "v4.0"
+            "rdf:about": "https://github.com/glottolog/glottolog",
+            "dc:created": "v4.2.1"
         },
         {
             "rdf:type": "prov:Entity",
             "dc:title": "Concepticon",
             "rdf:about": "https://github.com/concepticon/concepticon-data",
-            "dc:created": "v2.3.0-59-gc9d83e8"
+            "dc:created": "v2.3.0-117-g24f4524"
         },
         {
             "rdf:type": "prov:Entity",
             "dc:title": "CLTS",
-            "rdf:about": "https://github.com/cldf-clts/clts/",
+            "rdf:about": "https://github.com/cldf-clts/clts",
             "dc:created": "v1.4"
         }
     ],
