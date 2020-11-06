@@ -8,6 +8,7 @@
     ],
     "dc:identifier": "https://stedt.berkeley.edu/~stedt-cgi/rootcanal.pl/source/AH-CSDPN",
     "dc:isVersionOf": null,
+    "dc:license": "https://creativecommons.org/licenses/by/4.0/",
     "dc:related": null,
     "dc:source": "sources.bib",
     "dc:title": "CLDF dataset derived from Hale's \"Wordlists in Selected Languages of Nepal\" from 1973",
@@ -17,7 +18,7 @@
             "rdf:type": "prov:Entity",
             "dc:title": "Repository",
             "rdf:about": "https://github.com/lexibank/halenepal",
-            "dc:created": "v2.0-11-g43ab535"
+            "dc:created": "v2.0-13-ga0d7167"
         },
         {
             "rdf:type": "prov:Entity",

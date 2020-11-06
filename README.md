@@ -4,6 +4,8 @@ Cite the source dataset as
 
 > Hale, Austin (1973): Clause, sentences, and discourse patterns in selected languages of Nepal. Kathmandu: Institute of Nepal and Asiatic Studies.
 
+This dataset is licensed under a CC-BY-4.0 license
+
 Available online at https://stedt.berkeley.edu/~stedt-cgi/rootcanal.pl/source/AH-CSDPN
 
 
@@ -31,11 +33,11 @@ Conceptlists in Concepticon:
 
 # Contributors
 
-Name               | GitHub user | Description | Role
----                | ---         | --- | ---
-Christoph Rzymski  | @chrzyki    | maintainer | Author
-Johann-Mattis List | @LinguList  | maintainer | Author
-Natalia Morozowa   |             | concept mapping | Contributor
-STEDT 	           |  https://stedt.berkeley.edu/           | digitization | Editor
+Name               | GitHub user | Description     | Role
+---                | ---         | ---             | ---
+Christoph Rzymski  | @chrzyki    | maintainer      | Author
+Johann-Mattis List | @LinguList  | maintainer      | Author
+Natalia Morozowa   |             | concept mapping | Other
+STEDT              |             | digitization    | Editor
 
 
