@@ -7,13 +7,18 @@
     ],
     "creators": [
         {
-            "name": "Christoph Rzymski"
-        },
-        {
-            "name": "Johann-Mattis List"
+            "name": "Austin Hale"
         }
     ],
     "contributors": [
+        {
+            "name": "Christoph Rzymski",
+            "type": "Other"
+        },
+        {
+            "name": "Johann-Mattis List",
+            "type": "Other"
+        },
         {
             "name": "Natalia Morozowa",
             "type": "Other"
@@ -21,6 +26,10 @@
         {
             "name": "STEDT",
             "type": "Editor"
+        },
+        {
+            "name": "STEDT",
+            "type": "Distributor"
         }
     ],
     "communities": [

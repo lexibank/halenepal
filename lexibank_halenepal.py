@@ -1,10 +1,9 @@
-from collections import defaultdict 
+from collections import defaultdict
 from pathlib import Path
 
 import attr
 import pylexibank
 from clldutils.misc import slug
-from csvw import Datatype
 from pylexibank import Language, Concept
 from pylexibank.dataset import Dataset as NonSplittingDataset
 from pylexibank.util import progressbar
@@ -12,8 +11,6 @@ from pylexibank.util import progressbar
 
 @attr.s
 class CustomLanguage(Language):
-    ChineseName = attr.ib(default=None)
-    Population = attr.ib(default=None)
     SubGroup = attr.ib(default=None)
     Number = attr.ib(default=None)
 
@@ -58,15 +55,14 @@ class Dataset(NonSplittingDataset):
         language_lookup = args.writer.add_languages(lookup_factory="Name")
         args.writer.add_sources()
 
-        for row in progressbar(self.raw_dir.read_csv("AH-CSDPN.tsv",
-            delimiter="\t")[1:]):
+        for row in progressbar(self.raw_dir.read_csv("AH-CSDPN.tsv", delimiter="\t")[1:]):
             args.writer.add_forms_from_value(
-                    Local_ID=row[0],
-                    Language_ID=language_lookup[row[6]],
-                    Parameter_ID=concept_lookup[row[7]],
-                    Value=row[1],
-                    Source=["Hale1973"],
-                )
+                Local_ID=row[0],
+                Language_ID=language_lookup[row[6]],
+                Parameter_ID=concept_lookup[row[7]],
+                Value=row[1],
+                Source=["Hale1973"],
+            )
 
         for row in progressbar(self.raw_dir.read_csv("AH-CSDPN.tsv", delimiter="\t")[1:]):
             args.writer.add_forms_from_value(
