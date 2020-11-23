@@ -18,7 +18,7 @@
             "rdf:type": "prov:Entity",
             "dc:title": "Repository",
             "rdf:about": "https://github.com/lexibank/halenepal",
-            "dc:created": "v2.0-9-g4ce1884"
+            "dc:created": "v2.0-10-g160b732"
         },
         {
             "rdf:type": "prov:Entity",
@@ -216,10 +216,6 @@
                     {
                         "datatype": "string",
                         "name": "Family"
-                    },
-                    {
-                        "datatype": "string",
-                        "name": "ChineseName"
                     },
                     {
                         "datatype": "string",
