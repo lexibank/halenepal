@@ -26,6 +26,10 @@
         {
             "name": "STEDT",
             "type": "Editor"
+        },
+        {
+            "name": "STEDT",
+            "type": "Distributor"
         }
     ],
     "communities": [
