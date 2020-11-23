@@ -1,4 +1,6 @@
 Grapheme	IPA
+^-	NULL
+-$	NULL
 P	p
 ě	e
 ī	iː
@@ -46,12 +48,15 @@ $	NULL
 'š	'/ʃ
 '◦	+
 +	+
-+$	+
++$	NULL
+^+	NULL
 -	+
 .	+
 0	+
 :	NULL
 =	+
+^=	NULL
+=$	NULL
 ?	ʔ
 ?$	ʔ
 ??	ʔ + ʔ

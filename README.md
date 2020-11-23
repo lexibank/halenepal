@@ -4,6 +4,8 @@ Cite the source dataset as
 
 > Hale, Austin (1973): Clause, sentences, and discourse patterns in selected languages of Nepal. Kathmandu: Institute of Nepal and Asiatic Studies.
 
+This dataset is licensed under a CC-BY-4.0 license
+
 Available online at https://stedt.berkeley.edu/~stedt-cgi/rootcanal.pl/source/AH-CSDPN
 
 
@@ -25,7 +27,7 @@ Conceptlists in Concepticon:
 - **Sources:** 1
 - **Synonymy:** 2.28
 - **Invalid lexemes:** 0
-- **Tokens:** 155,596
+- **Tokens:** 155,300
 - **Segments:** 158 (0 BIPA errors, 0 CTLS sound class errors, 158 CLTS modified)
 - **Inventory size (avg):** 69.46
 

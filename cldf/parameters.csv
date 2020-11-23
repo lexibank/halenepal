@@ -96,7 +96,7 @@ ID,Name,Concepticon_ID,Concepticon_Gloss,Number
 119_jaw,jaw,798,JAW,02a.20
 120_face,face,1560,FACE,02a.21
 121_chin,chin,1510,CHIN,02a.22
-122_eyeball,eyeball,1248,EYE,02a.23
+122_eyeball,eyeball,3807,EYEBALL,02a.23
 123_nostril,nostril,1178,NOSTRIL,02a.24
 124_lip,lip,478,LIP,02a.25
 125_molar,molar,1049,MOLAR TOOTH,02a.26
@@ -130,7 +130,7 @@ ID,Name,Concepticon_ID,Concepticon_Gloss,Number
 153_finger,finger,1303,FINGER,02a.54
 154_thumb,thumb,1781,THUMB,02a.55
 155_leg,leg,1297,LEG,02a.56
-156_thigh,thigh,800,THIGH,02a.57
+156_thigh,thigh,471,UPPER LEG (THIGH),02a.57
 157_shin,shin,186,SHIN,02a.58
 158_calf,calf,1989,CALF,02a.59
 159_heel,heel,980,HEEL,02a.60
@@ -230,7 +230,7 @@ ID,Name,Concepticon_ID,Concepticon_Gloss,Number
 253_beborn,be born,1090,BE BORN,02b2.11
 254_givebirth,give birth,1195,GIVE BIRTH,02b2.11a
 255_conceivebecomepregnant,conceive (become pregnant),1087,CONCEIVE,02b2.12
-256_havesexualintercourse,have sexual intercourse,1785,HAVE SEX,02b2.13
+256_havesexualintercourse,have sexual intercourse,549,COPULATE,02b2.13
 257_die,die,1494,DIE,02b2.14
 259_tire,tire,1996,GET TIRED,02b2.15
 260_sleep,sleep,1585,SLEEP,02b2.16
@@ -279,7 +279,7 @@ ID,Name,Concepticon_ID,Concepticon_Gloss,Number
 303_duck,duck,1360,DUCK,03a.006
 304_pigeon,pigeon,1853,DOVE,03a.007
 305_pheasant,pheasant,3060,PHEASANT,03a.008
-306_peacock,peacock,,,03a.009
+306_peacock,peacock,3382,PEACOCK,03a.009
 307_sparrow,sparrow,1854,SPARROW,03a.010
 308_swallow,swallow,3077,SWALLOW (BIRD),03a.011
 309_bill,bill,,,03a.012
@@ -514,7 +514,7 @@ ID,Name,Concepticon_ID,Concepticon_Gloss,Number
 1092_last,last,1529,LAST (FINAL),9.34
 1093_half,half,816,HALF,9.35
 1094_halfway,half way,,,9.36
-1095_onethird,one-third,,,9.37
+1095_onethird,one-third,3842,ONE THIRD,9.37
 1096_onequarter,one quarter,,,9.38
 1097_twothirds,two thirds,,,9.39
 1098_threequarters,three quarters,,,9.4
@@ -579,7 +579,7 @@ ID,Name,Concepticon_ID,Concepticon_Gloss,Number
 1157_death,death,910,DEATH,10a.45
 1158_corpse,corpse,767,CORPSE,10a.46
 1159_burial,burial,,,10a.47
-1160_cemetery,cemetery,,,10a.48
+1160_cemetery,cemetery,3284,GRAVEYARD,10a.48
 1161_cremation,cremation,,,10a.49
 1162_burningplace,burning place,,,10a.50
 1163_mourning,mourning,3673,MOURNING,10a.51
@@ -613,7 +613,7 @@ ID,Name,Concepticon_ID,Concepticon_Gloss,Number
 1191_whisper,whisper,55,WHISPER,10b1.06
 1192_murmur,murmur,,,10b1.07
 1193_chatter,chatter,,,10b1.08
-1194_scream,scream,,,10b1.09
+1194_scream,scream,3809,SCREAM (PRODUCE A CRY),10b1.09
 1195_shout,shout,715,SHOUT,10b1.10
 1196_exaggerate,exaggerate,,,10b1.11
 1197_boast,boast,101,BOAST,10b1.12
@@ -869,7 +869,7 @@ ID,Name,Concepticon_ID,Concepticon_Gloss,Number
 1574_ugly,ugly,1548,UGLY,12a.49
 1575_brave,brave,3,BRAVE,12a.50
 1576_fearful,fearful,528,DREADFUL,12a.51
-1577_cowardly,cowardly,,,12a.52
+1577_cowardly,cowardly,3812,COWARDLY,12a.52
 1578_cautious,cautious,,,12a.53
 1579_proud,proud,174,PROUD,12a.54
 1580_humble,humble,,,12a.55

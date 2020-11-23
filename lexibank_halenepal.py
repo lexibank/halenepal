@@ -13,7 +13,6 @@ from pylexibank.util import progressbar
 @attr.s
 class CustomLanguage(Language):
     ChineseName = attr.ib(default=None)
-    Population = attr.ib(default=None)
     SubGroup = attr.ib(default=None)
     Number = attr.ib(default=None)
 

@@ -1,7 +1,7 @@
 {
     "title": "CLDF dataset derived from Hale's \"Wordlists in Selected Languages of Nepal\" from 1973",
     "url": "https://stedt.berkeley.edu/~stedt-cgi/rootcanal.pl/source/AH-CSDPN",
-    "license": "CCBY-NC",
+    "license": "CC-BY-4.0",
     "conceptlist": "Hale-1973-1798",
     "citation": "Hale, Austin (1973): Clause, sentences, and discourse patterns in selected languages of Nepal. Kathmandu: Institute of Nepal and Asiatic Studies."
 }

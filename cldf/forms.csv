@@ -395,8 +395,8 @@ Chepang-1111_some-1,265574,Chepang,1111_some,bola,bola,b o l a,,Hale1973,,,^b o 
 Chepang-1112_toomuch-1,265589,Chepang,1112_toomuch,ʔāna nāʔ.to,ʔāna nāʔ.to,ʔ aː n a + n aː ʔ + t o,,Hale1973,,,^ʔ ā n a + n ā ʔ . t o$,default
 Chepang-1744_canbeabletodosomething-1,265600,Chepang,1744_canbeabletodosomething,khāy.sā,khāy.sā,kʰ aː j + s aː,,Hale1973,,,^kh ā y . s ā$,default
 Chepang-1745_knowsomething-1,265611,Chepang,1745_knowsomething,ciʔ.sā,ciʔ.sā,tʃ i ʔ + s aː,,Hale1973,,,^c i ʔ . s ā$,default
-Chepang-1747_letsodosth-1,265632,Chepang,1747_letsodosth,pā-,pā-,p aː +,,Hale1973,,,^p ā - $,default
-Chepang-1748_causesotodosth-1,265643,Chepang,1748_causesotodosth,tāk-,tāk-,t aː k +,,Hale1973,,,^t ā k - $,default
+Chepang-1747_letsodosth-1,265632,Chepang,1747_letsodosth,pā-,pā-,p aː,,Hale1973,,,^p ā -$,default
+Chepang-1748_causesotodosth-1,265643,Chepang,1748_causesotodosth,tāk-,tāk-,t aː k,,Hale1973,,,^t ā k -$,default
 Chepang-1113_love-1,265660,Chepang,1113_love,moh,moh,m o h,,Hale1973,,,^m o h$,default
 Chepang-1114_hate-1,265673,Chepang,1114_hate,corʔmuh,corʔmuh,tʃ o r ʔ m u h,,Hale1973,,,^c o r ʔ m u h$,default
 Chepang-1124_life-1,265798,Chepang,1124_life,jyān,jyān,dʒ j aː n,,Hale1973,,,^j y ā n$,default
@@ -481,18 +481,18 @@ Chepang-1688_slow-1,267136,Chepang,1688_slow,jok.mā.lo,jok.mā.lo,dʒ o k + m a
 Chepang-1688_slow-2,267137,Chepang,1688_slow,renh.mā.lo,renh.mā.lo,r e n̊ + m aː + l o,,Hale1973,,,^r e nh . m ā . l o$,default
 Chepang-1689_slowly-1,267150,Chepang,1689_slowly,guni,guni,g u n i,,Hale1973,,,^g u n i$,default
 Chepang-1690_cubitelbowtofingertip-1,267161,Chepang,1690_cubitelbowtofingertip,kru,kru,k r u,,Hale1973,,,^k r u$,default
-Chepang-1692_from-1,267192,Chepang,1692_from,-say,-say,+ s a j,,Hale1973,,,^ - s a y$,default
-Chepang-1693_into-1,267211,Chepang,1693_into,-hāng,-hāng,+ h aː ŋ,,Hale1973,,,^ - h ā ng $,default
-Chepang-1712_where-1,267229,Chepang,1712_where,-say,-say,+ s a j,,Hale1973,,,^ - s a y$,default
+Chepang-1692_from-1,267192,Chepang,1692_from,-say,-say,s a j,,Hale1973,,,^- s a y$,default
+Chepang-1693_into-1,267211,Chepang,1693_into,-hāng,-hāng,h aː ŋ,,Hale1973,,,^- h ā ng $,default
+Chepang-1712_where-1,267229,Chepang,1712_where,-say,-say,s a j,,Hale1973,,,^- s a y$,default
 Chepang-1712_where-2,267243,Chepang,1712_where,bhitra,bhitra,bʱ i t r a,,Hale1973,,,^bh i t r a$,default
-Chepang-1712_where-3,267244,Chepang,1712_where,-khā,-khā,+ kʰ aː,,Hale1973,,,^ - kh ā$,default
+Chepang-1712_where-3,267244,Chepang,1712_where,-khā,-khā,kʰ aː,,Hale1973,,,^- kh ā$,default
 Chepang-1712_where-4,267261,Chepang,1712_where,tyāwʔ.ʔa,tyāwʔ.ʔa,t j aː w ʔ + ʔ a,,Hale1973,,,^t y āw ʔ . ʔ a$,default
 Chepang-1712_where-5,267277,Chepang,1712_where,kāmʔ.ʔa,kāmʔ.ʔa,k aː m ʔ + ʔ a,,Hale1973,,,^k ā m ʔ . ʔ a$,default
 Chepang-1712_where-6,267292,Chepang,1712_where,mālge.say,mālge.say,m aː l g e + s a j,,Hale1973,,,^m ā l g e . s a y$,default
 Chepang-1712_where-7,267307,Chepang,1712_where,talge.say,talge.say,t a l g e + s a j,,Hale1973,,,^t a l g e . s a y$,default
 Chepang-1712_where-8,267322,Chepang,1712_where,cyol.say,cyol.say,tʃ j o l + s a j,,Hale1973,,,^c y o l . s a y$,default
-Chepang-1712_where-9,267339,Chepang,1712_where,-gana,-gana,+ g a n a,,Hale1973,,,^ - g a n a$,default
-Chepang-1712_where-10,267352,Chepang,1712_where,-say,-say,+ s a j,,Hale1973,,,^ - s a y$,default
+Chepang-1712_where-9,267339,Chepang,1712_where,-gana,-gana,g a n a,,Hale1973,,,^- g a n a$,default
+Chepang-1712_where-10,267352,Chepang,1712_where,-say,-say,s a j,,Hale1973,,,^- s a y$,default
 Chepang-1712_where-11,267366,Chepang,1712_where,kah.say,kah.say,k a̤ + s a j,,Hale1973,,,^k ah . s a y$,default
 Chepang-1712_where-12,267367,Chepang,1712_where,lone.say,lone.say,l o n e + s a j,,Hale1973,,,^l o n e . s a y$,default
 Chepang-1704_infrontof-1,267383,Chepang,1704_infrontof,kos.say,kos.say,k o s + s a j,,Hale1973,,,^k o s . s a y$,default
@@ -518,7 +518,7 @@ Chepang-1743_until-10,267734,Chepang,1743_until,din.khā.din,din.khā.din,d i n 
 Chepang-1743_until-11,267761,Chepang,1743_until,hngā,hngā,h ŋ aː,,Hale1973,,,^h ng ā$,default
 Chepang-1743_until-12,267762,Chepang,1743_until,āhnam,āhnam,a̤ː n a m,,Hale1973,,,^āh n a m$,default
 Chepang-1743_until-13,267776,Chepang,1743_until,lone,lone,l o n e,,Hale1973,,,^l o n e$,default
-Chepang-1743_until-14,267799,Chepang,1743_until,-cuk,-cuk,+ c u k,,Hale1973,,,^ - c u k$,default
+Chepang-1743_until-14,267799,Chepang,1743_until,-cuk,-cuk,c u k,,Hale1973,,,^- c u k$,default
 Chepang-659_road-1,267812,Chepang,659_road,lyām,lyām,l j aː m,,Hale1973,,,^l y ā m$,default
 Chepang-660_village-1,267825,Chepang,660_village,gāw,gāw,g aː w,,Hale1973,,,^g āw$,default
 Chepang-663_corner-1,267865,Chepang,663_corner,kryung,kryung,k r j u ŋ,,Hale1973,,,^k r y u ng $,default
@@ -562,7 +562,7 @@ Chepang-712_firetongs-1,268501,Chepang,712_firetongs,pitāk,pitāk,p i t aː k,,
 Chepang-713_kindling-1,268516,Chepang,713_kindling,jher.singʔ,jher.singʔ,dʒʱ e r + s i ŋ ʔ,,Hale1973,,,^jh e r . s i ng ʔ$,default
 Chepang-1_i-1,268532,Chepang,1_i,nga,nga,ŋ a,,Hale1973,,,^ng a$,default
 Chepang-2_thou-1,268551,Chepang,2_thou,nāng,nāng,n aː ŋ,,Hale1973,,,^n ā ng $,default
-Chepang-2_thou-2,268552,Chepang,2_thou,-te,-te,+ t e,,Hale1973,,,^ - t e$,default
+Chepang-2_thou-2,268552,Chepang,2_thou,-te,-te,t e,,Hale1973,,,^- t e$,default
 Chepang-3_weincl-1,268577,Chepang,3_weincl,ngi,ngi,ŋ i,,Hale1973,,,^ng i$,default
 Chepang-3_weincl-2,268578,Chepang,3_weincl,ni,ni,n i,,Hale1973,,,^n i$,default
 Chepang-4_this-1,268591,Chepang,4_this,ʔiʔ,ʔiʔ,ʔ i ʔ,,Hale1973,,,^ʔ i ʔ$,default
@@ -570,8 +570,8 @@ Chepang-5_that-1,268605,Chepang,5_that,ʔowʔ,ʔowʔ,ʔ o w ʔ,,Hale1973,,,^ʔ o
 Chepang-5_that-2,268606,Chepang,5_that,ʔuʔ,ʔuʔ,ʔ u ʔ,,Hale1973,,,^ʔ u ʔ$,default
 Chepang-6_who-1,268620,Chepang,6_who,su,su,s u,,Hale1973,,,^s u$,default
 Chepang-7_what-1,268634,Chepang,7_what,doh,doh,d o h,,Hale1973,,,^d o h$,default
-Chepang-8_not-1,268649,Chepang,8_not,-mā,-mā,+ m aː,,Hale1973,,,^ - m ā$,default
-Chepang-8_not-2,268650,Chepang,8_not,-la,-la,+ l a,,Hale1973,,,^ - l a$,default
+Chepang-8_not-1,268649,Chepang,8_not,-mā,-mā,m aː,,Hale1973,,,^- m ā$,default
+Chepang-8_not-2,268650,Chepang,8_not,-la,-la,l a,,Hale1973,,,^- l a$,default
 Chepang-9_all-1,268668,Chepang,9_all,ʔāna,ʔāna,ʔ aː n a,,Hale1973,,,^ʔ ā n a$,default
 Chepang-9_all-2,268669,Chepang,9_all,nā.to,nā.to,n aː + t o,,Hale1973,,,^n ā . t o$,default
 Chepang-10_many-1,268683,Chepang,10_many,ʔāna,ʔāna,ʔ aː n a,,Hale1973,,,^ʔ ā n a$,default
@@ -712,7 +712,7 @@ Chepang-375_grub-1,270610,Chepang,375_grub,syānʔ,syānʔ,s j aː n ʔ,,Hale197
 Chepang-376_caterpillar-1,270623,Chepang,376_caterpillar,syānʔ,syānʔ,s j aː n ʔ,,Hale1973,,,^s y ā n ʔ$,default
 Chepang-378_spider-1,270649,Chepang,378_spider,gyāwʔling,gyāwʔling,g j aː w ʔ l i ŋ,,Hale1973,,,^g y āw ʔ l i ng $,default
 Chepang-379_web-1,270662,Chepang,379_web,"lāngʔ, gyāw.ko-",lāngʔ,l aː ŋ ʔ,,Hale1973,,,^l ā ng ʔ$,default
-Chepang-379_web-2,270662,Chepang,379_web,"lāngʔ, gyāw.ko-",gyāw.ko-,g j aː w + k o +,,Hale1973,,,^g y āw . k o - $,default
+Chepang-379_web-2,270662,Chepang,379_web,"lāngʔ, gyāw.ko-",gyāw.ko-,g j aː w + k o,,Hale1973,,,^g y āw . k o -$,default
 Chepang-380_fly-1,270675,Chepang,380_fly,yāng,yāng,j aː ŋ,,Hale1973,,,^y ā ng $,default
 Chepang-381_mosquito-1,270688,Chepang,381_mosquito,jāwyāng,jāwyāng,dʒ aː w j aː ŋ,,Hale1973,,,^j āw y ā ng $,default
 Chepang-382_ant-1,270701,Chepang,382_ant,dupli,dupli,d u p l i,,Hale1973,,,^d u p l i$,default
@@ -1301,7 +1301,7 @@ Gurung-1097_twothirds-1,265377,Gurung,1097_twothirds,cāu̩the̩q ngihq,cāu̩th
 Gurung-1098_threequarters-1,265387,Gurung,1098_threequarters,cāu̩the̩q so̩q,cāu̩the̩q so̩q,tʃ aː ũ tʰ ẽ q + s õ q,,Hale1973,,,^c ā u̩ th e̩ q + s o̩ q$,default
 Gurung-1099_apair-1,265396,Gurung,1099_apair,joDā:,joDā:,dʒ o ɖ aː,,Hale1973,,,^j o D ā:$,default
 Gurung-1100_none-1,265409,Gurung,1100_none,toqi āhrehq,toqi āhrehq,t o q i + a̤ː r e h q,,Hale1973,,,^t o q i + āh r e h q$,default
-Gurung-1101_neither-1,265423,Gurung,1101_neither,ngi̩hn ngi̩hn āh-,ngi̩hn ngi̩hn āh-,ŋ ĩ h n + ŋ ĩ h n + a̤ː +,,Hale1973,,,^ng i̩ h n + ng i̩ h n + āh - $,default
+Gurung-1101_neither-1,265423,Gurung,1101_neither,ngi̩hn ngi̩hn āh-,ngi̩hn ngi̩hn āh-,ŋ ĩ h n + ŋ ĩ h n + a̤ː,,Hale1973,,,^ng i̩ h n + ng i̩ h n + āh -$,default
 Gurung-1102_both-1,265434,Gurung,1102_both,ngi̩hnā:q ngi̩hqn,ngi̩hnā:q ngi̩hqn,ŋ ĩ h n aː q + ŋ ĩ h q n,,Hale1973,,,^ng i̩ h n ā: q + ng i̩ h q n$,default
 Gurung-1103_every-1,265448,Gurung,1103_every,tā:n,tā:n,t aː n,,Hale1973,,,^t ā: n$,default
 Gurung-1104_total-1,265464,Gurung,1104_total,purā:h,purā:h,p u r a̤ː,,Hale1973,,,^p u r ā:h$,default
@@ -1452,7 +1452,7 @@ Gurung-1712_where-4,267264,Gurung,1712_where,mā,mā,m aː,,Hale1973,,,^m ā$,de
 Gurung-1712_where-5,267280,Gurung,1712_where,phibi,phibi,pʰ i b i,,Hale1973,,,^ph i b i$,default
 Gurung-1712_where-6,267295,Gurung,1712_where,no̩h no̩h,no̩h no̩h,n õ h + n õ h,,Hale1973,,,^n o̩ h + n o̩ h$,default
 Gurung-1712_where-7,267310,Gurung,1712_where,no̩hri,no̩hri,n õ h r i,,Hale1973,,,^n o̩ h r i$,default
-Gurung-1712_where-8,267325,Gurung,1712_where,-u̩,-u̩,+ ũ,,Hale1973,,,^ - u̩$,default
+Gurung-1712_where-8,267325,Gurung,1712_where,-u̩,-u̩,ũ,,Hale1973,,,^- u̩$,default
 Gurung-1712_where-9,267341,Gurung,1712_where,u̩leq,u̩leq,ũ l e q,,Hale1973,,,^u̩ l e q$,default
 Gurung-1712_where-10,267354,Gurung,1712_where,lili,lili,l i l i,,Hale1973,,,^l i l i$,default
 Gurung-1704_infrontof-1,267370,Gurung,1704_infrontof,āso̩q,āso̩q,aː s õ q,,Hale1973,,,^ās o̩ q$,default
@@ -1488,12 +1488,12 @@ Gurung-1743_until-18,267676,Gurung,1743_until,purā:nuq,purā:nuq,p u r aː n u 
 Gurung-1743_until-19,267677,Gurung,1743_until,syugā,syugā,s j u g aː,,Hale1973,,,^s y u g ā$,default
 Gurung-1743_until-20,267690,Gurung,1743_until,chā:qrā,chā:qrā,tʃʰ aː q r aː,,Hale1973,,,^ch ā: q r ā$,default
 Gurung-1743_until-21,267704,Gurung,1743_until,lehq pā:li,lehq pā:li,l e h q + p aː l i,,Hale1973,,,^l e h q + p ā: l i$,default
-Gurung-1743_until-22,267712,Gurung,1743_until,kho̩yo̩ ah-,kho̩yo̩ ah-,kʰ õ j õ + a̤ +,,Hale1973,,,^kh o̩ y o̩ + ah - $,default
+Gurung-1743_until-22,267712,Gurung,1743_until,kho̩yo̩ ah-,kho̩yo̩ ah-,kʰ õ j õ + a̤,,Hale1973,,,^kh o̩ y o̩ + ah -$,default
 Gurung-1743_until-23,267724,Gurung,1743_until,din dinu,din dinu,d i n + d i n u,,Hale1973,,,^d i n + d i n u$,default
 Gurung-1743_until-24,267737,Gurung,1743_until,kho̩yo̩,kho̩yo̩,kʰ õ j õ,,Hale1973,,,^kh o̩ y o̩$,default
 Gurung-1743_until-25,267749,Gurung,1743_until,aso̩q,aso̩q,a s õ q,,Hale1973,,,^a s o̩ q$,default
 Gurung-1743_until-26,267765,Gurung,1743_until,liu̩diq,liu̩diq,l i ũ d i q,,Hale1973,,,^l i u̩ d i q$,default
-Gurung-1743_until-27,267778,Gurung,1743_until,-māleq,-māleq,+ m aː l e q,,Hale1973,,,^ - m ā l e q$,default
+Gurung-1743_until-27,267778,Gurung,1743_until,-māleq,-māleq,m aː l e q,,Hale1973,,,^- m ā l e q$,default
 Gurung-1743_until-28,267790,Gurung,1743_until,āh - n sāmmāq,āh - n sāmmāq,a̤ː + + + n + s aː mː aː q,,Hale1973,,,^āh + - + n + s ā mm ā q$,default
 Gurung-659_road-1,267801,Gurung,659_road,gā̩:hq,gā̩:hq,g ã̤ː q,,Hale1973,,,^g ā̩:h q$,default
 Gurung-660_village-1,267814,Gurung,660_village,nā̩:q◦sā,nā̩:q◦sā,n ãː q + s aː,,Hale1973,,,^n ā̩: q ◦ s ā$,default
@@ -1889,7 +1889,7 @@ JirelTibetan-1630_blue-1,261779,JirelTibetan,1630_blue,ngom◦muq,ngom◦muq,ŋ 
 JirelTibetan-1631_brown-1,261794,JirelTibetan,1631_brown,phosoroq,phosoroq,pʰ o s o r o q,,Hale1973,,,^ph o s o r o q$,default
 JirelTibetan-1632_variegated-1,261807,JirelTibetan,1632_variegated,khudukkhuduk rang,khudukkhuduk rang,kʰ u d u k + k h u d u k + r a ŋ,,Hale1973,,,^kh u d u kk h u d u k + r a ng $,default
 JirelTibetan-1633_faded-1,261821,JirelTibetan,1633_faded,'phur-cye-teq rāng,'phur-cye-teq rāng,ˈ/pʰ u r + c j e + t e q + r aː ŋ,,Hale1973,,,^'ph u r - c y e - t e q + r ā ng $,default
-JirelTibetan-1634_spotted-1,261833,JirelTibetan,1634_spotted,Tā:teq pā:Teq +,Tā:teq pā:Teq +,T/ʈ aː t e q + p aː ʈ e q + +,,Hale1973,,,^T ā: t e q + p ā: T e q + +$,default
+JirelTibetan-1634_spotted-1,261833,JirelTibetan,1634_spotted,Tā:teq pā:Teq +,Tā:teq pā:Teq +,T/ʈ aː t e q + p aː ʈ e q +,,Hale1973,,,^T ā: t e q + p ā: T e q + +$,default
 JirelTibetan-1635_striped-1,261845,JirelTibetan,1635_striped,ri:muk,ri:muk,r iː m u k,,Hale1973,,,^r i: m u k$,default
 JirelTibetan-1636_right-1,261859,JirelTibetan,1636_right,'Thikq,'Thikq,ˈ/ʈʰ i k q,,Hale1973,,,^'Th i k q$,default
 JirelTibetan-1637_wrong-1,261870,JirelTibetan,1637_wrong,'mā-yāng-ā-te,'mā-yāng-ā-te,ˈ/m aː + j aː ŋ + aː + t e,,Hale1973,,,^'m ā - y ā ng - ā - t e$,default
@@ -1902,7 +1902,7 @@ JirelTibetan-1641_insufficient-2,261926,JirelTibetan,1641_insufficient,Tikpi-syi
 JirelTibetan-1642_bad-1,261939,JirelTibetan,1642_bad,melebā,melebā,m e l e b aː,,Hale1973,,,^m e l e b ā$,default
 JirelTibetan-1643_clean-1,261952,JirelTibetan,1643_clean,sāng◦sāngq,sāng◦sāngq,s aː ŋ + s aː ŋ q,,Hale1973,,,^s ā ng ◦ s ā ng q$,default
 JirelTibetan-1645_expensive-1,261969,JirelTibetan,1645_expensive,mā:go,mā:go,m aː g o,,Hale1973,,,^m ā: g o$,default
-JirelTibetan-1646_cheap-1,261984,JirelTibetan,1646_cheap,sāstoq+,sāstoq+,s aː s t o q +,,Hale1973,,,^s ās t o q +$,default
+JirelTibetan-1646_cheap-1,261984,JirelTibetan,1646_cheap,sāstoq+,sāstoq+,s aː s t o q,,Hale1973,,,^s ās t o q +$,default
 JirelTibetan-1647_terrible-1,261998,JirelTibetan,1647_terrible,jyi:bā 'lāng-cye-te,jyi:bā 'lāng-cye-te,dʒ j iː b aː + ˈ/l aː ŋ + c j e + t e,,Hale1973,,,^j y i: b ā + 'l ā ng - c y e - t e$,default
 JirelTibetan-1648_desirable-1,262013,JirelTibetan,1648_desirable,khit-ā semq 'lāng-cye-t,khit-ā semq 'lāng-cye-t,kʰ i t + aː + s e m q + ˈ/l aː ŋ + c j e + t,,Hale1973,,,^kh i t - ā + s e m q + 'l ā ng - c y e - t$,default
 JirelTibetan-1059_three-1,264944,JirelTibetan,1059_three,'sumq,'sumq,ˈ/s u m q,,Hale1973,,,^'s u m q$,default
@@ -1960,14 +1960,14 @@ JirelTibetan-1109_noone-1,265535,JirelTibetan,1109_noone,'su-ngq,'su-ngq,ˈ/s u 
 JirelTibetan-1110_another-1,265549,JirelTibetan,1110_another,jyen,jyen,dʒ j e n,,Hale1973,,,^j y e n$,default
 JirelTibetan-1111_some-1,265568,JirelTibetan,1111_some,'su̩idāq,'su̩idāq,ˈ/s ũ i d aː q,,Hale1973,,,^'s u̩ i d ā q$,default
 JirelTibetan-1112_toomuch-1,265583,JirelTibetan,1112_toomuch,kālbāq,kālbāq,k aː l b aː q,,Hale1973,,,^k ā l b ā q$,default
-JirelTibetan-1113_love-1,265656,JirelTibetan,1113_love,nying◦jyeq+,nying◦jyeq+,n j i ŋ + dʒ j e q +,,Hale1973,,,^n y i ng ◦ j y e q +$,default
+JirelTibetan-1113_love-1,265656,JirelTibetan,1113_love,nying◦jyeq+,nying◦jyeq+,n j i ŋ + dʒ j e q,,Hale1973,,,^n y i ng ◦ j y e q +$,default
 JirelTibetan-1114_hate-1,265668,JirelTibetan,1114_hate,he:lāq,he:lāq,h eː l aː q,,Hale1973,,,^h e: l ā q$,default
 JirelTibetan-1115_envy-1,265682,JirelTibetan,1115_envy,'ikq,'ikq,'/i k q,,Hale1973,,,^'i k q$,default
 JirelTibetan-1116_pride-1,265694,JirelTibetan,1116_pride,cyheq khit-kān-te,cyheq khit-kān-te,tʃ j h e q + kʰ i t + k aː n + t e,,Hale1973,,,^c y h e q + kh i t - k ā n - t e$,default
 JirelTibetan-1117_generosity-1,265706,JirelTibetan,1117_generosity,jā:ti,jā:ti,dʒ aː t i,,Hale1973,,,^j ā: t i$,default
 JirelTibetan-1118_selfishness-1,265719,JirelTibetan,1118_selfishness,kho:Tiq,kho:Tiq,kʰ oː ʈ i q,,Hale1973,,,^kh o: T i q$,default
 JirelTibetan-1119_greed-1,265730,JirelTibetan,1119_greed,'lob,'lob,ˈ/l o b,,Hale1973,,,^'l o b$,default
-JirelTibetan-1120_kindness-1,265742,JirelTibetan,1120_kindness,nyingjyeq+,nyingjyeq+,n j i ŋ dʒ j e q +,,Hale1973,,,^n y i ng j y e q +$,default
+JirelTibetan-1120_kindness-1,265742,JirelTibetan,1120_kindness,nyingjyeq+,nyingjyeq+,n j i ŋ dʒ j e q,,Hale1973,,,^n y i ng j y e q +$,default
 JirelTibetan-1121_cruelty-1,265754,JirelTibetan,1121_cruelty,dāyā 'met-ā-te,dāyā 'met-ā-te,d aː j aː + ˈ/m e t + aː + t e,,Hale1973,,,^d ā y ā + 'm e t - ā - t e$,default
 JirelTibetan-1122_happiness-1,265765,JirelTibetan,1122_happiness,gā,gā,g aː,,Hale1973,,,^g ā$,default
 JirelTibetan-1123_sorrow-1,265779,JirelTibetan,1123_sorrow,'dukpā,'dukpā,ˈ/d u k p aː,,Hale1973,,,^'d u k p ā$,default
@@ -2076,26 +2076,26 @@ JirelTibetan-1688_slow-1,267131,JirelTibetan,1688_slow,'khole,'khole,'/kʰ o l e
 JirelTibetan-1689_slowly-1,267145,JirelTibetan,1689_slowly,'khole 'khole,'khole 'khole,'/kʰ o l e + ˈ/kʰ o l e,,Hale1973,,,^'kh o l e + 'kh o l e$,default
 JirelTibetan-1690_cubitelbowtofingertip-1,267157,JirelTibetan,1690_cubitelbowtofingertip,'Thuq,'Thuq,ˈ/ʈʰ u q,,Hale1973,,,^'Th u q$,default
 JirelTibetan-1691_spanofhand-1,267168,JirelTibetan,1691_spanofhand,'thaq,'thaq,ˈ/tʰ a q,,Hale1973,,,^'th a q$,default
-JirelTibetan-1692_from-1,267182,JirelTibetan,1692_from,-p-e-i,-p-e-i,+ p + e + i,,Hale1973,,,^ - p - e - i$,default
-JirelTibetan-1692_from-2,267183,JirelTibetan,1692_from,-m-e-i,-m-e-i,+ m + e + i,,Hale1973,,,^ - m - e - i$,default
-JirelTibetan-1692_from-3,267184,JirelTibetan,1692_from,-ne-i,-ne-i,+ n e + i,,Hale1973,,,^ - n e - i$,default
-JirelTibetan-1693_into-1,267201,JirelTibetan,1693_into,-pa,-pa,+ p a,,Hale1973,,,^ - p a$,default
-JirelTibetan-1693_into-2,267202,JirelTibetan,1693_into,-mā,-mā,+ m aː,,Hale1973,,,^ - m ā$,default
-JirelTibetan-1693_into-3,267203,JirelTibetan,1693_into,-ne,-ne,+ n e,,Hale1973,,,^ - n e$,default
-JirelTibetan-1693_into-4,267204,JirelTibetan,1693_into,-lā,-lā,+ l aː,,Hale1973,,,^ - l ā$,default
-JirelTibetan-1712_where-1,267222,JirelTibetan,1712_where,-p-e-i,-p-e-i,+ p + e + i,,Hale1973,,,^ - p - e - i$,default
-JirelTibetan-1712_where-2,267223,JirelTibetan,1712_where,-m-e-i,-m-e-i,+ m + e + i,,Hale1973,,,^ - m - e - i$,default
-JirelTibetan-1712_where-3,267224,JirelTibetan,1712_where,-ne-i,-ne-i,+ n e + i,,Hale1973,,,^ - n e - i$,default
+JirelTibetan-1692_from-1,267182,JirelTibetan,1692_from,-p-e-i,-p-e-i,p + e + i,,Hale1973,,,^- p - e - i$,default
+JirelTibetan-1692_from-2,267183,JirelTibetan,1692_from,-m-e-i,-m-e-i,m + e + i,,Hale1973,,,^- m - e - i$,default
+JirelTibetan-1692_from-3,267184,JirelTibetan,1692_from,-ne-i,-ne-i,n e + i,,Hale1973,,,^- n e - i$,default
+JirelTibetan-1693_into-1,267201,JirelTibetan,1693_into,-pa,-pa,p a,,Hale1973,,,^- p a$,default
+JirelTibetan-1693_into-2,267202,JirelTibetan,1693_into,-mā,-mā,m aː,,Hale1973,,,^- m ā$,default
+JirelTibetan-1693_into-3,267203,JirelTibetan,1693_into,-ne,-ne,n e,,Hale1973,,,^- n e$,default
+JirelTibetan-1693_into-4,267204,JirelTibetan,1693_into,-lā,-lā,l aː,,Hale1973,,,^- l ā$,default
+JirelTibetan-1712_where-1,267222,JirelTibetan,1712_where,-p-e-i,-p-e-i,p + e + i,,Hale1973,,,^- p - e - i$,default
+JirelTibetan-1712_where-2,267223,JirelTibetan,1712_where,-m-e-i,-m-e-i,m + e + i,,Hale1973,,,^- m - e - i$,default
+JirelTibetan-1712_where-3,267224,JirelTibetan,1712_where,-ne-i,-ne-i,n e + i,,Hale1973,,,^- n e - i$,default
 JirelTibetan-1712_where-4,267238,JirelTibetan,1712_where,'nāng-du,'nāng-du,ˈ/n aː ŋ + d u,,Hale1973,,,^'n ā ng - d u$,default
 JirelTibetan-1712_where-5,267255,JirelTibetan,1712_where,khen-lā',khen-lā',kʰ e n + l aː,,Hale1973,,,^kh e n - l ā '$,default
 JirelTibetan-1712_where-6,267271,JirelTibetan,1712_where,thul-laq',thul-laq',tʰ u l + l a q,,Hale1973,,,^th u l - l a q '$,default
 JirelTibetan-1712_where-7,267286,JirelTibetan,1712_where,'lāk-nā-pā,'lāk-nā-pā,ˈ/l aː k + n aː + p aː,,Hale1973,,,^'l ā k - n ā - p ā$,default
 JirelTibetan-1712_where-8,267301,JirelTibetan,1712_where,cāwāmāq,cāwāmāq,tʃ aː w aː m aː q,,Hale1973,,,^c āw ā m ā q$,default
-JirelTibetan-1712_where-9,267316,JirelTibetan,1712_where,-p-e-i,-p-e-i,+ p + e + i,,Hale1973,,,^ - p - e - i$,default
-JirelTibetan-1712_where-10,267332,JirelTibetan,1712_where,-pā,-pā,+ p aː,,Hale1973,,,^ - p ā$,default
-JirelTibetan-1712_where-11,267333,JirelTibetan,1712_where,-mā,-mā,+ m aː,,Hale1973,,,^ - m ā$,default
-JirelTibetan-1712_where-12,267334,JirelTibetan,1712_where,-ne,-ne,+ n e,,Hale1973,,,^ - n e$,default
-JirelTibetan-1712_where-13,267335,JirelTibetan,1712_where,-lā,-lā,+ l aː,,Hale1973,,,^ - l ā$,default
+JirelTibetan-1712_where-9,267316,JirelTibetan,1712_where,-p-e-i,-p-e-i,p + e + i,,Hale1973,,,^- p - e - i$,default
+JirelTibetan-1712_where-10,267332,JirelTibetan,1712_where,-pā,-pā,p aː,,Hale1973,,,^- p ā$,default
+JirelTibetan-1712_where-11,267333,JirelTibetan,1712_where,-mā,-mā,m aː,,Hale1973,,,^- m ā$,default
+JirelTibetan-1712_where-12,267334,JirelTibetan,1712_where,-ne,-ne,n e,,Hale1973,,,^- n e$,default
+JirelTibetan-1712_where-13,267335,JirelTibetan,1712_where,-lā,-lā,l aː,,Hale1973,,,^- l ā$,default
 JirelTibetan-1712_where-14,267347,JirelTibetan,1712_where,phi:p-e-rāngq,phi:p-e-rāngq,pʰ iː p + e + r aː ŋ q,,Hale1973,,,^ph i: p - e - r ā ng q$,default
 JirelTibetan-1712_where-15,267361,JirelTibetan,1712_where,lhāk-nā-pāq,lhāk-nā-pāq,l̥ aː k + n aː + p aː q,,Hale1973,,,^lh ā k - n ā - p ā q$,default
 JirelTibetan-1704_infrontof-1,267378,JirelTibetan,1704_infrontof,don-nā-pā,don-nā-pā,d o n + n aː + p aː,,Hale1973,,,^d o n - n ā - p ā$,default
@@ -2133,7 +2133,7 @@ JirelTibetan-1743_until-21,267756,JirelTibetan,1743_until,thongla,thongla,tʰ o 
 JirelTibetan-1743_until-22,267770,JirelTibetan,1743_until,ti:riq,ti:riq,t iː r i q,,Hale1973,,,^t i: r i q$,default
 JirelTibetan-1743_until-23,267771,JirelTibetan,1743_until,'theme,'theme,ˈ/tʰ e m e,,Hale1973,,,^'th e m e$,default
 JirelTibetan-1743_until-24,267783,JirelTibetan,1743_until,belā-lā,belā-lā,b e l aː + l aː,,Hale1973,,,^b e l ā - l ā$,default
-JirelTibetan-1743_until-25,267795,JirelTibetan,1743_until,-sāk,-sāk,+ s aː k,,Hale1973,,,^ - s ā k$,default
+JirelTibetan-1743_until-25,267795,JirelTibetan,1743_until,-sāk,-sāk,s aː k,,Hale1973,,,^- s ā k$,default
 JirelTibetan-659_road-1,267807,JirelTibetan,659_road,lām,lām,l aː m,,Hale1973,,,^l ā m$,default
 JirelTibetan-660_village-1,267820,JirelTibetan,660_village,yul,yul,j u l,,Hale1973,,,^y u l$,default
 JirelTibetan-661_town-1,267834,JirelTibetan,661_town,bājar,bājar,b aː dʒ a r,,Hale1973,,,^b ā j a r$,default
@@ -2171,8 +2171,8 @@ JirelTibetan-693_covering-2,268248,JirelTibetan,693_covering,syirākq,syirākq,s
 JirelTibetan-694_pillow-1,268263,JirelTibetan,694_pillow,ngāsyingq,ngāsyingq,ŋ aː s j i ŋ q,,Hale1973,,,^ng ās y i ng q$,default
 JirelTibetan-695_mat-1,268276,JirelTibetan,695_mat,gundirik,gundirik,g u n d i r i k,,Hale1973,,,^g u n d i r i k$,default
 JirelTibetan-696_cradle-1,268290,JirelTibetan,696_cradle,chāngq,chāngq,tʃʰ aː ŋ q,,Hale1973,,,^ch ā ng q$,default
-JirelTibetan-697_bench-1,268301,JirelTibetan,697_bench,Tebalq+,Tebalq+,T/ʈ e b a l q +,,Hale1973,,,^T e b a l q +$,default
-JirelTibetan-698_loft-1,268312,JirelTibetan,698_loft,buikāl+,buikāl+,b u i k aː l +,,Hale1973,,,^b u i k ā l +$,default
+JirelTibetan-697_bench-1,268301,JirelTibetan,697_bench,Tebalq+,Tebalq+,T/ʈ e b a l q,,Hale1973,,,^T e b a l q +$,default
+JirelTibetan-698_loft-1,268312,JirelTibetan,698_loft,buikāl+,buikāl+,b u i k aː l,,Hale1973,,,^b u i k ā l +$,default
 JirelTibetan-699_cookingplace-1,268326,JirelTibetan,699_cookingplace,'thāpq,'thāpq,ˈ/tʰ aː p q,,Hale1973,,,^'th ā p q$,default
 JirelTibetan-700_charcoal-1,268341,JirelTibetan,700_charcoal,solāq,solāq,s o l aː q,,Hale1973,,,^s o l ā q$,default
 JirelTibetan-701_soot-1,268356,JirelTibetan,701_soot,'Thekpā,'Thekpā,ˈ/ʈʰ e k p aː,,Hale1973,,,^'Th e k p ā$,default
@@ -3006,7 +3006,7 @@ Khaling-186_push-1,262167,Khaling,186_push,twāl-ne,twāl-ne,t w aː l + n e,,Ha
 Khaling-187_send-1,262179,Khaling,187_send,phu-ne,phu-ne,pʰ u + n e,,Hale1973,,,^ph u - n e$,default
 Khaling-188_ascend-1,262189,Khaling,188_ascend,'kem-ne,'kem-ne,ˈ/k e m + n e,,Hale1973,,,^'k e m - n e$,default
 Khaling-189_descend-1,262200,Khaling,189_descend,ye-ne,ye-ne,j e + n e,,Hale1973,,,^y e - n e$,default
-Khaling-190_accompany-1,262211,Khaling,190_accompany,-kolo 'khwān-ne,-kolo 'khwān-ne,+ k o l o + '/kʰ w aː n + n e,,Hale1973,,,^ - k o l o + 'khw ā n - n e$,default
+Khaling-190_accompany-1,262211,Khaling,190_accompany,-kolo 'khwān-ne,-kolo 'khwān-ne,k o l o + '/kʰ w aː n + n e,,Hale1973,,,^- k o l o + 'khw ā n - n e$,default
 Khaling-192_follow-1,262227,Khaling,192_follow,'dān-ne,'dān-ne,ˈ/d aː n + n e,,Hale1973,,,^'d ā n - n e$,default
 Khaling-193_chase-1,262237,Khaling,193_chase,kwāl-ne,kwāl-ne,k w aː l + n e,,Hale1973,,,^kw ā l - n e$,default
 Khaling-194_catch-1,262248,Khaling,194_catch,'lwām-ne,'lwām-ne,'/l w aː m + n e,,Hale1973,,,^'lw ā m - n e$,default
@@ -3331,9 +3331,9 @@ Khaling-1111_some-1,265572,Khaling,1111_some,ti 'bice,ti 'bice,t i + ˈ/b i c e,
 Khaling-1112_toomuch-1,265586,Khaling,1112_toomuch,dhumā,dhumā,dʱ u m aː,,Hale1973,,,^dh u m ā$,default
 Khaling-1744_canbeabletodosomething-1,265597,Khaling,1744_canbeabletodosomething,cāem-ne,cāem-ne,tʃ aː e m + n e,,Hale1973,,,^c ā e m - n e$,default
 Khaling-1745_knowsomething-1,265609,Khaling,1745_knowsomething,'cu-ne,'cu-ne,ˈ/tʃ u + n e,,Hale1973,,,^'c u - n e$,default
-Khaling-1746_benefactive-1,265619,Khaling,1746_benefactive,-sō-ne,-sō-ne,+ s oː + n e,,Hale1973,,,^ - s ō - n e$,default
+Khaling-1746_benefactive-1,265619,Khaling,1746_benefactive,-sō-ne,-sō-ne,s oː + n e,,Hale1973,,,^- s ō - n e$,default
 Khaling-1747_letsodosth-1,265630,Khaling,1747_letsodosth,be-ne,be-ne,b e + n e,,Hale1973,,,^b e - n e$,default
-Khaling-1748_causesotodosth-1,265642,Khaling,1748_causesotodosth,-man-ne,-man-ne,+ m a n + n e,,Hale1973,,,^ - m a n - n e$,default
+Khaling-1748_causesotodosth-1,265642,Khaling,1748_causesotodosth,-man-ne,-man-ne,m a n + n e,,Hale1973,,,^- m a n - n e$,default
 Khaling-1113_love-1,265658,Khaling,1113_love,lum-mūne,lum-mūne,l u m + m uː n e,,Hale1973,,,^l u m - m ū n e$,default
 Khaling-1114_hate-1,265671,Khaling,1114_hate,grāemne,grāemne,g r aː e m n e,,Hale1973,,,^g r ā e m n e$,default
 Khaling-1115_envy-1,265685,Khaling,1115_envy,nacal mūne,nacal mūne,n a c a l + m uː n e,,Hale1973,,,^n a c a l + m ū n e$,default
@@ -3447,18 +3447,18 @@ Khaling-1688_slow-1,267134,Khaling,1688_slow,wetāekā,wetāekā,w e t aː e k a
 Khaling-1689_slowly-1,267148,Khaling,1689_slowly,wetāekā,wetāekā,w e t aː e k aː,,Hale1973,,,^w e t ā e k ā$,default
 Khaling-1690_cubitelbowtofingertip-1,267159,Khaling,1690_cubitelbowtofingertip,khar,khar,kʰ a r,,Hale1973,,,^kh a r$,default
 Khaling-1691_spanofhand-1,267170,Khaling,1691_spanofhand,tong,tong,t o ŋ,,Hale1973,,,^t o ng $,default
-Khaling-1692_from-1,267188,Khaling,1692_from,-la,-la,+ l a,,Hale1973,,,^ - l a$,default
-Khaling-1692_from-2,267189,Khaling,1692_from,-lākā,-lākā,+ l aː k aː,,Hale1973,,,^ - l ā k ā$,default
-Khaling-1693_into-1,267207,Khaling,1693_into,-bi,-bi,+ b i,,Hale1973,,,^ - b i$,default
-Khaling-1712_where-1,267227,Khaling,1712_where,-lākā,-lākā,+ l aː k aː,,Hale1973,,,^ - l ā k ā$,default
-Khaling-1712_where-2,267241,Khaling,1712_where,-goyu,-goyu,+ g o j u,,Hale1973,,,^ - g o y u$,default
-Khaling-1712_where-3,267258,Khaling,1712_where,-māetū,-māetū,+ m aː e t uː,,Hale1973,,,^ - m ā e t ū$,default
-Khaling-1712_where-4,267274,Khaling,1712_where,-māeyū,-māeyū,+ m aː e j uː,,Hale1973,,,^ - m ā e y ū$,default
-Khaling-1712_where-5,267289,Khaling,1712_where,-thongtū,-thongtū,+ tʰ o ŋ t uː,,Hale1973,,,^ - th o ng t ū$,default
+Khaling-1692_from-1,267188,Khaling,1692_from,-la,-la,l a,,Hale1973,,,^- l a$,default
+Khaling-1692_from-2,267189,Khaling,1692_from,-lākā,-lākā,l aː k aː,,Hale1973,,,^- l ā k ā$,default
+Khaling-1693_into-1,267207,Khaling,1693_into,-bi,-bi,b i,,Hale1973,,,^- b i$,default
+Khaling-1712_where-1,267227,Khaling,1712_where,-lākā,-lākā,l aː k aː,,Hale1973,,,^- l ā k ā$,default
+Khaling-1712_where-2,267241,Khaling,1712_where,-goyu,-goyu,g o j u,,Hale1973,,,^- g o y u$,default
+Khaling-1712_where-3,267258,Khaling,1712_where,-māetū,-māetū,m aː e t uː,,Hale1973,,,^- m ā e t ū$,default
+Khaling-1712_where-4,267274,Khaling,1712_where,-māeyū,-māeyū,m aː e j uː,,Hale1973,,,^- m ā e y ū$,default
+Khaling-1712_where-5,267289,Khaling,1712_where,-thongtū,-thongtū,tʰ o ŋ t uː,,Hale1973,,,^- th o ng t ū$,default
 Khaling-1712_where-6,267304,Khaling,1712_where,māeyū,māeyū,m aː e j uː,,Hale1973,,,^m ā e y ū$,default
-Khaling-1712_where-7,267320,Khaling,1712_where,-kā,-kā,+ k aː,,Hale1973,,,^ - k ā$,default
-Khaling-1712_where-8,267337,Khaling,1712_where,-tā,-tā,+ t aː,,Hale1973,,,^ - t ā$,default
-Khaling-1712_where-9,267350,Khaling,1712_where,-kā,-kā,+ k aː,,Hale1973,,,^ - k ā$,default
+Khaling-1712_where-7,267320,Khaling,1712_where,-kā,-kā,k aː,,Hale1973,,,^- k ā$,default
+Khaling-1712_where-8,267337,Khaling,1712_where,-tā,-tā,t aː,,Hale1973,,,^- t ā$,default
+Khaling-1712_where-9,267350,Khaling,1712_where,-kā,-kā,k aː,,Hale1973,,,^- k ā$,default
 Khaling-1712_where-10,267364,Khaling,1712_where,yātā,yātā,j aː t aː,,Hale1973,,,^y ā t ā$,default
 Khaling-1704_infrontof-1,267381,Khaling,1704_infrontof,'lāel,'lāel,ˈ/l aː e l,,Hale1973,,,^'l ā e l$,default
 Khaling-1712_where-11,267396,Khaling,1712_where,phāer,phāer,pʰ aː e r,,Hale1973,,,^ph ā e r$,default
@@ -3492,8 +3492,8 @@ Khaling-1743_until-19,267732,Khaling,1743_until,nōlnōl,nōlnōl,n oː l n oː 
 Khaling-1743_until-20,267745,Khaling,1743_until,'cālo,'cālo,ˈ/tʃ aː l o,,Hale1973,,,^'c ā l o$,default
 Khaling-1743_until-21,267759,Khaling,1743_until,'lāel,'lāel,ˈ/l aː e l,,Hale1973,,,^'l ā e l$,default
 Khaling-1743_until-22,267774,Khaling,1743_until,yātā,yātā,j aː t aː,,Hale1973,,,^y ā t ā$,default
-Khaling-1743_until-23,267786,Khaling,1743_until,-lo,-lo,+ l o,,Hale1973,,,^ - l o$,default
-Khaling-1743_until-24,267797,Khaling,1743_until,-sama,-sama,+ s a m a,,Hale1973,,,^ - s a m a$,default
+Khaling-1743_until-23,267786,Khaling,1743_until,-lo,-lo,l o,,Hale1973,,,^- l o$,default
+Khaling-1743_until-24,267797,Khaling,1743_until,-sama,-sama,s a m a,,Hale1973,,,^- s a m a$,default
 Khaling-659_road-1,267810,Khaling,659_road,lāem,lāem,l aː e m,,Hale1973,,,^l ā e m$,default
 Khaling-660_village-1,267823,Khaling,660_village,del,del,d e l,,Hale1973,,,^d e l$,default
 Khaling-661_town-1,267836,Khaling,661_town,sāhār,sāhār,s a̤ː aː r,,Hale1973,,,^s āh ā r$,default
@@ -4090,7 +4090,7 @@ Kham-1493_bury-2,263732,Kham,1493_bury,rāhl-nyā,rāhl-nyā,r a̤ː l + n j aː
 Kham-1494_inherit-1,263742,Kham,1494_inherit,ju̩ day-nyā,ju̩ day-nyā,dʒ ũ + d a j + n j aː,,Hale1973,,,^j u̩ + d a y - n y ā$,default
 Kham-1494_inherit-2,263743,Kham,1494_inherit,batahā day-nyā,batahā day-nyā,b a t a̤ aː + d a j + n j aː,,Hale1973,,,^b a t ah ā + d a y - n y ā$,default
 Kham-1495_divide-1,263752,Kham,1495_divide,ba:h-nyā,ba:h-nyā,b aː h + n j aː,,Hale1973,,,^b a: h - n y ā$,default
-Kham-1497_own-1,263774,Kham,1497_own,-mi li-nyā,-mi li-nyā,+ m i + l i + n j aː,,Hale1973,,,^ - m i + l i - n y ā$,default
+Kham-1497_own-1,263774,Kham,1497_own,-mi li-nyā,-mi li-nyā,m i + l i + n j aː,,Hale1973,,,^- m i + l i - n y ā$,default
 Kham-1498_serveamaster-1,263783,Kham,1498_serveamaster,arkāe o'en dā-nyā,arkāe o'en dā-nyā,a r k aː e + o ˈ/e n + d aː + n j aː,,Hale1973,,,^a r k ā e + o 'e n + d ā - n y ā$,default
 Kham-1499_swearoath-1,263794,Kham,1499_swearoath,kiryā jā:h-nyā,kiryā jā:h-nyā,k i r j aː + dʒ a̤ː + n j aː,,Hale1973,,,^k i r y ā + j ā:h - n y ā$,default
 Kham-1500_assemble-1,263804,Kham,1500_assemble,dupsi-nyā,dupsi-nyā,d u p s i + n j aː,,Hale1973,,,^d u ps i - n y ā$,default
@@ -4261,12 +4261,12 @@ Kham-1111_some-3,265564,Kham,1111_some,tupuru,tupuru,t u p u r u,,Hale1973,,,^t 
 Kham-1111_some-4,265565,Kham,1111_some,take,take,t a k e,,Hale1973,,,^t a k e$,default
 Kham-1111_some-5,265566,Kham,1111_some,tocop,tocop,t o c o p,,Hale1973,,,^t o c o p$,default
 Kham-1112_toomuch-1,265581,Kham,1112_toomuch,'kuhdu:,'kuhdu:,ˈ/k u h d uː,,Hale1973,,,^'k u h d u:$,default
-Kham-1744_canbeabletodosomething-1,265595,Kham,1744_canbeabletodosomething,-du-nyā,-du-nyā,+ d u + n j aː,,Hale1973,,,^ - d u - n y ā$,default
+Kham-1744_canbeabletodosomething-1,265595,Kham,1744_canbeabletodosomething,-du-nyā,-du-nyā,d u + n j aː,,Hale1973,,,^- d u - n y ā$,default
 Kham-1745_knowsomething-1,265607,Kham,1745_knowsomething,sa̩y-nyā,sa̩y-nyā,s ã j + n j aː,,Hale1973,,,^s a̩ y - n y ā$,default
-Kham-1746_benefactive-1,265618,Kham,1746_benefactive,-da yā-nyā,-da yā-nyā,+ d a + j aː + n j aː,,Hale1973,,,^ - d a + y ā - n y ā$,default
-Kham-1747_letsodosth-1,265627,Kham,1747_letsodosth,-o yā-nyā,-o yā-nyā,+ o + j aː + n j aː,,Hale1973,,,^ - o + y ā - n y ā$,default
+Kham-1746_benefactive-1,265618,Kham,1746_benefactive,-da yā-nyā,-da yā-nyā,d a + j aː + n j aː,,Hale1973,,,^- d a + y ā - n y ā$,default
+Kham-1747_letsodosth-1,265627,Kham,1747_letsodosth,-o yā-nyā,-o yā-nyā,o + j aː + n j aː,,Hale1973,,,^- o + y ā - n y ā$,default
 Kham-1747_letsodosth-2,265628,Kham,1747_letsodosth,gah- -ka,gah- -ka,g a̤ + + + k a,,Hale1973,,,^g ah - + - k a$,default
-Kham-1748_causesotodosth-1,265639,Kham,1748_causesotodosth,-o 'pari̩-nyā,-o 'pari̩-nyā,+ o + ˈ/p a r ĩ + n j aː,,Hale1973,,,^ - o + 'p a r i̩ - n y ā$,default
+Kham-1748_causesotodosth-1,265639,Kham,1748_causesotodosth,-o 'pari̩-nyā,-o 'pari̩-nyā,o + ˈ/p a r ĩ + n j aː,,Hale1973,,,^- o + 'p a r i̩ - n y ā$,default
 Kham-1113_love-1,265654,Kham,1113_love,māyā,māyā,m aː j aː,,Hale1973,,,^m ā y ā$,default
 Kham-1114_hate-1,265666,Kham,1114_hate,'so-nyā,'so-nyā,ˈ/s o + n j aː,,Hale1973,,,^'s o - n y ā$,default
 Kham-1115_envy-1,265680,Kham,1115_envy,kosay 'ra̩:-nyā,kosay 'ra̩:-nyā,k o s a j + ˈ/r ãː + n j aː,,Hale1973,,,^k o s a y + 'r a̩: - n y ā$,default
@@ -4327,7 +4327,7 @@ Kham-1166_spirit-1,266340,Kham,1166_spirit,'purus,'purus,ˈ/p u r u s,,Hale1973,
 Kham-1166_spirit-2,266341,Kham,1166_spirit,jem 'sa:,jem 'sa:,dʒ e m + ˈ/s aː,,Hale1973,,,^j e m + 's a:$,default
 Kham-1166_spirit-3,266342,Kham,1166_spirit,do̩hwā,do̩hwā,d õ ẘ aː,,Hale1973,,,^d o̩ hw ā$,default
 Kham-1167_god-1,266362,Kham,1167_god,'deota,'deota,ˈ/d e o t a,,Hale1973,,,^'d e o t a$,default
-Kham-1167_god-2,266363,Kham,1167_god,deo-,deo-,d e o +,,Hale1973,,,^d e o - $,default
+Kham-1167_god-2,266363,Kham,1167_god,deo-,deo-,d e o,,Hale1973,,,^d e o -$,default
 Kham-1167_god-3,266364,Kham,1167_god,dāhm,dāhm,d a̤ː m,,Hale1973,,,^d āh m$,default
 Kham-1168_witch-1,266379,Kham,1168_witch,'zya:h,'zya:h,ˈ/z j aː h,,Hale1973,,,^'z y a: h$,default
 Kham-1169_shaman-1,266392,Kham,1169_shaman,'jā̩hkari,'jā̩hkari,ˈ/dʒ ã̤ː k a r i,,Hale1973,,,^'j ā̩h k a r i$,default
@@ -4410,36 +4410,36 @@ Kham-1688_slow-1,267130,Kham,1688_slow,māgilo,māgilo,m aː g i l o,,Hale1973,,
 Kham-1689_slowly-1,267143,Kham,1689_slowly,mātho,mātho,m aː tʰ o,,Hale1973,,,^m ā th o$,default
 Kham-1690_cubitelbowtofingertip-1,267156,Kham,1690_cubitelbowtofingertip,'tu◦gu̩,'tu◦gu̩,ˈ/t u + g ũ,,Hale1973,,,^'t u ◦ g u̩$,default
 Kham-1691_spanofhand-1,267167,Kham,1691_spanofhand,tarjyā:h,tarjyā:h,t a r dʒ j a̤ː,,Hale1973,,,^t a r j y ā:h$,default
-Kham-1692_from-1,267179,Kham,1692_from,-ni,-ni,+ n i,,Hale1973,,,^ - n i$,default
-Kham-1692_from-2,267180,Kham,1692_from,-kin,-kin,+ k i n,,Hale1973,,,^ - k i n$,default
-Kham-1693_into-1,267199,Kham,1693_into,-la,-la,+ l a,,Hale1973,,,^ - l a$,default
-Kham-1712_where-1,267220,Kham,1712_where,-kin,-kin,+ k i n,,Hale1973,,,^ - k i n$,default
-Kham-1712_where-2,267237,Kham,1712_where,-ji̩la,-ji̩la,+ dʒ ĩ l a,,Hale1973,,,^ - j i̩ l a$,default
-Kham-1712_where-3,267252,Kham,1712_where,ro-,ro-,r o +,,Hale1973,,,^r o - $,default
+Kham-1692_from-1,267179,Kham,1692_from,-ni,-ni,n i,,Hale1973,,,^- n i$,default
+Kham-1692_from-2,267180,Kham,1692_from,-kin,-kin,k i n,,Hale1973,,,^- k i n$,default
+Kham-1693_into-1,267199,Kham,1693_into,-la,-la,l a,,Hale1973,,,^- l a$,default
+Kham-1712_where-1,267220,Kham,1712_where,-kin,-kin,k i n,,Hale1973,,,^- k i n$,default
+Kham-1712_where-2,267237,Kham,1712_where,-ji̩la,-ji̩la,dʒ ĩ l a,,Hale1973,,,^- j i̩ l a$,default
+Kham-1712_where-3,267252,Kham,1712_where,ro-,ro-,r o,,Hale1973,,,^r o -$,default
 Kham-1712_where-4,267253,Kham,1712_where,yā,yā,j aː,,Hale1973,,,^y ā$,default
-Kham-1712_where-5,267269,Kham,1712_where,me-,me-,m e +,,Hale1973,,,^m e - $,default
-Kham-1712_where-6,267284,Kham,1712_where,otar-,otar-,o t a r +,,Hale1973,,,^o t a r - $,default
-Kham-1712_where-7,267299,Kham,1712_where,udu̩h-,udu̩h-,u d ũ h +,,Hale1973,,,^u d u̩ h - $,default
+Kham-1712_where-5,267269,Kham,1712_where,me-,me-,m e,,Hale1973,,,^m e -$,default
+Kham-1712_where-6,267284,Kham,1712_where,otar-,otar-,o t a r,,Hale1973,,,^o t a r -$,default
+Kham-1712_where-7,267299,Kham,1712_where,udu̩h-,udu̩h-,u d ũ h,,Hale1973,,,^u d u̩ h -$,default
 Kham-1712_where-8,267314,Kham,1712_where,sapher-nyā,sapher-nyā,s a pʰ e r + n j aː,,Hale1973,,,^s a ph e r - n y ā$,default
-Kham-1712_where-9,267329,Kham,1712_where,-'dā,-'dā,+ ˈ/d aː,,Hale1973,,,^ - 'd ā$,default
-Kham-1712_where-10,267330,Kham,1712_where,-ta:'dā,-ta:'dā,+ t aː ˈ/d aː,,Hale1973,,,^ - t a: 'd ā$,default
-Kham-1712_where-11,267345,Kham,1712_where,-kin,-kin,+ k i n,,Hale1973,,,^ - k i n$,default
+Kham-1712_where-9,267329,Kham,1712_where,-'dā,-'dā,ˈ/d aː,,Hale1973,,,^- 'd ā$,default
+Kham-1712_where-10,267330,Kham,1712_where,-ta:'dā,-ta:'dā,t aː ˈ/d aː,,Hale1973,,,^- t a: 'd ā$,default
+Kham-1712_where-11,267345,Kham,1712_where,-kin,-kin,k i n,,Hale1973,,,^- k i n$,default
 Kham-1712_where-12,267358,Kham,1712_where,uchi̩'ni,uchi̩'ni,u tʃʰ ĩ ˈ/n i,,Hale1973,,,^u ch i̩ 'n i$,default
 Kham-1712_where-13,267359,Kham,1712_where,huta:'ni,huta:'ni,h u t aː ˈ/n i,,Hale1973,,,^h u t a: 'n i$,default
 Kham-1704_infrontof-1,267375,Kham,1704_infrontof,ongāh'ni,ongāh'ni,o ŋ a̤ː ˈ/n i,,Hale1973,,,^o ng āh 'n i$,default
 Kham-1704_infrontof-2,267376,Kham,1704_infrontof,āta:'ni,āta:'ni,aː t aː ˈ/n i,,Hale1973,,,^ā t a: 'n i$,default
-Kham-1712_where-14,267391,Kham,1712_where,clāp-,clāp-,tʃ l aː p +,,Hale1973,,,^c l ā p - $,default
-Kham-1712_where-15,267406,Kham,1712_where,nikhār-,nikhār-,n i kʰ aː r +,,Hale1973,,,^n i kh ā r - $,default
-Kham-1712_where-16,267420,Kham,1712_where,otar-,otar-,o t a r +,,Hale1973,,,^o t a r - $,default
-Kham-1712_where-17,267421,Kham,1712_where,osara-,osara-,o s a r a +,,Hale1973,,,^o s a r a - $,default
+Kham-1712_where-14,267391,Kham,1712_where,clāp-,clāp-,tʃ l aː p,,Hale1973,,,^c l ā p -$,default
+Kham-1712_where-15,267406,Kham,1712_where,nikhār-,nikhār-,n i kʰ aː r,,Hale1973,,,^n i kh ā r -$,default
+Kham-1712_where-16,267420,Kham,1712_where,otar-,otar-,o t a r,,Hale1973,,,^o t a r -$,default
+Kham-1712_where-17,267421,Kham,1712_where,osara-,osara-,o s a r a,,Hale1973,,,^o s a r a -$,default
 Kham-1712_where-18,267436,Kham,1712_where,udu̩hla,udu̩hla,u d ũ h l a,,Hale1973,,,^u d u̩ h l a$,default
 Kham-1712_where-19,267450,Kham,1712_where,huta:'ni,huta:'ni,h u t aː ˈ/n i,,Hale1973,,,^h u t a: 'n i$,default
 Kham-1712_where-20,267461,Kham,1712_where,na'kin ho'dā,na'kin ho'dā,n a ˈ/k i n + h o ˈ/d aː,,Hale1973,,,^n a 'k i n + h o 'd ā$,default
 Kham-1712_where-21,267473,Kham,1712_where,hophata,hophata,h o pʰ a t a,,Hale1973,,,^h o ph a t a$,default
 Kham-1712_where-22,267486,Kham,1712_where,'kānā,'kānā,ˈ/k aː n aː,,Hale1973,,,^'k ā n ā$,default
 Kham-1712_where-23,267487,Kham,1712_where,kānka,kānka,k aː n k a,,Hale1973,,,^k ā n k a$,default
-Kham-1743_until-1,267501,Kham,1743_until,-'kin kosay,-'kin kosay,+ ˈ/k i n + k o s a j,,Hale1973,,,^ - 'k i n + k o s a y$,default
-Kham-1743_until-2,267512,Kham,1743_until,-'kin chyā,-'kin chyā,+ ˈ/k i n + tʃʰ j aː,,Hale1973,,,^ - 'k i n + ch y ā$,default
+Kham-1743_until-1,267501,Kham,1743_until,-'kin kosay,-'kin kosay,ˈ/k i n + k o s a j,,Hale1973,,,^- 'k i n + k o s a y$,default
+Kham-1743_until-2,267512,Kham,1743_until,-'kin chyā,-'kin chyā,ˈ/k i n + tʃʰ j aː,,Hale1973,,,^- 'k i n + ch y ā$,default
 Kham-1743_until-3,267522,Kham,1743_until,pa̩yhrāni 'kudu:,pa̩yhrāni 'kudu:,p ã j h r aː n i + ˈ/k u d uː,,Hale1973,,,^p a̩ y h r ā n i + 'k u d u:$,default
 Kham-1743_until-4,267534,Kham,1743_until,pa̩yhrāni chyā,pa̩yhrāni chyā,p ã j h r aː n i + tʃʰ j aː,,Hale1973,,,^p a̩ y h r ā n i + ch y ā$,default
 Kham-1743_until-5,267546,Kham,1743_until,'thomsio,'thomsio,ˈ/tʰ o m s i o,,Hale1973,,,^'th o ms i o$,default
@@ -4466,8 +4466,8 @@ Kham-1743_until-24,267741,Kham,1743_until,khārka,khārka,kʰ aː r k a,,Hale197
 Kham-1743_until-25,267753,Kham,1743_until,āchyāka,āchyāka,aː tʃʰ j aː k a,,Hale1973,,,^ā ch y ā k a$,default
 Kham-1743_until-26,267754,Kham,1743_until,'ngāh◦dā,'ngāh◦dā,ˈ/n g a̤ː + d aː,,Hale1973,,,^'n g āh ◦ d ā$,default
 Kham-1743_until-27,267769,Kham,1743_until,chi̩ni,chi̩ni,tʃʰ ĩ n i,,Hale1973,,,^ch i̩ n i$,default
-Kham-1743_until-28,267782,Kham,1743_until,-zyāka,-zyāka,+ z j aː k a,,Hale1973,,,^ - z y ā k a$,default
-Kham-1743_until-29,267794,Kham,1743_until,-wāpay,-wāpay,+ w aː p a j,,Hale1973,,,^ - w ā p a y$,default
+Kham-1743_until-28,267782,Kham,1743_until,-zyāka,-zyāka,z j aː k a,,Hale1973,,,^- z y ā k a$,default
+Kham-1743_until-29,267794,Kham,1743_until,-wāpay,-wāpay,w aː p a j,,Hale1973,,,^- w ā p a y$,default
 Kham-659_road-1,267805,Kham,659_road,'em,'em,ˈ/e m,,Hale1973,,,^'e m$,default
 Kham-660_village-1,267818,Kham,660_village,nā:khār,nā:khār,n aː kʰ aː r,,Hale1973,,,^n ā: kh ā r$,default
 Kham-661_town-1,267832,Kham,661_town,bajār,bajār,b a dʒ aː r,,Hale1973,,,^b a j ā r$,default
@@ -5223,9 +5223,9 @@ Magar-1111_some-1,265561,Magar,1111_some,āskāTca,āskāTca,aː s k aː ʈ c a,
 Magar-1112_toomuch-1,265580,Magar,1112_toomuch,irik,irik,i r i k,,Hale1973,,,^i r i k$,default
 Magar-1744_canbeabletodosomething-1,265594,Magar,1744_canbeabletodosomething,hyok-ke,hyok-ke,h j o k + k e,,Hale1973,,,^h y o k - k e$,default
 Magar-1745_knowsomething-1,265606,Magar,1745_knowsomething,wār-khe,wār-khe,w aː r + kʰ e,,Hale1973,,,^w ā r - kh e$,default
-Magar-1746_benefactive-1,265617,Magar,1746_benefactive,-na yā-khe,-na yā-khe,+ n a + j aː + kʰ e,,Hale1973,,,^ - n a + y ā - kh e$,default
+Magar-1746_benefactive-1,265617,Magar,1746_benefactive,-na yā-khe,-na yā-khe,n a + j aː + kʰ e,,Hale1973,,,^- n a + y ā - kh e$,default
 Magar-1747_letsodosth-1,265626,Magar,1747_letsodosth,yā-khe,yā-khe,j aː + kʰ e,,Hale1973,,,^y ā - kh e$,default
-Magar-1748_causesotodosth-1,265638,Magar,1748_causesotodosth,-ak-ke,-ak-ke,+ a k + k e,,Hale1973,,,^ - a k - k e$,default
+Magar-1748_causesotodosth-1,265638,Magar,1748_causesotodosth,-ak-ke,-ak-ke,a k + k e,,Hale1973,,,^- a k - k e$,default
 Magar-1113_love-1,265653,Magar,1113_love,ro-ke,ro-ke,r o + k e,,Hale1973,,,^r o - k e$,default
 Magar-1114_hate-1,265665,Magar,1114_hate,mā-jak-ke,mā-jak-ke,m aː + dʒ a k + k e,,Hale1973,,,^m ā - j a k - k e$,default
 Magar-1115_envy-1,265679,Magar,1115_envy,mi-ris jaT-ke,mi-ris jaT-ke,m i + r i s + dʒ a ʈ + k e,,Hale1973,,,^m i - r i s + j a T - k e$,default
@@ -5335,8 +5335,8 @@ Magar-1688_slow-1,267129,Magar,1688_slow,Dhilo,Dhilo,ɖʱ i l o,,Hale1973,,,^Dh 
 Magar-1689_slowly-1,267142,Magar,1689_slowly,bistārāy,bistārāy,b i s t aː r aː j,,Hale1973,,,^b i s t ā r ā y$,default
 Magar-1690_cubitelbowtofingertip-1,267155,Magar,1690_cubitelbowtofingertip,hāT,hāT,h aː ʈ,,Hale1973,,,^h ā T$,default
 Magar-1691_spanofhand-1,267166,Magar,1691_spanofhand,bittā,bittā,b i tː aː,,Hale1973,,,^b i tt ā$,default
-Magar-1692_from-1,267178,Magar,1692_from,-ing,-ing,+ i ŋ,,Hale1973,,,^ - i ng $,default
-Magar-1693_into-1,267198,Magar,1693_into,-āng,-āng,+ aː ŋ,,Hale1973,,,^ - ā ng $,default
+Magar-1692_from-1,267178,Magar,1692_from,-ing,-ing,i ŋ,,Hale1973,,,^- i ng $,default
+Magar-1693_into-1,267198,Magar,1693_into,-āng,-āng,aː ŋ,,Hale1973,,,^- ā ng $,default
 Magar-1712_where-1,267219,Magar,1712_where,bāhira khyo-khe,bāhira khyo-khe,b a̤ː i r a + kʰ j o + kʰ e,,Hale1973,,,^b āh i r a + kh y o - kh e$,default
 Magar-1712_where-2,267236,Magar,1712_where,bhitrā,bhitrā,bʱ i t r aː,,Hale1973,,,^bh i t r ā$,default
 Magar-1712_where-3,267251,Magar,1712_where,Dhenām,Dhenām,ɖʱ e n aː m,,Hale1973,,,^Dh e n ā m$,default
@@ -5344,8 +5344,8 @@ Magar-1712_where-4,267268,Magar,1712_where,mhākāng,mhākāng,m̊ aː k aː ŋ,
 Magar-1712_where-5,267283,Magar,1712_where,tāking,tāking,t aː k i ŋ,,Hale1973,,,^t ā k i ng $,default
 Magar-1712_where-6,267298,Magar,1712_where,mhāking,mhāking,m̊ aː k i ŋ,,Hale1973,,,^mh ā k i ng $,default
 Magar-1712_where-7,267313,Magar,1712_where,kel-khe,kel-khe,k e l + kʰ e,,Hale1973,,,^k e l - kh e$,default
-Magar-1712_where-8,267328,Magar,1712_where,-lāk,-lāk,+ l aː k,,Hale1973,,,^ - l ā k$,default
-Magar-1712_where-9,267344,Magar,1712_where,-ing,-ing,+ i ŋ,,Hale1973,,,^ - i ng $,default
+Magar-1712_where-8,267328,Magar,1712_where,-lāk,-lāk,l aː k,,Hale1973,,,^- l ā k$,default
+Magar-1712_where-9,267344,Magar,1712_where,-ing,-ing,i ŋ,,Hale1973,,,^- i ng $,default
 Magar-1712_where-10,267357,Magar,1712_where,nhunlāk,nhunlāk,n̊ u n l aː k,,Hale1973,,,^nh u n l ā k$,default
 Magar-1704_infrontof-1,267374,Magar,1704_infrontof,nghā◦slāk,nghā◦slāk,ŋ h aː + s l aː k,,Hale1973,,,^ng h ā ◦ s l ā k$,default
 Magar-1712_where-11,267390,Magar,1712_where,koltyāk mu-ke,koltyāk mu-ke,k o l t j aː k + m u + k e,,Hale1973,,,^k o l t y ā k + m u - k e$,default
@@ -5379,8 +5379,8 @@ Magar-1743_until-19,267727,Magar,1743_until,din dine,din dine,d i n + d i n e,,H
 Magar-1743_until-20,267740,Magar,1743_until,sen,sen,s e n,,Hale1973,,,^s e n$,default
 Magar-1743_until-21,267752,Magar,1743_until,nghā◦sāng,nghā◦sāng,ŋ h aː + s aː ŋ,,Hale1973,,,^ng h ā ◦ s ā ng $,default
 Magar-1743_until-22,267768,Magar,1743_until,nhuning,nhuning,n̊ u n i ŋ,,Hale1973,,,^nh u n i ng $,default
-Magar-1743_until-23,267781,Magar,1743_until,-nāng,-nāng,+ n aː ŋ,,Hale1973,,,^ - n ā ng $,default
-Magar-1743_until-24,267793,Magar,1743_until,-thār,-thār,+ tʰ aː r,,Hale1973,,,^ - th ā r$,default
+Magar-1743_until-23,267781,Magar,1743_until,-nāng,-nāng,n aː ŋ,,Hale1973,,,^- n ā ng $,default
+Magar-1743_until-24,267793,Magar,1743_until,-thār,-thār,tʰ aː r,,Hale1973,,,^- th ā r$,default
 Magar-659_road-1,267804,Magar,659_road,lām,lām,l aː m,,Hale1973,,,^l ā m$,default
 Magar-660_village-1,267817,Magar,660_village,lāngnghā,lāngnghā,l aː ŋ ŋ h aː,,Hale1973,,,^l ā ng ng h ā$,default
 Magar-661_town-1,267831,Magar,661_town,bajār,bajār,b a dʒ aː r,,Hale1973,,,^b a j ā r$,default
@@ -5443,7 +5443,7 @@ Magar-4_this-1,268583,Magar,4_this,ise,ise,i s e,,Hale1973,,,^i s e$,default
 Magar-5_that-1,268596,Magar,5_that,hose,hose,h o s e,,Hale1973,,,^h o s e$,default
 Magar-6_who-1,268611,Magar,6_who,su,su,s u,,Hale1973,,,^s u$,default
 Magar-7_what-1,268625,Magar,7_what,hi,hi,h i,,Hale1973,,,^h i$,default
-Magar-8_not-1,268641,Magar,8_not,mā-,mā-,m aː +,,Hale1973,,,^m ā - $,default
+Magar-8_not-1,268641,Magar,8_not,mā-,mā-,m aː,,Hale1973,,,^m ā -$,default
 Magar-9_all-1,268656,Magar,9_all,paTTa,paTTa,p a ʈː a,,Hale1973,,,^p a TT a$,default
 Magar-10_many-1,268674,Magar,10_many,dheray,dheray,dʱ e r a j,,Hale1973,,,^dh e r a y$,default
 Magar-11_one-1,268689,Magar,11_one,kaT,kaT,k a ʈ,,Hale1973,,,^k a T$,default
@@ -6324,10 +6324,10 @@ Nepali-1689_slowly-1,267138,Nepali,1689_slowly,Dhilo,Dhilo,ɖʱ i l o,,Hale1973,
 Nepali-1690_cubitelbowtofingertip-1,267151,Nepali,1690_cubitelbowtofingertip,hat,hat,h a t,,Hale1973,,,^h a t$,default
 Nepali-1691_spanofhand-1,267162,Nepali,1691_spanofhand,bitta,bitta,b i tː a,,Hale1973,,,^b i tt a$,default
 Nepali-1692_from-1,267172,Nepali,1692_from,baTa,baTa,b a ʈ a,,Hale1973,,,^b a T a$,default
-Nepali-1692_from-2,267173,Nepali,1692_from,-dekhi,-dekhi,+ d e kʰ i,,Hale1973,,,^ - d e kh i$,default
-Nepali-1693_into-1,267193,Nepali,1693_into,-mā,-mā,+ m aː,,Hale1973,,,^ - m ā$,default
-Nepali-1693_into-2,267194,Nepali,1693_into,-bhitra,-bhitra,+ bʱ i t r a,,Hale1973,,,^ - bh i t r a$,default
-Nepali-1694_outof-1,267212,Nepali,1694_outof,-bāTa,-bāTa,+ b aː ʈ a,,Hale1973,,,^ - b ā T a$,default
+Nepali-1692_from-2,267173,Nepali,1692_from,-dekhi,-dekhi,d e kʰ i,,Hale1973,,,^- d e kh i$,default
+Nepali-1693_into-1,267193,Nepali,1693_into,-mā,-mā,m aː,,Hale1973,,,^- m ā$,default
+Nepali-1693_into-2,267194,Nepali,1693_into,-bhitra,-bhitra,bʱ i t r a,,Hale1973,,,^- bh i t r a$,default
+Nepali-1694_outof-1,267212,Nepali,1694_outof,-bāTa,-bāTa,b aː ʈ a,,Hale1973,,,^- b ā T a$,default
 Nepali-1712_where-1,267213,Nepali,1712_where,bāT...bāhira,bāT...bāhira,b aː ʈ + + + b a̤ː i r a,,Hale1973,,,^b ā T . . . b āh i r a$,default
 Nepali-1712_where-2,267230,Nepali,1712_where,mā,mā,m aː,,Hale1973,,,^m ā$,default
 Nepali-1712_where-3,267231,Nepali,1712_where,bhitra paTTi,bhitra paTTi,bʱ i t r a + p a ʈː i,,Hale1973,,,^bh i t r a + p a TT i$,default
@@ -6339,10 +6339,10 @@ Nepali-1712_where-8,267278,Nepali,1712_where,māthi,māthi,m aː tʰ i,,Hale1973
 Nepali-1712_where-9,267279,Nepali,1712_where,māstira,māstira,m aː s t i r a,,Hale1973,,,^m ās t i r a$,default
 Nepali-1712_where-10,267293,Nepali,1712_where,muni,muni,m u n i,,Hale1973,,,^m u n i$,default
 Nepali-1712_where-11,267294,Nepali,1712_where,muntira,muntira,m u n t i r a,,Hale1973,,,^m u n t i r a$,default
-Nepali-1712_where-12,267308,Nepali,1712_where,-bāTa,-bāTa,+ b aː ʈ a,,Hale1973,,,^ - b ā T a$,default
+Nepali-1712_where-12,267308,Nepali,1712_where,-bāTa,-bāTa,b aː ʈ a,,Hale1973,,,^- b ā T a$,default
 Nepali-1712_where-13,267309,Nepali,1712_where,bhaera,bhaera,bʱ a e r a,,Hale1973,,,^bh a e r a$,default
-Nepali-1712_where-14,267323,Nepali,1712_where,-tira,-tira,+ t i r a,,Hale1973,,,^ - t i r a$,default
-Nepali-1712_where-15,267324,Nepali,1712_where,-paTTi,-paTTi,+ p a ʈː i,,Hale1973,,,^ - p a TT i$,default
+Nepali-1712_where-14,267323,Nepali,1712_where,-tira,-tira,t i r a,,Hale1973,,,^- t i r a$,default
+Nepali-1712_where-15,267324,Nepali,1712_where,-paTTi,-paTTi,p a ʈː i,,Hale1973,,,^- p a TT i$,default
 Nepali-1712_where-16,267340,Nepali,1712_where,dekhi TāDhā,dekhi TāDhā,d e kʰ i + ʈ aː ɖʱ aː,,Hale1973,,,^d e kh i + T ā Dh ā$,default
 Nepali-1712_where-17,267353,Nepali,1712_where,pacāDi,pacāDi,p a c aː ɖ i,,Hale1973,,,^p a c ā D i$,default
 Nepali-1704_infrontof-1,267368,Nepali,1704_infrontof,agāDi,agāDi,a g aː ɖ i,,Hale1973,,,^a g ā D i$,default
@@ -6391,8 +6391,8 @@ Nepali-1743_until-29,267747,Nepali,1743_until,pahile,pahile,p a̤ i l e,,Hale197
 Nepali-1743_until-30,267748,Nepali,1743_until,aghi,aghi,a gʱ i,,Hale1973,,,^a gh i$,default
 Nepali-1743_until-31,267763,Nepali,1743_until,pachi,pachi,p a tʃʰ i,,Hale1973,,,^p a ch i$,default
 Nepali-1743_until-32,267764,Nepali,1743_until,pachāDi,pachāDi,p a tʃʰ aː ɖ i,,Hale1973,,,^p a ch ā D i$,default
-Nepali-1743_until-33,267777,Nepali,1743_until,-mā,-mā,+ m aː,,Hale1973,,,^ - m ā$,default
-Nepali-1743_until-34,267788,Nepali,1743_until,-taka,-taka,+ t a k a,,Hale1973,,,^ - t a k a$,default
+Nepali-1743_until-33,267777,Nepali,1743_until,-mā,-mā,m aː,,Hale1973,,,^- m ā$,default
+Nepali-1743_until-34,267788,Nepali,1743_until,-taka,-taka,t a k a,,Hale1973,,,^- t a k a$,default
 Nepali-1743_until-35,267789,Nepali,1743_until,tabasamma,tabasamma,t a b a s a mː a,,Hale1973,,,^t a b a s a mm a$,default
 Nepali-659_road-1,267800,Nepali,659_road,bāTo,bāTo,b aː ʈ o,,Hale1973,,,^b ā T o$,default
 Nepali-660_village-1,267813,Nepali,660_village,gāu̩,gāu̩,g aː ũ,,Hale1973,,,^g ā u̩$,default
@@ -6477,7 +6477,7 @@ Nepali-5_that-1,268592,Nepali,5_that,tio,tio,t i o,,Hale1973,,,^t i o$,default
 Nepali-6_who-1,268607,Nepali,6_who,ko,ko,k o,,Hale1973,,,^k o$,default
 Nepali-7_what-1,268621,Nepali,7_what,ke,ke,k e,,Hale1973,,,^k e$,default
 Nepali-8_not-1,268635,Nepali,8_not,nāi̩,nāi̩,n aː ĩ,,Hale1973,,,^n ā i̩$,default
-Nepali-8_not-2,268636,Nepali,8_not,-na,-na,+ n a,,Hale1973,,,^ - n a$,default
+Nepali-8_not-2,268636,Nepali,8_not,-na,-na,n a,,Hale1973,,,^- n a$,default
 Nepali-9_all-1,268651,Nepali,9_all,sab,sab,s a b,,Hale1973,,,^s a b$,default
 Nepali-9_all-2,268652,Nepali,9_all,jammai,jammai,dʒ a mː a i,,Hale1973,,,^j a mm a i$,default
 Nepali-10_many-1,268670,Nepali,10_many,dherai,dherai,dʱ e r a i,,Hale1973,,,^dh e r a i$,default
@@ -7385,7 +7385,7 @@ Newar-1096_onequarter-1,265375,Newar,1096_onequarter,pe-bwae cha-bwa,pe-bwae cha
 Newar-1097_twothirds-1,265385,Newar,1097_twothirds,swa bwae ni-bwa,swa bwae ni-bwa,s w a + b w a e + n i + b w a,,Hale1973,,,^sw a + bw a e + n i - bw a$,default
 Newar-1098_threequarters-1,265394,Newar,1098_threequarters,pe-bwae swa-bwa,pe-bwae swa-bwa,p e + b w a e + s w a + b w a,,Hale1973,,,^p e - bw a e + sw a - bw a$,default
 Newar-1099_apair-1,265406,Newar,1099_apair,jwa(l),jwa,dʒ w a,,Hale1973,,,^jw a$,default
-Newar-1100_none-1,265420,Newar,1100_none,su̩:... na-,su̩:... na-,s ũː + + + + n a +,,Hale1973,,,^s u̩: . . . + n a - $,default
+Newar-1100_none-1,265420,Newar,1100_none,su̩:... na-,su̩:... na-,s ũː + + + + n a,,Hale1973,,,^s u̩: . . . + n a -$,default
 Newar-1101_neither-1,265432,Newar,1101_neither,na...na,na...na,n a + + + n a,,Hale1973,,,^n a . . . n a$,default
 Newar-1102_both-1,265444,Newar,1102_both,ni-guli̩:,ni-guli̩:,n i + g u l ĩː,,Hale1973,,,^n i - g u l i̩:$,default
 Newar-1102_both-2,265445,Newar,1102_both,ni-mha̩:,ni-mha̩:,n i + m̊ ãː,,Hale1973,,,^n i - mh a̩:$,default
@@ -7394,9 +7394,9 @@ Newar-1103_every-2,265460,Newar,1103_every,sakalae̩,sakalae̩,s a k a l a ẽ,,
 Newar-1104_total-1,265474,Newar,1104_total,jammā,jammā,dʒ a mː aː,,Hale1973,,,^j a mm ā$,default
 Newar-1105_together-1,265487,Newar,1105_together,nāpa nāpa̩:,nāpa nāpa̩:,n aː p a + n aː p ãː,,Hale1973,,,^n ā p a + n ā p a̩:$,default
 Newar-1106_something-1,265502,Newar,1106_something,chu̩,chu̩,tʃʰ ũ,,Hale1973,,,^ch u̩$,default
-Newar-1107_nothing-1,265514,Newar,1107_nothing,chu̩...ma-,chu̩...ma-,tʃʰ ũ + + + m a +,,Hale1973,,,^ch u̩ . . . m a - $,default
+Newar-1107_nothing-1,265514,Newar,1107_nothing,chu̩...ma-,chu̩...ma-,tʃʰ ũ + + + m a,,Hale1973,,,^ch u̩ . . . m a -$,default
 Newar-1108_someone-1,265527,Newar,1108_someone,su̩,su̩,s ũ,,Hale1973,,,^s u̩$,default
-Newar-1109_noone-1,265539,Newar,1109_noone,su̩...na-,su̩...na-,s ũ + + + n a +,,Hale1973,,,^s u̩ . . . n a - $,default
+Newar-1109_noone-1,265539,Newar,1109_noone,su̩...na-,su̩...na-,s ũ + + + n a,,Hale1973,,,^s u̩ . . . n a -$,default
 Newar-1110_another-1,265553,Newar,1110_another,me:-gu,me:-gu,m eː + g u,,Hale1973,,,^m e: - g u$,default
 Newar-1111_some-1,265573,Newar,1111_some,chu̩ bhacā,chu̩ bhacā,tʃʰ ũ + bʱ a c aː,,Hale1973,,,^ch u̩ + bh a c ā$,default
 Newar-1112_toomuch-1,265587,Newar,1112_toomuch,apwa,apwa,a p w a,,Hale1973,,,^a pw a$,default
@@ -7437,7 +7437,7 @@ Newar-1138_cough-1,265985,Newar,1138_cough,musu,musu,m u s u,,Hale1973,,,^m u s 
 Newar-1139_sneeze-1,265998,Newar,1139_sneeze,hāchikā:,hāchikā:,h aː tʃʰ i k aː,,Hale1973,,,^h ā ch i k ā:$,default
 Newar-1140_hiccup-1,266012,Newar,1140_hiccup,hiku,hiku,h i k u,,Hale1973,,,^h i k u$,default
 Newar-1141_disease-1,266026,Newar,1141_disease,lwae,lwae,l w a e,,Hale1973,,,^lw a e$,default
-Newar-1141_disease-2,266027,Newar,1141_disease,lwac-,lwac-,l w a c +,,Hale1973,,,^lw a c - $,default
+Newar-1141_disease-2,266027,Newar,1141_disease,lwac-,lwac-,l w a c,,Hale1973,,,^lw a c -$,default
 Newar-1142_leprosy-1,266041,Newar,1142_leprosy,kwari,kwari,k w a r i,,Hale1973,,,^kw a r i$,default
 Newar-1142_leprosy-2,266042,Newar,1142_leprosy,kwasta,kwasta,k w a s t a,,Hale1973,,,^kw a s t a$,default
 Newar-1143_tuberculosis-1,266053,Newar,1143_tuberculosis,che:rwa:g,che:rwa:g,tʃʰ eː r w aː g,,Hale1973,,,^ch e: rw a: g$,default
@@ -7470,7 +7470,7 @@ Newar-1164_otherworlds-1,266313,Newar,1164_otherworlds,me:-gu lwa:k,me:-gu lwa:k
 Newar-1165_ghost-1,266330,Newar,1165_ghost,bhu:t,bhu:t,bʱ uː t,,Hale1973,,,^bh u: t$,default
 Newar-1166_spirit-1,266347,Newar,1166_spirit,ātmā,ātmā,aː t m aː,,Hale1973,,,^ā t m ā$,default
 Newar-1167_god-1,266370,Newar,1167_god,dya:,dya:,d j aː,,Hale1973,,,^d y a:$,default
-Newar-1167_god-2,266371,Newar,1167_god,dew-,dew-,d e w +,,Hale1973,,,^d e w - $,default
+Newar-1167_god-2,266371,Newar,1167_god,dew-,dew-,d e w,,Hale1973,,,^d e w -$,default
 Newar-1168_witch-1,266385,Newar,1168_witch,bwaksi,bwaksi,b w a k s i,,Hale1973,,,^bw a ks i$,default
 Newar-1169_shaman-1,266399,Newar,1169_shaman,jhākri,jhākri,dʒʱ aː k r i,,Hale1973,,,^jh ā k r i$,default
 Newar-1170_mask-1,266411,Newar,1170_mask,khwā:-pā:,khwā:-pā:,kʰ w aː + p aː,,Hale1973,,,^khw ā: - p ā:$,default
@@ -7519,7 +7519,7 @@ Newar-1670_straight-1,266883,Newar,1670_straight,tapya̩:,tapya̩:,t a p j ãː,
 Newar-1671_twisted-1,266897,Newar,1671_twisted,nilā-ta:-gu,nilā-ta:-gu,n i l aː + t aː + g u,,Hale1973,,,^n i l ā - t a: - g u$,default
 Newar-1672_flat-1,266911,Newar,1672_flat,mātha̩:,mātha̩:,m aː tʰ ãː,,Hale1973,,,^m ā th a̩:$,default
 Newar-1673_sharpedged-1,266926,Newar,1673_sharpedged,dha:r jwa;-gu,dha:r jwa,dʱ aː r + dʒ w a,,Hale1973,,,^dh a: r + jw a$,default
-Newar-1673_sharpedged-2,266926,Newar,1673_sharpedged,dha:r jwa;-gu,-gu,+ g u,,Hale1973,,,^ - g u$,default
+Newar-1673_sharpedged-2,266926,Newar,1673_sharpedged,dha:r jwa;-gu,-gu,g u,,Hale1973,,,^- g u$,default
 Newar-1674_sharppointed-1,266942,Newar,1674_sharppointed,cwakā lū-gu,cwakā lū-gu,tʃ w a k aː + l uː + g u,,Hale1973,,,^cw a k ā + l ū - g u$,default
 Newar-1675_blunt-1,266958,Newar,1675_blunt,ma-jwa:,ma-jwa:,m a + dʒ w aː,,Hale1973,,,^m a - jw a:$,default
 Newar-1676_smooth-1,266972,Newar,1676_smooth,culu,culu,tʃ u l u,,Hale1973,,,^c u l u$,default
@@ -7593,14 +7593,14 @@ Newar-1743_until-19,267746,Newar,1743_until,gablae,gablae,g a b l a e,,Hale1973,
 Newar-1743_until-20,267760,Newar,1743_until,nhya: / nhya◦wa,nhya:,n̊ j aː,,Hale1973,,,^nh y a:$,default
 Newar-1743_until-21,267760,Newar,1743_until,nhya: / nhya◦wa,nhya◦wa,n̊ j a + w a,,Hale1973,,,^nh y a ◦ w a$,default
 Newar-1743_until-22,267775,Newar,1743_until,lipā,lipā,l i p aː,,Hale1973,,,^l i p ā$,default
-Newar-1743_until-23,267787,Newar,1743_until,-balae,-balae,+ b a l a e,,Hale1973,,,^ - b a l a e$,default
+Newar-1743_until-23,267787,Newar,1743_until,-balae,-balae,b a l a e,,Hale1973,,,^- b a l a e$,default
 Newar-1743_until-24,267798,Newar,1743_until,ma-...tale,ma-...tale,m a + + + + t a l e,,Hale1973,,,^m a - . . . t a l e$,default
 Newar-659_road-1,267811,Newar,659_road,la̩,la̩,l ã,,Hale1973,,,^l a̩$,default
 Newar-660_village-1,267824,Newar,660_village,gā(m),gā,g aː,,Hale1973,,,^g ā$,default
 Newar-661_town-1,267837,Newar,661_town,de:,de:,d eː,,Hale1973,,,^d e:$,default
-Newar-661_town-2,267838,Newar,661_town,des-,des-,d e s +,,Hale1973,,,^d e s - $,default
+Newar-661_town-2,267838,Newar,661_town,des-,des-,d e s,,Hale1973,,,^d e s -$,default
 Newar-662_place-1,267850,Newar,662_place,thāe,thāe,tʰ aː e,,Hale1973,,,^th ā e$,default
-Newar-662_place-2,267851,Newar,662_place,thās-,thās-,tʰ aː s +,,Hale1973,,,^th ās - $,default
+Newar-662_place-2,267851,Newar,662_place,thās-,thās-,tʰ aː s,,Hale1973,,,^th ās -$,default
 Newar-663_corner-1,267864,Newar,663_corner,ku(n),ku,k u,,Hale1973,,,^k u$,default
 Newar-664_house-1,267877,Newar,664_house,che̩,che̩,tʃʰ ẽ,,Hale1973,,,^ch e̩$,default
 Newar-665_granary-1,267887,Newar,665_granary,bhakhāri,bhakhāri,bʱ a kʰ aː r i,,Hale1973,,,^bh a kh ā r i$,default
@@ -7663,11 +7663,11 @@ Newar-708_steam-1,268446,Newar,708_steam,hā,hā,h aː,,Hale1973,,,^h ā$,defaul
 Newar-709_broom-1,268459,Newar,709_broom,tuphi,tuphi,t u pʰ i,,Hale1973,,,^t u ph i$,default
 Newar-710_sweepings-1,268472,Newar,710_sweepings,dhu(l),dhu,dʱ u,,Hale1973,,,^dh u$,default
 Newar-711_bellows-1,268486,Newar,711_bellows,bhau,bhau,bʱ a u,,Hale1973,,,^bh a u$,default
-Newar-711_bellows-2,268487,Newar,711_bellows,bhat-,bhat-,bʱ a t +,,Hale1973,,,^bh a t - $,default
+Newar-711_bellows-2,268487,Newar,711_bellows,bhat-,bhat-,bʱ a t,,Hale1973,,,^bh a t -$,default
 Newar-712_firetongs-1,268500,Newar,712_firetongs,cintā,cintā,tʃ i n t aː,,Hale1973,,,^c i n t ā$,default
 Newar-713_kindling-1,268513,Newar,713_kindling,chusi,chusi,tʃʰ u s i,,Hale1973,,,^ch u s i$,default
 Newar-713_kindling-2,268514,Newar,713_kindling,chyāka̩,chyāka̩,tʃʰ j aː k ã,,Hale1973,,,^ch y ā k a̩$,default
-Newar-713_kindling-3,268515,Newar,713_kindling,chyākan-,chyākan-,tʃʰ j aː k a n +,,Hale1973,,,^ch y ā k a n - $,default
+Newar-713_kindling-3,268515,Newar,713_kindling,chyākan-,chyākan-,tʃʰ j aː k a n,,Hale1973,,,^ch y ā k a n -$,default
 Newar-1_i-1,268531,Newar,1_i,ji,ji,dʒ i,,Hale1973,,,^j i$,default
 Newar-2_thou-1,268549,Newar,2_thou,cha,cha,tʃʰ a,,Hale1973,,,^ch a$,default
 Newar-2_thou-2,268550,Newar,2_thou,chi,chi,tʃʰ i,,Hale1973,,,^ch i$,default
@@ -7677,7 +7677,7 @@ Newar-4_this-1,268590,Newar,4_this,thwa,thwa,tʰ w a,,Hale1973,,,^thw a$,default
 Newar-5_that-1,268604,Newar,5_that,wa,wa,w a,,Hale1973,,,^w a$,default
 Newar-6_who-1,268619,Newar,6_who,su,su,s u,,Hale1973,,,^s u$,default
 Newar-7_what-1,268633,Newar,7_what,chu,chu,tʃʰ u,,Hale1973,,,^ch u$,default
-Newar-8_not-1,268648,Newar,8_not,ma-,ma-,m a +,,Hale1973,,,^m a - $,default
+Newar-8_not-1,268648,Newar,8_not,ma-,ma-,m a,,Hale1973,,,^m a -$,default
 Newar-9_all-2,268666,Newar,9_all,phukka,phukka,pʰ u k + k a,,Hale1973,,,^ph u kk a$,default
 Newar-9_all-3,268667,Newar,9_all,sakalae̩,sakalae̩,s a k a l a ẽ,,Hale1973,,,^s a k a l a e̩$,default
 Newar-10_many-1,268682,Newar,10_many,yekwa,yekwa,j e k w a,,Hale1973,,,^y e kw a$,default
@@ -7716,7 +7716,7 @@ Newar-67_sit-2,269130,Newar,67_sit,"phetuta, di-ye (h)",phetuta,pʰ e t u t a,,H
 Newar-67_sit-3,269130,Newar,67_sit,"phetuta, di-ye (h)",di-ye,d i + j e,,Hale1973,,,^d i - y e$,default
 Newar-68_stand-1,269143,Newar,68_stand,dane,dane,d a n e,,Hale1973,,,^d a n e$,default
 Newar-70_say-1,269172,Newar,70_say,dhā-ye,dhā-ye,dʱ aː + j e,,Hale1973,,,^dh ā - y e$,default
-Newar-71_sun-1,269186,Newar,71_sun,surdew-,surdew-,s u r d e w +,,Hale1973,,,^s u r d e w - $,default
+Newar-71_sun-1,269186,Newar,71_sun,surdew-,surdew-,s u r d e w,,Hale1973,,,^s u r d e w -$,default
 Newar-71_sun-2,269187,Newar,71_sun,surdya:,surdya:,s u r d j aː,,Hale1973,,,^s u r d y a:$,default
 Newar-72_moon-1,269200,Newar,72_moon,tim◦lā,tim◦lā,t i m + l aː,,Hale1973,,,^t i m ◦ l ā$,default
 Newar-73_star-1,269213,Newar,73_star,naguti,naguti,n a g u t i,,Hale1973,,,^n a g u t i$,default
@@ -7727,11 +7727,11 @@ Newar-77_sand-1,269268,Newar,77_sand,phi,phi,pʰ i,,Hale1973,,,^ph i$,default
 Newar-78_earth-1,269283,Newar,78_earth,prithibi,prithibi,p r i tʰ i b i,,Hale1973,,,^p r i th i b i$,default
 Newar-78_earth-2,269284,Newar,78_earth,cā,cā,tʃ aː,,Hale1973,,,^c ā$,default
 Newar-79_cloud-1,269297,Newar,79_cloud,supā̩e,supā̩e,s u p ãː e,,Hale1973,,,^s u p ā̩ e$,default
-Newar-79_cloud-2,269298,Newar,79_cloud,supāc-,supāc-,s u p aː c +,,Hale1973,,,^s u p ā c - $,default
+Newar-79_cloud-2,269298,Newar,79_cloud,supāc-,supāc-,s u p aː c,,Hale1973,,,^s u p ā c -$,default
 Newar-80_smoke-1,269311,Newar,80_smoke,ku̩,ku̩,k ũ,,Hale1973,,,^k u̩$,default
 Newar-81_fire-1,269324,Newar,81_fire,mi,mi,m i,,Hale1973,,,^m i$,default
 Newar-82_ash-1,269339,Newar,82_ash,nau,nau,n a u,,Hale1973,,,^n a u$,default
-Newar-82_ash-2,269340,Newar,82_ash,nali-,nali-,n a l i +,,Hale1973,,,^n a l i - $,default
+Newar-82_ash-2,269340,Newar,82_ash,nali-,nali-,n a l i,,Hale1973,,,^n a l i -$,default
 Newar-83_burn-1,269357,Newar,83_burn,cyāta-ye,cyāta-ye,tʃ j aː t a + j e,,Hale1973,,,^c y ā t a - y e$,default
 Newar-84_path-1,269372,Newar,84_path,la̩,la̩,l ã,,Hale1973,,,^l a̩$,default
 Newar-85_mountain-1,269387,Newar,85_mountain,gu̩,gu̩,g ũ,,Hale1973,,,^g u̩$,default
@@ -7744,7 +7744,7 @@ Newar-91_night-1,269467,Newar,91_night,cānhae,cānhae,tʃ aː n̊ a e,,Hale1973
 Newar-92_hot-1,269485,Newar,92_hot,kwā:,kwā:,k w aː,,Hale1973,,,^kw ā:$,default
 Newar-93_cold-1,269500,Newar,93_cold,khwāu̩,khwāu̩,kʰ w aː ũ,,Hale1973,,,^khw ā u̩$,default
 Newar-94_full-1,269515,Newar,94_full,jā:,jā:,dʒ aː,,Hale1973,,,^j ā:$,default
-Newar-95_new-1,269528,Newar,95_new,nhu:-,nhu:-,n̊ uː +,,Hale1973,,,^nh u: - $,default
+Newar-95_new-1,269528,Newar,95_new,nhu:-,nhu:-,n̊ uː,,Hale1973,,,^nh u: -$,default
 Newar-96_good-1,269545,Newar,96_good,bhi̩:,bhi̩:,bʱ ĩː,,Hale1973,,,^bh i̩:$,default
 Newar-97_round-1,269561,Newar,97_round,"cākalā:, gwallā:",cākalā:,tʃ aː k a l aː,,Hale1973,,,^c ā k a l ā:$,default
 Newar-97_round-2,269561,Newar,97_round,"cākalā:, gwallā:",gwallā:,g w a lː aː,,Hale1973,,,^gw a ll ā:$,default
@@ -7757,7 +7757,7 @@ Newar-301_chick-1,269642,Newar,301_chick,khā-cā,khā-cā,kʰ aː + c aː,,Hale
 Newar-302_comb-1,269655,Newar,302_comb,"culi, cili",culi,tʃ u l i,,Hale1973,,,^c u l i$,default
 Newar-302_comb-2,269655,Newar,302_comb,"culi, cili",cili,tʃ i l i,,Hale1973,,,^c i l i$,default
 Newar-303_duck-1,269668,Newar,303_duck,"ha̩e, hąs-",ha̩e,h ã e,,Hale1973,,,^h a̩ e$,default
-Newar-303_duck-2,269668,Newar,303_duck,"ha̩e, hąs-",hąs-,h ã s +,,Hale1973,,,^h ąs - $,default
+Newar-303_duck-2,269668,Newar,303_duck,"ha̩e, hąs-",hąs-,h ã s,,Hale1973,,,^h ąs -$,default
 Newar-304_pigeon-1,269681,Newar,304_pigeon,bakhu̩,bakhu̩,b a kʰ ũ,,Hale1973,,,^b a kh u̩$,default
 Newar-305_pheasant-1,269694,Newar,305_pheasant,ci-khā,ci-khā,tʃ i + kʰ aː,,Hale1973,,,^c i - kh ā$,default
 Newar-306_peacock-1,269707,Newar,306_peacock,mhāe-khā,mhāe-khā,m̊ aː e + kʰ aː,,Hale1973,,,^mh ā e - kh ā$,default
@@ -7765,7 +7765,7 @@ Newar-307_sparrow-1,269720,Newar,307_sparrow,cakhu(n),cakhu,tʃ a kʰ u,,Hale197
 Newar-308_swallow-1,269733,Newar,308_swallow,ikhu̩-cā,ikhu̩-cā,i kʰ ũ + c aː,,Hale1973,,,^i kh u̩ - c ā$,default
 Newar-309_bill-1,269746,Newar,309_bill,twā(th),twā,t w aː,,Hale1973,,,^tw ā$,default
 Newar-310_nest-1,269759,Newar,310_nest,swa̩/swa̩n-,swa̩,s w ã,,Hale1973,,,^sw a̩$,default
-Newar-310_nest-2,269759,Newar,310_nest,swa̩/swa̩n-,swa̩n-,s w ã n +,,Hale1973,,,^sw a̩ n - $,default
+Newar-310_nest-2,269759,Newar,310_nest,swa̩/swa̩n-,swa̩n-,s w ã n,,Hale1973,,,^sw a̩ n -$,default
 Newar-311_wing-1,269772,Newar,311_wing,"pā, papu(ti)",pā,p aː,,Hale1973,,,^p ā$,default
 Newar-311_wing-2,269772,Newar,311_wing,"pā, papu(ti)",papu,p a p u,,Hale1973,,,^p a p u$,default
 Newar-312_parrot-1,269785,Newar,312_parrot,"mainā, bhattu",mainā,m a i n aː,,Hale1973,,,^m a i n ā$,default
@@ -7803,18 +7803,18 @@ Newar-342_donkey-1,270175,Newar,342_donkey,garā-cā,garā-cā,g a r aː + c aː
 Newar-343_yak-1,270189,Newar,343_yak,cau̩ri-sā,cau̩ri-sā,tʃ a ũ r i + s aː,,Hale1973,,,^c a u̩ r i - s ā$,default
 Newar-344_rhinoceros-1,270202,Newar,344_rhinoceros,ge̩:dā,ge̩:dā,g ẽː d aː,,Hale1973,,,^g e̩: d ā$,default
 Newar-345_cat-1,270215,Newar,345_cat,bhau/bhati-,bhau,bʱ a u,,Hale1973,,,^bh a u$,default
-Newar-345_cat-2,270215,Newar,345_cat,bhau/bhati-,bhati-,bʱ a t i +,,Hale1973,,,^bh a t i - $,default
+Newar-345_cat-2,270215,Newar,345_cat,bhau/bhati-,bhati-,bʱ a t i,,Hale1973,,,^bh a t i -$,default
 Newar-346_whiskers-1,270228,Newar,346_whiskers,gwāe/gwac-,gwāe,g w aː e,,Hale1973,,,^gw ā e$,default
-Newar-346_whiskers-2,270228,Newar,346_whiskers,gwāe/gwac-,gwac-,g w a c +,,Hale1973,,,^gw a c - $,default
+Newar-346_whiskers-2,270228,Newar,346_whiskers,gwāe/gwac-,gwac-,g w a c,,Hale1973,,,^gw a c -$,default
 Newar-347_rat-1,270241,Newar,347_rat,chu̩,chu̩,tʃʰ ũ,,Hale1973,,,^ch u̩$,default
 Newar-348_shrew-1,270254,Newar,348_shrew,ti-chu̩,ti-chu̩,t i + tʃʰ ũ,,Hale1973,,,^t i - ch u̩$,default
 Newar-349_squirrel-1,270267,Newar,349_squirrel,lwakharke,lwakharke,l w a kʰ a r k e,,Hale1973,,,^lw a kh a r k e$,default
 Newar-350_monkey-1,270281,Newar,350_monkey,māka(l),māka,m aː k a,,Hale1973,,,^m ā k a$,default
 Newar-351_elephant-1,270294,Newar,351_elephant,kisi,kisi,k i s i,,Hale1973,,,^k i s i$,default
 Newar-352_trunk-1,270307,Newar,352_trunk,swa̩:/swath-,swa̩:,s w ãː,,Hale1973,,,^sw a̩:$,default
-Newar-352_trunk-2,270307,Newar,352_trunk,swa̩:/swath-,swath-,s w a tʰ +,,Hale1973,,,^sw a th - $,default
+Newar-352_trunk-2,270307,Newar,352_trunk,swa̩:/swath-,swath-,s w a tʰ,,Hale1973,,,^sw a th -$,default
 Newar-353_tusks-1,270320,Newar,353_tusks,da̩:/da̩:l-,da̩:,d ãː,,Hale1973,,,^d a̩:$,default
-Newar-353_tusks-2,270320,Newar,353_tusks,da̩:/da̩:l-,da̩:l-,d ãː l +,,Hale1973,,,^d a̩: l - $,default
+Newar-353_tusks-2,270320,Newar,353_tusks,da̩:/da̩:l-,da̩:l-,d ãː l,,Hale1973,,,^d a̩: l -$,default
 Newar-354_deer-1,270333,Newar,354_deer,calā,calā,tʃ a l aː,,Hale1973,,,^c a l ā$,default
 Newar-355_antelope-1,270346,Newar,355_antelope,calā,calā,tʃ a l aː,,Hale1973,,,^c a l ā$,default
 Newar-356_fox-1,270359,Newar,356_fox,pyākā dhwa̩,pyākā dhwa̩,p j aː k aː + dʰ w ã,,Hale1973,,,^p y ā k ā + dhw a̩$,default
@@ -7851,7 +7851,7 @@ Newar-384_bodylouse-1,270726,Newar,384_bodylouse,si,si,s i,,Hale1973,,,^s i$,def
 Newar-385_louseegg-1,270739,Newar,385_louseegg,sasi,sasi,s a s i,,Hale1973,,,^s a s i$,default
 Newar-386_flea-1,270752,Newar,386_flea,kusi,kusi,k u s i,,Hale1973,,,^k u s i$,default
 Newar-387_bedbug-1,270765,Newar,387_bedbug,dhae̩/dhas-,dhae̩,dʱ a ẽ,,Hale1973,,,^dh a e̩$,default
-Newar-387_bedbug-2,270765,Newar,387_bedbug,dhae̩/dhas-,dhas-,dʱ a s +,,Hale1973,,,^dh a s - $,default
+Newar-387_bedbug-2,270765,Newar,387_bedbug,dhae̩/dhas-,dhas-,dʱ a s,,Hale1973,,,^dh a s -$,default
 Newar-388_dragonfly-1,270777,Newar,388_dragonfly,bhama(l),bhama,bʱ a m a,,Hale1973,,,^bh a m a$,default
 Newar-389_moth-1,270790,Newar,389_moth,lāpā,lāpā,l aː p aː,,Hale1973,,,^l ā p ā$,default
 Newar-390_butterfly-1,270803,Newar,390_butterfly,lāpā,lāpā,l aː p aː,,Hale1973,,,^l ā p ā$,default
@@ -8781,7 +8781,7 @@ Sunwar-1257_forbid-1,264778,Sunwar,1257_forbid,mā-pā 'pāyk-cā,mā-pā 'pāyk
 Sunwar-1258_avoidsb-1,264787,Sunwar,1258_avoidsb,'her-cā,'her-cā,ˈ/h e r + c aː,,Hale1973,,,^'h e r - c ā$,default
 Sunwar-1259_hurtnotphysically-1,264797,Sunwar,1259_hurtnotphysically,thu:n 'khāyk-cā,thu:n 'khāyk-cā,tʰ uː n + ˈ/kʰ aː j k + c aː,,Hale1973,,,^th u: n + 'kh ā y k - c ā$,default
 Sunwar-1260_lie-1,264808,Sunwar,1260_lie,jo:l 'pā-cā,jo:l 'pā-cā,dʒ oː l + ˈ/p aː + c aː,,Hale1973,,,^j o: l + 'p ā - c ā$,default
-Sunwar-1261_pretend-1,264819,Sunwar,1261_pretend,-khu 'pā-cā,-khu 'pā-cā,+ kʰ u + ˈ/p aː + c aː,,Hale1973,,,^ - kh u + 'p ā - c ā$,default
+Sunwar-1261_pretend-1,264819,Sunwar,1261_pretend,-khu 'pā-cā,-khu 'pā-cā,kʰ u + ˈ/p aː + c aː,,Hale1973,,,^- kh u + 'p ā - c ā$,default
 Sunwar-1263_flirt-1,264839,Sunwar,1263_flirt,wāre 'pā-cā,wāre 'pā-cā,w aː r e + ˈ/p aː + c aː,,Hale1973,,,^w ā r e + 'p ā - c ā$,default
 Sunwar-1264_feelatease-1,264849,Sunwar,1264_feelatease,du-cā,du-cā,d u + c aː,,Hale1973,,,^d u - c ā$,default
 Sunwar-1265_quarrelwithwords-1,264859,Sunwar,1265_quarrelwithwords,'jit-cā,'jit-cā,ˈ/dʒ i t + c aː,,Hale1973,,,^'j i t - c ā$,default
@@ -8924,16 +8924,16 @@ Sunwar-1690_cubitelbowtofingertip-1,267158,Sunwar,1690_cubitelbowtofingertip,hā
 Sunwar-1691_spanofhand-1,267169,Sunwar,1691_spanofhand,bitā:,bitā:,b i t aː,,Hale1973,,,^b i t ā:$,default
 Sunwar-1692_from-1,267186,Sunwar,1692_from,le:,le:,l eː,,Hale1973,,,^l e:$,default
 Sunwar-1692_from-2,267187,Sunwar,1692_from,re:,re:,r eː,,Hale1973,,,^r e:$,default
-Sunwar-1693_into-1,267206,Sunwar,1693_into,-mi,-mi,+ m i,,Hale1973,,,^ - m i$,default
-Sunwar-1712_where-1,267226,Sunwar,1712_where,-le,-le,+ l e,,Hale1973,,,^ - l e$,default
-Sunwar-1712_where-2,267240,Sunwar,1712_where,-mi,-mi,+ m i,,Hale1973,,,^ - m i$,default
+Sunwar-1693_into-1,267206,Sunwar,1693_into,-mi,-mi,m i,,Hale1973,,,^- m i$,default
+Sunwar-1712_where-1,267226,Sunwar,1712_where,-le,-le,l e,,Hale1973,,,^- l e$,default
+Sunwar-1712_where-2,267240,Sunwar,1712_where,-mi,-mi,m i,,Hale1973,,,^- m i$,default
 Sunwar-1712_where-3,267257,Sunwar,1712_where,iri,iri,i r i,,Hale1973,,,^i r i$,default
 Sunwar-1712_where-4,267273,Sunwar,1712_where,'uyu,'uyu,ˈ/u j u,,Hale1973,,,^'u y u$,default
 Sunwar-1712_where-5,267288,Sunwar,1712_where,gyethi,gyethi,g j e tʰ i,,Hale1973,,,^g y e th i$,default
 Sunwar-1712_where-6,267303,Sunwar,1712_where,sāgā:,sāgā:,s aː g aː,,Hale1973,,,^s ā g ā:$,default
 Sunwar-1712_where-7,267318,Sunwar,1712_where,ā:gā:le,ā:gā:le,aː g aː l e,,Hale1973,,,^ā: g ā: l e$,default
 Sunwar-1712_where-8,267319,Sunwar,1712_where,le:,le:,l eː,,Hale1973,,,^l e:$,default
-Sunwar-1712_where-9,267336,Sunwar,1712_where,-ge,-ge,+ g e,,Hale1973,,,^ - g e$,default
+Sunwar-1712_where-9,267336,Sunwar,1712_where,-ge,-ge,g e,,Hale1973,,,^- g e$,default
 Sunwar-1712_where-10,267349,Sunwar,1712_where,le:gon,le:gon,l eː g o n,,Hale1973,,,^l e: g o n$,default
 Sunwar-1712_where-11,267363,Sunwar,1712_where,'no:le,'no:le,ˈ/n oː l e,,Hale1973,,,^'n o: l e$,default
 Sunwar-1704_infrontof-1,267380,Sunwar,1704_infrontof,ngo̩yti,ngo̩yti,ŋ õ j t i,,Hale1973,,,^ng o̩ y t i$,default
@@ -9808,10 +9808,10 @@ SahuTamang-1690_cubitelbowtofingertip-1,267153,SahuTamang,1690_cubitelbowtofinge
 SahuTamang-1691_spanofhand-1,267164,SahuTamang,1691_spanofhand,'pihtā 'nāng,'pihtā 'nāng,ˈ/p i h t aː + ˈ/n aː ŋ,,Hale1973,,,^'p i h t ā + 'n ā ng $,default
 SahuTamang-1692_from-1,267175,SahuTamang,1692_from,nyehnsye,nyehnsye,n j e h n s j e,,Hale1973,,,^n y e h ns y e$,default
 SahuTamang-1692_from-2,267176,SahuTamang,1692_from,nyehnsyece,nyehnsyece,n j e h n s j e c e,,Hale1973,,,^n y e h ns y e c e$,default
-SahuTamang-1693_into-1,267196,SahuTamang,1693_into,-nāhng,-nāhng,+ n a̤ː ŋ,,Hale1973,,,^ - n āh ng $,default
+SahuTamang-1693_into-1,267196,SahuTamang,1693_into,-nāhng,-nāhng,n a̤ː ŋ,,Hale1973,,,^- n āh ng $,default
 SahuTamang-1712_where-1,267216,SahuTamang,1712_where,nyehnsye,nyehnsye,n j e h n s j e,,Hale1973,,,^n y e h ns y e$,default
 SahuTamang-1712_where-2,267217,SahuTamang,1712_where,nyehnsyece,nyehnsyece,n j e h n s j e c e,,Hale1973,,,^n y e h ns y e c e$,default
-SahuTamang-1712_where-3,267233,SahuTamang,1712_where,-nāhng,-nāhng,+ n a̤ː ŋ,,Hale1973,,,^ - n āh ng $,default
+SahuTamang-1712_where-3,267233,SahuTamang,1712_where,-nāhng,-nāhng,n a̤ː ŋ,,Hale1973,,,^- n āh ng $,default
 SahuTamang-1712_where-4,267248,SahuTamang,1712_where,tor,tor,t o r,,Hale1973,,,^t o r$,default
 SahuTamang-1712_where-5,267249,SahuTamang,1712_where,cohri,cohri,tʃ o h r i,,Hale1973,,,^c o h r i$,default
 SahuTamang-1712_where-6,267265,SahuTamang,1712_where,tuhngTi,tuhngTi,t u h ŋ ʈ i,,Hale1973,,,^t u h ng T i$,default
@@ -9820,7 +9820,7 @@ SahuTamang-1712_where-8,267281,SahuTamang,1712_where,'olece,'olece,ˈ/o l e c e,
 SahuTamang-1712_where-9,267296,SahuTamang,1712_where,tuhngTi,tuhngTi,t u h ŋ ʈ i,,Hale1973,,,^t u h ng T i$,default
 SahuTamang-1712_where-10,267311,SahuTamang,1712_where,'kyāhmce,'kyāhmce,ˈ/k j a̤ː m c e,,Hale1973,,,^'k y āh m c e$,default
 SahuTamang-1712_where-11,267326,SahuTamang,1712_where,'pāTTi,'pāTTi,ˈ/p aː ʈː i,,Hale1973,,,^'p ā TT i$,default
-SahuTamang-1712_where-12,267342,SahuTamang,1712_where,-ce,-ce,+ c e,,Hale1973,,,^ - c e$,default
+SahuTamang-1712_where-12,267342,SahuTamang,1712_where,-ce,-ce,c e,,Hale1973,,,^- c e$,default
 SahuTamang-1712_where-13,267355,SahuTamang,1712_where,kyahp-ce,kyahp-ce,k j a̤ p + c e,,Hale1973,,,^k y ah p - c e$,default
 SahuTamang-1704_infrontof-1,267372,SahuTamang,1704_infrontof,ngon◦kyām,ngon◦kyām,ŋ o n + k j aː m,,Hale1973,,,^ng o n ◦ k y ā m$,default
 SahuTamang-1712_where-14,267388,SahuTamang,1712_where,'prep prep,'prep prep,ˈ/p r e p + p r e p,,Hale1973,,,^'p r e p + p r e p$,default
@@ -10296,7 +10296,7 @@ Thakali-204_jumpdown-2,262343,Thakali,204_jumpdown,phu tim-la,phu tim-la,pʰ u +
 Thakali-205_jumpacross-1,262353,Thakali,205_jumpacross,ngoy-la,ngoy-la,ŋ o j + l a,,Hale1973,,,^ng o y - l a$,default
 Thakali-205_jumpacross-2,262354,Thakali,205_jumpacross,'la-si 'yah-la,'la-si 'yah-la,ˈ/l a + s i + ˈ/j a̤ + l a,,Hale1973,,,^'l a - s i + 'y ah - l a$,default
 Thakali-206_crawl-1,262366,Thakali,206_crawl,pho Tih-si 'prah-la,pho Tih-si 'prah-la,pʰ o + ʈ i h + s i + ˈ/p r a̤ + l a,,Hale1973,,,^ph o + T i h - s i + 'p r ah - l a$,default
-Thakali-207_rollover-1,262376,Thakali,207_rollover,chāy-si chāy-si kyāng-,chāy-si chāy-si kyāng-,tʃʰ aː j + s i + tʃʰ aː j + s i + k j aː ŋ +,,Hale1973,,,^ch ā y - s i + ch ā y - s i + k y ā ng - $,default
+Thakali-207_rollover-1,262376,Thakali,207_rollover,chāy-si chāy-si kyāng-,chāy-si chāy-si kyāng-,tʃʰ aː j + s i + tʃʰ aː j + s i + k j aː ŋ,,Hale1973,,,^ch ā y - s i + ch ā y - s i + k y ā ng -$,default
 Thakali-208_run-1,262389,Thakali,208_run,carcar yah-la,carcar yah-la,tʃ a r c a r + j a̤ + l a,,Hale1973,,,^c a r c a r + y ah - l a$,default
 Thakali-208_run-2,262390,Thakali,208_run,carcar 'prah-la,carcar 'prah-la,tʃ a r c a r + ˈ/p r a̤ + l a,,Hale1973,,,^c a r c a r + 'p r ah - l a$,default
 Thakali-209_stoopbenddown-1,262401,Thakali,209_stoopbenddown,kur 'la-la,kur 'la-la,k u r + ˈ/l a + l a,,Hale1973,,,^k u r + 'l a - l a$,default
@@ -10427,7 +10427,7 @@ Thakali-1487_desert-1,263670,Thakali,1487_desert,pi-la,pi-la,p i + l a,,Hale1973
 Thakali-1488_bedefiled-1,263682,Thakali,1488_bedefiled,thansāng 'ta-la,thansāng 'ta-la,tʰ a n s aː ŋ + ˈ/t a + l a,,Hale1973,,,^th a ns ā ng + 't a - l a$,default
 Thakali-1490_sprinklewaterofpurification-1,263703,Thakali,1490_sprinklewaterofpurification,chiTo pun-la,chiTo pun-la,tʃʰ i ʈ o + p u n + l a,,Hale1973,,,^ch i T o + p u n - l a$,default
 Thakali-1491_becomepurified-1,263712,Thakali,1491_becomepurified,cokhaw 'la-la,cokhaw 'la-la,tʃ o kʰ a w + ˈ/l a + l a,,Hale1973,,,^c o kh a w + 'l a - l a$,default
-Thakali-1492_becomeunclean-1,263721,Thakali,1492_becomeunclean,chyālāng 'mahlāng 'ta-,chyālāng 'mahlāng 'ta-,tʃʰ j aː l aː ŋ + ˈ/m a̤ l aː ŋ + ˈ/t a +,,Hale1973,,,^ch y ā l ā ng + 'm ah l ā ng + 't a - $,default
+Thakali-1492_becomeunclean-1,263721,Thakali,1492_becomeunclean,chyālāng 'mahlāng 'ta-,chyālāng 'mahlāng 'ta-,tʃʰ j aː l aː ŋ + ˈ/m a̤ l aː ŋ + ˈ/t a,,Hale1973,,,^ch y ā l ā ng + 'm ah l ā ng + 't a -$,default
 Thakali-1493_bury-1,263729,Thakali,1493_bury,thun 'puhp-la,thun 'puhp-la,tʰ u n + ˈ/p u h p + l a,,Hale1973,,,^th u n + 'p u h p - l a$,default
 Thakali-1494_inherit-1,263740,Thakali,1494_inherit,angsa yāng-la,angsa yāng-la,a ŋ s a + j aː ŋ + l a,,Hale1973,,,^a ng s a + y ā ng - l a$,default
 Thakali-1495_divide-1,263750,Thakali,1495_divide,bāhg pun-la,bāhg pun-la,b a̤ː g + p u n + l a,,Hale1973,,,^b āh g + p u n - l a$,default
@@ -10444,7 +10444,7 @@ Thakali-1505_steal-1,263849,Thakali,1505_steal,'khu-la,'khu-la,'/kʰ u + l a,,Ha
 Thakali-1506_plunder-1,263859,Thakali,1506_plunder,pehn-la,pehn-la,p e h n + l a,,Hale1973,,,^p e h n - l a$,default
 Thakali-1507_attack-1,263870,Thakali,1507_attack,hamalā 'la-la,hamalā 'la-la,h a m a l aː + ˈ/l a + l a,,Hale1973,,,^h a m a l ā + 'l a - l a$,default
 Thakali-1508_insult-1,263883,Thakali,1508_insult,pena 'la-la,pena 'la-la,p e n a + ˈ/l a + l a,,Hale1973,,,^p e n a + 'l a - l a$,default
-Thakali-1509_conspire-1,263894,Thakali,1509_conspire,nāhng nāhng 'keh nuhng-,nāhng nāhng 'keh nuhng-,n a̤ː ŋ + n a̤ː ŋ + ˈ/k e h + n u h ŋ +,,Hale1973,,,^n āh ng + n āh ng + 'k e h + n u h ng - $,default
+Thakali-1509_conspire-1,263894,Thakali,1509_conspire,nāhng nāhng 'keh nuhng-,nāhng nāhng 'keh nuhng-,n a̤ː ŋ + n a̤ː ŋ + ˈ/k e h + n u h ŋ,,Hale1973,,,^n āh ng + n āh ng + 'k e h + n u h ng -$,default
 Thakali-1510_transgress-1,263900,Thakali,1510_transgress,pih-ci-wa ā-ngyen-la,pih-ci-wa ā-ngyen-la,p i h + c i + w a + aː + ŋ j e n + l a,,Hale1973,,,^p i h - c i - w a + ā - ng y e n - l a$,default
 Thakali-1511_suspectso-1,263909,Thakali,1511_suspectso,sankā lāge-la,sankā lāge-la,s a n k aː + l aː g e + l a,,Hale1973,,,^s a n k ā + l ā g e - l a$,default
 Thakali-1512_accuse-1,263919,Thakali,1512_accuse,ucur 'la-la,ucur 'la-la,u c u r + ˈ/l a + l a,,Hale1973,,,^u c u r + 'l a - l a$,default
@@ -10601,13 +10601,13 @@ Thakali-1108_someone-1,265520,Thakali,1108_someone,lahsyuwa,lahsyuwa,l a̤ s j u
 Thakali-1109_noone-1,265532,Thakali,1109_noone,su-ye ā-reh-wa,su-ye ā-reh-wa,s u + j e + aː + r e h + w a,,Hale1973,,,^s u - y e + ā - r e h - w a$,default
 Thakali-1110_another-1,265544,Thakali,1110_another,soto-wa,soto-wa,s o t o + w a,,Hale1973,,,^s o t o - w a$,default
 Thakali-1111_some-1,265560,Thakali,1111_some,cipi,cipi,tʃ i p i,,Hale1973,,,^c i p i$,default
-Thakali-1744_canbeabletodosomething-1,265593,Thakali,1744_canbeabletodosomething,-la kham-la,-la kham-la,+ l a + kʰ a m + l a,,Hale1973,,,^ - l a + kh a m - l a$,default
-Thakali-1745_knowsomething-1,265605,Thakali,1745_knowsomething,-la rah-la,-la rah-la,+ l a + r a̤ + l a,,Hale1973,,,^ - l a + r ah - l a$,default
-Thakali-1746_benefactive-1,265615,Thakali,1746_benefactive,-si pin-la,-si pin-la,+ s i + p i n + l a,,Hale1973,,,^ - s i + p i n - l a$,default
-Thakali-1746_benefactive-2,265616,Thakali,1746_benefactive,-si nāhng-la (h),-si nāhng-la,+ s i + n a̤ː ŋ + l a,,Hale1973,,,^ - s i + n āh ng - l a$,default
-Thakali-1747_letsodosth-1,265624,Thakali,1747_letsodosth,-la pin-la,-la pin-la,+ l a + p i n + l a,,Hale1973,,,^ - l a + p i n - l a$,default
-Thakali-1747_letsodosth-2,265625,Thakali,1747_letsodosth,-la nāhng-la (h),-la nāhng-la,+ l a + n a̤ː ŋ + l a,,Hale1973,,,^ - l a + n āh ng - l a$,default
-Thakali-1748_causesotodosth-1,265637,Thakali,1748_causesotodosth,-la tan-la,-la tan-la,+ l a + t a n + l a,,Hale1973,,,^ - l a + t a n - l a$,default
+Thakali-1744_canbeabletodosomething-1,265593,Thakali,1744_canbeabletodosomething,-la kham-la,-la kham-la,l a + kʰ a m + l a,,Hale1973,,,^- l a + kh a m - l a$,default
+Thakali-1745_knowsomething-1,265605,Thakali,1745_knowsomething,-la rah-la,-la rah-la,l a + r a̤ + l a,,Hale1973,,,^- l a + r ah - l a$,default
+Thakali-1746_benefactive-1,265615,Thakali,1746_benefactive,-si pin-la,-si pin-la,s i + p i n + l a,,Hale1973,,,^- s i + p i n - l a$,default
+Thakali-1746_benefactive-2,265616,Thakali,1746_benefactive,-si nāhng-la (h),-si nāhng-la,s i + n a̤ː ŋ + l a,,Hale1973,,,^- s i + n āh ng - l a$,default
+Thakali-1747_letsodosth-1,265624,Thakali,1747_letsodosth,-la pin-la,-la pin-la,l a + p i n + l a,,Hale1973,,,^- l a + p i n - l a$,default
+Thakali-1747_letsodosth-2,265625,Thakali,1747_letsodosth,-la nāhng-la (h),-la nāhng-la,l a + n a̤ː ŋ + l a,,Hale1973,,,^- l a + n āh ng - l a$,default
+Thakali-1748_causesotodosth-1,265637,Thakali,1748_causesotodosth,-la tan-la,-la tan-la,l a + t a n + l a,,Hale1973,,,^- l a + t a n - l a$,default
 Thakali-1113_love-1,265651,Thakali,1113_love,māya,māya,m aː j a,,Hale1973,,,^m ā y a$,default
 Thakali-1113_love-2,265652,Thakali,1113_love,prem,prem,p r e m,,Hale1973,,,^p r e m$,default
 Thakali-1114_hate-1,265664,Thakali,1114_hate,ngancen,ngancen,ŋ a n c e n,,Hale1973,,,^ng a n c e n$,default
@@ -10721,18 +10721,18 @@ Thakali-1688_slow-1,267128,Thakali,1688_slow,kahy-wa,kahy-wa,k a̤ j + w a,,Hale
 Thakali-1689_slowly-1,267141,Thakali,1689_slowly,kahy-na 'la-si,kahy-na 'la-si,k a̤ j + n a + ˈ/l a + s i,,Hale1973,,,^k ah y - n a + 'l a - s i$,default
 Thakali-1690_cubitelbowtofingertip-1,267154,Thakali,1690_cubitelbowtofingertip,yā-Tu,yā-Tu,j aː + ʈ u,,Hale1973,,,^y ā - T u$,default
 Thakali-1691_spanofhand-1,267165,Thakali,1691_spanofhand,'tohnāng,'tohnāng,ˈ/t o h n aː ŋ,,Hale1973,,,^'t o h n ā ng $,default
-Thakali-1692_from-1,267177,Thakali,1692_from,-ce,-ce,+ c e,,Hale1973,,,^ - c e$,default
-Thakali-1693_into-1,267197,Thakali,1693_into,-ri,-ri,+ r i,,Hale1973,,,^ - r i$,default
-Thakali-1712_where-1,267218,Thakali,1712_where,-ce,-ce,+ c e,,Hale1973,,,^ - c e$,default
-Thakali-1712_where-2,267234,Thakali,1712_where,-ri,-ri,+ r i,,Hale1973,,,^ - r i$,default
+Thakali-1692_from-1,267177,Thakali,1692_from,-ce,-ce,c e,,Hale1973,,,^- c e$,default
+Thakali-1693_into-1,267197,Thakali,1693_into,-ri,-ri,r i,,Hale1973,,,^- r i$,default
+Thakali-1712_where-1,267218,Thakali,1712_where,-ce,-ce,c e,,Hale1973,,,^- c e$,default
+Thakali-1712_where-2,267234,Thakali,1712_where,-ri,-ri,r i,,Hale1973,,,^- r i$,default
 Thakali-1712_where-3,267235,Thakali,1712_where,nāhng-ri,nāhng-ri,n a̤ː ŋ + r i,,Hale1973,,,^n āh ng - r i$,default
 Thakali-1712_where-4,267250,Thakali,1712_where,khoro,khoro,kʰ o r o,,Hale1973,,,^kh o r o$,default
 Thakali-1712_where-5,267267,Thakali,1712_where,kyoro,kyoro,k j o r o,,Hale1973,,,^k y o r o$,default
 Thakali-1712_where-6,267282,Thakali,1712_where,kāh,kāh,k a̤ː,,Hale1973,,,^k āh$,default
 Thakali-1712_where-7,267297,Thakali,1712_where,puhr,puhr,p u h r,,Hale1973,,,^p u h r$,default
-Thakali-1712_where-8,267312,Thakali,1712_where,-ce,-ce,+ c e,,Hale1973,,,^ - c e$,default
+Thakali-1712_where-8,267312,Thakali,1712_where,-ce,-ce,c e,,Hale1973,,,^- c e$,default
 Thakali-1712_where-9,267327,Thakali,1712_where,āngse,āngse,aː ŋ s e,,Hale1973,,,^ā ng s e$,default
-Thakali-1712_where-10,267343,Thakali,1712_where,-ce,-ce,+ c e,,Hale1973,,,^ - c e$,default
+Thakali-1712_where-10,267343,Thakali,1712_where,-ce,-ce,c e,,Hale1973,,,^- c e$,default
 Thakali-1712_where-11,267356,Thakali,1712_where,li◦se,li◦se,l i + s e,,Hale1973,,,^l i ◦ s e$,default
 Thakali-1704_infrontof-1,267373,Thakali,1704_infrontof,ngon-sāng,ngon-sāng,ŋ o n + s aː ŋ,,Hale1973,,,^ng o n - s ā ng $,default
 Thakali-1712_where-12,267389,Thakali,1712_where,resāng,resāng,r e s aː ŋ,,Hale1973,,,^r e s ā ng $,default
@@ -10825,7 +10825,7 @@ Thakali-4_this-1,268582,Thakali,4_this,cu,cu,tʃ u,,Hale1973,,,^c u$,default
 Thakali-5_that-1,268595,Thakali,5_that,ca,ca,tʃ a,,Hale1973,,,^c a$,default
 Thakali-6_who-1,268610,Thakali,6_who,su,su,s u,,Hale1973,,,^s u$,default
 Thakali-7_what-1,268624,Thakali,7_what,tā,tā,t aː,,Hale1973,,,^t ā$,default
-Thakali-8_not-1,268640,Thakali,8_not,ā-,ā-,aː +,,Hale1973,,,^ā - $,default
+Thakali-8_not-1,268640,Thakali,8_not,ā-,ā-,aː,,Hale1973,,,^ā -$,default
 Thakali-10_many-1,268673,Thakali,10_many,tahna,tahna,t a̤ n a,,Hale1973,,,^t ah n a$,default
 Thakali-11_one-1,268688,Thakali,11_one,'Tih,'Tih,ˈ/ʈ i h,,Hale1973,,,^'T i h$,default
 Thakali-12_two-1,268701,Thakali,12_two,'ngih,'ngih,ˈ/n g i h,,Hale1973,,,^'n g i h$,default
@@ -11017,7 +11017,7 @@ Thakali-419_huminsects-1,271172,Thakali,419_huminsects,munu munu 'la-la,munu mun
 Thakali-420_driveaway-1,271185,Thakali,420_driveaway,teh-la,teh-la,t e h + l a,,Hale1973,,,^t e h - l a$,default
 Thakali-421_runafter-1,271199,Thakali,421_runafter,'lahp-la,'lahp-la,ˈ/l a̤ p + l a,,Hale1973,,,^'l ah p - l a$,default
 Thakali-422_snatchaway-1,271212,Thakali,422_snatchaway,hāp 'tehn-la,hāp 'tehn-la,h aː p + ˈ/t e h n + l a,,Hale1973,,,^h ā p + 't e h n - l a$,default
-Thakali-423_hunt-1,271225,Thakali,423_hunt,sikār (N) kyāng-la,sikār  kyāng-la,s i k aː r + k j aː ŋ + l a,,Hale1973,,,^s i k ā r + k y ā ng - l a$,default
+Thakali-423_hunt-1,271225,Thakali,423_hunt,sikār (N) kyāng-la,sikār kyāng-la,s i k aː r + k j aː ŋ + l a,,Hale1973,,,^s i k ā r + k y ā ng - l a$,default
 Thakali-424_aimat-1,271238,Thakali,424_aimat,cahu-la,cahu-la,tʃ a̤ u + l a,,Hale1973,,,^c ah u - l a$,default
 Thakali-425_shoot-1,271251,Thakali,425_shoot,pun-la,pun-la,p u n + l a,,Hale1973,,,^p u n - l a$,default
 Thakali-426_miss-1,271264,Thakali,426_miss,cohl-la,cohl-la,tʃ o h l + l a,,Hale1973,,,^c o h l - l a$,default
@@ -11436,8 +11436,8 @@ Chepang-1111_some-2,265574,Chepang,1111_some,bola,bola,b o l a,,Hale1973,,,^b o 
 Chepang-1112_toomuch-2,265589,Chepang,1112_toomuch,ʔāna nāʔ.to,ʔāna nāʔ.to,ʔ aː n a + n aː ʔ + t o,,Hale1973,,,^ʔ ā n a + n ā ʔ . t o$,default
 Chepang-1744_canbeabletodosomething-2,265600,Chepang,1744_canbeabletodosomething,khāy.sā,khāy.sā,kʰ aː j + s aː,,Hale1973,,,^kh ā y . s ā$,default
 Chepang-1745_knowsomething-2,265611,Chepang,1745_knowsomething,ciʔ.sā,ciʔ.sā,tʃ i ʔ + s aː,,Hale1973,,,^c i ʔ . s ā$,default
-Chepang-1747_letsodosth-2,265632,Chepang,1747_letsodosth,pā-,pā-,p aː +,,Hale1973,,,^p ā - $,default
-Chepang-1748_causesotodosth-2,265643,Chepang,1748_causesotodosth,tāk-,tāk-,t aː k +,,Hale1973,,,^t ā k - $,default
+Chepang-1747_letsodosth-2,265632,Chepang,1747_letsodosth,pā-,pā-,p aː,,Hale1973,,,^p ā -$,default
+Chepang-1748_causesotodosth-2,265643,Chepang,1748_causesotodosth,tāk-,tāk-,t aː k,,Hale1973,,,^t ā k -$,default
 Chepang-1113_love-2,265660,Chepang,1113_love,moh,moh,m o h,,Hale1973,,,^m o h$,default
 Chepang-1114_hate-2,265673,Chepang,1114_hate,corʔmuh,corʔmuh,tʃ o r ʔ m u h,,Hale1973,,,^c o r ʔ m u h$,default
 Chepang-1124_life-2,265798,Chepang,1124_life,jyān,jyān,dʒ j aː n,,Hale1973,,,^j y ā n$,default
@@ -11522,18 +11522,18 @@ Chepang-1688_slow-3,267136,Chepang,1688_slow,jok.mā.lo,jok.mā.lo,dʒ o k + m a
 Chepang-1688_slow-4,267137,Chepang,1688_slow,renh.mā.lo,renh.mā.lo,r e n̊ + m aː + l o,,Hale1973,,,^r e nh . m ā . l o$,default
 Chepang-1689_slowly-2,267150,Chepang,1689_slowly,guni,guni,g u n i,,Hale1973,,,^g u n i$,default
 Chepang-1690_cubitelbowtofingertip-2,267161,Chepang,1690_cubitelbowtofingertip,kru,kru,k r u,,Hale1973,,,^k r u$,default
-Chepang-1692_from-2,267192,Chepang,1692_from,-say,-say,+ s a j,,Hale1973,,,^ - s a y$,default
-Chepang-1693_into-2,267211,Chepang,1693_into,-hāng,-hāng,+ h aː ŋ,,Hale1973,,,^ - h ā ng $,default
-Chepang-1712_where-20,267229,Chepang,1712_where,-say,-say,+ s a j,,Hale1973,,,^ - s a y$,default
+Chepang-1692_from-2,267192,Chepang,1692_from,-say,-say,s a j,,Hale1973,,,^- s a y$,default
+Chepang-1693_into-2,267211,Chepang,1693_into,-hāng,-hāng,h aː ŋ,,Hale1973,,,^- h ā ng $,default
+Chepang-1712_where-20,267229,Chepang,1712_where,-say,-say,s a j,,Hale1973,,,^- s a y$,default
 Chepang-1712_where-21,267243,Chepang,1712_where,bhitra,bhitra,bʱ i t r a,,Hale1973,,,^bh i t r a$,default
-Chepang-1712_where-22,267244,Chepang,1712_where,-khā,-khā,+ kʰ aː,,Hale1973,,,^ - kh ā$,default
+Chepang-1712_where-22,267244,Chepang,1712_where,-khā,-khā,kʰ aː,,Hale1973,,,^- kh ā$,default
 Chepang-1712_where-23,267261,Chepang,1712_where,tyāwʔ.ʔa,tyāwʔ.ʔa,t j aː w ʔ + ʔ a,,Hale1973,,,^t y āw ʔ . ʔ a$,default
 Chepang-1712_where-24,267277,Chepang,1712_where,kāmʔ.ʔa,kāmʔ.ʔa,k aː m ʔ + ʔ a,,Hale1973,,,^k ā m ʔ . ʔ a$,default
 Chepang-1712_where-25,267292,Chepang,1712_where,mālge.say,mālge.say,m aː l g e + s a j,,Hale1973,,,^m ā l g e . s a y$,default
 Chepang-1712_where-26,267307,Chepang,1712_where,talge.say,talge.say,t a l g e + s a j,,Hale1973,,,^t a l g e . s a y$,default
 Chepang-1712_where-27,267322,Chepang,1712_where,cyol.say,cyol.say,tʃ j o l + s a j,,Hale1973,,,^c y o l . s a y$,default
-Chepang-1712_where-28,267339,Chepang,1712_where,-gana,-gana,+ g a n a,,Hale1973,,,^ - g a n a$,default
-Chepang-1712_where-29,267352,Chepang,1712_where,-say,-say,+ s a j,,Hale1973,,,^ - s a y$,default
+Chepang-1712_where-28,267339,Chepang,1712_where,-gana,-gana,g a n a,,Hale1973,,,^- g a n a$,default
+Chepang-1712_where-29,267352,Chepang,1712_where,-say,-say,s a j,,Hale1973,,,^- s a y$,default
 Chepang-1712_where-30,267366,Chepang,1712_where,kah.say,kah.say,k a̤ + s a j,,Hale1973,,,^k ah . s a y$,default
 Chepang-1712_where-31,267367,Chepang,1712_where,lone.say,lone.say,l o n e + s a j,,Hale1973,,,^l o n e . s a y$,default
 Chepang-1704_infrontof-3,267383,Chepang,1704_infrontof,kos.say,kos.say,k o s + s a j,,Hale1973,,,^k o s . s a y$,default
@@ -11559,7 +11559,7 @@ Chepang-1743_until-24,267734,Chepang,1743_until,din.khā.din,din.khā.din,d i n 
 Chepang-1743_until-25,267761,Chepang,1743_until,hngā,hngā,h ŋ aː,,Hale1973,,,^h ng ā$,default
 Chepang-1743_until-26,267762,Chepang,1743_until,āhnam,āhnam,a̤ː n a m,,Hale1973,,,^āh n a m$,default
 Chepang-1743_until-27,267776,Chepang,1743_until,lone,lone,l o n e,,Hale1973,,,^l o n e$,default
-Chepang-1743_until-28,267799,Chepang,1743_until,-cuk,-cuk,+ c u k,,Hale1973,,,^ - c u k$,default
+Chepang-1743_until-28,267799,Chepang,1743_until,-cuk,-cuk,c u k,,Hale1973,,,^- c u k$,default
 Chepang-659_road-2,267812,Chepang,659_road,lyām,lyām,l j aː m,,Hale1973,,,^l y ā m$,default
 Chepang-660_village-2,267825,Chepang,660_village,gāw,gāw,g aː w,,Hale1973,,,^g āw$,default
 Chepang-663_corner-2,267865,Chepang,663_corner,kryung,kryung,k r j u ŋ,,Hale1973,,,^k r y u ng $,default
@@ -11603,7 +11603,7 @@ Chepang-712_firetongs-2,268501,Chepang,712_firetongs,pitāk,pitāk,p i t aː k,,
 Chepang-713_kindling-2,268516,Chepang,713_kindling,jher.singʔ,jher.singʔ,dʒʱ e r + s i ŋ ʔ,,Hale1973,,,^jh e r . s i ng ʔ$,default
 Chepang-1_i-2,268532,Chepang,1_i,nga,nga,ŋ a,,Hale1973,,,^ng a$,default
 Chepang-2_thou-3,268551,Chepang,2_thou,nāng,nāng,n aː ŋ,,Hale1973,,,^n ā ng $,default
-Chepang-2_thou-4,268552,Chepang,2_thou,-te,-te,+ t e,,Hale1973,,,^ - t e$,default
+Chepang-2_thou-4,268552,Chepang,2_thou,-te,-te,t e,,Hale1973,,,^- t e$,default
 Chepang-3_weincl-3,268577,Chepang,3_weincl,ngi,ngi,ŋ i,,Hale1973,,,^ng i$,default
 Chepang-3_weincl-4,268578,Chepang,3_weincl,ni,ni,n i,,Hale1973,,,^n i$,default
 Chepang-4_this-2,268591,Chepang,4_this,ʔiʔ,ʔiʔ,ʔ i ʔ,,Hale1973,,,^ʔ i ʔ$,default
@@ -11611,8 +11611,8 @@ Chepang-5_that-3,268605,Chepang,5_that,ʔowʔ,ʔowʔ,ʔ o w ʔ,,Hale1973,,,^ʔ o
 Chepang-5_that-4,268606,Chepang,5_that,ʔuʔ,ʔuʔ,ʔ u ʔ,,Hale1973,,,^ʔ u ʔ$,default
 Chepang-6_who-2,268620,Chepang,6_who,su,su,s u,,Hale1973,,,^s u$,default
 Chepang-7_what-2,268634,Chepang,7_what,doh,doh,d o h,,Hale1973,,,^d o h$,default
-Chepang-8_not-3,268649,Chepang,8_not,-mā,-mā,+ m aː,,Hale1973,,,^ - m ā$,default
-Chepang-8_not-4,268650,Chepang,8_not,-la,-la,+ l a,,Hale1973,,,^ - l a$,default
+Chepang-8_not-3,268649,Chepang,8_not,-mā,-mā,m aː,,Hale1973,,,^- m ā$,default
+Chepang-8_not-4,268650,Chepang,8_not,-la,-la,l a,,Hale1973,,,^- l a$,default
 Chepang-9_all-3,268668,Chepang,9_all,ʔāna,ʔāna,ʔ aː n a,,Hale1973,,,^ʔ ā n a$,default
 Chepang-9_all-4,268669,Chepang,9_all,nā.to,nā.to,n aː + t o,,Hale1973,,,^n ā . t o$,default
 Chepang-10_many-3,268683,Chepang,10_many,ʔāna,ʔāna,ʔ aː n a,,Hale1973,,,^ʔ ā n a$,default
@@ -11753,7 +11753,7 @@ Chepang-375_grub-2,270610,Chepang,375_grub,syānʔ,syānʔ,s j aː n ʔ,,Hale197
 Chepang-376_caterpillar-2,270623,Chepang,376_caterpillar,syānʔ,syānʔ,s j aː n ʔ,,Hale1973,,,^s y ā n ʔ$,default
 Chepang-378_spider-2,270649,Chepang,378_spider,gyāwʔling,gyāwʔling,g j aː w ʔ l i ŋ,,Hale1973,,,^g y āw ʔ l i ng $,default
 Chepang-379_web-3,270662,Chepang,379_web,"lāngʔ, gyāw.ko-",lāngʔ,l aː ŋ ʔ,,Hale1973,,,^l ā ng ʔ$,default
-Chepang-379_web-4,270662,Chepang,379_web,"lāngʔ, gyāw.ko-",gyāw.ko-,g j aː w + k o +,,Hale1973,,,^g y āw . k o - $,default
+Chepang-379_web-4,270662,Chepang,379_web,"lāngʔ, gyāw.ko-",gyāw.ko-,g j aː w + k o,,Hale1973,,,^g y āw . k o -$,default
 Chepang-380_fly-2,270675,Chepang,380_fly,yāng,yāng,j aː ŋ,,Hale1973,,,^y ā ng $,default
 Chepang-381_mosquito-2,270688,Chepang,381_mosquito,jāwyāng,jāwyāng,dʒ aː w j aː ŋ,,Hale1973,,,^j āw y ā ng $,default
 Chepang-382_ant-2,270701,Chepang,382_ant,dupli,dupli,d u p l i,,Hale1973,,,^d u p l i$,default
@@ -12342,7 +12342,7 @@ Gurung-1097_twothirds-2,265377,Gurung,1097_twothirds,cāu̩the̩q ngihq,cāu̩th
 Gurung-1098_threequarters-2,265387,Gurung,1098_threequarters,cāu̩the̩q so̩q,cāu̩the̩q so̩q,tʃ aː ũ tʰ ẽ q + s õ q,,Hale1973,,,^c ā u̩ th e̩ q + s o̩ q$,default
 Gurung-1099_apair-2,265396,Gurung,1099_apair,joDā:,joDā:,dʒ o ɖ aː,,Hale1973,,,^j o D ā:$,default
 Gurung-1100_none-2,265409,Gurung,1100_none,toqi āhrehq,toqi āhrehq,t o q i + a̤ː r e h q,,Hale1973,,,^t o q i + āh r e h q$,default
-Gurung-1101_neither-2,265423,Gurung,1101_neither,ngi̩hn ngi̩hn āh-,ngi̩hn ngi̩hn āh-,ŋ ĩ h n + ŋ ĩ h n + a̤ː +,,Hale1973,,,^ng i̩ h n + ng i̩ h n + āh - $,default
+Gurung-1101_neither-2,265423,Gurung,1101_neither,ngi̩hn ngi̩hn āh-,ngi̩hn ngi̩hn āh-,ŋ ĩ h n + ŋ ĩ h n + a̤ː,,Hale1973,,,^ng i̩ h n + ng i̩ h n + āh -$,default
 Gurung-1102_both-2,265434,Gurung,1102_both,ngi̩hnā:q ngi̩hqn,ngi̩hnā:q ngi̩hqn,ŋ ĩ h n aː q + ŋ ĩ h q n,,Hale1973,,,^ng i̩ h n ā: q + ng i̩ h q n$,default
 Gurung-1103_every-2,265448,Gurung,1103_every,tā:n,tā:n,t aː n,,Hale1973,,,^t ā: n$,default
 Gurung-1104_total-2,265464,Gurung,1104_total,purā:h,purā:h,p u r a̤ː,,Hale1973,,,^p u r ā:h$,default
@@ -12493,7 +12493,7 @@ Gurung-1712_where-23,267264,Gurung,1712_where,mā,mā,m aː,,Hale1973,,,^m ā$,d
 Gurung-1712_where-24,267280,Gurung,1712_where,phibi,phibi,pʰ i b i,,Hale1973,,,^ph i b i$,default
 Gurung-1712_where-25,267295,Gurung,1712_where,no̩h no̩h,no̩h no̩h,n õ h + n õ h,,Hale1973,,,^n o̩ h + n o̩ h$,default
 Gurung-1712_where-26,267310,Gurung,1712_where,no̩hri,no̩hri,n õ h r i,,Hale1973,,,^n o̩ h r i$,default
-Gurung-1712_where-27,267325,Gurung,1712_where,-u̩,-u̩,+ ũ,,Hale1973,,,^ - u̩$,default
+Gurung-1712_where-27,267325,Gurung,1712_where,-u̩,-u̩,ũ,,Hale1973,,,^- u̩$,default
 Gurung-1712_where-28,267341,Gurung,1712_where,u̩leq,u̩leq,ũ l e q,,Hale1973,,,^u̩ l e q$,default
 Gurung-1712_where-29,267354,Gurung,1712_where,lili,lili,l i l i,,Hale1973,,,^l i l i$,default
 Gurung-1704_infrontof-3,267370,Gurung,1704_infrontof,āso̩q,āso̩q,aː s õ q,,Hale1973,,,^ās o̩ q$,default
@@ -12529,12 +12529,12 @@ Gurung-1743_until-46,267676,Gurung,1743_until,purā:nuq,purā:nuq,p u r aː n u 
 Gurung-1743_until-47,267677,Gurung,1743_until,syugā,syugā,s j u g aː,,Hale1973,,,^s y u g ā$,default
 Gurung-1743_until-48,267690,Gurung,1743_until,chā:qrā,chā:qrā,tʃʰ aː q r aː,,Hale1973,,,^ch ā: q r ā$,default
 Gurung-1743_until-49,267704,Gurung,1743_until,lehq pā:li,lehq pā:li,l e h q + p aː l i,,Hale1973,,,^l e h q + p ā: l i$,default
-Gurung-1743_until-50,267712,Gurung,1743_until,kho̩yo̩ ah-,kho̩yo̩ ah-,kʰ õ j õ + a̤ +,,Hale1973,,,^kh o̩ y o̩ + ah - $,default
+Gurung-1743_until-50,267712,Gurung,1743_until,kho̩yo̩ ah-,kho̩yo̩ ah-,kʰ õ j õ + a̤,,Hale1973,,,^kh o̩ y o̩ + ah -$,default
 Gurung-1743_until-51,267724,Gurung,1743_until,din dinu,din dinu,d i n + d i n u,,Hale1973,,,^d i n + d i n u$,default
 Gurung-1743_until-52,267737,Gurung,1743_until,kho̩yo̩,kho̩yo̩,kʰ õ j õ,,Hale1973,,,^kh o̩ y o̩$,default
 Gurung-1743_until-53,267749,Gurung,1743_until,aso̩q,aso̩q,a s õ q,,Hale1973,,,^a s o̩ q$,default
 Gurung-1743_until-54,267765,Gurung,1743_until,liu̩diq,liu̩diq,l i ũ d i q,,Hale1973,,,^l i u̩ d i q$,default
-Gurung-1743_until-55,267778,Gurung,1743_until,-māleq,-māleq,+ m aː l e q,,Hale1973,,,^ - m ā l e q$,default
+Gurung-1743_until-55,267778,Gurung,1743_until,-māleq,-māleq,m aː l e q,,Hale1973,,,^- m ā l e q$,default
 Gurung-1743_until-56,267790,Gurung,1743_until,āh - n sāmmāq,āh - n sāmmāq,a̤ː + + + n + s aː mː aː q,,Hale1973,,,^āh + - + n + s ā mm ā q$,default
 Gurung-659_road-2,267801,Gurung,659_road,gā̩:hq,gā̩:hq,g ã̤ː q,,Hale1973,,,^g ā̩:h q$,default
 Gurung-660_village-2,267814,Gurung,660_village,nā̩:q◦sā,nā̩:q◦sā,n ãː q + s aː,,Hale1973,,,^n ā̩: q ◦ s ā$,default
@@ -12930,7 +12930,7 @@ JirelTibetan-1630_blue-2,261779,JirelTibetan,1630_blue,ngom◦muq,ngom◦muq,ŋ 
 JirelTibetan-1631_brown-2,261794,JirelTibetan,1631_brown,phosoroq,phosoroq,pʰ o s o r o q,,Hale1973,,,^ph o s o r o q$,default
 JirelTibetan-1632_variegated-2,261807,JirelTibetan,1632_variegated,khudukkhuduk rang,khudukkhuduk rang,kʰ u d u k + k h u d u k + r a ŋ,,Hale1973,,,^kh u d u kk h u d u k + r a ng $,default
 JirelTibetan-1633_faded-2,261821,JirelTibetan,1633_faded,'phur-cye-teq rāng,'phur-cye-teq rāng,ˈ/pʰ u r + c j e + t e q + r aː ŋ,,Hale1973,,,^'ph u r - c y e - t e q + r ā ng $,default
-JirelTibetan-1634_spotted-2,261833,JirelTibetan,1634_spotted,Tā:teq pā:Teq +,Tā:teq pā:Teq +,T/ʈ aː t e q + p aː ʈ e q + +,,Hale1973,,,^T ā: t e q + p ā: T e q + +$,default
+JirelTibetan-1634_spotted-2,261833,JirelTibetan,1634_spotted,Tā:teq pā:Teq +,Tā:teq pā:Teq +,T/ʈ aː t e q + p aː ʈ e q +,,Hale1973,,,^T ā: t e q + p ā: T e q + +$,default
 JirelTibetan-1635_striped-2,261845,JirelTibetan,1635_striped,ri:muk,ri:muk,r iː m u k,,Hale1973,,,^r i: m u k$,default
 JirelTibetan-1636_right-2,261859,JirelTibetan,1636_right,'Thikq,'Thikq,ˈ/ʈʰ i k q,,Hale1973,,,^'Th i k q$,default
 JirelTibetan-1637_wrong-2,261870,JirelTibetan,1637_wrong,'mā-yāng-ā-te,'mā-yāng-ā-te,ˈ/m aː + j aː ŋ + aː + t e,,Hale1973,,,^'m ā - y ā ng - ā - t e$,default
@@ -12943,7 +12943,7 @@ JirelTibetan-1641_insufficient-4,261926,JirelTibetan,1641_insufficient,Tikpi-syi
 JirelTibetan-1642_bad-2,261939,JirelTibetan,1642_bad,melebā,melebā,m e l e b aː,,Hale1973,,,^m e l e b ā$,default
 JirelTibetan-1643_clean-2,261952,JirelTibetan,1643_clean,sāng◦sāngq,sāng◦sāngq,s aː ŋ + s aː ŋ q,,Hale1973,,,^s ā ng ◦ s ā ng q$,default
 JirelTibetan-1645_expensive-2,261969,JirelTibetan,1645_expensive,mā:go,mā:go,m aː g o,,Hale1973,,,^m ā: g o$,default
-JirelTibetan-1646_cheap-2,261984,JirelTibetan,1646_cheap,sāstoq+,sāstoq+,s aː s t o q +,,Hale1973,,,^s ās t o q +$,default
+JirelTibetan-1646_cheap-2,261984,JirelTibetan,1646_cheap,sāstoq+,sāstoq+,s aː s t o q,,Hale1973,,,^s ās t o q +$,default
 JirelTibetan-1647_terrible-2,261998,JirelTibetan,1647_terrible,jyi:bā 'lāng-cye-te,jyi:bā 'lāng-cye-te,dʒ j iː b aː + ˈ/l aː ŋ + c j e + t e,,Hale1973,,,^j y i: b ā + 'l ā ng - c y e - t e$,default
 JirelTibetan-1648_desirable-2,262013,JirelTibetan,1648_desirable,khit-ā semq 'lāng-cye-t,khit-ā semq 'lāng-cye-t,kʰ i t + aː + s e m q + ˈ/l aː ŋ + c j e + t,,Hale1973,,,^kh i t - ā + s e m q + 'l ā ng - c y e - t$,default
 JirelTibetan-1059_three-2,264944,JirelTibetan,1059_three,'sumq,'sumq,ˈ/s u m q,,Hale1973,,,^'s u m q$,default
@@ -13001,14 +13001,14 @@ JirelTibetan-1109_noone-2,265535,JirelTibetan,1109_noone,'su-ngq,'su-ngq,ˈ/s u 
 JirelTibetan-1110_another-2,265549,JirelTibetan,1110_another,jyen,jyen,dʒ j e n,,Hale1973,,,^j y e n$,default
 JirelTibetan-1111_some-2,265568,JirelTibetan,1111_some,'su̩idāq,'su̩idāq,ˈ/s ũ i d aː q,,Hale1973,,,^'s u̩ i d ā q$,default
 JirelTibetan-1112_toomuch-2,265583,JirelTibetan,1112_toomuch,kālbāq,kālbāq,k aː l b aː q,,Hale1973,,,^k ā l b ā q$,default
-JirelTibetan-1113_love-2,265656,JirelTibetan,1113_love,nying◦jyeq+,nying◦jyeq+,n j i ŋ + dʒ j e q +,,Hale1973,,,^n y i ng ◦ j y e q +$,default
+JirelTibetan-1113_love-2,265656,JirelTibetan,1113_love,nying◦jyeq+,nying◦jyeq+,n j i ŋ + dʒ j e q,,Hale1973,,,^n y i ng ◦ j y e q +$,default
 JirelTibetan-1114_hate-2,265668,JirelTibetan,1114_hate,he:lāq,he:lāq,h eː l aː q,,Hale1973,,,^h e: l ā q$,default
 JirelTibetan-1115_envy-2,265682,JirelTibetan,1115_envy,'ikq,'ikq,'/i k q,,Hale1973,,,^'i k q$,default
 JirelTibetan-1116_pride-2,265694,JirelTibetan,1116_pride,cyheq khit-kān-te,cyheq khit-kān-te,tʃ j h e q + kʰ i t + k aː n + t e,,Hale1973,,,^c y h e q + kh i t - k ā n - t e$,default
 JirelTibetan-1117_generosity-2,265706,JirelTibetan,1117_generosity,jā:ti,jā:ti,dʒ aː t i,,Hale1973,,,^j ā: t i$,default
 JirelTibetan-1118_selfishness-2,265719,JirelTibetan,1118_selfishness,kho:Tiq,kho:Tiq,kʰ oː ʈ i q,,Hale1973,,,^kh o: T i q$,default
 JirelTibetan-1119_greed-2,265730,JirelTibetan,1119_greed,'lob,'lob,ˈ/l o b,,Hale1973,,,^'l o b$,default
-JirelTibetan-1120_kindness-2,265742,JirelTibetan,1120_kindness,nyingjyeq+,nyingjyeq+,n j i ŋ dʒ j e q +,,Hale1973,,,^n y i ng j y e q +$,default
+JirelTibetan-1120_kindness-2,265742,JirelTibetan,1120_kindness,nyingjyeq+,nyingjyeq+,n j i ŋ dʒ j e q,,Hale1973,,,^n y i ng j y e q +$,default
 JirelTibetan-1121_cruelty-2,265754,JirelTibetan,1121_cruelty,dāyā 'met-ā-te,dāyā 'met-ā-te,d aː j aː + ˈ/m e t + aː + t e,,Hale1973,,,^d ā y ā + 'm e t - ā - t e$,default
 JirelTibetan-1122_happiness-2,265765,JirelTibetan,1122_happiness,gā,gā,g aː,,Hale1973,,,^g ā$,default
 JirelTibetan-1123_sorrow-2,265779,JirelTibetan,1123_sorrow,'dukpā,'dukpā,ˈ/d u k p aː,,Hale1973,,,^'d u k p ā$,default
@@ -13117,26 +13117,26 @@ JirelTibetan-1688_slow-2,267131,JirelTibetan,1688_slow,'khole,'khole,'/kʰ o l e
 JirelTibetan-1689_slowly-2,267145,JirelTibetan,1689_slowly,'khole 'khole,'khole 'khole,'/kʰ o l e + ˈ/kʰ o l e,,Hale1973,,,^'kh o l e + 'kh o l e$,default
 JirelTibetan-1690_cubitelbowtofingertip-2,267157,JirelTibetan,1690_cubitelbowtofingertip,'Thuq,'Thuq,ˈ/ʈʰ u q,,Hale1973,,,^'Th u q$,default
 JirelTibetan-1691_spanofhand-2,267168,JirelTibetan,1691_spanofhand,'thaq,'thaq,ˈ/tʰ a q,,Hale1973,,,^'th a q$,default
-JirelTibetan-1692_from-4,267182,JirelTibetan,1692_from,-p-e-i,-p-e-i,+ p + e + i,,Hale1973,,,^ - p - e - i$,default
-JirelTibetan-1692_from-5,267183,JirelTibetan,1692_from,-m-e-i,-m-e-i,+ m + e + i,,Hale1973,,,^ - m - e - i$,default
-JirelTibetan-1692_from-6,267184,JirelTibetan,1692_from,-ne-i,-ne-i,+ n e + i,,Hale1973,,,^ - n e - i$,default
-JirelTibetan-1693_into-5,267201,JirelTibetan,1693_into,-pa,-pa,+ p a,,Hale1973,,,^ - p a$,default
-JirelTibetan-1693_into-6,267202,JirelTibetan,1693_into,-mā,-mā,+ m aː,,Hale1973,,,^ - m ā$,default
-JirelTibetan-1693_into-7,267203,JirelTibetan,1693_into,-ne,-ne,+ n e,,Hale1973,,,^ - n e$,default
-JirelTibetan-1693_into-8,267204,JirelTibetan,1693_into,-lā,-lā,+ l aː,,Hale1973,,,^ - l ā$,default
-JirelTibetan-1712_where-24,267222,JirelTibetan,1712_where,-p-e-i,-p-e-i,+ p + e + i,,Hale1973,,,^ - p - e - i$,default
-JirelTibetan-1712_where-25,267223,JirelTibetan,1712_where,-m-e-i,-m-e-i,+ m + e + i,,Hale1973,,,^ - m - e - i$,default
-JirelTibetan-1712_where-26,267224,JirelTibetan,1712_where,-ne-i,-ne-i,+ n e + i,,Hale1973,,,^ - n e - i$,default
+JirelTibetan-1692_from-4,267182,JirelTibetan,1692_from,-p-e-i,-p-e-i,p + e + i,,Hale1973,,,^- p - e - i$,default
+JirelTibetan-1692_from-5,267183,JirelTibetan,1692_from,-m-e-i,-m-e-i,m + e + i,,Hale1973,,,^- m - e - i$,default
+JirelTibetan-1692_from-6,267184,JirelTibetan,1692_from,-ne-i,-ne-i,n e + i,,Hale1973,,,^- n e - i$,default
+JirelTibetan-1693_into-5,267201,JirelTibetan,1693_into,-pa,-pa,p a,,Hale1973,,,^- p a$,default
+JirelTibetan-1693_into-6,267202,JirelTibetan,1693_into,-mā,-mā,m aː,,Hale1973,,,^- m ā$,default
+JirelTibetan-1693_into-7,267203,JirelTibetan,1693_into,-ne,-ne,n e,,Hale1973,,,^- n e$,default
+JirelTibetan-1693_into-8,267204,JirelTibetan,1693_into,-lā,-lā,l aː,,Hale1973,,,^- l ā$,default
+JirelTibetan-1712_where-24,267222,JirelTibetan,1712_where,-p-e-i,-p-e-i,p + e + i,,Hale1973,,,^- p - e - i$,default
+JirelTibetan-1712_where-25,267223,JirelTibetan,1712_where,-m-e-i,-m-e-i,m + e + i,,Hale1973,,,^- m - e - i$,default
+JirelTibetan-1712_where-26,267224,JirelTibetan,1712_where,-ne-i,-ne-i,n e + i,,Hale1973,,,^- n e - i$,default
 JirelTibetan-1712_where-27,267238,JirelTibetan,1712_where,'nāng-du,'nāng-du,ˈ/n aː ŋ + d u,,Hale1973,,,^'n ā ng - d u$,default
 JirelTibetan-1712_where-28,267255,JirelTibetan,1712_where,khen-lā',khen-lā',kʰ e n + l aː,,Hale1973,,,^kh e n - l ā '$,default
 JirelTibetan-1712_where-29,267271,JirelTibetan,1712_where,thul-laq',thul-laq',tʰ u l + l a q,,Hale1973,,,^th u l - l a q '$,default
 JirelTibetan-1712_where-30,267286,JirelTibetan,1712_where,'lāk-nā-pā,'lāk-nā-pā,ˈ/l aː k + n aː + p aː,,Hale1973,,,^'l ā k - n ā - p ā$,default
 JirelTibetan-1712_where-31,267301,JirelTibetan,1712_where,cāwāmāq,cāwāmāq,tʃ aː w aː m aː q,,Hale1973,,,^c āw ā m ā q$,default
-JirelTibetan-1712_where-32,267316,JirelTibetan,1712_where,-p-e-i,-p-e-i,+ p + e + i,,Hale1973,,,^ - p - e - i$,default
-JirelTibetan-1712_where-33,267332,JirelTibetan,1712_where,-pā,-pā,+ p aː,,Hale1973,,,^ - p ā$,default
-JirelTibetan-1712_where-34,267333,JirelTibetan,1712_where,-mā,-mā,+ m aː,,Hale1973,,,^ - m ā$,default
-JirelTibetan-1712_where-35,267334,JirelTibetan,1712_where,-ne,-ne,+ n e,,Hale1973,,,^ - n e$,default
-JirelTibetan-1712_where-36,267335,JirelTibetan,1712_where,-lā,-lā,+ l aː,,Hale1973,,,^ - l ā$,default
+JirelTibetan-1712_where-32,267316,JirelTibetan,1712_where,-p-e-i,-p-e-i,p + e + i,,Hale1973,,,^- p - e - i$,default
+JirelTibetan-1712_where-33,267332,JirelTibetan,1712_where,-pā,-pā,p aː,,Hale1973,,,^- p ā$,default
+JirelTibetan-1712_where-34,267333,JirelTibetan,1712_where,-mā,-mā,m aː,,Hale1973,,,^- m ā$,default
+JirelTibetan-1712_where-35,267334,JirelTibetan,1712_where,-ne,-ne,n e,,Hale1973,,,^- n e$,default
+JirelTibetan-1712_where-36,267335,JirelTibetan,1712_where,-lā,-lā,l aː,,Hale1973,,,^- l ā$,default
 JirelTibetan-1712_where-37,267347,JirelTibetan,1712_where,phi:p-e-rāngq,phi:p-e-rāngq,pʰ iː p + e + r aː ŋ q,,Hale1973,,,^ph i: p - e - r ā ng q$,default
 JirelTibetan-1712_where-38,267361,JirelTibetan,1712_where,lhāk-nā-pāq,lhāk-nā-pāq,l̥ aː k + n aː + p aː q,,Hale1973,,,^lh ā k - n ā - p ā q$,default
 JirelTibetan-1704_infrontof-2,267378,JirelTibetan,1704_infrontof,don-nā-pā,don-nā-pā,d o n + n aː + p aː,,Hale1973,,,^d o n - n ā - p ā$,default
@@ -13174,7 +13174,7 @@ JirelTibetan-1743_until-46,267756,JirelTibetan,1743_until,thongla,thongla,tʰ o 
 JirelTibetan-1743_until-47,267770,JirelTibetan,1743_until,ti:riq,ti:riq,t iː r i q,,Hale1973,,,^t i: r i q$,default
 JirelTibetan-1743_until-48,267771,JirelTibetan,1743_until,'theme,'theme,ˈ/tʰ e m e,,Hale1973,,,^'th e m e$,default
 JirelTibetan-1743_until-49,267783,JirelTibetan,1743_until,belā-lā,belā-lā,b e l aː + l aː,,Hale1973,,,^b e l ā - l ā$,default
-JirelTibetan-1743_until-50,267795,JirelTibetan,1743_until,-sāk,-sāk,+ s aː k,,Hale1973,,,^ - s ā k$,default
+JirelTibetan-1743_until-50,267795,JirelTibetan,1743_until,-sāk,-sāk,s aː k,,Hale1973,,,^- s ā k$,default
 JirelTibetan-659_road-2,267807,JirelTibetan,659_road,lām,lām,l aː m,,Hale1973,,,^l ā m$,default
 JirelTibetan-660_village-2,267820,JirelTibetan,660_village,yul,yul,j u l,,Hale1973,,,^y u l$,default
 JirelTibetan-661_town-2,267834,JirelTibetan,661_town,bājar,bājar,b aː dʒ a r,,Hale1973,,,^b ā j a r$,default
@@ -13212,8 +13212,8 @@ JirelTibetan-693_covering-4,268248,JirelTibetan,693_covering,syirākq,syirākq,s
 JirelTibetan-694_pillow-2,268263,JirelTibetan,694_pillow,ngāsyingq,ngāsyingq,ŋ aː s j i ŋ q,,Hale1973,,,^ng ās y i ng q$,default
 JirelTibetan-695_mat-2,268276,JirelTibetan,695_mat,gundirik,gundirik,g u n d i r i k,,Hale1973,,,^g u n d i r i k$,default
 JirelTibetan-696_cradle-2,268290,JirelTibetan,696_cradle,chāngq,chāngq,tʃʰ aː ŋ q,,Hale1973,,,^ch ā ng q$,default
-JirelTibetan-697_bench-2,268301,JirelTibetan,697_bench,Tebalq+,Tebalq+,T/ʈ e b a l q +,,Hale1973,,,^T e b a l q +$,default
-JirelTibetan-698_loft-2,268312,JirelTibetan,698_loft,buikāl+,buikāl+,b u i k aː l +,,Hale1973,,,^b u i k ā l +$,default
+JirelTibetan-697_bench-2,268301,JirelTibetan,697_bench,Tebalq+,Tebalq+,T/ʈ e b a l q,,Hale1973,,,^T e b a l q +$,default
+JirelTibetan-698_loft-2,268312,JirelTibetan,698_loft,buikāl+,buikāl+,b u i k aː l,,Hale1973,,,^b u i k ā l +$,default
 JirelTibetan-699_cookingplace-2,268326,JirelTibetan,699_cookingplace,'thāpq,'thāpq,ˈ/tʰ aː p q,,Hale1973,,,^'th ā p q$,default
 JirelTibetan-700_charcoal-2,268341,JirelTibetan,700_charcoal,solāq,solāq,s o l aː q,,Hale1973,,,^s o l ā q$,default
 JirelTibetan-701_soot-2,268356,JirelTibetan,701_soot,'Thekpā,'Thekpā,ˈ/ʈʰ e k p aː,,Hale1973,,,^'Th e k p ā$,default
@@ -14047,7 +14047,7 @@ Khaling-186_push-2,262167,Khaling,186_push,twāl-ne,twāl-ne,t w aː l + n e,,Ha
 Khaling-187_send-2,262179,Khaling,187_send,phu-ne,phu-ne,pʰ u + n e,,Hale1973,,,^ph u - n e$,default
 Khaling-188_ascend-2,262189,Khaling,188_ascend,'kem-ne,'kem-ne,ˈ/k e m + n e,,Hale1973,,,^'k e m - n e$,default
 Khaling-189_descend-2,262200,Khaling,189_descend,ye-ne,ye-ne,j e + n e,,Hale1973,,,^y e - n e$,default
-Khaling-190_accompany-2,262211,Khaling,190_accompany,-kolo 'khwān-ne,-kolo 'khwān-ne,+ k o l o + '/kʰ w aː n + n e,,Hale1973,,,^ - k o l o + 'khw ā n - n e$,default
+Khaling-190_accompany-2,262211,Khaling,190_accompany,-kolo 'khwān-ne,-kolo 'khwān-ne,k o l o + '/kʰ w aː n + n e,,Hale1973,,,^- k o l o + 'khw ā n - n e$,default
 Khaling-192_follow-2,262227,Khaling,192_follow,'dān-ne,'dān-ne,ˈ/d aː n + n e,,Hale1973,,,^'d ā n - n e$,default
 Khaling-193_chase-2,262237,Khaling,193_chase,kwāl-ne,kwāl-ne,k w aː l + n e,,Hale1973,,,^kw ā l - n e$,default
 Khaling-194_catch-2,262248,Khaling,194_catch,'lwām-ne,'lwām-ne,'/l w aː m + n e,,Hale1973,,,^'lw ā m - n e$,default
@@ -14372,9 +14372,9 @@ Khaling-1111_some-2,265572,Khaling,1111_some,ti 'bice,ti 'bice,t i + ˈ/b i c e,
 Khaling-1112_toomuch-2,265586,Khaling,1112_toomuch,dhumā,dhumā,dʱ u m aː,,Hale1973,,,^dh u m ā$,default
 Khaling-1744_canbeabletodosomething-2,265597,Khaling,1744_canbeabletodosomething,cāem-ne,cāem-ne,tʃ aː e m + n e,,Hale1973,,,^c ā e m - n e$,default
 Khaling-1745_knowsomething-2,265609,Khaling,1745_knowsomething,'cu-ne,'cu-ne,ˈ/tʃ u + n e,,Hale1973,,,^'c u - n e$,default
-Khaling-1746_benefactive-2,265619,Khaling,1746_benefactive,-sō-ne,-sō-ne,+ s oː + n e,,Hale1973,,,^ - s ō - n e$,default
+Khaling-1746_benefactive-2,265619,Khaling,1746_benefactive,-sō-ne,-sō-ne,s oː + n e,,Hale1973,,,^- s ō - n e$,default
 Khaling-1747_letsodosth-2,265630,Khaling,1747_letsodosth,be-ne,be-ne,b e + n e,,Hale1973,,,^b e - n e$,default
-Khaling-1748_causesotodosth-2,265642,Khaling,1748_causesotodosth,-man-ne,-man-ne,+ m a n + n e,,Hale1973,,,^ - m a n - n e$,default
+Khaling-1748_causesotodosth-2,265642,Khaling,1748_causesotodosth,-man-ne,-man-ne,m a n + n e,,Hale1973,,,^- m a n - n e$,default
 Khaling-1113_love-2,265658,Khaling,1113_love,lum-mūne,lum-mūne,l u m + m uː n e,,Hale1973,,,^l u m - m ū n e$,default
 Khaling-1114_hate-2,265671,Khaling,1114_hate,grāemne,grāemne,g r aː e m n e,,Hale1973,,,^g r ā e m n e$,default
 Khaling-1115_envy-2,265685,Khaling,1115_envy,nacal mūne,nacal mūne,n a c a l + m uː n e,,Hale1973,,,^n a c a l + m ū n e$,default
@@ -14488,18 +14488,18 @@ Khaling-1688_slow-2,267134,Khaling,1688_slow,wetāekā,wetāekā,w e t aː e k a
 Khaling-1689_slowly-2,267148,Khaling,1689_slowly,wetāekā,wetāekā,w e t aː e k aː,,Hale1973,,,^w e t ā e k ā$,default
 Khaling-1690_cubitelbowtofingertip-2,267159,Khaling,1690_cubitelbowtofingertip,khar,khar,kʰ a r,,Hale1973,,,^kh a r$,default
 Khaling-1691_spanofhand-2,267170,Khaling,1691_spanofhand,tong,tong,t o ŋ,,Hale1973,,,^t o ng $,default
-Khaling-1692_from-3,267188,Khaling,1692_from,-la,-la,+ l a,,Hale1973,,,^ - l a$,default
-Khaling-1692_from-4,267189,Khaling,1692_from,-lākā,-lākā,+ l aː k aː,,Hale1973,,,^ - l ā k ā$,default
-Khaling-1693_into-2,267207,Khaling,1693_into,-bi,-bi,+ b i,,Hale1973,,,^ - b i$,default
-Khaling-1712_where-19,267227,Khaling,1712_where,-lākā,-lākā,+ l aː k aː,,Hale1973,,,^ - l ā k ā$,default
-Khaling-1712_where-20,267241,Khaling,1712_where,-goyu,-goyu,+ g o j u,,Hale1973,,,^ - g o y u$,default
-Khaling-1712_where-21,267258,Khaling,1712_where,-māetū,-māetū,+ m aː e t uː,,Hale1973,,,^ - m ā e t ū$,default
-Khaling-1712_where-22,267274,Khaling,1712_where,-māeyū,-māeyū,+ m aː e j uː,,Hale1973,,,^ - m ā e y ū$,default
-Khaling-1712_where-23,267289,Khaling,1712_where,-thongtū,-thongtū,+ tʰ o ŋ t uː,,Hale1973,,,^ - th o ng t ū$,default
+Khaling-1692_from-3,267188,Khaling,1692_from,-la,-la,l a,,Hale1973,,,^- l a$,default
+Khaling-1692_from-4,267189,Khaling,1692_from,-lākā,-lākā,l aː k aː,,Hale1973,,,^- l ā k ā$,default
+Khaling-1693_into-2,267207,Khaling,1693_into,-bi,-bi,b i,,Hale1973,,,^- b i$,default
+Khaling-1712_where-19,267227,Khaling,1712_where,-lākā,-lākā,l aː k aː,,Hale1973,,,^- l ā k ā$,default
+Khaling-1712_where-20,267241,Khaling,1712_where,-goyu,-goyu,g o j u,,Hale1973,,,^- g o y u$,default
+Khaling-1712_where-21,267258,Khaling,1712_where,-māetū,-māetū,m aː e t uː,,Hale1973,,,^- m ā e t ū$,default
+Khaling-1712_where-22,267274,Khaling,1712_where,-māeyū,-māeyū,m aː e j uː,,Hale1973,,,^- m ā e y ū$,default
+Khaling-1712_where-23,267289,Khaling,1712_where,-thongtū,-thongtū,tʰ o ŋ t uː,,Hale1973,,,^- th o ng t ū$,default
 Khaling-1712_where-24,267304,Khaling,1712_where,māeyū,māeyū,m aː e j uː,,Hale1973,,,^m ā e y ū$,default
-Khaling-1712_where-25,267320,Khaling,1712_where,-kā,-kā,+ k aː,,Hale1973,,,^ - k ā$,default
-Khaling-1712_where-26,267337,Khaling,1712_where,-tā,-tā,+ t aː,,Hale1973,,,^ - t ā$,default
-Khaling-1712_where-27,267350,Khaling,1712_where,-kā,-kā,+ k aː,,Hale1973,,,^ - k ā$,default
+Khaling-1712_where-25,267320,Khaling,1712_where,-kā,-kā,k aː,,Hale1973,,,^- k ā$,default
+Khaling-1712_where-26,267337,Khaling,1712_where,-tā,-tā,t aː,,Hale1973,,,^- t ā$,default
+Khaling-1712_where-27,267350,Khaling,1712_where,-kā,-kā,k aː,,Hale1973,,,^- k ā$,default
 Khaling-1712_where-28,267364,Khaling,1712_where,yātā,yātā,j aː t aː,,Hale1973,,,^y ā t ā$,default
 Khaling-1704_infrontof-2,267381,Khaling,1704_infrontof,'lāel,'lāel,ˈ/l aː e l,,Hale1973,,,^'l ā e l$,default
 Khaling-1712_where-29,267396,Khaling,1712_where,phāer,phāer,pʰ aː e r,,Hale1973,,,^ph ā e r$,default
@@ -14533,8 +14533,8 @@ Khaling-1743_until-43,267732,Khaling,1743_until,nōlnōl,nōlnōl,n oː l n oː 
 Khaling-1743_until-44,267745,Khaling,1743_until,'cālo,'cālo,ˈ/tʃ aː l o,,Hale1973,,,^'c ā l o$,default
 Khaling-1743_until-45,267759,Khaling,1743_until,'lāel,'lāel,ˈ/l aː e l,,Hale1973,,,^'l ā e l$,default
 Khaling-1743_until-46,267774,Khaling,1743_until,yātā,yātā,j aː t aː,,Hale1973,,,^y ā t ā$,default
-Khaling-1743_until-47,267786,Khaling,1743_until,-lo,-lo,+ l o,,Hale1973,,,^ - l o$,default
-Khaling-1743_until-48,267797,Khaling,1743_until,-sama,-sama,+ s a m a,,Hale1973,,,^ - s a m a$,default
+Khaling-1743_until-47,267786,Khaling,1743_until,-lo,-lo,l o,,Hale1973,,,^- l o$,default
+Khaling-1743_until-48,267797,Khaling,1743_until,-sama,-sama,s a m a,,Hale1973,,,^- s a m a$,default
 Khaling-659_road-2,267810,Khaling,659_road,lāem,lāem,l aː e m,,Hale1973,,,^l ā e m$,default
 Khaling-660_village-2,267823,Khaling,660_village,del,del,d e l,,Hale1973,,,^d e l$,default
 Khaling-661_town-2,267836,Khaling,661_town,sāhār,sāhār,s a̤ː aː r,,Hale1973,,,^s āh ā r$,default
@@ -15131,7 +15131,7 @@ Kham-1493_bury-4,263732,Kham,1493_bury,rāhl-nyā,rāhl-nyā,r a̤ː l + n j aː
 Kham-1494_inherit-3,263742,Kham,1494_inherit,ju̩ day-nyā,ju̩ day-nyā,dʒ ũ + d a j + n j aː,,Hale1973,,,^j u̩ + d a y - n y ā$,default
 Kham-1494_inherit-4,263743,Kham,1494_inherit,batahā day-nyā,batahā day-nyā,b a t a̤ aː + d a j + n j aː,,Hale1973,,,^b a t ah ā + d a y - n y ā$,default
 Kham-1495_divide-2,263752,Kham,1495_divide,ba:h-nyā,ba:h-nyā,b aː h + n j aː,,Hale1973,,,^b a: h - n y ā$,default
-Kham-1497_own-2,263774,Kham,1497_own,-mi li-nyā,-mi li-nyā,+ m i + l i + n j aː,,Hale1973,,,^ - m i + l i - n y ā$,default
+Kham-1497_own-2,263774,Kham,1497_own,-mi li-nyā,-mi li-nyā,m i + l i + n j aː,,Hale1973,,,^- m i + l i - n y ā$,default
 Kham-1498_serveamaster-2,263783,Kham,1498_serveamaster,arkāe o'en dā-nyā,arkāe o'en dā-nyā,a r k aː e + o ˈ/e n + d aː + n j aː,,Hale1973,,,^a r k ā e + o 'e n + d ā - n y ā$,default
 Kham-1499_swearoath-2,263794,Kham,1499_swearoath,kiryā jā:h-nyā,kiryā jā:h-nyā,k i r j aː + dʒ a̤ː + n j aː,,Hale1973,,,^k i r y ā + j ā:h - n y ā$,default
 Kham-1500_assemble-2,263804,Kham,1500_assemble,dupsi-nyā,dupsi-nyā,d u p s i + n j aː,,Hale1973,,,^d u ps i - n y ā$,default
@@ -15302,12 +15302,12 @@ Kham-1111_some-8,265564,Kham,1111_some,tupuru,tupuru,t u p u r u,,Hale1973,,,^t 
 Kham-1111_some-9,265565,Kham,1111_some,take,take,t a k e,,Hale1973,,,^t a k e$,default
 Kham-1111_some-10,265566,Kham,1111_some,tocop,tocop,t o c o p,,Hale1973,,,^t o c o p$,default
 Kham-1112_toomuch-2,265581,Kham,1112_toomuch,'kuhdu:,'kuhdu:,ˈ/k u h d uː,,Hale1973,,,^'k u h d u:$,default
-Kham-1744_canbeabletodosomething-2,265595,Kham,1744_canbeabletodosomething,-du-nyā,-du-nyā,+ d u + n j aː,,Hale1973,,,^ - d u - n y ā$,default
+Kham-1744_canbeabletodosomething-2,265595,Kham,1744_canbeabletodosomething,-du-nyā,-du-nyā,d u + n j aː,,Hale1973,,,^- d u - n y ā$,default
 Kham-1745_knowsomething-2,265607,Kham,1745_knowsomething,sa̩y-nyā,sa̩y-nyā,s ã j + n j aː,,Hale1973,,,^s a̩ y - n y ā$,default
-Kham-1746_benefactive-2,265618,Kham,1746_benefactive,-da yā-nyā,-da yā-nyā,+ d a + j aː + n j aː,,Hale1973,,,^ - d a + y ā - n y ā$,default
-Kham-1747_letsodosth-3,265627,Kham,1747_letsodosth,-o yā-nyā,-o yā-nyā,+ o + j aː + n j aː,,Hale1973,,,^ - o + y ā - n y ā$,default
+Kham-1746_benefactive-2,265618,Kham,1746_benefactive,-da yā-nyā,-da yā-nyā,d a + j aː + n j aː,,Hale1973,,,^- d a + y ā - n y ā$,default
+Kham-1747_letsodosth-3,265627,Kham,1747_letsodosth,-o yā-nyā,-o yā-nyā,o + j aː + n j aː,,Hale1973,,,^- o + y ā - n y ā$,default
 Kham-1747_letsodosth-4,265628,Kham,1747_letsodosth,gah- -ka,gah- -ka,g a̤ + + + k a,,Hale1973,,,^g ah - + - k a$,default
-Kham-1748_causesotodosth-2,265639,Kham,1748_causesotodosth,-o 'pari̩-nyā,-o 'pari̩-nyā,+ o + ˈ/p a r ĩ + n j aː,,Hale1973,,,^ - o + 'p a r i̩ - n y ā$,default
+Kham-1748_causesotodosth-2,265639,Kham,1748_causesotodosth,-o 'pari̩-nyā,-o 'pari̩-nyā,o + ˈ/p a r ĩ + n j aː,,Hale1973,,,^- o + 'p a r i̩ - n y ā$,default
 Kham-1113_love-2,265654,Kham,1113_love,māyā,māyā,m aː j aː,,Hale1973,,,^m ā y ā$,default
 Kham-1114_hate-2,265666,Kham,1114_hate,'so-nyā,'so-nyā,ˈ/s o + n j aː,,Hale1973,,,^'s o - n y ā$,default
 Kham-1115_envy-2,265680,Kham,1115_envy,kosay 'ra̩:-nyā,kosay 'ra̩:-nyā,k o s a j + ˈ/r ãː + n j aː,,Hale1973,,,^k o s a y + 'r a̩: - n y ā$,default
@@ -15368,7 +15368,7 @@ Kham-1166_spirit-4,266340,Kham,1166_spirit,'purus,'purus,ˈ/p u r u s,,Hale1973,
 Kham-1166_spirit-5,266341,Kham,1166_spirit,jem 'sa:,jem 'sa:,dʒ e m + ˈ/s aː,,Hale1973,,,^j e m + 's a:$,default
 Kham-1166_spirit-6,266342,Kham,1166_spirit,do̩hwā,do̩hwā,d õ ẘ aː,,Hale1973,,,^d o̩ hw ā$,default
 Kham-1167_god-4,266362,Kham,1167_god,'deota,'deota,ˈ/d e o t a,,Hale1973,,,^'d e o t a$,default
-Kham-1167_god-5,266363,Kham,1167_god,deo-,deo-,d e o +,,Hale1973,,,^d e o - $,default
+Kham-1167_god-5,266363,Kham,1167_god,deo-,deo-,d e o,,Hale1973,,,^d e o -$,default
 Kham-1167_god-6,266364,Kham,1167_god,dāhm,dāhm,d a̤ː m,,Hale1973,,,^d āh m$,default
 Kham-1168_witch-2,266379,Kham,1168_witch,'zya:h,'zya:h,ˈ/z j aː h,,Hale1973,,,^'z y a: h$,default
 Kham-1169_shaman-2,266392,Kham,1169_shaman,'jā̩hkari,'jā̩hkari,ˈ/dʒ ã̤ː k a r i,,Hale1973,,,^'j ā̩h k a r i$,default
@@ -15451,36 +15451,36 @@ Kham-1688_slow-2,267130,Kham,1688_slow,māgilo,māgilo,m aː g i l o,,Hale1973,,
 Kham-1689_slowly-2,267143,Kham,1689_slowly,mātho,mātho,m aː tʰ o,,Hale1973,,,^m ā th o$,default
 Kham-1690_cubitelbowtofingertip-2,267156,Kham,1690_cubitelbowtofingertip,'tu◦gu̩,'tu◦gu̩,ˈ/t u + g ũ,,Hale1973,,,^'t u ◦ g u̩$,default
 Kham-1691_spanofhand-2,267167,Kham,1691_spanofhand,tarjyā:h,tarjyā:h,t a r dʒ j a̤ː,,Hale1973,,,^t a r j y ā:h$,default
-Kham-1692_from-3,267179,Kham,1692_from,-ni,-ni,+ n i,,Hale1973,,,^ - n i$,default
-Kham-1692_from-4,267180,Kham,1692_from,-kin,-kin,+ k i n,,Hale1973,,,^ - k i n$,default
-Kham-1693_into-2,267199,Kham,1693_into,-la,-la,+ l a,,Hale1973,,,^ - l a$,default
-Kham-1712_where-24,267220,Kham,1712_where,-kin,-kin,+ k i n,,Hale1973,,,^ - k i n$,default
-Kham-1712_where-25,267237,Kham,1712_where,-ji̩la,-ji̩la,+ dʒ ĩ l a,,Hale1973,,,^ - j i̩ l a$,default
-Kham-1712_where-26,267252,Kham,1712_where,ro-,ro-,r o +,,Hale1973,,,^r o - $,default
+Kham-1692_from-3,267179,Kham,1692_from,-ni,-ni,n i,,Hale1973,,,^- n i$,default
+Kham-1692_from-4,267180,Kham,1692_from,-kin,-kin,k i n,,Hale1973,,,^- k i n$,default
+Kham-1693_into-2,267199,Kham,1693_into,-la,-la,l a,,Hale1973,,,^- l a$,default
+Kham-1712_where-24,267220,Kham,1712_where,-kin,-kin,k i n,,Hale1973,,,^- k i n$,default
+Kham-1712_where-25,267237,Kham,1712_where,-ji̩la,-ji̩la,dʒ ĩ l a,,Hale1973,,,^- j i̩ l a$,default
+Kham-1712_where-26,267252,Kham,1712_where,ro-,ro-,r o,,Hale1973,,,^r o -$,default
 Kham-1712_where-27,267253,Kham,1712_where,yā,yā,j aː,,Hale1973,,,^y ā$,default
-Kham-1712_where-28,267269,Kham,1712_where,me-,me-,m e +,,Hale1973,,,^m e - $,default
-Kham-1712_where-29,267284,Kham,1712_where,otar-,otar-,o t a r +,,Hale1973,,,^o t a r - $,default
-Kham-1712_where-30,267299,Kham,1712_where,udu̩h-,udu̩h-,u d ũ h +,,Hale1973,,,^u d u̩ h - $,default
+Kham-1712_where-28,267269,Kham,1712_where,me-,me-,m e,,Hale1973,,,^m e -$,default
+Kham-1712_where-29,267284,Kham,1712_where,otar-,otar-,o t a r,,Hale1973,,,^o t a r -$,default
+Kham-1712_where-30,267299,Kham,1712_where,udu̩h-,udu̩h-,u d ũ h,,Hale1973,,,^u d u̩ h -$,default
 Kham-1712_where-31,267314,Kham,1712_where,sapher-nyā,sapher-nyā,s a pʰ e r + n j aː,,Hale1973,,,^s a ph e r - n y ā$,default
-Kham-1712_where-32,267329,Kham,1712_where,-'dā,-'dā,+ ˈ/d aː,,Hale1973,,,^ - 'd ā$,default
-Kham-1712_where-33,267330,Kham,1712_where,-ta:'dā,-ta:'dā,+ t aː ˈ/d aː,,Hale1973,,,^ - t a: 'd ā$,default
-Kham-1712_where-34,267345,Kham,1712_where,-kin,-kin,+ k i n,,Hale1973,,,^ - k i n$,default
+Kham-1712_where-32,267329,Kham,1712_where,-'dā,-'dā,ˈ/d aː,,Hale1973,,,^- 'd ā$,default
+Kham-1712_where-33,267330,Kham,1712_where,-ta:'dā,-ta:'dā,t aː ˈ/d aː,,Hale1973,,,^- t a: 'd ā$,default
+Kham-1712_where-34,267345,Kham,1712_where,-kin,-kin,k i n,,Hale1973,,,^- k i n$,default
 Kham-1712_where-35,267358,Kham,1712_where,uchi̩'ni,uchi̩'ni,u tʃʰ ĩ ˈ/n i,,Hale1973,,,^u ch i̩ 'n i$,default
 Kham-1712_where-36,267359,Kham,1712_where,huta:'ni,huta:'ni,h u t aː ˈ/n i,,Hale1973,,,^h u t a: 'n i$,default
 Kham-1704_infrontof-3,267375,Kham,1704_infrontof,ongāh'ni,ongāh'ni,o ŋ a̤ː ˈ/n i,,Hale1973,,,^o ng āh 'n i$,default
 Kham-1704_infrontof-4,267376,Kham,1704_infrontof,āta:'ni,āta:'ni,aː t aː ˈ/n i,,Hale1973,,,^ā t a: 'n i$,default
-Kham-1712_where-37,267391,Kham,1712_where,clāp-,clāp-,tʃ l aː p +,,Hale1973,,,^c l ā p - $,default
-Kham-1712_where-38,267406,Kham,1712_where,nikhār-,nikhār-,n i kʰ aː r +,,Hale1973,,,^n i kh ā r - $,default
-Kham-1712_where-39,267420,Kham,1712_where,otar-,otar-,o t a r +,,Hale1973,,,^o t a r - $,default
-Kham-1712_where-40,267421,Kham,1712_where,osara-,osara-,o s a r a +,,Hale1973,,,^o s a r a - $,default
+Kham-1712_where-37,267391,Kham,1712_where,clāp-,clāp-,tʃ l aː p,,Hale1973,,,^c l ā p -$,default
+Kham-1712_where-38,267406,Kham,1712_where,nikhār-,nikhār-,n i kʰ aː r,,Hale1973,,,^n i kh ā r -$,default
+Kham-1712_where-39,267420,Kham,1712_where,otar-,otar-,o t a r,,Hale1973,,,^o t a r -$,default
+Kham-1712_where-40,267421,Kham,1712_where,osara-,osara-,o s a r a,,Hale1973,,,^o s a r a -$,default
 Kham-1712_where-41,267436,Kham,1712_where,udu̩hla,udu̩hla,u d ũ h l a,,Hale1973,,,^u d u̩ h l a$,default
 Kham-1712_where-42,267450,Kham,1712_where,huta:'ni,huta:'ni,h u t aː ˈ/n i,,Hale1973,,,^h u t a: 'n i$,default
 Kham-1712_where-43,267461,Kham,1712_where,na'kin ho'dā,na'kin ho'dā,n a ˈ/k i n + h o ˈ/d aː,,Hale1973,,,^n a 'k i n + h o 'd ā$,default
 Kham-1712_where-44,267473,Kham,1712_where,hophata,hophata,h o pʰ a t a,,Hale1973,,,^h o ph a t a$,default
 Kham-1712_where-45,267486,Kham,1712_where,'kānā,'kānā,ˈ/k aː n aː,,Hale1973,,,^'k ā n ā$,default
 Kham-1712_where-46,267487,Kham,1712_where,kānka,kānka,k aː n k a,,Hale1973,,,^k ā n k a$,default
-Kham-1743_until-30,267501,Kham,1743_until,-'kin kosay,-'kin kosay,+ ˈ/k i n + k o s a j,,Hale1973,,,^ - 'k i n + k o s a y$,default
-Kham-1743_until-31,267512,Kham,1743_until,-'kin chyā,-'kin chyā,+ ˈ/k i n + tʃʰ j aː,,Hale1973,,,^ - 'k i n + ch y ā$,default
+Kham-1743_until-30,267501,Kham,1743_until,-'kin kosay,-'kin kosay,ˈ/k i n + k o s a j,,Hale1973,,,^- 'k i n + k o s a y$,default
+Kham-1743_until-31,267512,Kham,1743_until,-'kin chyā,-'kin chyā,ˈ/k i n + tʃʰ j aː,,Hale1973,,,^- 'k i n + ch y ā$,default
 Kham-1743_until-32,267522,Kham,1743_until,pa̩yhrāni 'kudu:,pa̩yhrāni 'kudu:,p ã j h r aː n i + ˈ/k u d uː,,Hale1973,,,^p a̩ y h r ā n i + 'k u d u:$,default
 Kham-1743_until-33,267534,Kham,1743_until,pa̩yhrāni chyā,pa̩yhrāni chyā,p ã j h r aː n i + tʃʰ j aː,,Hale1973,,,^p a̩ y h r ā n i + ch y ā$,default
 Kham-1743_until-34,267546,Kham,1743_until,'thomsio,'thomsio,ˈ/tʰ o m s i o,,Hale1973,,,^'th o ms i o$,default
@@ -15507,8 +15507,8 @@ Kham-1743_until-53,267741,Kham,1743_until,khārka,khārka,kʰ aː r k a,,Hale197
 Kham-1743_until-54,267753,Kham,1743_until,āchyāka,āchyāka,aː tʃʰ j aː k a,,Hale1973,,,^ā ch y ā k a$,default
 Kham-1743_until-55,267754,Kham,1743_until,'ngāh◦dā,'ngāh◦dā,ˈ/n g a̤ː + d aː,,Hale1973,,,^'n g āh ◦ d ā$,default
 Kham-1743_until-56,267769,Kham,1743_until,chi̩ni,chi̩ni,tʃʰ ĩ n i,,Hale1973,,,^ch i̩ n i$,default
-Kham-1743_until-57,267782,Kham,1743_until,-zyāka,-zyāka,+ z j aː k a,,Hale1973,,,^ - z y ā k a$,default
-Kham-1743_until-58,267794,Kham,1743_until,-wāpay,-wāpay,+ w aː p a j,,Hale1973,,,^ - w ā p a y$,default
+Kham-1743_until-57,267782,Kham,1743_until,-zyāka,-zyāka,z j aː k a,,Hale1973,,,^- z y ā k a$,default
+Kham-1743_until-58,267794,Kham,1743_until,-wāpay,-wāpay,w aː p a j,,Hale1973,,,^- w ā p a y$,default
 Kham-659_road-2,267805,Kham,659_road,'em,'em,ˈ/e m,,Hale1973,,,^'e m$,default
 Kham-660_village-2,267818,Kham,660_village,nā:khār,nā:khār,n aː kʰ aː r,,Hale1973,,,^n ā: kh ā r$,default
 Kham-661_town-2,267832,Kham,661_town,bajār,bajār,b a dʒ aː r,,Hale1973,,,^b a j ā r$,default
@@ -16264,9 +16264,9 @@ Magar-1111_some-2,265561,Magar,1111_some,āskāTca,āskāTca,aː s k aː ʈ c a,
 Magar-1112_toomuch-2,265580,Magar,1112_toomuch,irik,irik,i r i k,,Hale1973,,,^i r i k$,default
 Magar-1744_canbeabletodosomething-2,265594,Magar,1744_canbeabletodosomething,hyok-ke,hyok-ke,h j o k + k e,,Hale1973,,,^h y o k - k e$,default
 Magar-1745_knowsomething-2,265606,Magar,1745_knowsomething,wār-khe,wār-khe,w aː r + kʰ e,,Hale1973,,,^w ā r - kh e$,default
-Magar-1746_benefactive-2,265617,Magar,1746_benefactive,-na yā-khe,-na yā-khe,+ n a + j aː + kʰ e,,Hale1973,,,^ - n a + y ā - kh e$,default
+Magar-1746_benefactive-2,265617,Magar,1746_benefactive,-na yā-khe,-na yā-khe,n a + j aː + kʰ e,,Hale1973,,,^- n a + y ā - kh e$,default
 Magar-1747_letsodosth-2,265626,Magar,1747_letsodosth,yā-khe,yā-khe,j aː + kʰ e,,Hale1973,,,^y ā - kh e$,default
-Magar-1748_causesotodosth-2,265638,Magar,1748_causesotodosth,-ak-ke,-ak-ke,+ a k + k e,,Hale1973,,,^ - a k - k e$,default
+Magar-1748_causesotodosth-2,265638,Magar,1748_causesotodosth,-ak-ke,-ak-ke,a k + k e,,Hale1973,,,^- a k - k e$,default
 Magar-1113_love-2,265653,Magar,1113_love,ro-ke,ro-ke,r o + k e,,Hale1973,,,^r o - k e$,default
 Magar-1114_hate-2,265665,Magar,1114_hate,mā-jak-ke,mā-jak-ke,m aː + dʒ a k + k e,,Hale1973,,,^m ā - j a k - k e$,default
 Magar-1115_envy-2,265679,Magar,1115_envy,mi-ris jaT-ke,mi-ris jaT-ke,m i + r i s + dʒ a ʈ + k e,,Hale1973,,,^m i - r i s + j a T - k e$,default
@@ -16376,8 +16376,8 @@ Magar-1688_slow-2,267129,Magar,1688_slow,Dhilo,Dhilo,ɖʱ i l o,,Hale1973,,,^Dh 
 Magar-1689_slowly-2,267142,Magar,1689_slowly,bistārāy,bistārāy,b i s t aː r aː j,,Hale1973,,,^b i s t ā r ā y$,default
 Magar-1690_cubitelbowtofingertip-2,267155,Magar,1690_cubitelbowtofingertip,hāT,hāT,h aː ʈ,,Hale1973,,,^h ā T$,default
 Magar-1691_spanofhand-2,267166,Magar,1691_spanofhand,bittā,bittā,b i tː aː,,Hale1973,,,^b i tt ā$,default
-Magar-1692_from-2,267178,Magar,1692_from,-ing,-ing,+ i ŋ,,Hale1973,,,^ - i ng $,default
-Magar-1693_into-2,267198,Magar,1693_into,-āng,-āng,+ aː ŋ,,Hale1973,,,^ - ā ng $,default
+Magar-1692_from-2,267178,Magar,1692_from,-ing,-ing,i ŋ,,Hale1973,,,^- i ng $,default
+Magar-1693_into-2,267198,Magar,1693_into,-āng,-āng,aː ŋ,,Hale1973,,,^- ā ng $,default
 Magar-1712_where-19,267219,Magar,1712_where,bāhira khyo-khe,bāhira khyo-khe,b a̤ː i r a + kʰ j o + kʰ e,,Hale1973,,,^b āh i r a + kh y o - kh e$,default
 Magar-1712_where-20,267236,Magar,1712_where,bhitrā,bhitrā,bʱ i t r aː,,Hale1973,,,^bh i t r ā$,default
 Magar-1712_where-21,267251,Magar,1712_where,Dhenām,Dhenām,ɖʱ e n aː m,,Hale1973,,,^Dh e n ā m$,default
@@ -16385,8 +16385,8 @@ Magar-1712_where-22,267268,Magar,1712_where,mhākāng,mhākāng,m̊ aː k aː ŋ
 Magar-1712_where-23,267283,Magar,1712_where,tāking,tāking,t aː k i ŋ,,Hale1973,,,^t ā k i ng $,default
 Magar-1712_where-24,267298,Magar,1712_where,mhāking,mhāking,m̊ aː k i ŋ,,Hale1973,,,^mh ā k i ng $,default
 Magar-1712_where-25,267313,Magar,1712_where,kel-khe,kel-khe,k e l + kʰ e,,Hale1973,,,^k e l - kh e$,default
-Magar-1712_where-26,267328,Magar,1712_where,-lāk,-lāk,+ l aː k,,Hale1973,,,^ - l ā k$,default
-Magar-1712_where-27,267344,Magar,1712_where,-ing,-ing,+ i ŋ,,Hale1973,,,^ - i ng $,default
+Magar-1712_where-26,267328,Magar,1712_where,-lāk,-lāk,l aː k,,Hale1973,,,^- l ā k$,default
+Magar-1712_where-27,267344,Magar,1712_where,-ing,-ing,i ŋ,,Hale1973,,,^- i ng $,default
 Magar-1712_where-28,267357,Magar,1712_where,nhunlāk,nhunlāk,n̊ u n l aː k,,Hale1973,,,^nh u n l ā k$,default
 Magar-1704_infrontof-2,267374,Magar,1704_infrontof,nghā◦slāk,nghā◦slāk,ŋ h aː + s l aː k,,Hale1973,,,^ng h ā ◦ s l ā k$,default
 Magar-1712_where-29,267390,Magar,1712_where,koltyāk mu-ke,koltyāk mu-ke,k o l t j aː k + m u + k e,,Hale1973,,,^k o l t y ā k + m u - k e$,default
@@ -16420,8 +16420,8 @@ Magar-1743_until-43,267727,Magar,1743_until,din dine,din dine,d i n + d i n e,,H
 Magar-1743_until-44,267740,Magar,1743_until,sen,sen,s e n,,Hale1973,,,^s e n$,default
 Magar-1743_until-45,267752,Magar,1743_until,nghā◦sāng,nghā◦sāng,ŋ h aː + s aː ŋ,,Hale1973,,,^ng h ā ◦ s ā ng $,default
 Magar-1743_until-46,267768,Magar,1743_until,nhuning,nhuning,n̊ u n i ŋ,,Hale1973,,,^nh u n i ng $,default
-Magar-1743_until-47,267781,Magar,1743_until,-nāng,-nāng,+ n aː ŋ,,Hale1973,,,^ - n ā ng $,default
-Magar-1743_until-48,267793,Magar,1743_until,-thār,-thār,+ tʰ aː r,,Hale1973,,,^ - th ā r$,default
+Magar-1743_until-47,267781,Magar,1743_until,-nāng,-nāng,n aː ŋ,,Hale1973,,,^- n ā ng $,default
+Magar-1743_until-48,267793,Magar,1743_until,-thār,-thār,tʰ aː r,,Hale1973,,,^- th ā r$,default
 Magar-659_road-2,267804,Magar,659_road,lām,lām,l aː m,,Hale1973,,,^l ā m$,default
 Magar-660_village-2,267817,Magar,660_village,lāngnghā,lāngnghā,l aː ŋ ŋ h aː,,Hale1973,,,^l ā ng ng h ā$,default
 Magar-661_town-2,267831,Magar,661_town,bajār,bajār,b a dʒ aː r,,Hale1973,,,^b a j ā r$,default
@@ -16484,7 +16484,7 @@ Magar-4_this-2,268583,Magar,4_this,ise,ise,i s e,,Hale1973,,,^i s e$,default
 Magar-5_that-2,268596,Magar,5_that,hose,hose,h o s e,,Hale1973,,,^h o s e$,default
 Magar-6_who-2,268611,Magar,6_who,su,su,s u,,Hale1973,,,^s u$,default
 Magar-7_what-2,268625,Magar,7_what,hi,hi,h i,,Hale1973,,,^h i$,default
-Magar-8_not-2,268641,Magar,8_not,mā-,mā-,m aː +,,Hale1973,,,^m ā - $,default
+Magar-8_not-2,268641,Magar,8_not,mā-,mā-,m aː,,Hale1973,,,^m ā -$,default
 Magar-9_all-2,268656,Magar,9_all,paTTa,paTTa,p a ʈː a,,Hale1973,,,^p a TT a$,default
 Magar-10_many-2,268674,Magar,10_many,dheray,dheray,dʱ e r a j,,Hale1973,,,^dh e r a y$,default
 Magar-11_one-2,268689,Magar,11_one,kaT,kaT,k a ʈ,,Hale1973,,,^k a T$,default
@@ -17365,10 +17365,10 @@ Nepali-1689_slowly-2,267138,Nepali,1689_slowly,Dhilo,Dhilo,ɖʱ i l o,,Hale1973,
 Nepali-1690_cubitelbowtofingertip-2,267151,Nepali,1690_cubitelbowtofingertip,hat,hat,h a t,,Hale1973,,,^h a t$,default
 Nepali-1691_spanofhand-2,267162,Nepali,1691_spanofhand,bitta,bitta,b i tː a,,Hale1973,,,^b i tt a$,default
 Nepali-1692_from-3,267172,Nepali,1692_from,baTa,baTa,b a ʈ a,,Hale1973,,,^b a T a$,default
-Nepali-1692_from-4,267173,Nepali,1692_from,-dekhi,-dekhi,+ d e kʰ i,,Hale1973,,,^ - d e kh i$,default
-Nepali-1693_into-3,267193,Nepali,1693_into,-mā,-mā,+ m aː,,Hale1973,,,^ - m ā$,default
-Nepali-1693_into-4,267194,Nepali,1693_into,-bhitra,-bhitra,+ bʱ i t r a,,Hale1973,,,^ - bh i t r a$,default
-Nepali-1694_outof-2,267212,Nepali,1694_outof,-bāTa,-bāTa,+ b aː ʈ a,,Hale1973,,,^ - b ā T a$,default
+Nepali-1692_from-4,267173,Nepali,1692_from,-dekhi,-dekhi,d e kʰ i,,Hale1973,,,^- d e kh i$,default
+Nepali-1693_into-3,267193,Nepali,1693_into,-mā,-mā,m aː,,Hale1973,,,^- m ā$,default
+Nepali-1693_into-4,267194,Nepali,1693_into,-bhitra,-bhitra,bʱ i t r a,,Hale1973,,,^- bh i t r a$,default
+Nepali-1694_outof-2,267212,Nepali,1694_outof,-bāTa,-bāTa,b aː ʈ a,,Hale1973,,,^- b ā T a$,default
 Nepali-1712_where-27,267213,Nepali,1712_where,bāT...bāhira,bāT...bāhira,b aː ʈ + + + b a̤ː i r a,,Hale1973,,,^b ā T . . . b āh i r a$,default
 Nepali-1712_where-28,267230,Nepali,1712_where,mā,mā,m aː,,Hale1973,,,^m ā$,default
 Nepali-1712_where-29,267231,Nepali,1712_where,bhitra paTTi,bhitra paTTi,bʱ i t r a + p a ʈː i,,Hale1973,,,^bh i t r a + p a TT i$,default
@@ -17380,10 +17380,10 @@ Nepali-1712_where-34,267278,Nepali,1712_where,māthi,māthi,m aː tʰ i,,Hale197
 Nepali-1712_where-35,267279,Nepali,1712_where,māstira,māstira,m aː s t i r a,,Hale1973,,,^m ās t i r a$,default
 Nepali-1712_where-36,267293,Nepali,1712_where,muni,muni,m u n i,,Hale1973,,,^m u n i$,default
 Nepali-1712_where-37,267294,Nepali,1712_where,muntira,muntira,m u n t i r a,,Hale1973,,,^m u n t i r a$,default
-Nepali-1712_where-38,267308,Nepali,1712_where,-bāTa,-bāTa,+ b aː ʈ a,,Hale1973,,,^ - b ā T a$,default
+Nepali-1712_where-38,267308,Nepali,1712_where,-bāTa,-bāTa,b aː ʈ a,,Hale1973,,,^- b ā T a$,default
 Nepali-1712_where-39,267309,Nepali,1712_where,bhaera,bhaera,bʱ a e r a,,Hale1973,,,^bh a e r a$,default
-Nepali-1712_where-40,267323,Nepali,1712_where,-tira,-tira,+ t i r a,,Hale1973,,,^ - t i r a$,default
-Nepali-1712_where-41,267324,Nepali,1712_where,-paTTi,-paTTi,+ p a ʈː i,,Hale1973,,,^ - p a TT i$,default
+Nepali-1712_where-40,267323,Nepali,1712_where,-tira,-tira,t i r a,,Hale1973,,,^- t i r a$,default
+Nepali-1712_where-41,267324,Nepali,1712_where,-paTTi,-paTTi,p a ʈː i,,Hale1973,,,^- p a TT i$,default
 Nepali-1712_where-42,267340,Nepali,1712_where,dekhi TāDhā,dekhi TāDhā,d e kʰ i + ʈ aː ɖʱ aː,,Hale1973,,,^d e kh i + T ā Dh ā$,default
 Nepali-1712_where-43,267353,Nepali,1712_where,pacāDi,pacāDi,p a c aː ɖ i,,Hale1973,,,^p a c ā D i$,default
 Nepali-1704_infrontof-3,267368,Nepali,1704_infrontof,agāDi,agāDi,a g aː ɖ i,,Hale1973,,,^a g ā D i$,default
@@ -17432,8 +17432,8 @@ Nepali-1743_until-64,267747,Nepali,1743_until,pahile,pahile,p a̤ i l e,,Hale197
 Nepali-1743_until-65,267748,Nepali,1743_until,aghi,aghi,a gʱ i,,Hale1973,,,^a gh i$,default
 Nepali-1743_until-66,267763,Nepali,1743_until,pachi,pachi,p a tʃʰ i,,Hale1973,,,^p a ch i$,default
 Nepali-1743_until-67,267764,Nepali,1743_until,pachāDi,pachāDi,p a tʃʰ aː ɖ i,,Hale1973,,,^p a ch ā D i$,default
-Nepali-1743_until-68,267777,Nepali,1743_until,-mā,-mā,+ m aː,,Hale1973,,,^ - m ā$,default
-Nepali-1743_until-69,267788,Nepali,1743_until,-taka,-taka,+ t a k a,,Hale1973,,,^ - t a k a$,default
+Nepali-1743_until-68,267777,Nepali,1743_until,-mā,-mā,m aː,,Hale1973,,,^- m ā$,default
+Nepali-1743_until-69,267788,Nepali,1743_until,-taka,-taka,t a k a,,Hale1973,,,^- t a k a$,default
 Nepali-1743_until-70,267789,Nepali,1743_until,tabasamma,tabasamma,t a b a s a mː a,,Hale1973,,,^t a b a s a mm a$,default
 Nepali-659_road-2,267800,Nepali,659_road,bāTo,bāTo,b aː ʈ o,,Hale1973,,,^b ā T o$,default
 Nepali-660_village-2,267813,Nepali,660_village,gāu̩,gāu̩,g aː ũ,,Hale1973,,,^g ā u̩$,default
@@ -17518,7 +17518,7 @@ Nepali-5_that-2,268592,Nepali,5_that,tio,tio,t i o,,Hale1973,,,^t i o$,default
 Nepali-6_who-2,268607,Nepali,6_who,ko,ko,k o,,Hale1973,,,^k o$,default
 Nepali-7_what-2,268621,Nepali,7_what,ke,ke,k e,,Hale1973,,,^k e$,default
 Nepali-8_not-3,268635,Nepali,8_not,nāi̩,nāi̩,n aː ĩ,,Hale1973,,,^n ā i̩$,default
-Nepali-8_not-4,268636,Nepali,8_not,-na,-na,+ n a,,Hale1973,,,^ - n a$,default
+Nepali-8_not-4,268636,Nepali,8_not,-na,-na,n a,,Hale1973,,,^- n a$,default
 Nepali-9_all-3,268651,Nepali,9_all,sab,sab,s a b,,Hale1973,,,^s a b$,default
 Nepali-9_all-4,268652,Nepali,9_all,jammai,jammai,dʒ a mː a i,,Hale1973,,,^j a mm a i$,default
 Nepali-10_many-2,268670,Nepali,10_many,dherai,dherai,dʱ e r a i,,Hale1973,,,^dh e r a i$,default
@@ -18426,7 +18426,7 @@ Newar-1096_onequarter-2,265375,Newar,1096_onequarter,pe-bwae cha-bwa,pe-bwae cha
 Newar-1097_twothirds-2,265385,Newar,1097_twothirds,swa bwae ni-bwa,swa bwae ni-bwa,s w a + b w a e + n i + b w a,,Hale1973,,,^sw a + bw a e + n i - bw a$,default
 Newar-1098_threequarters-2,265394,Newar,1098_threequarters,pe-bwae swa-bwa,pe-bwae swa-bwa,p e + b w a e + s w a + b w a,,Hale1973,,,^p e - bw a e + sw a - bw a$,default
 Newar-1099_apair-2,265406,Newar,1099_apair,jwa(l),jwa,dʒ w a,,Hale1973,,,^jw a$,default
-Newar-1100_none-2,265420,Newar,1100_none,su̩:... na-,su̩:... na-,s ũː + + + + n a +,,Hale1973,,,^s u̩: . . . + n a - $,default
+Newar-1100_none-2,265420,Newar,1100_none,su̩:... na-,su̩:... na-,s ũː + + + + n a,,Hale1973,,,^s u̩: . . . + n a -$,default
 Newar-1101_neither-2,265432,Newar,1101_neither,na...na,na...na,n a + + + n a,,Hale1973,,,^n a . . . n a$,default
 Newar-1102_both-3,265444,Newar,1102_both,ni-guli̩:,ni-guli̩:,n i + g u l ĩː,,Hale1973,,,^n i - g u l i̩:$,default
 Newar-1102_both-4,265445,Newar,1102_both,ni-mha̩:,ni-mha̩:,n i + m̊ ãː,,Hale1973,,,^n i - mh a̩:$,default
@@ -18435,9 +18435,9 @@ Newar-1103_every-4,265460,Newar,1103_every,sakalae̩,sakalae̩,s a k a l a ẽ,,
 Newar-1104_total-2,265474,Newar,1104_total,jammā,jammā,dʒ a mː aː,,Hale1973,,,^j a mm ā$,default
 Newar-1105_together-2,265487,Newar,1105_together,nāpa nāpa̩:,nāpa nāpa̩:,n aː p a + n aː p ãː,,Hale1973,,,^n ā p a + n ā p a̩:$,default
 Newar-1106_something-2,265502,Newar,1106_something,chu̩,chu̩,tʃʰ ũ,,Hale1973,,,^ch u̩$,default
-Newar-1107_nothing-2,265514,Newar,1107_nothing,chu̩...ma-,chu̩...ma-,tʃʰ ũ + + + m a +,,Hale1973,,,^ch u̩ . . . m a - $,default
+Newar-1107_nothing-2,265514,Newar,1107_nothing,chu̩...ma-,chu̩...ma-,tʃʰ ũ + + + m a,,Hale1973,,,^ch u̩ . . . m a -$,default
 Newar-1108_someone-2,265527,Newar,1108_someone,su̩,su̩,s ũ,,Hale1973,,,^s u̩$,default
-Newar-1109_noone-2,265539,Newar,1109_noone,su̩...na-,su̩...na-,s ũ + + + n a +,,Hale1973,,,^s u̩ . . . n a - $,default
+Newar-1109_noone-2,265539,Newar,1109_noone,su̩...na-,su̩...na-,s ũ + + + n a,,Hale1973,,,^s u̩ . . . n a -$,default
 Newar-1110_another-2,265553,Newar,1110_another,me:-gu,me:-gu,m eː + g u,,Hale1973,,,^m e: - g u$,default
 Newar-1111_some-2,265573,Newar,1111_some,chu̩ bhacā,chu̩ bhacā,tʃʰ ũ + bʱ a c aː,,Hale1973,,,^ch u̩ + bh a c ā$,default
 Newar-1112_toomuch-3,265587,Newar,1112_toomuch,apwa,apwa,a p w a,,Hale1973,,,^a pw a$,default
@@ -18478,7 +18478,7 @@ Newar-1138_cough-2,265985,Newar,1138_cough,musu,musu,m u s u,,Hale1973,,,^m u s 
 Newar-1139_sneeze-2,265998,Newar,1139_sneeze,hāchikā:,hāchikā:,h aː tʃʰ i k aː,,Hale1973,,,^h ā ch i k ā:$,default
 Newar-1140_hiccup-2,266012,Newar,1140_hiccup,hiku,hiku,h i k u,,Hale1973,,,^h i k u$,default
 Newar-1141_disease-3,266026,Newar,1141_disease,lwae,lwae,l w a e,,Hale1973,,,^lw a e$,default
-Newar-1141_disease-4,266027,Newar,1141_disease,lwac-,lwac-,l w a c +,,Hale1973,,,^lw a c - $,default
+Newar-1141_disease-4,266027,Newar,1141_disease,lwac-,lwac-,l w a c,,Hale1973,,,^lw a c -$,default
 Newar-1142_leprosy-3,266041,Newar,1142_leprosy,kwari,kwari,k w a r i,,Hale1973,,,^kw a r i$,default
 Newar-1142_leprosy-4,266042,Newar,1142_leprosy,kwasta,kwasta,k w a s t a,,Hale1973,,,^kw a s t a$,default
 Newar-1143_tuberculosis-2,266053,Newar,1143_tuberculosis,che:rwa:g,che:rwa:g,tʃʰ eː r w aː g,,Hale1973,,,^ch e: rw a: g$,default
@@ -18511,7 +18511,7 @@ Newar-1164_otherworlds-2,266313,Newar,1164_otherworlds,me:-gu lwa:k,me:-gu lwa:k
 Newar-1165_ghost-2,266330,Newar,1165_ghost,bhu:t,bhu:t,bʱ uː t,,Hale1973,,,^bh u: t$,default
 Newar-1166_spirit-2,266347,Newar,1166_spirit,ātmā,ātmā,aː t m aː,,Hale1973,,,^ā t m ā$,default
 Newar-1167_god-3,266370,Newar,1167_god,dya:,dya:,d j aː,,Hale1973,,,^d y a:$,default
-Newar-1167_god-4,266371,Newar,1167_god,dew-,dew-,d e w +,,Hale1973,,,^d e w - $,default
+Newar-1167_god-4,266371,Newar,1167_god,dew-,dew-,d e w,,Hale1973,,,^d e w -$,default
 Newar-1168_witch-2,266385,Newar,1168_witch,bwaksi,bwaksi,b w a k s i,,Hale1973,,,^bw a ks i$,default
 Newar-1169_shaman-2,266399,Newar,1169_shaman,jhākri,jhākri,dʒʱ aː k r i,,Hale1973,,,^jh ā k r i$,default
 Newar-1170_mask-2,266411,Newar,1170_mask,khwā:-pā:,khwā:-pā:,kʰ w aː + p aː,,Hale1973,,,^khw ā: - p ā:$,default
@@ -18560,7 +18560,7 @@ Newar-1670_straight-2,266883,Newar,1670_straight,tapya̩:,tapya̩:,t a p j ãː,
 Newar-1671_twisted-2,266897,Newar,1671_twisted,nilā-ta:-gu,nilā-ta:-gu,n i l aː + t aː + g u,,Hale1973,,,^n i l ā - t a: - g u$,default
 Newar-1672_flat-2,266911,Newar,1672_flat,mātha̩:,mātha̩:,m aː tʰ ãː,,Hale1973,,,^m ā th a̩:$,default
 Newar-1673_sharpedged-3,266926,Newar,1673_sharpedged,dha:r jwa;-gu,dha:r jwa,dʱ aː r + dʒ w a,,Hale1973,,,^dh a: r + jw a$,default
-Newar-1673_sharpedged-4,266926,Newar,1673_sharpedged,dha:r jwa;-gu,-gu,+ g u,,Hale1973,,,^ - g u$,default
+Newar-1673_sharpedged-4,266926,Newar,1673_sharpedged,dha:r jwa;-gu,-gu,g u,,Hale1973,,,^- g u$,default
 Newar-1674_sharppointed-2,266942,Newar,1674_sharppointed,cwakā lū-gu,cwakā lū-gu,tʃ w a k aː + l uː + g u,,Hale1973,,,^cw a k ā + l ū - g u$,default
 Newar-1675_blunt-2,266958,Newar,1675_blunt,ma-jwa:,ma-jwa:,m a + dʒ w aː,,Hale1973,,,^m a - jw a:$,default
 Newar-1676_smooth-3,266972,Newar,1676_smooth,culu,culu,tʃ u l u,,Hale1973,,,^c u l u$,default
@@ -18634,14 +18634,14 @@ Newar-1743_until-43,267746,Newar,1743_until,gablae,gablae,g a b l a e,,Hale1973,
 Newar-1743_until-44,267760,Newar,1743_until,nhya: / nhya◦wa,nhya:,n̊ j aː,,Hale1973,,,^nh y a:$,default
 Newar-1743_until-45,267760,Newar,1743_until,nhya: / nhya◦wa,nhya◦wa,n̊ j a + w a,,Hale1973,,,^nh y a ◦ w a$,default
 Newar-1743_until-46,267775,Newar,1743_until,lipā,lipā,l i p aː,,Hale1973,,,^l i p ā$,default
-Newar-1743_until-47,267787,Newar,1743_until,-balae,-balae,+ b a l a e,,Hale1973,,,^ - b a l a e$,default
+Newar-1743_until-47,267787,Newar,1743_until,-balae,-balae,b a l a e,,Hale1973,,,^- b a l a e$,default
 Newar-1743_until-48,267798,Newar,1743_until,ma-...tale,ma-...tale,m a + + + + t a l e,,Hale1973,,,^m a - . . . t a l e$,default
 Newar-659_road-2,267811,Newar,659_road,la̩,la̩,l ã,,Hale1973,,,^l a̩$,default
 Newar-660_village-2,267824,Newar,660_village,gā(m),gā,g aː,,Hale1973,,,^g ā$,default
 Newar-661_town-3,267837,Newar,661_town,de:,de:,d eː,,Hale1973,,,^d e:$,default
-Newar-661_town-4,267838,Newar,661_town,des-,des-,d e s +,,Hale1973,,,^d e s - $,default
+Newar-661_town-4,267838,Newar,661_town,des-,des-,d e s,,Hale1973,,,^d e s -$,default
 Newar-662_place-3,267850,Newar,662_place,thāe,thāe,tʰ aː e,,Hale1973,,,^th ā e$,default
-Newar-662_place-4,267851,Newar,662_place,thās-,thās-,tʰ aː s +,,Hale1973,,,^th ās - $,default
+Newar-662_place-4,267851,Newar,662_place,thās-,thās-,tʰ aː s,,Hale1973,,,^th ās -$,default
 Newar-663_corner-2,267864,Newar,663_corner,ku(n),ku,k u,,Hale1973,,,^k u$,default
 Newar-664_house-2,267877,Newar,664_house,che̩,che̩,tʃʰ ẽ,,Hale1973,,,^ch e̩$,default
 Newar-665_granary-2,267887,Newar,665_granary,bhakhāri,bhakhāri,bʱ a kʰ aː r i,,Hale1973,,,^bh a kh ā r i$,default
@@ -18704,11 +18704,11 @@ Newar-708_steam-2,268446,Newar,708_steam,hā,hā,h aː,,Hale1973,,,^h ā$,defaul
 Newar-709_broom-2,268459,Newar,709_broom,tuphi,tuphi,t u pʰ i,,Hale1973,,,^t u ph i$,default
 Newar-710_sweepings-2,268472,Newar,710_sweepings,dhu(l),dhu,dʱ u,,Hale1973,,,^dh u$,default
 Newar-711_bellows-3,268486,Newar,711_bellows,bhau,bhau,bʱ a u,,Hale1973,,,^bh a u$,default
-Newar-711_bellows-4,268487,Newar,711_bellows,bhat-,bhat-,bʱ a t +,,Hale1973,,,^bh a t - $,default
+Newar-711_bellows-4,268487,Newar,711_bellows,bhat-,bhat-,bʱ a t,,Hale1973,,,^bh a t -$,default
 Newar-712_firetongs-2,268500,Newar,712_firetongs,cintā,cintā,tʃ i n t aː,,Hale1973,,,^c i n t ā$,default
 Newar-713_kindling-4,268513,Newar,713_kindling,chusi,chusi,tʃʰ u s i,,Hale1973,,,^ch u s i$,default
 Newar-713_kindling-5,268514,Newar,713_kindling,chyāka̩,chyāka̩,tʃʰ j aː k ã,,Hale1973,,,^ch y ā k a̩$,default
-Newar-713_kindling-6,268515,Newar,713_kindling,chyākan-,chyākan-,tʃʰ j aː k a n +,,Hale1973,,,^ch y ā k a n - $,default
+Newar-713_kindling-6,268515,Newar,713_kindling,chyākan-,chyākan-,tʃʰ j aː k a n,,Hale1973,,,^ch y ā k a n -$,default
 Newar-1_i-2,268531,Newar,1_i,ji,ji,dʒ i,,Hale1973,,,^j i$,default
 Newar-2_thou-3,268549,Newar,2_thou,cha,cha,tʃʰ a,,Hale1973,,,^ch a$,default
 Newar-2_thou-4,268550,Newar,2_thou,chi,chi,tʃʰ i,,Hale1973,,,^ch i$,default
@@ -18718,7 +18718,7 @@ Newar-4_this-2,268590,Newar,4_this,thwa,thwa,tʰ w a,,Hale1973,,,^thw a$,default
 Newar-5_that-2,268604,Newar,5_that,wa,wa,w a,,Hale1973,,,^w a$,default
 Newar-6_who-2,268619,Newar,6_who,su,su,s u,,Hale1973,,,^s u$,default
 Newar-7_what-2,268633,Newar,7_what,chu,chu,tʃʰ u,,Hale1973,,,^ch u$,default
-Newar-8_not-2,268648,Newar,8_not,ma-,ma-,m a +,,Hale1973,,,^m a - $,default
+Newar-8_not-2,268648,Newar,8_not,ma-,ma-,m a,,Hale1973,,,^m a -$,default
 Newar-9_all-5,268666,Newar,9_all,phukka,phukka,pʰ u k + k a,,Hale1973,,,^ph u kk a$,default
 Newar-9_all-6,268667,Newar,9_all,sakalae̩,sakalae̩,s a k a l a ẽ,,Hale1973,,,^s a k a l a e̩$,default
 Newar-10_many-2,268682,Newar,10_many,yekwa,yekwa,j e k w a,,Hale1973,,,^y e kw a$,default
@@ -18757,7 +18757,7 @@ Newar-67_sit-5,269130,Newar,67_sit,"phetuta, di-ye (h)",phetuta,pʰ e t u t a,,H
 Newar-67_sit-6,269130,Newar,67_sit,"phetuta, di-ye (h)",di-ye,d i + j e,,Hale1973,,,^d i - y e$,default
 Newar-68_stand-2,269143,Newar,68_stand,dane,dane,d a n e,,Hale1973,,,^d a n e$,default
 Newar-70_say-2,269172,Newar,70_say,dhā-ye,dhā-ye,dʱ aː + j e,,Hale1973,,,^dh ā - y e$,default
-Newar-71_sun-3,269186,Newar,71_sun,surdew-,surdew-,s u r d e w +,,Hale1973,,,^s u r d e w - $,default
+Newar-71_sun-3,269186,Newar,71_sun,surdew-,surdew-,s u r d e w,,Hale1973,,,^s u r d e w -$,default
 Newar-71_sun-4,269187,Newar,71_sun,surdya:,surdya:,s u r d j aː,,Hale1973,,,^s u r d y a:$,default
 Newar-72_moon-2,269200,Newar,72_moon,tim◦lā,tim◦lā,t i m + l aː,,Hale1973,,,^t i m ◦ l ā$,default
 Newar-73_star-2,269213,Newar,73_star,naguti,naguti,n a g u t i,,Hale1973,,,^n a g u t i$,default
@@ -18768,11 +18768,11 @@ Newar-77_sand-2,269268,Newar,77_sand,phi,phi,pʰ i,,Hale1973,,,^ph i$,default
 Newar-78_earth-3,269283,Newar,78_earth,prithibi,prithibi,p r i tʰ i b i,,Hale1973,,,^p r i th i b i$,default
 Newar-78_earth-4,269284,Newar,78_earth,cā,cā,tʃ aː,,Hale1973,,,^c ā$,default
 Newar-79_cloud-3,269297,Newar,79_cloud,supā̩e,supā̩e,s u p ãː e,,Hale1973,,,^s u p ā̩ e$,default
-Newar-79_cloud-4,269298,Newar,79_cloud,supāc-,supāc-,s u p aː c +,,Hale1973,,,^s u p ā c - $,default
+Newar-79_cloud-4,269298,Newar,79_cloud,supāc-,supāc-,s u p aː c,,Hale1973,,,^s u p ā c -$,default
 Newar-80_smoke-2,269311,Newar,80_smoke,ku̩,ku̩,k ũ,,Hale1973,,,^k u̩$,default
 Newar-81_fire-2,269324,Newar,81_fire,mi,mi,m i,,Hale1973,,,^m i$,default
 Newar-82_ash-3,269339,Newar,82_ash,nau,nau,n a u,,Hale1973,,,^n a u$,default
-Newar-82_ash-4,269340,Newar,82_ash,nali-,nali-,n a l i +,,Hale1973,,,^n a l i - $,default
+Newar-82_ash-4,269340,Newar,82_ash,nali-,nali-,n a l i,,Hale1973,,,^n a l i -$,default
 Newar-83_burn-2,269357,Newar,83_burn,cyāta-ye,cyāta-ye,tʃ j aː t a + j e,,Hale1973,,,^c y ā t a - y e$,default
 Newar-84_path-2,269372,Newar,84_path,la̩,la̩,l ã,,Hale1973,,,^l a̩$,default
 Newar-85_mountain-2,269387,Newar,85_mountain,gu̩,gu̩,g ũ,,Hale1973,,,^g u̩$,default
@@ -18785,7 +18785,7 @@ Newar-91_night-2,269467,Newar,91_night,cānhae,cānhae,tʃ aː n̊ a e,,Hale1973
 Newar-92_hot-2,269485,Newar,92_hot,kwā:,kwā:,k w aː,,Hale1973,,,^kw ā:$,default
 Newar-93_cold-2,269500,Newar,93_cold,khwāu̩,khwāu̩,kʰ w aː ũ,,Hale1973,,,^khw ā u̩$,default
 Newar-94_full-2,269515,Newar,94_full,jā:,jā:,dʒ aː,,Hale1973,,,^j ā:$,default
-Newar-95_new-2,269528,Newar,95_new,nhu:-,nhu:-,n̊ uː +,,Hale1973,,,^nh u: - $,default
+Newar-95_new-2,269528,Newar,95_new,nhu:-,nhu:-,n̊ uː,,Hale1973,,,^nh u: -$,default
 Newar-96_good-2,269545,Newar,96_good,bhi̩:,bhi̩:,bʱ ĩː,,Hale1973,,,^bh i̩:$,default
 Newar-97_round-3,269561,Newar,97_round,"cākalā:, gwallā:",cākalā:,tʃ aː k a l aː,,Hale1973,,,^c ā k a l ā:$,default
 Newar-97_round-4,269561,Newar,97_round,"cākalā:, gwallā:",gwallā:,g w a lː aː,,Hale1973,,,^gw a ll ā:$,default
@@ -18798,7 +18798,7 @@ Newar-301_chick-2,269642,Newar,301_chick,khā-cā,khā-cā,kʰ aː + c aː,,Hale
 Newar-302_comb-3,269655,Newar,302_comb,"culi, cili",culi,tʃ u l i,,Hale1973,,,^c u l i$,default
 Newar-302_comb-4,269655,Newar,302_comb,"culi, cili",cili,tʃ i l i,,Hale1973,,,^c i l i$,default
 Newar-303_duck-3,269668,Newar,303_duck,"ha̩e, hąs-",ha̩e,h ã e,,Hale1973,,,^h a̩ e$,default
-Newar-303_duck-4,269668,Newar,303_duck,"ha̩e, hąs-",hąs-,h ã s +,,Hale1973,,,^h ąs - $,default
+Newar-303_duck-4,269668,Newar,303_duck,"ha̩e, hąs-",hąs-,h ã s,,Hale1973,,,^h ąs -$,default
 Newar-304_pigeon-2,269681,Newar,304_pigeon,bakhu̩,bakhu̩,b a kʰ ũ,,Hale1973,,,^b a kh u̩$,default
 Newar-305_pheasant-2,269694,Newar,305_pheasant,ci-khā,ci-khā,tʃ i + kʰ aː,,Hale1973,,,^c i - kh ā$,default
 Newar-306_peacock-2,269707,Newar,306_peacock,mhāe-khā,mhāe-khā,m̊ aː e + kʰ aː,,Hale1973,,,^mh ā e - kh ā$,default
@@ -18806,7 +18806,7 @@ Newar-307_sparrow-2,269720,Newar,307_sparrow,cakhu(n),cakhu,tʃ a kʰ u,,Hale197
 Newar-308_swallow-2,269733,Newar,308_swallow,ikhu̩-cā,ikhu̩-cā,i kʰ ũ + c aː,,Hale1973,,,^i kh u̩ - c ā$,default
 Newar-309_bill-2,269746,Newar,309_bill,twā(th),twā,t w aː,,Hale1973,,,^tw ā$,default
 Newar-310_nest-3,269759,Newar,310_nest,swa̩/swa̩n-,swa̩,s w ã,,Hale1973,,,^sw a̩$,default
-Newar-310_nest-4,269759,Newar,310_nest,swa̩/swa̩n-,swa̩n-,s w ã n +,,Hale1973,,,^sw a̩ n - $,default
+Newar-310_nest-4,269759,Newar,310_nest,swa̩/swa̩n-,swa̩n-,s w ã n,,Hale1973,,,^sw a̩ n -$,default
 Newar-311_wing-4,269772,Newar,311_wing,"pā, papu(ti)",pā,p aː,,Hale1973,,,^p ā$,default
 Newar-311_wing-5,269772,Newar,311_wing,"pā, papu(ti)",papu,p a p u,,Hale1973,,,^p a p u$,default
 Newar-312_parrot-3,269785,Newar,312_parrot,"mainā, bhattu",mainā,m a i n aː,,Hale1973,,,^m a i n ā$,default
@@ -18844,18 +18844,18 @@ Newar-342_donkey-2,270175,Newar,342_donkey,garā-cā,garā-cā,g a r aː + c aː
 Newar-343_yak-2,270189,Newar,343_yak,cau̩ri-sā,cau̩ri-sā,tʃ a ũ r i + s aː,,Hale1973,,,^c a u̩ r i - s ā$,default
 Newar-344_rhinoceros-2,270202,Newar,344_rhinoceros,ge̩:dā,ge̩:dā,g ẽː d aː,,Hale1973,,,^g e̩: d ā$,default
 Newar-345_cat-3,270215,Newar,345_cat,bhau/bhati-,bhau,bʱ a u,,Hale1973,,,^bh a u$,default
-Newar-345_cat-4,270215,Newar,345_cat,bhau/bhati-,bhati-,bʱ a t i +,,Hale1973,,,^bh a t i - $,default
+Newar-345_cat-4,270215,Newar,345_cat,bhau/bhati-,bhati-,bʱ a t i,,Hale1973,,,^bh a t i -$,default
 Newar-346_whiskers-3,270228,Newar,346_whiskers,gwāe/gwac-,gwāe,g w aː e,,Hale1973,,,^gw ā e$,default
-Newar-346_whiskers-4,270228,Newar,346_whiskers,gwāe/gwac-,gwac-,g w a c +,,Hale1973,,,^gw a c - $,default
+Newar-346_whiskers-4,270228,Newar,346_whiskers,gwāe/gwac-,gwac-,g w a c,,Hale1973,,,^gw a c -$,default
 Newar-347_rat-2,270241,Newar,347_rat,chu̩,chu̩,tʃʰ ũ,,Hale1973,,,^ch u̩$,default
 Newar-348_shrew-2,270254,Newar,348_shrew,ti-chu̩,ti-chu̩,t i + tʃʰ ũ,,Hale1973,,,^t i - ch u̩$,default
 Newar-349_squirrel-2,270267,Newar,349_squirrel,lwakharke,lwakharke,l w a kʰ a r k e,,Hale1973,,,^lw a kh a r k e$,default
 Newar-350_monkey-2,270281,Newar,350_monkey,māka(l),māka,m aː k a,,Hale1973,,,^m ā k a$,default
 Newar-351_elephant-2,270294,Newar,351_elephant,kisi,kisi,k i s i,,Hale1973,,,^k i s i$,default
 Newar-352_trunk-3,270307,Newar,352_trunk,swa̩:/swath-,swa̩:,s w ãː,,Hale1973,,,^sw a̩:$,default
-Newar-352_trunk-4,270307,Newar,352_trunk,swa̩:/swath-,swath-,s w a tʰ +,,Hale1973,,,^sw a th - $,default
+Newar-352_trunk-4,270307,Newar,352_trunk,swa̩:/swath-,swath-,s w a tʰ,,Hale1973,,,^sw a th -$,default
 Newar-353_tusks-3,270320,Newar,353_tusks,da̩:/da̩:l-,da̩:,d ãː,,Hale1973,,,^d a̩:$,default
-Newar-353_tusks-4,270320,Newar,353_tusks,da̩:/da̩:l-,da̩:l-,d ãː l +,,Hale1973,,,^d a̩: l - $,default
+Newar-353_tusks-4,270320,Newar,353_tusks,da̩:/da̩:l-,da̩:l-,d ãː l,,Hale1973,,,^d a̩: l -$,default
 Newar-354_deer-2,270333,Newar,354_deer,calā,calā,tʃ a l aː,,Hale1973,,,^c a l ā$,default
 Newar-355_antelope-2,270346,Newar,355_antelope,calā,calā,tʃ a l aː,,Hale1973,,,^c a l ā$,default
 Newar-356_fox-2,270359,Newar,356_fox,pyākā dhwa̩,pyākā dhwa̩,p j aː k aː + dʰ w ã,,Hale1973,,,^p y ā k ā + dhw a̩$,default
@@ -18892,7 +18892,7 @@ Newar-384_bodylouse-2,270726,Newar,384_bodylouse,si,si,s i,,Hale1973,,,^s i$,def
 Newar-385_louseegg-2,270739,Newar,385_louseegg,sasi,sasi,s a s i,,Hale1973,,,^s a s i$,default
 Newar-386_flea-2,270752,Newar,386_flea,kusi,kusi,k u s i,,Hale1973,,,^k u s i$,default
 Newar-387_bedbug-3,270765,Newar,387_bedbug,dhae̩/dhas-,dhae̩,dʱ a ẽ,,Hale1973,,,^dh a e̩$,default
-Newar-387_bedbug-4,270765,Newar,387_bedbug,dhae̩/dhas-,dhas-,dʱ a s +,,Hale1973,,,^dh a s - $,default
+Newar-387_bedbug-4,270765,Newar,387_bedbug,dhae̩/dhas-,dhas-,dʱ a s,,Hale1973,,,^dh a s -$,default
 Newar-388_dragonfly-2,270777,Newar,388_dragonfly,bhama(l),bhama,bʱ a m a,,Hale1973,,,^bh a m a$,default
 Newar-389_moth-2,270790,Newar,389_moth,lāpā,lāpā,l aː p aː,,Hale1973,,,^l ā p ā$,default
 Newar-390_butterfly-2,270803,Newar,390_butterfly,lāpā,lāpā,l aː p aː,,Hale1973,,,^l ā p ā$,default
@@ -19822,7 +19822,7 @@ Sunwar-1257_forbid-2,264778,Sunwar,1257_forbid,mā-pā 'pāyk-cā,mā-pā 'pāyk
 Sunwar-1258_avoidsb-2,264787,Sunwar,1258_avoidsb,'her-cā,'her-cā,ˈ/h e r + c aː,,Hale1973,,,^'h e r - c ā$,default
 Sunwar-1259_hurtnotphysically-2,264797,Sunwar,1259_hurtnotphysically,thu:n 'khāyk-cā,thu:n 'khāyk-cā,tʰ uː n + ˈ/kʰ aː j k + c aː,,Hale1973,,,^th u: n + 'kh ā y k - c ā$,default
 Sunwar-1260_lie-2,264808,Sunwar,1260_lie,jo:l 'pā-cā,jo:l 'pā-cā,dʒ oː l + ˈ/p aː + c aː,,Hale1973,,,^j o: l + 'p ā - c ā$,default
-Sunwar-1261_pretend-2,264819,Sunwar,1261_pretend,-khu 'pā-cā,-khu 'pā-cā,+ kʰ u + ˈ/p aː + c aː,,Hale1973,,,^ - kh u + 'p ā - c ā$,default
+Sunwar-1261_pretend-2,264819,Sunwar,1261_pretend,-khu 'pā-cā,-khu 'pā-cā,kʰ u + ˈ/p aː + c aː,,Hale1973,,,^- kh u + 'p ā - c ā$,default
 Sunwar-1263_flirt-2,264839,Sunwar,1263_flirt,wāre 'pā-cā,wāre 'pā-cā,w aː r e + ˈ/p aː + c aː,,Hale1973,,,^w ā r e + 'p ā - c ā$,default
 Sunwar-1264_feelatease-2,264849,Sunwar,1264_feelatease,du-cā,du-cā,d u + c aː,,Hale1973,,,^d u - c ā$,default
 Sunwar-1265_quarrelwithwords-2,264859,Sunwar,1265_quarrelwithwords,'jit-cā,'jit-cā,ˈ/dʒ i t + c aː,,Hale1973,,,^'j i t - c ā$,default
@@ -19965,16 +19965,16 @@ Sunwar-1690_cubitelbowtofingertip-2,267158,Sunwar,1690_cubitelbowtofingertip,hā
 Sunwar-1691_spanofhand-2,267169,Sunwar,1691_spanofhand,bitā:,bitā:,b i t aː,,Hale1973,,,^b i t ā:$,default
 Sunwar-1692_from-3,267186,Sunwar,1692_from,le:,le:,l eː,,Hale1973,,,^l e:$,default
 Sunwar-1692_from-4,267187,Sunwar,1692_from,re:,re:,r eː,,Hale1973,,,^r e:$,default
-Sunwar-1693_into-2,267206,Sunwar,1693_into,-mi,-mi,+ m i,,Hale1973,,,^ - m i$,default
-Sunwar-1712_where-19,267226,Sunwar,1712_where,-le,-le,+ l e,,Hale1973,,,^ - l e$,default
-Sunwar-1712_where-20,267240,Sunwar,1712_where,-mi,-mi,+ m i,,Hale1973,,,^ - m i$,default
+Sunwar-1693_into-2,267206,Sunwar,1693_into,-mi,-mi,m i,,Hale1973,,,^- m i$,default
+Sunwar-1712_where-19,267226,Sunwar,1712_where,-le,-le,l e,,Hale1973,,,^- l e$,default
+Sunwar-1712_where-20,267240,Sunwar,1712_where,-mi,-mi,m i,,Hale1973,,,^- m i$,default
 Sunwar-1712_where-21,267257,Sunwar,1712_where,iri,iri,i r i,,Hale1973,,,^i r i$,default
 Sunwar-1712_where-22,267273,Sunwar,1712_where,'uyu,'uyu,ˈ/u j u,,Hale1973,,,^'u y u$,default
 Sunwar-1712_where-23,267288,Sunwar,1712_where,gyethi,gyethi,g j e tʰ i,,Hale1973,,,^g y e th i$,default
 Sunwar-1712_where-24,267303,Sunwar,1712_where,sāgā:,sāgā:,s aː g aː,,Hale1973,,,^s ā g ā:$,default
 Sunwar-1712_where-25,267318,Sunwar,1712_where,ā:gā:le,ā:gā:le,aː g aː l e,,Hale1973,,,^ā: g ā: l e$,default
 Sunwar-1712_where-26,267319,Sunwar,1712_where,le:,le:,l eː,,Hale1973,,,^l e:$,default
-Sunwar-1712_where-27,267336,Sunwar,1712_where,-ge,-ge,+ g e,,Hale1973,,,^ - g e$,default
+Sunwar-1712_where-27,267336,Sunwar,1712_where,-ge,-ge,g e,,Hale1973,,,^- g e$,default
 Sunwar-1712_where-28,267349,Sunwar,1712_where,le:gon,le:gon,l eː g o n,,Hale1973,,,^l e: g o n$,default
 Sunwar-1712_where-29,267363,Sunwar,1712_where,'no:le,'no:le,ˈ/n oː l e,,Hale1973,,,^'n o: l e$,default
 Sunwar-1704_infrontof-2,267380,Sunwar,1704_infrontof,ngo̩yti,ngo̩yti,ŋ õ j t i,,Hale1973,,,^ng o̩ y t i$,default
@@ -20849,10 +20849,10 @@ SahuTamang-1690_cubitelbowtofingertip-2,267153,SahuTamang,1690_cubitelbowtofinge
 SahuTamang-1691_spanofhand-2,267164,SahuTamang,1691_spanofhand,'pihtā 'nāng,'pihtā 'nāng,ˈ/p i h t aː + ˈ/n aː ŋ,,Hale1973,,,^'p i h t ā + 'n ā ng $,default
 SahuTamang-1692_from-3,267175,SahuTamang,1692_from,nyehnsye,nyehnsye,n j e h n s j e,,Hale1973,,,^n y e h ns y e$,default
 SahuTamang-1692_from-4,267176,SahuTamang,1692_from,nyehnsyece,nyehnsyece,n j e h n s j e c e,,Hale1973,,,^n y e h ns y e c e$,default
-SahuTamang-1693_into-2,267196,SahuTamang,1693_into,-nāhng,-nāhng,+ n a̤ː ŋ,,Hale1973,,,^ - n āh ng $,default
+SahuTamang-1693_into-2,267196,SahuTamang,1693_into,-nāhng,-nāhng,n a̤ː ŋ,,Hale1973,,,^- n āh ng $,default
 SahuTamang-1712_where-23,267216,SahuTamang,1712_where,nyehnsye,nyehnsye,n j e h n s j e,,Hale1973,,,^n y e h ns y e$,default
 SahuTamang-1712_where-24,267217,SahuTamang,1712_where,nyehnsyece,nyehnsyece,n j e h n s j e c e,,Hale1973,,,^n y e h ns y e c e$,default
-SahuTamang-1712_where-25,267233,SahuTamang,1712_where,-nāhng,-nāhng,+ n a̤ː ŋ,,Hale1973,,,^ - n āh ng $,default
+SahuTamang-1712_where-25,267233,SahuTamang,1712_where,-nāhng,-nāhng,n a̤ː ŋ,,Hale1973,,,^- n āh ng $,default
 SahuTamang-1712_where-26,267248,SahuTamang,1712_where,tor,tor,t o r,,Hale1973,,,^t o r$,default
 SahuTamang-1712_where-27,267249,SahuTamang,1712_where,cohri,cohri,tʃ o h r i,,Hale1973,,,^c o h r i$,default
 SahuTamang-1712_where-28,267265,SahuTamang,1712_where,tuhngTi,tuhngTi,t u h ŋ ʈ i,,Hale1973,,,^t u h ng T i$,default
@@ -20861,7 +20861,7 @@ SahuTamang-1712_where-30,267281,SahuTamang,1712_where,'olece,'olece,ˈ/o l e c e
 SahuTamang-1712_where-31,267296,SahuTamang,1712_where,tuhngTi,tuhngTi,t u h ŋ ʈ i,,Hale1973,,,^t u h ng T i$,default
 SahuTamang-1712_where-32,267311,SahuTamang,1712_where,'kyāhmce,'kyāhmce,ˈ/k j a̤ː m c e,,Hale1973,,,^'k y āh m c e$,default
 SahuTamang-1712_where-33,267326,SahuTamang,1712_where,'pāTTi,'pāTTi,ˈ/p aː ʈː i,,Hale1973,,,^'p ā TT i$,default
-SahuTamang-1712_where-34,267342,SahuTamang,1712_where,-ce,-ce,+ c e,,Hale1973,,,^ - c e$,default
+SahuTamang-1712_where-34,267342,SahuTamang,1712_where,-ce,-ce,c e,,Hale1973,,,^- c e$,default
 SahuTamang-1712_where-35,267355,SahuTamang,1712_where,kyahp-ce,kyahp-ce,k j a̤ p + c e,,Hale1973,,,^k y ah p - c e$,default
 SahuTamang-1704_infrontof-2,267372,SahuTamang,1704_infrontof,ngon◦kyām,ngon◦kyām,ŋ o n + k j aː m,,Hale1973,,,^ng o n ◦ k y ā m$,default
 SahuTamang-1712_where-36,267388,SahuTamang,1712_where,'prep prep,'prep prep,ˈ/p r e p + p r e p,,Hale1973,,,^'p r e p + p r e p$,default
@@ -21337,7 +21337,7 @@ Thakali-204_jumpdown-4,262343,Thakali,204_jumpdown,phu tim-la,phu tim-la,pʰ u +
 Thakali-205_jumpacross-3,262353,Thakali,205_jumpacross,ngoy-la,ngoy-la,ŋ o j + l a,,Hale1973,,,^ng o y - l a$,default
 Thakali-205_jumpacross-4,262354,Thakali,205_jumpacross,'la-si 'yah-la,'la-si 'yah-la,ˈ/l a + s i + ˈ/j a̤ + l a,,Hale1973,,,^'l a - s i + 'y ah - l a$,default
 Thakali-206_crawl-2,262366,Thakali,206_crawl,pho Tih-si 'prah-la,pho Tih-si 'prah-la,pʰ o + ʈ i h + s i + ˈ/p r a̤ + l a,,Hale1973,,,^ph o + T i h - s i + 'p r ah - l a$,default
-Thakali-207_rollover-2,262376,Thakali,207_rollover,chāy-si chāy-si kyāng-,chāy-si chāy-si kyāng-,tʃʰ aː j + s i + tʃʰ aː j + s i + k j aː ŋ +,,Hale1973,,,^ch ā y - s i + ch ā y - s i + k y ā ng - $,default
+Thakali-207_rollover-2,262376,Thakali,207_rollover,chāy-si chāy-si kyāng-,chāy-si chāy-si kyāng-,tʃʰ aː j + s i + tʃʰ aː j + s i + k j aː ŋ,,Hale1973,,,^ch ā y - s i + ch ā y - s i + k y ā ng -$,default
 Thakali-208_run-3,262389,Thakali,208_run,carcar yah-la,carcar yah-la,tʃ a r c a r + j a̤ + l a,,Hale1973,,,^c a r c a r + y ah - l a$,default
 Thakali-208_run-4,262390,Thakali,208_run,carcar 'prah-la,carcar 'prah-la,tʃ a r c a r + ˈ/p r a̤ + l a,,Hale1973,,,^c a r c a r + 'p r ah - l a$,default
 Thakali-209_stoopbenddown-2,262401,Thakali,209_stoopbenddown,kur 'la-la,kur 'la-la,k u r + ˈ/l a + l a,,Hale1973,,,^k u r + 'l a - l a$,default
@@ -21468,7 +21468,7 @@ Thakali-1487_desert-2,263670,Thakali,1487_desert,pi-la,pi-la,p i + l a,,Hale1973
 Thakali-1488_bedefiled-2,263682,Thakali,1488_bedefiled,thansāng 'ta-la,thansāng 'ta-la,tʰ a n s aː ŋ + ˈ/t a + l a,,Hale1973,,,^th a ns ā ng + 't a - l a$,default
 Thakali-1490_sprinklewaterofpurification-2,263703,Thakali,1490_sprinklewaterofpurification,chiTo pun-la,chiTo pun-la,tʃʰ i ʈ o + p u n + l a,,Hale1973,,,^ch i T o + p u n - l a$,default
 Thakali-1491_becomepurified-2,263712,Thakali,1491_becomepurified,cokhaw 'la-la,cokhaw 'la-la,tʃ o kʰ a w + ˈ/l a + l a,,Hale1973,,,^c o kh a w + 'l a - l a$,default
-Thakali-1492_becomeunclean-2,263721,Thakali,1492_becomeunclean,chyālāng 'mahlāng 'ta-,chyālāng 'mahlāng 'ta-,tʃʰ j aː l aː ŋ + ˈ/m a̤ l aː ŋ + ˈ/t a +,,Hale1973,,,^ch y ā l ā ng + 'm ah l ā ng + 't a - $,default
+Thakali-1492_becomeunclean-2,263721,Thakali,1492_becomeunclean,chyālāng 'mahlāng 'ta-,chyālāng 'mahlāng 'ta-,tʃʰ j aː l aː ŋ + ˈ/m a̤ l aː ŋ + ˈ/t a,,Hale1973,,,^ch y ā l ā ng + 'm ah l ā ng + 't a -$,default
 Thakali-1493_bury-2,263729,Thakali,1493_bury,thun 'puhp-la,thun 'puhp-la,tʰ u n + ˈ/p u h p + l a,,Hale1973,,,^th u n + 'p u h p - l a$,default
 Thakali-1494_inherit-2,263740,Thakali,1494_inherit,angsa yāng-la,angsa yāng-la,a ŋ s a + j aː ŋ + l a,,Hale1973,,,^a ng s a + y ā ng - l a$,default
 Thakali-1495_divide-2,263750,Thakali,1495_divide,bāhg pun-la,bāhg pun-la,b a̤ː g + p u n + l a,,Hale1973,,,^b āh g + p u n - l a$,default
@@ -21485,7 +21485,7 @@ Thakali-1505_steal-2,263849,Thakali,1505_steal,'khu-la,'khu-la,'/kʰ u + l a,,Ha
 Thakali-1506_plunder-2,263859,Thakali,1506_plunder,pehn-la,pehn-la,p e h n + l a,,Hale1973,,,^p e h n - l a$,default
 Thakali-1507_attack-2,263870,Thakali,1507_attack,hamalā 'la-la,hamalā 'la-la,h a m a l aː + ˈ/l a + l a,,Hale1973,,,^h a m a l ā + 'l a - l a$,default
 Thakali-1508_insult-2,263883,Thakali,1508_insult,pena 'la-la,pena 'la-la,p e n a + ˈ/l a + l a,,Hale1973,,,^p e n a + 'l a - l a$,default
-Thakali-1509_conspire-2,263894,Thakali,1509_conspire,nāhng nāhng 'keh nuhng-,nāhng nāhng 'keh nuhng-,n a̤ː ŋ + n a̤ː ŋ + ˈ/k e h + n u h ŋ +,,Hale1973,,,^n āh ng + n āh ng + 'k e h + n u h ng - $,default
+Thakali-1509_conspire-2,263894,Thakali,1509_conspire,nāhng nāhng 'keh nuhng-,nāhng nāhng 'keh nuhng-,n a̤ː ŋ + n a̤ː ŋ + ˈ/k e h + n u h ŋ,,Hale1973,,,^n āh ng + n āh ng + 'k e h + n u h ng -$,default
 Thakali-1510_transgress-2,263900,Thakali,1510_transgress,pih-ci-wa ā-ngyen-la,pih-ci-wa ā-ngyen-la,p i h + c i + w a + aː + ŋ j e n + l a,,Hale1973,,,^p i h - c i - w a + ā - ng y e n - l a$,default
 Thakali-1511_suspectso-2,263909,Thakali,1511_suspectso,sankā lāge-la,sankā lāge-la,s a n k aː + l aː g e + l a,,Hale1973,,,^s a n k ā + l ā g e - l a$,default
 Thakali-1512_accuse-2,263919,Thakali,1512_accuse,ucur 'la-la,ucur 'la-la,u c u r + ˈ/l a + l a,,Hale1973,,,^u c u r + 'l a - l a$,default
@@ -21642,13 +21642,13 @@ Thakali-1108_someone-2,265520,Thakali,1108_someone,lahsyuwa,lahsyuwa,l a̤ s j u
 Thakali-1109_noone-2,265532,Thakali,1109_noone,su-ye ā-reh-wa,su-ye ā-reh-wa,s u + j e + aː + r e h + w a,,Hale1973,,,^s u - y e + ā - r e h - w a$,default
 Thakali-1110_another-2,265544,Thakali,1110_another,soto-wa,soto-wa,s o t o + w a,,Hale1973,,,^s o t o - w a$,default
 Thakali-1111_some-2,265560,Thakali,1111_some,cipi,cipi,tʃ i p i,,Hale1973,,,^c i p i$,default
-Thakali-1744_canbeabletodosomething-2,265593,Thakali,1744_canbeabletodosomething,-la kham-la,-la kham-la,+ l a + kʰ a m + l a,,Hale1973,,,^ - l a + kh a m - l a$,default
-Thakali-1745_knowsomething-2,265605,Thakali,1745_knowsomething,-la rah-la,-la rah-la,+ l a + r a̤ + l a,,Hale1973,,,^ - l a + r ah - l a$,default
-Thakali-1746_benefactive-3,265615,Thakali,1746_benefactive,-si pin-la,-si pin-la,+ s i + p i n + l a,,Hale1973,,,^ - s i + p i n - l a$,default
-Thakali-1746_benefactive-4,265616,Thakali,1746_benefactive,-si nāhng-la (h),-si nāhng-la,+ s i + n a̤ː ŋ + l a,,Hale1973,,,^ - s i + n āh ng - l a$,default
-Thakali-1747_letsodosth-3,265624,Thakali,1747_letsodosth,-la pin-la,-la pin-la,+ l a + p i n + l a,,Hale1973,,,^ - l a + p i n - l a$,default
-Thakali-1747_letsodosth-4,265625,Thakali,1747_letsodosth,-la nāhng-la (h),-la nāhng-la,+ l a + n a̤ː ŋ + l a,,Hale1973,,,^ - l a + n āh ng - l a$,default
-Thakali-1748_causesotodosth-2,265637,Thakali,1748_causesotodosth,-la tan-la,-la tan-la,+ l a + t a n + l a,,Hale1973,,,^ - l a + t a n - l a$,default
+Thakali-1744_canbeabletodosomething-2,265593,Thakali,1744_canbeabletodosomething,-la kham-la,-la kham-la,l a + kʰ a m + l a,,Hale1973,,,^- l a + kh a m - l a$,default
+Thakali-1745_knowsomething-2,265605,Thakali,1745_knowsomething,-la rah-la,-la rah-la,l a + r a̤ + l a,,Hale1973,,,^- l a + r ah - l a$,default
+Thakali-1746_benefactive-3,265615,Thakali,1746_benefactive,-si pin-la,-si pin-la,s i + p i n + l a,,Hale1973,,,^- s i + p i n - l a$,default
+Thakali-1746_benefactive-4,265616,Thakali,1746_benefactive,-si nāhng-la (h),-si nāhng-la,s i + n a̤ː ŋ + l a,,Hale1973,,,^- s i + n āh ng - l a$,default
+Thakali-1747_letsodosth-3,265624,Thakali,1747_letsodosth,-la pin-la,-la pin-la,l a + p i n + l a,,Hale1973,,,^- l a + p i n - l a$,default
+Thakali-1747_letsodosth-4,265625,Thakali,1747_letsodosth,-la nāhng-la (h),-la nāhng-la,l a + n a̤ː ŋ + l a,,Hale1973,,,^- l a + n āh ng - l a$,default
+Thakali-1748_causesotodosth-2,265637,Thakali,1748_causesotodosth,-la tan-la,-la tan-la,l a + t a n + l a,,Hale1973,,,^- l a + t a n - l a$,default
 Thakali-1113_love-3,265651,Thakali,1113_love,māya,māya,m aː j a,,Hale1973,,,^m ā y a$,default
 Thakali-1113_love-4,265652,Thakali,1113_love,prem,prem,p r e m,,Hale1973,,,^p r e m$,default
 Thakali-1114_hate-2,265664,Thakali,1114_hate,ngancen,ngancen,ŋ a n c e n,,Hale1973,,,^ng a n c e n$,default
@@ -21762,18 +21762,18 @@ Thakali-1688_slow-2,267128,Thakali,1688_slow,kahy-wa,kahy-wa,k a̤ j + w a,,Hale
 Thakali-1689_slowly-2,267141,Thakali,1689_slowly,kahy-na 'la-si,kahy-na 'la-si,k a̤ j + n a + ˈ/l a + s i,,Hale1973,,,^k ah y - n a + 'l a - s i$,default
 Thakali-1690_cubitelbowtofingertip-2,267154,Thakali,1690_cubitelbowtofingertip,yā-Tu,yā-Tu,j aː + ʈ u,,Hale1973,,,^y ā - T u$,default
 Thakali-1691_spanofhand-2,267165,Thakali,1691_spanofhand,'tohnāng,'tohnāng,ˈ/t o h n aː ŋ,,Hale1973,,,^'t o h n ā ng $,default
-Thakali-1692_from-2,267177,Thakali,1692_from,-ce,-ce,+ c e,,Hale1973,,,^ - c e$,default
-Thakali-1693_into-2,267197,Thakali,1693_into,-ri,-ri,+ r i,,Hale1973,,,^ - r i$,default
-Thakali-1712_where-19,267218,Thakali,1712_where,-ce,-ce,+ c e,,Hale1973,,,^ - c e$,default
-Thakali-1712_where-20,267234,Thakali,1712_where,-ri,-ri,+ r i,,Hale1973,,,^ - r i$,default
+Thakali-1692_from-2,267177,Thakali,1692_from,-ce,-ce,c e,,Hale1973,,,^- c e$,default
+Thakali-1693_into-2,267197,Thakali,1693_into,-ri,-ri,r i,,Hale1973,,,^- r i$,default
+Thakali-1712_where-19,267218,Thakali,1712_where,-ce,-ce,c e,,Hale1973,,,^- c e$,default
+Thakali-1712_where-20,267234,Thakali,1712_where,-ri,-ri,r i,,Hale1973,,,^- r i$,default
 Thakali-1712_where-21,267235,Thakali,1712_where,nāhng-ri,nāhng-ri,n a̤ː ŋ + r i,,Hale1973,,,^n āh ng - r i$,default
 Thakali-1712_where-22,267250,Thakali,1712_where,khoro,khoro,kʰ o r o,,Hale1973,,,^kh o r o$,default
 Thakali-1712_where-23,267267,Thakali,1712_where,kyoro,kyoro,k j o r o,,Hale1973,,,^k y o r o$,default
 Thakali-1712_where-24,267282,Thakali,1712_where,kāh,kāh,k a̤ː,,Hale1973,,,^k āh$,default
 Thakali-1712_where-25,267297,Thakali,1712_where,puhr,puhr,p u h r,,Hale1973,,,^p u h r$,default
-Thakali-1712_where-26,267312,Thakali,1712_where,-ce,-ce,+ c e,,Hale1973,,,^ - c e$,default
+Thakali-1712_where-26,267312,Thakali,1712_where,-ce,-ce,c e,,Hale1973,,,^- c e$,default
 Thakali-1712_where-27,267327,Thakali,1712_where,āngse,āngse,aː ŋ s e,,Hale1973,,,^ā ng s e$,default
-Thakali-1712_where-28,267343,Thakali,1712_where,-ce,-ce,+ c e,,Hale1973,,,^ - c e$,default
+Thakali-1712_where-28,267343,Thakali,1712_where,-ce,-ce,c e,,Hale1973,,,^- c e$,default
 Thakali-1712_where-29,267356,Thakali,1712_where,li◦se,li◦se,l i + s e,,Hale1973,,,^l i ◦ s e$,default
 Thakali-1704_infrontof-2,267373,Thakali,1704_infrontof,ngon-sāng,ngon-sāng,ŋ o n + s aː ŋ,,Hale1973,,,^ng o n - s ā ng $,default
 Thakali-1712_where-30,267389,Thakali,1712_where,resāng,resāng,r e s aː ŋ,,Hale1973,,,^r e s ā ng $,default
@@ -21866,7 +21866,7 @@ Thakali-4_this-2,268582,Thakali,4_this,cu,cu,tʃ u,,Hale1973,,,^c u$,default
 Thakali-5_that-2,268595,Thakali,5_that,ca,ca,tʃ a,,Hale1973,,,^c a$,default
 Thakali-6_who-2,268610,Thakali,6_who,su,su,s u,,Hale1973,,,^s u$,default
 Thakali-7_what-2,268624,Thakali,7_what,tā,tā,t aː,,Hale1973,,,^t ā$,default
-Thakali-8_not-2,268640,Thakali,8_not,ā-,ā-,aː +,,Hale1973,,,^ā - $,default
+Thakali-8_not-2,268640,Thakali,8_not,ā-,ā-,aː,,Hale1973,,,^ā -$,default
 Thakali-10_many-2,268673,Thakali,10_many,tahna,tahna,t a̤ n a,,Hale1973,,,^t ah n a$,default
 Thakali-11_one-2,268688,Thakali,11_one,'Tih,'Tih,ˈ/ʈ i h,,Hale1973,,,^'T i h$,default
 Thakali-12_two-2,268701,Thakali,12_two,'ngih,'ngih,ˈ/n g i h,,Hale1973,,,^'n g i h$,default
@@ -22058,7 +22058,7 @@ Thakali-419_huminsects-2,271172,Thakali,419_huminsects,munu munu 'la-la,munu mun
 Thakali-420_driveaway-2,271185,Thakali,420_driveaway,teh-la,teh-la,t e h + l a,,Hale1973,,,^t e h - l a$,default
 Thakali-421_runafter-2,271199,Thakali,421_runafter,'lahp-la,'lahp-la,ˈ/l a̤ p + l a,,Hale1973,,,^'l ah p - l a$,default
 Thakali-422_snatchaway-2,271212,Thakali,422_snatchaway,hāp 'tehn-la,hāp 'tehn-la,h aː p + ˈ/t e h n + l a,,Hale1973,,,^h ā p + 't e h n - l a$,default
-Thakali-423_hunt-2,271225,Thakali,423_hunt,sikār (N) kyāng-la,sikār  kyāng-la,s i k aː r + k j aː ŋ + l a,,Hale1973,,,^s i k ā r + k y ā ng - l a$,default
+Thakali-423_hunt-2,271225,Thakali,423_hunt,sikār (N) kyāng-la,sikār kyāng-la,s i k aː r + k j aː ŋ + l a,,Hale1973,,,^s i k ā r + k y ā ng - l a$,default
 Thakali-424_aimat-2,271238,Thakali,424_aimat,cahu-la,cahu-la,tʃ a̤ u + l a,,Hale1973,,,^c ah u - l a$,default
 Thakali-425_shoot-2,271251,Thakali,425_shoot,pun-la,pun-la,p u n + l a,,Hale1973,,,^p u n - l a$,default
 Thakali-426_miss-2,271264,Thakali,426_miss,cohl-la,cohl-la,tʃ o h l + l a,,Hale1973,,,^c o h l - l a$,default
