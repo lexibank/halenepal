@@ -28,6 +28,7 @@ class Dataset(NonSplittingDataset):
     form_spec = pylexibank.FormSpec(
         brackets={"(": ")"},
         separators=";/,",
+        replacements=[(" ", "_")],
         missing_data=("?", "-", "*", "---"),
         strip_inside_brackets=True,
     )
