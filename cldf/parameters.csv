@@ -245,7 +245,7 @@ ID,Name,Concepticon_ID,Concepticon_Gloss,Number
 269_faint,faint,3616,FAINT (PASS OUT),02b2.25
 270_cough,cough,879,COUGH,02b2.26
 271_sneeze,sneeze,1621,SNEEZE,02b2.27
-272_itch,itch,148,ITCH,02b2.28
+272_itch,itch,3855,ITCH (CAUSE ITCHING OR FEEL ITCHY),02b2.28
 273_vomit,vomit,1278,VOMIT,02b2.29
 274_benumb,be numb,,,02b2.30
 275_prickle,prickle,,,02b2.31
@@ -279,7 +279,7 @@ ID,Name,Concepticon_ID,Concepticon_Gloss,Number
 303_duck,duck,1360,DUCK,03a.006
 304_pigeon,pigeon,1853,DOVE,03a.007
 305_pheasant,pheasant,3060,PHEASANT,03a.008
-306_peacock,peacock,,,03a.009
+306_peacock,peacock,3382,PEACOCK,03a.009
 307_sparrow,sparrow,1854,SPARROW,03a.010
 308_swallow,swallow,3077,SWALLOW (BIRD),03a.011
 309_bill,bill,,,03a.012
@@ -356,7 +356,7 @@ ID,Name,Concepticon_ID,Concepticon_Gloss,Number
 380_fly,fly,1504,FLY (INSECT),03a.083
 381_mosquito,mosquito,1509,MOSQUITO,03a.084
 382_ant,ant,587,ANT,03a.085
-383_flyingant,flying ant,883,TERMITE,03a.086
+383_flyingant,flying ant,,,03a.086
 384_bodylouse,body louse,1392,LOUSE,03a.087
 385_louseegg,louse egg,267,NIT,03a.088
 386_flea,flea,232,FLEA,03a.089
@@ -514,7 +514,7 @@ ID,Name,Concepticon_ID,Concepticon_Gloss,Number
 1092_last,last,1529,LAST (FINAL),9.34
 1093_half,half,816,HALF,9.35
 1094_halfway,half way,,,9.36
-1095_onethird,one-third,,,9.37
+1095_onethird,one-third,3842,ONE THIRD,9.37
 1096_onequarter,one quarter,,,9.38
 1097_twothirds,two thirds,,,9.39
 1098_threequarters,three quarters,,,9.4
@@ -535,7 +535,7 @@ ID,Name,Concepticon_ID,Concepticon_Gloss,Number
 1113_love,love,,,10a.01
 1114_hate,hate,3749,HATE (LOATHING),10a.02
 1115_envy,envy,40,ENVY,10a.03
-1116_pride,pride,,,10a.04
+1116_pride,pride,3915,PRIDE,10a.04
 1117_generosity,generosity,,,10a.05
 1118_selfishness,selfishness,,,10a.06
 1119_greed,greed,,,10a.07
@@ -579,7 +579,7 @@ ID,Name,Concepticon_ID,Concepticon_Gloss,Number
 1157_death,death,910,DEATH,10a.45
 1158_corpse,corpse,767,CORPSE,10a.46
 1159_burial,burial,,,10a.47
-1160_cemetery,cemetery,,,10a.48
+1160_cemetery,cemetery,3284,GRAVEYARD,10a.48
 1161_cremation,cremation,,,10a.49
 1162_burningplace,burning place,,,10a.50
 1163_mourning,mourning,3673,MOURNING,10a.51
@@ -643,7 +643,7 @@ ID,Name,Concepticon_ID,Concepticon_Gloss,Number
 1221_becomewarned,become warned,,,10b1.36
 1222_protect,protect,2900,PROTECT,10b1.37
 1223_bespared,be spared,,,10b1.38
-1224_trust,trust,,,10b1.39
+1224_trust,trust,3902,TRUST (SOMEBODY),10b1.39
 1225_forgive,forgive,1528,FORGIVE,10b1.40
 1226_give,give,1447,GIVE,10b1.41
 1227_giveback,give back,85,GIVE BACK,10b1.42
@@ -684,10 +684,10 @@ ID,Name,Concepticon_ID,Concepticon_Gloss,Number
 1262_flatter,flatter,2709,FLATTER,10b1.77
 1263_flirt,flirt,494,FLIRT,10b1.78
 1264_feelatease,feel at ease,,,10b1.79
-1265_quarrelwithwords,quarrel with words,1848,QUARREL,10b1.80
-1266_quarrel,quarrel,1848,QUARREL,10b1.81
+1265_quarrelwithwords,quarrel with words,3302,QUARREL (VERB),10b1.80
+1266_quarrel,quarrel,,,10b1.81
 1267_separate,separate,1359,SEPARATE,10b1.82
-1268_failinanattempt,fail (in an attempt),,,10b1.83
+1268_failinanattempt,fail (in an attempt),3861,FAIL,10b1.83
 1269_succeed,succeed,1112,SUCCEED,10b1.84
 1270_losebedefeated,lose (be defeated),3535,BE DEFEATED,10b1.85
 1271_win,win,866,WIN,10b1.86

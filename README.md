@@ -1,8 +1,16 @@
 # CLDF dataset derived from Hale's "Wordlists in Selected Languages of Nepal" from 1973
 
-Cite the source dataset as
+[![CLDF validation](https://github.com/lexibank/halenepal/workflows/CLDF-validation/badge.svg)](https://github.com/lexibank/halenepal/actions?query=workflow%3ACLDF-validation)
 
-> Hale, Austin (1973): Clause, sentences, and discourse patterns in selected languages of Nepal. Kathmandu: Institute of Nepal and Asiatic Studies.
+## How to cite
+
+If you use these data please cite
+- the original source
+  > Hale, Austin (1973): Clause, sentences, and discourse patterns in selected languages of Nepal. Kathmandu: Institute of Nepal and Asiatic Studies.
+- the derived dataset using the DOI of the [particular released version](../../releases/) you were using
+
+## Description
+
 
 This dataset is licensed under a CC-BY-4.0 license
 
@@ -42,3 +50,10 @@ Natalia Morozowa   |             | concept mapping | Other
 STEDT              |             | digitization    | Editor, Distributor
 
 
+
+
+## CLDF Datasets
+
+The following CLDF datasets are available in [cldf](cldf):
+
+- CLDF [Wordlist](https://github.com/cldf/cldf/tree/master/modules/Wordlist) at [cldf/cldf-metadata.json](cldf/cldf-metadata.json)
