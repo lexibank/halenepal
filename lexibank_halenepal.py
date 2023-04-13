@@ -64,12 +64,3 @@ class Dataset(NonSplittingDataset):
                 Value=row[1],
                 Source=["Hale1973"],
             )
-
-        for row in progressbar(self.raw_dir.read_csv("AH-CSDPN.tsv", delimiter="\t")[1:]):
-            args.writer.add_forms_from_value(
-                Local_ID=row[0],
-                Language_ID=language_lookup[row[6]],
-                Parameter_ID=concept_lookup[row[7]],
-                Value=row[1],
-                Source=["Hale1973"],
-            )

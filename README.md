@@ -24,19 +24,19 @@ Conceptlists in Concepticon:
 
 [![CLDF validation](https://github.com/lexibank/halenepal/workflows/CLDF-validation/badge.svg)](https://github.com/lexibank/halenepal/actions?query=workflow%3ACLDF-validation)
 ![Glottolog: 100%](https://img.shields.io/badge/Glottolog-100%25-brightgreen.svg "Glottolog: 100%")
-![Concepticon: 76%](https://img.shields.io/badge/Concepticon-76%25-yellow.svg "Concepticon: 76%")
+![Concepticon: 78%](https://img.shields.io/badge/Concepticon-78%25-yellow.svg "Concepticon: 78%")
 ![Source: 100%](https://img.shields.io/badge/Source-100%25-brightgreen.svg "Source: 100%")
 ![BIPA: 100%](https://img.shields.io/badge/BIPA-100%25-brightgreen.svg "BIPA: 100%")
 ![CLTS SoundClass: 100%](https://img.shields.io/badge/CLTS%20SoundClass-100%25-brightgreen.svg "CLTS SoundClass: 100%")
 
 - **Varieties:** 13
 - **Concepts:** 997
-- **Lexemes:** 22,082
+- **Lexemes:** 11,041
 - **Sources:** 1
-- **Synonymy:** 2.28
+- **Synonymy:** 1.14
 - **Invalid lexemes:** 0
-- **Tokens:** 155,226
-- **Segments:** 158 (0 BIPA errors, 0 CTLS sound class errors, 158 CLTS modified)
+- **Tokens:** 77,613
+- **Segments:** 158 (0 BIPA errors, 0 CLTS sound class errors, 158 CLTS modified)
 - **Inventory size (avg):** 69.46
 
 # Contributors
