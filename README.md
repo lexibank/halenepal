@@ -29,8 +29,8 @@ Conceptlists in Concepticon:
 ![BIPA: 100%](https://img.shields.io/badge/BIPA-100%25-brightgreen.svg "BIPA: 100%")
 ![CLTS SoundClass: 100%](https://img.shields.io/badge/CLTS%20SoundClass-100%25-brightgreen.svg "CLTS SoundClass: 100%")
 
-- **Varieties:** 13
-- **Concepts:** 997
+- **Varieties:** 13 (linked to 13 different Glottocodes)
+- **Concepts:** 997 (linked to 732 different Concepticon concept sets)
 - **Lexemes:** 11,041
 - **Sources:** 1
 - **Synonymy:** 1.14
@@ -43,11 +43,11 @@ Conceptlists in Concepticon:
 
 Name               | GitHub user | Description     | Role
 ---                | ---         | ---             | ---
-Austin Hale        |             |                 | Author  
-Christoph Rzymski  | @chrzyki    | maintainer      | Other
-Johann-Mattis List | @LinguList  | maintainer      | Other
+Austin Hale        |             |                 | Author
+Christoph Rzymski  | @chrzyki    | maintainer      | Editor
+Johann-Mattis List | @LinguList  | maintainer      | Editor
 Natalia Morozowa   |             | concept mapping | Other
-STEDT              |             | digitization    | Editor, Distributor
+STEDT              |             | digitization    | Distributor
 
 
 
