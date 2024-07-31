@@ -2,8 +2,8 @@
 
 Name               | GitHub user | Description     | Role
 ---                | ---         | ---             | ---
-Austin Hale        |             |                 | Author  
-Christoph Rzymski  | @chrzyki    | maintainer      | Other
-Johann-Mattis List | @LinguList  | maintainer      | Other
+Austin Hale        |             |                 | Author
+Christoph Rzymski  | @chrzyki    | maintainer      | Editor
+Johann-Mattis List | @LinguList  | maintainer      | Editor
 Natalia Morozowa   |             | concept mapping | Other
-STEDT              |             | digitization    | Editor, Distributor
+STEDT              |             | digitization    | Distributor

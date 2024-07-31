@@ -23,6 +23,8 @@ class CustomConcept(Concept):
 class Dataset(NonSplittingDataset):
     dir = Path(__file__).parent
     id = "halenepal"
+    writer_options = dict(keep_languages=False, keep_parameters=False)
+
     language_class = CustomLanguage
     concept_class = CustomConcept
     form_spec = pylexibank.FormSpec(
